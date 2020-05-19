@@ -48,30 +48,27 @@ def main():
         inear = True
         earbud = True
 
-    innerfidelity_overear = os.path.join(ROOT_DIR, 'measurements', 'innerfidelity', 'resources', 'innerfidelity_harman_over-ear_2018_wo_bass.csv')
-    innerfidelity_inear = os.path.join(ROOT_DIR, 'measurements', 'innerfidelity', 'resources', 'innerfidelity_harman_in-ear_2019v2_wo_bass.csv')
-    headphonecom_overear = os.path.join(ROOT_DIR, 'measurements', 'headphonecom', 'resources', 'headphonecom_harman_over-ear_2018_wo_bass.csv')
-    headphonecom_inear = os.path.join(ROOT_DIR, 'measurements', 'headphonecom', 'resources', 'headphonecom_harman_in-ear_2019v2_wo_bass.csv')
-    rtings_overear = os.path.join(ROOT_DIR, 'measurements', 'rtings', 'resources', 'rtings_harman_over-ear_2018_wo_bass.csv')
-    rtings_inear = os.path.join(ROOT_DIR, 'measurements', 'rtings', 'resources', 'rtings_harman_in-ear_2019v2_wo_bass.csv')
-    harman_inear = os.path.join(ROOT_DIR, 'compensation', 'harman_in-ear_2019v2_wo_bass.csv')
-    harman_overear = os.path.join(ROOT_DIR, 'compensation', 'harman_over-ear_2018_wo_bass.csv')
-    crinacle_overear = os.path.join(ROOT_DIR, 'measurements', 'crinacle', 'resources', 'crinacle_over-ear.csv')
+    innerfidelity_overear = os.path.join(ROOT_DIR, 'measurements', 'innerfidelity', 'resources', 'innerfidelity_harman_over-ear_2018.csv')
+    innerfidelity_inear = os.path.join(ROOT_DIR, 'measurements', 'innerfidelity', 'resources', 'innerfidelity_harman_in-ear_2019v2.csv')
+    headphonecom_overear = os.path.join(ROOT_DIR, 'measurements', 'headphonecom', 'resources', 'headphonecom_harman_over-ear_2018.csv')
+    headphonecom_inear = os.path.join(ROOT_DIR, 'measurements', 'headphonecom', 'resources', 'headphonecom_harman_in-ear_2019v2.csv')
+    rtings_overear = os.path.join(ROOT_DIR, 'measurements', 'rtings', 'resources', 'rtings_harman_over-ear_2018.csv')
+    rtings_inear = os.path.join(ROOT_DIR, 'measurements', 'rtings', 'resources', 'rtings_harman_in-ear_2019v2.csv')
+    harman_inear = os.path.join(ROOT_DIR, 'compensation', 'harman_in-ear_2019v2.csv')
+    harman_overear = os.path.join(ROOT_DIR, 'compensation', 'harman_over-ear_2018.csv')
+    crinacle_overear = os.path.join(ROOT_DIR, 'measurements', 'crinacle', 'resources', 'crinacle_harman_over-ear_2018.csv')
     #measurements/referenceaudioanalyzer/resources/referenceaudioanalyzer_hdm1_harman_over-ear_2018_wo_bass.csv
-    raa_hdmx = os.path.join(ROOT_DIR, 'measurements', 'referenceaudioanalyzer', 'resources', 'referenceaudioanalyzer_hdm-x_harman_over-ear_2018_wo_bass.csv')
-    raa_hdm1 = os.path.join(ROOT_DIR, 'measurements', 'referenceaudioanalyzer', 'resources', 'referenceaudioanalyzer_hdm1_harman_over-ear_2018_wo_bass.csv')
-    raa_siec = os.path.join(ROOT_DIR, 'measurements', 'referenceaudioanalyzer', 'resources', 'referenceaudioanalyzer_siec_harman_in-ear_2019v2_wo_bass.csv')
+    raa_hdmx = os.path.join(ROOT_DIR, 'measurements', 'referenceaudioanalyzer', 'resources', 'referenceaudioanalyzer_hdm-x_harman_over-ear_2018.csv')
+    raa_hdm1 = os.path.join(ROOT_DIR, 'measurements', 'referenceaudioanalyzer', 'resources', 'referenceaudioanalyzer_hdm1_harman_over-ear_2018.csv')
+    raa_siec = os.path.join(ROOT_DIR, 'measurements', 'referenceaudioanalyzer', 'resources', 'referenceaudioanalyzer_siec_harman_in-ear_2019v2.csv')
 
     eq_kwargs = {
         'equalize': True, 'parametric_eq': True, 'max_filters': [5, 5], 'ten_band_eq': True, 'new_only': new_only,
         'convolution_eq': True, 'fs': [44100, 48000]
     }
     onear_kwargs = eq_kwargs.copy()
-    onear_kwargs.update({'bass_boost_gain': 4.0})
     inear_kwargs = eq_kwargs.copy()
-    inear_kwargs.update({'bass_boost_gain': 6.0})
     earbud_kwargs = eq_kwargs.copy()
-    earbud_kwargs.update({'bass_boost_gain': 0.0})
 
     if innerfidelity:
         if onear:

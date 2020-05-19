@@ -1,4 +1,21 @@
-# AutoEQ
+# AutoEQ (Optimized*)
+There are a few things this fork does that both introduces new problems and fixes some existing ones. This fork pretty much updates if the original branch updates its results.
+
+Things this fixes:
+
+`--max_gain`: Increased to `sys.float_info.max`. This seems to better center the microphone data with the compensation and fixes some problems in the treble.
+
+All of the new results are using the Harman compensation (with bass) curve calibrated based on each data provider.
+
+**Crinacle results are not changed** because their measurements are locked behind a paywall, and I do not plan on accidentally commiting said data to the fork.
+
+All problems that are caused are below:
+
+## Problems caused
+Warnings, errors, and their effects are documented below. These are usually caused by a value in the equalization being too high for some calculations to work (e.g. +28db, +40db, etc.).
+
+
+## Original README.md Below
 **TL;DR** If you are here just looking to make your headphones sound better, find your headphone model in
 [results](./results) folder's recommended headphones list
 and follow instructions in [Usage](#usage) section. 
