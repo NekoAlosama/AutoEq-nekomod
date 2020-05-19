@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-5.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.67dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.8dB**.
+When using independent subset of filters, apply preamp of **-5.69dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 182 Hz   | 0.42 | -3.4 dB |
-| Peaking | 610 Hz   | 1.08 | 5.9 dB  |
-| Peaking | 1291 Hz  | 1.73 | -4.6 dB |
-| Peaking | 5097 Hz  | 2.9  | 2.4 dB  |
-| Peaking | 10952 Hz | 1.22 | 5.1 dB  |
-| Peaking | 20 Hz    | 1.53 | 2.6 dB  |
-| Peaking | 65 Hz    | 2.66 | -1.2 dB |
-| Peaking | 2184 Hz  | 4.04 | 1.8 dB  |
-| Peaking | 3401 Hz  | 2.79 | -3.5 dB |
-| Peaking | 4216 Hz  | 4.33 | 2.5 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 22.10 Hz    | 1.7205 | 4.18 dB  |
+| Peaking | 640.59 Hz   | 2.3024 | 4.85 dB  |
+| Peaking | 1342.01 Hz  | 2.0981 | -4.00 dB |
+| Peaking | 5113.34 Hz  | 2.939  | 2.34 dB  |
+| Peaking | 10947.95 Hz | 1.2525 | 5.04 dB  |
+| Peaking | 146.76 Hz   | 1.1316 | -2.36 dB |
+| Peaking | 240.83 Hz   | 3.6467 | -2.41 dB |
+| Peaking | 2183.09 Hz  | 3.7733 | 1.64 dB  |
+| Peaking | 3393.50 Hz  | 2.7604 | -3.62 dB |
+| Peaking | 4182.94 Hz  | 4.1117 | 2.55 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.82dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 1.4 dB  |
-| Peaking | 62 Hz    | 1.41 | -2.5 dB |
-| Peaking | 125 Hz   | 1.41 | -1.8 dB |
-| Peaking | 250 Hz   | 1.41 | -3.4 dB |
-| Peaking | 500 Hz   | 1.41 | 4.9 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.2 dB |
-| Peaking | 2000 Hz  | 1.41 | -1.5 dB |
-| Peaking | 4000 Hz  | 1.41 | 0.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 4.4 dB  |
-| Peaking | 16000 Hz | 1.41 | 1.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 3.49 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -1.17 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -1.40 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.58 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 4.78 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -1.25 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | -1.55 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 0.20 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 4.26 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 1.57 dB  |
 
 ### Graphs
 ![](./V-MODA%20Crossfade%20M-80.png)

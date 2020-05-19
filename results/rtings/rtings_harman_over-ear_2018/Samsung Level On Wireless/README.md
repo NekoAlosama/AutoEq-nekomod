@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.72dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.7dB**.
+When using independent subset of filters, apply preamp of **-8.72dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 1.06 | 6.1 dB  |
-| Peaking | 172 Hz   | 0.88 | -5.9 dB |
-| Peaking | 1878 Hz  | 1.93 | 4.4 dB  |
-| Peaking | 6429 Hz  | 1.1  | 6.6 dB  |
-| Peaking | 14461 Hz | 0.38 | -5.1 dB |
-| Peaking | 482 Hz   | 3.98 | 1.7 dB  |
-| Peaking | 4103 Hz  | 5.27 | -3.4 dB |
-| Peaking | 4752 Hz  | 2.45 | 2.8 dB  |
-| Peaking | 7430 Hz  | 1.17 | -1.7 dB |
-| Peaking | 8651 Hz  | 3.81 | 2.6 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 20.52 Hz    | 0.6704 | 8.18 dB  |
+| Peaking | 179.90 Hz   | 0.9784 | -5.99 dB |
+| Peaking | 1881.46 Hz  | 2.0023 | 4.29 dB  |
+| Peaking | 6427.26 Hz  | 1.1074 | 6.57 dB  |
+| Peaking | 14511.19 Hz | 0.3776 | -5.19 dB |
+| Peaking | 484.81 Hz   | 4.39   | 1.50 dB  |
+| Peaking | 4098.89 Hz  | 5.2666 | -3.43 dB |
+| Peaking | 4823.45 Hz  | 2.4063 | 2.82 dB  |
+| Peaking | 7480.20 Hz  | 1.1628 | -1.72 dB |
+| Peaking | 8516.31 Hz  | 3.8404 | 2.61 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.76dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 5.4 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.0 dB |
-| Peaking | 125 Hz   | 1.41 | -3.9 dB |
-| Peaking | 250 Hz   | 1.41 | -4.8 dB |
-| Peaking | 500 Hz   | 1.41 | 1.6 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 2000 Hz  | 1.41 | 4.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 16000 Hz | 1.41 | -7.2 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 7.58 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 0.33 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -3.50 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -5.01 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 1.51 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -1.34 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 4.01 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 1.39 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 2.46 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -7.29 dB |
 
 ### Graphs
 ![](./Samsung%20Level%20On%20Wireless.png)

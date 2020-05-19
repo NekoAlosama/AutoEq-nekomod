@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.49dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-8.49dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 27 Hz    | 0.54 | -4.1 dB |
-| Peaking | 121 Hz   | 0.62 | -4.7 dB |
-| Peaking | 4712 Hz  | 1.59 | 6.1 dB  |
-| Peaking | 11759 Hz | 1.52 | 3.1 dB  |
-| Peaking | 15667 Hz | 1.04 | 2.4 dB  |
-| Peaking | 264 Hz   | 2.73 | 3.8 dB  |
-| Peaking | 425 Hz   | 0.63 | -2.1 dB |
-| Peaking | 2099 Hz  | 1.18 | 3.4 dB  |
-| Peaking | 2871 Hz  | 1.43 | -3.3 dB |
-| Peaking | 3957 Hz  | 4.31 | 1.6 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 91.86 Hz    | 0.2425 | -3.88 dB |
+| Peaking | 4718.53 Hz  | 1.9893 | 7.71 dB  |
+| Peaking | 11267.97 Hz | 2.0756 | 2.54 dB  |
+| Peaking | 14920.75 Hz | 0.9707 | 2.94 dB  |
+| Peaking | 21986.13 Hz | 1.8015 | 2.04 dB  |
+| Peaking | 148.73 Hz   | 2.4282 | -1.61 dB |
+| Peaking | 262.35 Hz   | 3.1975 | 3.49 dB  |
+| Peaking | 1667.92 Hz  | 1.0802 | 3.56 dB  |
+| Peaking | 1691.68 Hz  | 0.2599 | -2.02 dB |
+| Peaking | 5407.84 Hz  | 1.1795 | 1.11 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.09dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -5.0 dB |
-| Peaking | 62 Hz    | 1.41 | -3.0 dB |
-| Peaking | 125 Hz   | 1.41 | -5.7 dB |
-| Peaking | 250 Hz   | 1.41 | 0.2 dB  |
-| Peaking | 500 Hz   | 1.41 | -2.5 dB |
-| Peaking | 1000 Hz  | 1.41 | -0.0 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 16000 Hz | 1.41 | 4.2 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -2.90 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.61 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -5.32 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -0.01 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -2.61 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -0.02 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 0.32 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 5.17 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 2.36 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 4.06 dB  |
 
 ### Graphs
 ![](./Onkyo%20ES-FC300.png)

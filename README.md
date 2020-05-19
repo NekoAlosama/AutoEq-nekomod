@@ -3,7 +3,7 @@ There are a few things this fork does that both introduces new problems and fixe
 
 Things this fixes:
 
-`--max_gain`: Increased to `sys.float_info.max`. This seems to better center the microphone data with the compensation and fixes some problems in the treble.
+`--max_gain`: Increased to `sys.float_info.max`. This seems to better center the microphone data with the compensation and fixes some problems in the treble. It also allows the use of larger values to be used in the equalization; adjust the EQ if neccessary, since they can be very large.
 
 All of the new results are using the Harman compensation (with bass) curve calibrated based on each data provider.
 

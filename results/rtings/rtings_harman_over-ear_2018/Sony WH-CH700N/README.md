@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-4.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.86dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-4.5dB**.
+When using independent subset of filters, apply preamp of **-5.96dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 30 Hz    | 0.04 | -3.0 dB  |
-| Peaking | 684 Hz   | 0.67 | 5.1 dB   |
-| Peaking | 3435 Hz  | 1.3  | -16.8 dB |
-| Peaking | 4335 Hz  | 1.2  | 21.6 dB  |
-| Peaking | 5287 Hz  | 3.9  | -20.9 dB |
-| Peaking | 76 Hz    | 3.06 | 1.6 dB   |
-| Peaking | 5922 Hz  | 6.13 | -3.1 dB  |
-| Peaking | 7238 Hz  | 1.9  | 1.9 dB   |
-| Peaking | 12110 Hz | 1.05 | 1.7 dB   |
-| Peaking | 19939 Hz | 0.41 | -8.3 dB  |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 916.51 Hz  | 0.9206 | 3.80 dB   |
+| Peaking | 3338.45 Hz | 1.8275 | -5.73 dB  |
+| Peaking | 4343.32 Hz | 4.49   | 11.53 dB  |
+| Peaking | 5315.01 Hz | 3.7641 | -14.69 dB |
+| Peaking | 7741.11 Hz | 1.5451 | 4.82 dB   |
+| Peaking | 32.79 Hz   | 1.6233 | -2.19 dB  |
+| Peaking | 190.27 Hz  | 0.9727 | -2.82 dB  |
+| Peaking | 552.84 Hz  | 1.4539 | 3.01 dB   |
+| Peaking | 953.33 Hz  | 0.8179 | -2.23 dB  |
+| Peaking | 1284.16 Hz | 2.6555 | 2.70 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.34dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -4.3 dB |
-| Peaking | 62 Hz    | 1.41 | -0.7 dB |
-| Peaking | 125 Hz   | 1.41 | -2.2 dB |
-| Peaking | 250 Hz   | 1.41 | -2.3 dB |
-| Peaking | 500 Hz   | 1.41 | 3.0 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.7 dB  |
-| Peaking | 2000 Hz  | 1.41 | -0.8 dB |
-| Peaking | 4000 Hz  | 1.41 | -3.4 dB |
-| Peaking | 8000 Hz  | 1.41 | 2.7 dB  |
-| Peaking | 16000 Hz | 1.41 | -3.8 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -2.29 dB |
+| Peaking | 62.50 Hz    | 1.4142 | 0.62 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -1.84 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.46 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 2.93 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 3.63 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -0.87 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | -3.51 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 2.58 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -3.88 dB |
 
 ### Graphs
 ![](./Sony%20WH-CH700N.png)

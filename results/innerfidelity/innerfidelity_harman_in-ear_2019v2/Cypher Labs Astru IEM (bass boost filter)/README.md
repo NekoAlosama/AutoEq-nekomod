@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.85dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9dB**.
+When using independent subset of filters, apply preamp of **-12.84dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 250 Hz   | 0.92 | -3.9 dB |
-| Peaking | 937 Hz   | 1.75 | 2.2 dB  |
-| Peaking | 4864 Hz  | 1.2  | 1.8 dB  |
-| Peaking | 11872 Hz | 1.05 | 4.0 dB  |
-| Peaking | 18885 Hz | 0.39 | 6.0 dB  |
-| Peaking | 28 Hz    | 0.86 | 3.6 dB  |
-| Peaking | 4104 Hz  | 5.24 | -4.6 dB |
-| Peaking | 4195 Hz  | 1.7  | 2.4 dB  |
-| Peaking | 8012 Hz  | 4.09 | -2.6 dB |
-| Peaking | 9143 Hz  | 5.08 | 2.1 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 28.88 Hz    | 0.4784 | 6.29 dB  |
+| Peaking | 220.60 Hz   | 0.8683 | -4.25 dB |
+| Peaking | 4998.36 Hz  | 2.8536 | 1.71 dB  |
+| Peaking | 19354.11 Hz | 0.2158 | 4.67 dB  |
+| Peaking | 19793.28 Hz | 0.2    | 7.59 dB  |
+| Peaking | 939.43 Hz   | 2.41   | 2.09 dB  |
+| Peaking | 3426.77 Hz  | 2.2142 | 1.74 dB  |
+| Peaking | 4004.15 Hz  | 5.1362 | -2.66 dB |
+| Peaking | 7948.34 Hz  | 4.5522 | -4.16 dB |
+| Peaking | 8440.18 Hz  | 1.9435 | 1.95 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-15.95dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.8 dB  |
-| Peaking | 62 Hz    | 1.41 | 0.9 dB  |
-| Peaking | 125 Hz   | 1.41 | -1.8 dB |
-| Peaking | 250 Hz   | 1.41 | -3.6 dB |
-| Peaking | 500 Hz   | 1.41 | -1.0 dB |
-| Peaking | 1000 Hz  | 1.41 | 2.1 dB  |
-| Peaking | 2000 Hz  | 1.41 | -0.2 dB |
-| Peaking | 4000 Hz  | 1.41 | 1.4 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.2 dB  |
-| Peaking | 16000 Hz | 1.41 | 9.3 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 6.91 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 2.78 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -1.24 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.89 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -1.10 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.01 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -0.35 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 1.40 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 2.08 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 15.34 dB |
 
 ### Graphs
 ![](./Cypher%20Labs%20Astru%20IEM%20(bass%20boost%20filter).png)

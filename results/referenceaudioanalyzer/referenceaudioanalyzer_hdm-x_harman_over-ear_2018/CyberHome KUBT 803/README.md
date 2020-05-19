@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-17.91dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-17.36dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 17 Hz    | 0.18 | -3.9 dB  |
-| Peaking | 434 Hz   | 0.49 | -12.4 dB |
-| Peaking | 1433 Hz  | 0.77 | 9.6 dB   |
-| Peaking | 4159 Hz  | 1.64 | 3.7 dB   |
-| Peaking | 15149 Hz | 0.32 | 6.4 dB   |
-| Peaking | 2683 Hz  | 8.04 | -0.8 dB  |
-| Peaking | 5505 Hz  | 4.83 | 2.0 dB   |
-| Peaking | 7010 Hz  | 2.67 | -3.1 dB  |
-| Peaking | 8359 Hz  | 4.11 | 2.1 dB   |
-| Peaking | 9622 Hz  | 3.03 | 0.8 dB   |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 29.72 Hz    | 0.0509 | -1.77 dB  |
+| Peaking | 413.45 Hz   | 0.5824 | -10.79 dB |
+| Peaking | 1565.95 Hz  | 0.9434 | 9.26 dB   |
+| Peaking | 4418.14 Hz  | 3.2298 | 13.63 dB  |
+| Peaking | 13360.27 Hz | 0.7528 | 15.25 dB  |
+| Peaking | 2771.64 Hz  | 3.9792 | -4.71 dB  |
+| Peaking | 3246.06 Hz  | 1.4812 | 4.41 dB   |
+| Peaking | 5055.98 Hz  | 5.532  | 5.63 dB   |
+| Peaking | 6945.33 Hz  | 0.893  | -6.39 dB  |
+| Peaking | 9837.38 Hz  | 2.0409 | 6.74 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.20dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | -4.0 dB  |
-| Peaking | 62 Hz    | 1.41 | -3.0 dB  |
-| Peaking | 125 Hz   | 1.41 | -2.5 dB  |
-| Peaking | 250 Hz   | 1.41 | -7.6 dB  |
-| Peaking | 500 Hz   | 1.41 | -10.7 dB |
-| Peaking | 1000 Hz  | 1.41 | 2.5 dB   |
-| Peaking | 2000 Hz  | 1.41 | 5.9 dB   |
-| Peaking | 4000 Hz  | 1.41 | 4.4 dB   |
-| Peaking | 8000 Hz  | 1.41 | 4.3 dB   |
-| Peaking | 16000 Hz | 1.41 | 8.9 dB   |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.94 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -1.66 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -2.12 dB  |
+| Peaking | 250.00 Hz   | 1.4142 | -7.77 dB  |
+| Peaking | 500.00 Hz   | 1.4142 | -10.87 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.46 dB   |
+| Peaking | 2000.00 Hz  | 1.4142 | 4.94 dB   |
+| Peaking | 4000.00 Hz  | 1.4142 | 10.35 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 4.42 dB   |
+| Peaking | 16000.01 Hz | 1.4142 | 19.36 dB  |
 
 ### Graphs
 ![](./CyberHome%20KUBT%20803.png)

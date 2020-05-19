@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.10dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.3dB**.
+When using independent subset of filters, apply preamp of **-9.97dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 15 Hz    | 0.14 | -2.8 dB |
-| Peaking | 179 Hz   | 0.8  | -2.5 dB |
-| Peaking | 1197 Hz  | 1.58 | -4.8 dB |
-| Peaking | 6375 Hz  | 0.61 | 5.4 dB  |
-| Peaking | 12229 Hz | 1.79 | 4.5 dB  |
-| Peaking | 284 Hz   | 4.44 | -1.8 dB |
-| Peaking | 574 Hz   | 2.22 | 2.4 dB  |
-| Peaking | 849 Hz   | 3.99 | -2.0 dB |
-| Peaking | 4449 Hz  | 5.22 | -1.0 dB |
-| Peaking | 9369 Hz  | 3.7  | 0.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 162.84 Hz   | 0.6624 | -3.04 dB |
+| Peaking | 1204.26 Hz  | 1.5043 | -4.61 dB |
+| Peaking | 2947.27 Hz  | 1.7906 | 2.53 dB  |
+| Peaking | 6097.32 Hz  | 1.5004 | 4.53 dB  |
+| Peaking | 10946.40 Hz | 1.3866 | 8.69 dB  |
+| Peaking | 281.46 Hz   | 4.1696 | -1.88 dB |
+| Peaking | 586.51 Hz   | 2.1056 | 2.73 dB  |
+| Peaking | 715.73 Hz   | 2.4993 | -0.65 dB |
+| Peaking | 864.99 Hz   | 4.3223 | -1.81 dB |
+| Peaking | 9114.94 Hz  | 2.9658 | 0.44 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.67dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.0 dB |
-| Peaking | 62 Hz    | 1.41 | -1.5 dB |
-| Peaking | 125 Hz   | 1.41 | -2.6 dB |
-| Peaking | 250 Hz   | 1.41 | -3.2 dB |
-| Peaking | 500 Hz   | 1.41 | 2.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | -4.9 dB |
-| Peaking | 2000 Hz  | 1.41 | -0.1 dB |
-| Peaking | 4000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | 7.3 dB  |
-| Peaking | 16000 Hz | 1.41 | 0.8 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.01 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -0.12 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -2.22 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.40 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 2.24 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -4.96 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | -0.12 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 2.55 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 8.79 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 0.96 dB  |
 
 ### Graphs
 ![](./Urbanears%20Plattan%202%20Bluetooth.png)

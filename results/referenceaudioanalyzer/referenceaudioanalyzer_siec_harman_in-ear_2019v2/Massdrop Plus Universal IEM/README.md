@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.50dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.3dB**.
+When using independent subset of filters, apply preamp of **-10.05dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 79 Hz    | 0.49 | -2.8 dB |
-| Peaking | 192 Hz   | 1.07 | -2.7 dB |
-| Peaking | 1684 Hz  | 3    | -2.7 dB |
-| Peaking | 4529 Hz  | 1.14 | 4.0 dB  |
-| Peaking | 17155 Hz | 0.31 | 6.6 dB  |
-| Peaking | 805 Hz   | 2.62 | 1.7 dB  |
-| Peaking | 4669 Hz  | 2.16 | -1.0 dB |
-| Peaking | 6068 Hz  | 3.12 | 3.5 dB  |
-| Peaking | 7820 Hz  | 3.52 | -6.4 dB |
-| Peaking | 9743 Hz  | 2.25 | 3.0 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 28.00 Hz    | 0.762  | 1.70 dB  |
+| Peaking | 170.75 Hz   | 0.7838 | -3.94 dB |
+| Peaking | 1672.62 Hz  | 2.9891 | -2.76 dB |
+| Peaking | 4495.45 Hz  | 1.3034 | 3.64 dB  |
+| Peaking | 16127.72 Hz | 0.4201 | 9.40 dB  |
+| Peaking | 804.25 Hz   | 2.7525 | 1.60 dB  |
+| Peaking | 6105.62 Hz  | 4.1054 | 3.44 dB  |
+| Peaking | 7868.04 Hz  | 3.1658 | -6.80 dB |
+| Peaking | 10337.33 Hz | 2.0107 | 3.47 dB  |
+| Peaking | 16400.25 Hz | 2.3268 | -1.25 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-14.62dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.2 dB |
-| Peaking | 62 Hz    | 1.41 | -2.0 dB |
-| Peaking | 125 Hz   | 1.41 | -3.5 dB |
-| Peaking | 250 Hz   | 1.41 | -2.9 dB |
-| Peaking | 500 Hz   | 1.41 | 0.4 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.9 dB  |
-| Peaking | 2000 Hz  | 1.41 | -2.3 dB |
-| Peaking | 4000 Hz  | 1.41 | 5.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.6 dB  |
-| Peaking | 16000 Hz | 1.41 | 9.5 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 1.89 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -0.02 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -2.84 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.17 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.32 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 0.73 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -2.38 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 4.86 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 2.50 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 13.96 dB |
 
 ### Graphs
 ![](./Massdrop%20Plus%20Universal%20IEM.png)

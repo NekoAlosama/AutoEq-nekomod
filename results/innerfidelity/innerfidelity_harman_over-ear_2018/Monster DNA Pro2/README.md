@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.96dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.7dB**.
+When using independent subset of filters, apply preamp of **-9.33dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 3.4  | 5.6 dB  |
-| Peaking | 1543 Hz  | 1.65 | 9.8 dB  |
-| Peaking | 2109 Hz  | 0.49 | -6.8 dB |
-| Peaking | 6222 Hz  | 1.78 | 8.5 dB  |
-| Peaking | 19311 Hz | 0.92 | 6.4 dB  |
-| Peaking | 124 Hz   | 0.26 | -2.1 dB |
-| Peaking | 388 Hz   | 2.94 | 4.9 dB  |
-| Peaking | 3487 Hz  | 5.21 | 6.9 dB  |
-| Peaking | 3665 Hz  | 1.96 | -3.4 dB |
-| Peaking | 8907 Hz  | 6.13 | 2.1 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 20.57 Hz    | 2.0211 | 6.94 dB  |
+| Peaking | 1549.20 Hz  | 1.6658 | 9.91 dB  |
+| Peaking | 2073.15 Hz  | 0.5109 | -6.93 dB |
+| Peaking | 6009.18 Hz  | 2.5015 | 10.76 dB |
+| Peaking | 19582.30 Hz | 0.818  | 6.77 dB  |
+| Peaking | 263.11 Hz   | 0.6277 | -2.84 dB |
+| Peaking | 378.20 Hz   | 2.316  | 5.48 dB  |
+| Peaking | 3541.94 Hz  | 5.2401 | 6.61 dB  |
+| Peaking | 3768.78 Hz  | 1.9244 | -3.39 dB |
+| Peaking | 8755.90 Hz  | 5.2378 | 2.83 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.47dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 2.1 dB  |
-| Peaking | 62 Hz    | 1.41 | -2.3 dB |
-| Peaking | 125 Hz   | 1.41 | -1.7 dB |
-| Peaking | 250 Hz   | 1.41 | -0.9 dB |
-| Peaking | 500 Hz   | 1.41 | 0.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | -0.0 dB |
-| Peaking | 2000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 4000 Hz  | 1.41 | -2.0 dB |
-| Peaking | 8000 Hz  | 1.41 | 5.0 dB  |
-| Peaking | 16000 Hz | 1.41 | 1.8 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 3.89 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -0.86 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -1.42 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -1.03 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.05 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -0.16 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | -0.33 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | -2.03 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 5.19 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 1.52 dB  |
 
 ### Graphs
 ![](./Monster%20DNA%20Pro2.png)

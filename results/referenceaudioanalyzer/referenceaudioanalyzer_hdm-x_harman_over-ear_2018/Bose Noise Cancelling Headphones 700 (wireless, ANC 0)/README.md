@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.97dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.7dB**.
+When using independent subset of filters, apply preamp of **-8.91dB**.
 
-| Type    | Fc      |    Q | Gain     |
-|:--------|:--------|:-----|:---------|
-| Peaking | 17 Hz   | 1.04 | -3.2 dB  |
-| Peaking | 107 Hz  | 0.33 | -3.3 dB  |
-| Peaking | 1559 Hz | 1.52 | 7.6 dB   |
-| Peaking | 5437 Hz | 1.02 | -10.3 dB |
-| Peaking | 9178 Hz | 0.64 | 8.9 dB   |
-| Peaking | 835 Hz  | 3.84 | -1.3 dB  |
-| Peaking | 1192 Hz | 5.25 | 2.3 dB   |
-| Peaking | 2095 Hz | 3.9  | 5.5 dB   |
-| Peaking | 2602 Hz | 1.19 | -4.1 dB  |
-| Peaking | 3824 Hz | 3.84 | 4.2 dB   |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 159.60 Hz   | 0.3153 | -2.61 dB |
+| Peaking | 1698.04 Hz  | 1.3179 | 9.13 dB  |
+| Peaking | 2771.08 Hz  | 3.0785 | -5.88 dB |
+| Peaking | 5315.92 Hz  | 2.0041 | -8.64 dB |
+| Peaking | 10582.68 Hz | 0.7379 | 6.34 dB  |
+| Peaking | 848.99 Hz   | 3.7661 | -1.75 dB |
+| Peaking | 1223.34 Hz  | 5.9671 | 1.71 dB  |
+| Peaking | 3932.78 Hz  | 5.0741 | 0.51 dB  |
+| Peaking | 6645.21 Hz  | 4.2504 | -1.25 dB |
+| Peaking | 7416.86 Hz  | 5.3289 | 1.56 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.12dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -2.9 dB |
-| Peaking | 62 Hz    | 1.41 | -2.4 dB |
-| Peaking | 125 Hz   | 1.41 | -2.6 dB |
-| Peaking | 250 Hz   | 1.41 | -2.0 dB |
-| Peaking | 500 Hz   | 1.41 | -0.8 dB |
-| Peaking | 1000 Hz  | 1.41 | 2.0 dB  |
-| Peaking | 2000 Hz  | 1.41 | 6.5 dB  |
-| Peaking | 4000 Hz  | 1.41 | -6.9 dB |
-| Peaking | 8000 Hz  | 1.41 | 4.2 dB  |
-| Peaking | 16000 Hz | 1.41 | 4.1 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -0.90 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.01 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -2.29 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.20 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -0.93 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 1.86 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 7.52 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | -7.41 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 4.15 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 3.94 dB  |
 
 ### Graphs
 ![](./Bose%20Noise%20Cancelling%20Headphones%20700%20(wireless,%20ANC%200).png)

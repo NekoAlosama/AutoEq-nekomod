@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.6dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-20.26dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-20.42dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 21 Hz    | 0.38 | 4.7 dB  |
-| Peaking | 33 Hz    | 0.79 | -3.0 dB |
-| Peaking | 146 Hz   | 0.34 | -7.8 dB |
-| Peaking | 736 Hz   | 2.3  | 7.5 dB  |
-| Peaking | 11382 Hz | 0.55 | 7.0 dB  |
-| Peaking | 1436 Hz  | 3.65 | -2.0 dB |
-| Peaking | 2763 Hz  | 4.24 | -2.7 dB |
-| Peaking | 5037 Hz  | 2.99 | -2.6 dB |
-| Peaking | 6111 Hz  | 2.87 | 3.6 dB  |
-| Peaking | 19700 Hz | 2.21 | -4.6 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 14.05 Hz    | 0.178  | 4.96 dB  |
+| Peaking | 472.16 Hz   | 0.0926 | -9.93 dB |
+| Peaking | 777.73 Hz   | 0.7692 | 13.54 dB |
+| Peaking | 9694.14 Hz  | 0.7599 | 21.47 dB |
+| Peaking | 22050.00 Hz | 2.0031 | 18.34 dB |
+| Peaking | 1191.36 Hz  | 3.862  | -1.83 dB |
+| Peaking | 2002.12 Hz  | 3.9885 | 3.51 dB  |
+| Peaking | 5158.42 Hz  | 3.3323 | -4.17 dB |
+| Peaking | 7400.85 Hz  | 3.5604 | 6.40 dB  |
+| Peaking | 8486.19 Hz  | 4.9049 | -4.08 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-22.48dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 0.2 dB  |
-| Peaking | 62 Hz    | 1.41 | -3.8 dB |
-| Peaking | 125 Hz   | 1.41 | -6.1 dB |
-| Peaking | 250 Hz   | 1.41 | -6.5 dB |
-| Peaking | 500 Hz   | 1.41 | 0.8 dB  |
-| Peaking | 1000 Hz  | 1.41 | 2.9 dB  |
-| Peaking | 2000 Hz  | 1.41 | -2.1 dB |
-| Peaking | 4000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 8000 Hz  | 1.41 | 7.6 dB  |
-| Peaking | 16000 Hz | 1.41 | 6.8 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 2.24 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -2.40 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -5.70 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -6.73 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.76 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.59 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -1.99 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | -5.85 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 22.45 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 8.09 dB  |
 
 ### Graphs
 ![](./Torque%20t402v%20(on-ear%20earpads,%20black%20vent).png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-16.89dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-17.40dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 25 Hz    | 0.32 | -8.1 dB |
-| Peaking | 109 Hz   | 1    | -4.1 dB |
-| Peaking | 219 Hz   | 2.13 | -3.3 dB |
-| Peaking | 5437 Hz  | 3.73 | 5.5 dB  |
-| Peaking | 12623 Hz | 0.96 | 6.9 dB  |
-| Peaking | 896 Hz   | 1.16 | 6.3 dB  |
-| Peaking | 2994 Hz  | 1.77 | 9.5 dB  |
-| Peaking | 3001 Hz  | 0.29 | -5.5 dB |
-| Peaking | 5764 Hz  | 3.88 | 4.1 dB  |
-| Peaking | 9520 Hz  | 3.76 | 4.9 dB  |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 23.35 Hz    | 0.2807 | -5.32 dB  |
+| Peaking | 116.73 Hz   | 1.1206 | -3.75 dB  |
+| Peaking | 222.12 Hz   | 1.957  | -3.64 dB  |
+| Peaking | 2995.70 Hz  | 3.5468 | 4.48 dB   |
+| Peaking | 12405.89 Hz | 1.3574 | 16.79 dB  |
+| Peaking | 829.18 Hz   | 0.8858 | 6.20 dB   |
+| Peaking | 5870.79 Hz  | 0.442  | 33.28 dB  |
+| Peaking | 7582.59 Hz  | 0.3242 | -40.53 dB |
+| Peaking | 9503.39 Hz  | 1.4648 | 12.89 dB  |
+| Peaking | 15278.13 Hz | 1.3242 | 10.21 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.26dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -8.7 dB |
-| Peaking | 62 Hz    | 1.41 | -5.4 dB |
-| Peaking | 125 Hz   | 1.41 | -5.5 dB |
-| Peaking | 250 Hz   | 1.41 | -3.8 dB |
-| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | 2.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 4000 Hz  | 1.41 | 3.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 16000 Hz | 1.41 | 6.4 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -5.63 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -3.50 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -4.94 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -4.07 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 1.10 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.65 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -1.38 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 2.61 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 4.97 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 12.49 dB |
 
 ### Graphs
 ![](./Remax%20RM-580.png)

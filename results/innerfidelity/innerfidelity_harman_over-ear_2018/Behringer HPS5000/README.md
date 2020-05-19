@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-30.53dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.3dB**.
+When using independent subset of filters, apply preamp of **-30.54dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 35 Hz    | 0.51 | 6.7 dB  |
-| Peaking | 1117 Hz  | 1.27 | -4.6 dB |
-| Peaking | 1683 Hz  | 2.35 | -5.7 dB |
-| Peaking | 3112 Hz  | 1.94 | 5.3 dB  |
-| Peaking | 4303 Hz  | 1.41 | 3.5 dB  |
-| Peaking | 70 Hz    | 4.11 | 2.1 dB  |
-| Peaking | 174 Hz   | 1.53 | -1.5 dB |
-| Peaking | 6221 Hz  | 4.95 | 4.8 dB  |
-| Peaking | 7502 Hz  | 2.65 | -2.9 dB |
-| Peaking | 19711 Hz | 0.5  | -6.0 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 18.27 Hz    | 1.1702 | 27.40 dB |
+| Peaking | 33.49 Hz    | 0.8657 | 10.96 dB |
+| Peaking | 1097.44 Hz  | 1.2163 | -4.58 dB |
+| Peaking | 1673.07 Hz  | 2.3407 | -5.91 dB |
+| Peaking | 3573.64 Hz  | 1.9183 | 10.79 dB |
+| Peaking | 176.62 Hz   | 1.5975 | -1.83 dB |
+| Peaking | 4909.05 Hz  | 6.0774 | -4.46 dB |
+| Peaking | 6074.96 Hz  | 2.1829 | 4.87 dB  |
+| Peaking | 7585.57 Hz  | 3.4491 | -4.40 dB |
+| Peaking | 19899.97 Hz | 0.3921 | -6.03 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.8dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-35.52dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.2 dB  |
-| Peaking | 62 Hz    | 1.41 | 5.3 dB  |
-| Peaking | 125 Hz   | 1.41 | -0.2 dB |
-| Peaking | 250 Hz   | 1.41 | -0.7 dB |
-| Peaking | 500 Hz   | 1.41 | 1.1 dB  |
-| Peaking | 1000 Hz  | 1.41 | -5.5 dB |
-| Peaking | 2000 Hz  | 1.41 | -3.8 dB |
-| Peaking | 4000 Hz  | 1.41 | 8.4 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 16000 Hz | 1.41 | -3.9 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 30.75 dB |
+| Peaking | 62.50 Hz    | 1.4142 | 1.01 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -2.32 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -1.26 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.85 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -5.48 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | -4.52 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 10.74 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | -2.20 dB |
+| Peaking | 16000.01 Hz | 1.4142 | -4.01 dB |
 
 ### Graphs
 ![](./Behringer%20HPS5000.png)
