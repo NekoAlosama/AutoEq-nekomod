@@ -301,3 +301,6 @@ targets and preference scoring developed by Sean Olive et al.
 | [Bowers & Wilkins C5 Series 2](./oratory1990/harman_in-ear_2019v2/Bowers%20&%20Wilkins%20C5%20Series%202)           |      30 |       4.72 |   -2.32 |           4.17 |
 | [Audeze iSINE 20](./oratory1990/harman_in-ear_2019v2/Audeze%20iSINE%2020)                                           |      29 |       5.74 |    0.32 |           5.82 |
 | [Spiral Ear SE 5-Way Ultimate](./oratory1990/harman_in-ear_2019v2/Spiral%20Ear%20SE%205-Way%20Ultimate)             |      17 |       6.57 |   -1.56 |           4.8  |
+| [Apple AirPods](./oratory1990/harman_in-ear_2019v2/Apple%20AirPods)                                                 |     -26 |       9.57 |    4.47 |           4.1  |
+| [Apple EarPods](./oratory1990/harman_in-ear_2019v2/Apple%20EarPods)                                                 |     -51 |      11.17 |    5.44 |           5.41 |
+| [Sony XEA20 Xperia Ear Duo](./oratory1990/harman_in-ear_2019v2/Sony%20XEA20%20Xperia%20Ear%20Duo)                   |     -85 |      13.75 |    5.99 |           7.84 |

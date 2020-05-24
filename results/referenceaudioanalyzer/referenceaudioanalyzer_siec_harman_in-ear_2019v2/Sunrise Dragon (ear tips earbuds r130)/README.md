@@ -1,0 +1,40 @@
+# Sunrise Dragon (ear tips earbuds r130)
+See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
+
+### Parametric EQs
+In case of using parametric equalizer, apply preamp of **-20.54dB** and build filters manually
+with these parameters. The first 5 filters can be used independently.
+When using independent subset of filters, apply preamp of **-20.04dB**.
+
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 15.13 Hz    | 0.7579 | 16.42 dB |
+| Peaking | 43.36 Hz    | 0.4974 | 8.18 dB  |
+| Peaking | 804.77 Hz   | 0.4902 | -8.99 dB |
+| Peaking | 2879.43 Hz  | 1.3398 | 11.50 dB |
+| Peaking | 14792.45 Hz | 0.7096 | 19.37 dB |
+| Peaking | 2962.55 Hz  | 3.8026 | -4.65 dB |
+| Peaking | 3768.91 Hz  | 1.2772 | 5.44 dB  |
+| Peaking | 6598.90 Hz  | 1.3325 | -6.90 dB |
+| Peaking | 11248.46 Hz | 2.165  | 5.29 dB  |
+| Peaking | 22048.60 Hz | 2.2863 | -0.47 dB |
+
+### Fixed Band EQs
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-29.44dB**
+(if available) and set gains manually with these parameters.
+
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 17.74 dB |
+| Peaking | 62.50 Hz    | 1.4142 | 5.17 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | 2.08 dB  |
+| Peaking | 250.00 Hz   | 1.4142 | -2.20 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -4.75 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -9.61 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 4.26 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 7.84 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -0.74 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 28.92 dB |
+
+### Graphs
+![](./Sunrise%20Dragon%20(ear%20tips%20earbuds%20r130).png)

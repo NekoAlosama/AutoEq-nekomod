@@ -6,28 +6,41 @@ Differences from souce:
 - All of the new results are using the Harman compensation (with bass) curve calibrated to each data provider's mic.
 - Many values like Frequency and Gain are increased to two decimal places. Q factor specifically is increased to four decimal places.
 - A few headphones give warnings or errors while results are calculated; these are documented below. All non-problematic headphones **except Crinacle-measured headphones** are recalculated.
+- RANKING.md removes Crinacle results.
 
 **Crinacle results are not changed** because their measurements are locked behind a paywall, and I do not plan on accidentally commiting said data to the fork.
 
 ## Problems caused
-Warnings, errors, and their effects are documented below. These are usually caused by a value in the equalization being too high for some calculations to work (e.g. +28db, +40db, etc.).
+Warnings, errors, and their effects are documented below. These are usually caused by a value in the equalization being too high for some calculations to work (e.g. +28db, +40db, etc.). 
+Ordered by headphone source recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer). An asterisk (`*`) after any names mean they match the recommended results in [results\README.md](results\README.md), so they are either the highest on the priority or is the only one existent. Check the source repo for any results that give bad results here; there should be normal results in the source. Additional problems shown for specific headphones.
 
-- Beyerdynamic DT 48 S 5 Ohm (Innerfidelity on-ear)
-- Soul by Ludacris SL300 (Innerfidelity on-ear)
-- Koss KDE250 (Headphone.com on-ear)
+- Beyerdynamic DT 48 S 5 Ohm (Innerfidelity on-ear)`*`
+- Soul by Ludacris SL300 (Innerfidelity on-ear)`*`
+- Comradz NW-STUDIO (Innerfidelity earbud)`*`
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- Jabra Elite Active 45e (Rtings in-ear)`*`
+- Koss KDE250 (Headphone.com on-ear)`*`
 - Pioneer HDJ-1000 (Headphone.com on-ear)
-- Jabra Elite Active 45e (Rtings in-ear)
-- AKG K80 (Reference Audio Analyzer HDM-X on-ear)
-- Maxell Ear Bud (Reference Audio Analyzer SIEC in-ear)
-- Tansio Mirai TSMR-4 Pro (off-off-off) (Reference Audio Analyzer SIEC in-ear)
-- Effects: No effect?
+- Yuin PK1 (Headphone.com earbud)
+- AKG K80 (Reference Audio Analyzer HDM-X on-ear)`*`
+- Maxell Ear Bud (Reference Audio Analyzer SIEC in-ear)`*`
+- Tansio Mirai TSMR-4 Pro (off-off-off) (Reference Audio Analyzer SIEC in-ear)`*`
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- Effects: No effect.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
 ```
 
-- Koss KPH7 (Innerfidelity on-ear)
-- Effects: No effect?
+- Apple EarPods (oratory1990 earbud)`*`
+- Koss KPH7 (Innerfidelity on-ear)`*`
+- Edifier P180 (Innerfidelity earbud)`*`
+- Apple EarPods (Headphone.com earbud)
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- Effects: No effect.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
@@ -35,8 +48,11 @@ C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value e
   if min_loss is None or min_loss - step_loss > threshold:
 ```
 
-- Beats Studio (Innerfidelity on-ear)
-- Effects: `nandB` on Parametic EQ, causes broken line on graph.
+- Beats Studio (Innerfidelity on-ear)`*`
+- Venture Electronics Monk Plus (Innerfidelity earbud)`*`
+  - Missing Fixed Band EQ value, `nandB` preamp.
+  - Broken Fixed Band EQ line on graph.
+- Effects: No effect.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
@@ -44,8 +60,10 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
   (a0 + a1 + a2) ** 2 + (a0 * a2 * phi - (a1 * (a0 + a2) + 4 * a0 * a2)) * phi
 ```
 
-- Stax SR-40 Electret SR4 Adapter (Innerfidelity on-ear)
-- Effects: `nandB` on Fixed Band EQ, causes broken line on graph.
+- Stax SR-40 Electret SR4 Adapter (Innerfidelity on-ear)`*`
+- Effects:
+  - Missing Fixed Band EQ value, `nandB` preamp.
+  - Broken Fixed Band EQ line on graph.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
@@ -55,13 +73,29 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
   (a0 + a1 + a2) ** 2 + (a0 * a2 * phi - (a1 * (a0 + a2) + 4 * a0 * a2)) * phi
 ```
 
-- Howard Leight Sync (Innerfidelity on-ear)
-- AKG K120 (Reference Audio Analyzer HDM1 on-ear)
-- Audio-Technica ATH-SJ1 (Reference Audio Analyzer HDM1 on-ear)
-- Beyerdynamic DT 48 E 200 Ohm (Reference Audio Analyzer HDM1 on-ear)
+- Sony XEA20 Xperia Ear Duo (oratory1990 earbud)`*`
+- Howard Leight Sync (Innerfidelity on-ear)`*`
+- Walmart Three DOllar Buds (Innerfidelity earbud)`*`
+- Yuin PK2 (Innerfidelity earbud)`*`
+- AfterShokz Aeropex (Rtings earbud)`*`
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- AfterShokz Trekz Air (Rtings earbud)`*`
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- Bose SoundWear (Rtings earbud)`*`
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- AKG K120 (Reference Audio Analyzer HDM1 on-ear)`*`
+- Audio-Technica ATH-SJ1 (Reference Audio Analyzer HDM1 on-ear)`*`
+- Beyerdynamic DT 48 E 200 Ohm (Reference Audio Analyzer HDM1 on-ear)`*`
 - Beyerdynamic DTX 300p (Reference Audio Analyzer HDM1 on-ear)
-- 64 Audio U4 (vent open) (Reference Audio Analyzer SIEC in-ear)
-- Effects: Parametric EQ is either not calculated or written to file. `64 Audio U4 (vent open) (Reference Audio Analyzer SIEC in-ear)` breaks with `nandB` Gain and preamp.
+- 64 Audio U4 (vent open) (Reference Audio Analyzer SIEC in-ear)`*`
+  - Missing Fixed Band EQ values, `nan dB` gains and `nandB` preamp.
+  - Missing Fixed Band EQ line on graph.
+- Effects:
+  - Missing Parametric EQ values, no filters and `-0.60` preamp.
+  - Parametric EQ line on graph is flat.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
@@ -75,9 +109,18 @@ C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value e
   if min_loss is None or min_loss - step_loss > threshold:
 ```
 
-- Audio-Technica ATH-ES3 (Reference Audio Analyzer HDM1 on-ear)
-- Final Audio MURAMASA VIII (Reference Audio Analyzer HDM1 on-ear)
-- Effects: Parametric EQ is either not calculated or written to file. `nandB` on Parametic EQ, causes broken line on graph.
+- Sennheiser MX 560 (Innerfidelity earbud)`*`
+- Sennheiser MX 680 (Innerfidelity earbud)`*`
+- Google Pixel Buds (Rtings earbud)`*`
+- Sennheiser MX 560 (Headphone.com earbud)
+- Yuin PK2 (Headphone.com earbud)
+- Audio-Technica ATH-ES3 (Reference Audio Analyzer HDM1 on-ear)`*`
+- Final Audio MURAMASA VIII (Reference Audio Analyzer HDM1 on-ear)`*`
+- Effects:
+  - Missing Fixed Band EQ value, `nandB` preamp.
+  - Broken Fixed Band EQ line on graph.
+  - Missing Parametric EQ values, no filters and `-0.60` preamp.
+  - Parametric EQ line on graph is flat.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
@@ -94,15 +137,16 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
 ```
 
 ### Error-causing headphones 
-There are no functional differences between the errors of each headphone below. The only difference is the line for `**onear_kwargs`, which differs between mic data providers. These headphones are put in the ['bad headphones' folder](measurements\bad headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
+There are no functional differences between the errors of each headphone below. The only difference is the line for `**headphone_kwargs` (earbud_kwargs or onear_kwargs), which differs between mic data providers. These headphones are put in the ['bad headphones' folder](measurements\bad headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
 - Stax SR-3 (Innerfidelity)
+- Apple iPod Ear Buds (sample B) (Innerfidelity)
 - Beats by Dr (Headphone.com)
 - Sennheiser HD R 130 (Headphone.com)
 - Sennheiser RS 130 (Headphone.com)
 - Sony MDR-7502 (Headphone.com)
 - JVC HA-SR500 (Reference Audio Analyzer HDM1)
 - Stax SR-303 (Reference Audio Analyzer HDM1)
-- Effects: No results are written to files.
+- Effects: No results are rewritten to files. Source results still exist for these headphones.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
@@ -111,8 +155,8 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
 Traceback (most recent call last):
   File "results\update_results.py", line 246, in <module>
     main()
-  File "results\update_results.py", line *, in main // * = 80 (Innerfidelity), 108 (Headphone.com), 200 (Reference Audio Analyzer)
-    **onear_kwargs
+  File "results\update_results.py", line *, in main // * = 80 + 98 (Innerfidelity), 108 (Headphone.com), 200 (Reference Audio Analyzer)
+    **headphone_kwargs // headphone -> on-ear = 80, 108, 200; earbud = 98
   File "C:\*\AutoEq-optimized\autoeq.py", line 100, in batch_processing
     fs=fs[0] if type(fs) == list else fs
   File "C:\*\AutoEq-optimized\frequency_response.py", line 1649, in process
@@ -129,6 +173,7 @@ ValueError: None values present, cannot smoothen!
 ```
 
 ## Original README.md Below
+# AutoEQ
 **TL;DR** If you are here just looking to make your headphones sound better, find your headphone model in
 [results](./results) folder's recommended headphones list
 and follow instructions in [Usage](#usage) section. 
