@@ -137,7 +137,7 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
 ```
 
 ### Error-causing headphones 
-There are no functional differences between the errors of each headphone below. The only difference is the line for `**headphone_kwargs` (earbud_kwargs or onear_kwargs), which differs between mic data providers. These headphones are put in the ['bad headphones' folder](measurements/bad headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
+There are no functional differences between the errors of each headphone below. The only difference is the line for `**headphone_kwargs` (earbud_kwargs or onear_kwargs), which differs between mic data providers. These headphones are put in the ['bad headphones' folder](measurements/bad%20headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
 - Stax SR-3 (Innerfidelity)
 - Apple iPod Ear Buds (sample B) (Innerfidelity)
 - Beats by Dr (Headphone.com)
