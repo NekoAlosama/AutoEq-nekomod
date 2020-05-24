@@ -12,7 +12,7 @@ Differences from souce:
 
 ## Problems caused
 Warnings, errors, and their effects are documented below. These are usually caused by a value in the equalization being too high for some calculations to work (e.g. +28db, +40db, etc.). 
-Ordered by headphone source recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer). An asterisk (`*`) after any names mean they match the recommended results in [results\README.md](results\README.md), so they are either the highest on the priority or is the only one existent. Check the source repo for any results that give bad results here; there should be normal results in the source. Additional problems shown for specific headphones.
+Ordered by headphone source recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer). An asterisk (`*`) after any names mean they match the recommended results in [results/README.md](results/README.md), so they are either the highest on the priority or is the only one existent. Check the source repo for any results that give bad results here; there should be normal results in the source. Additional problems shown for specific headphones.
 
 - Beyerdynamic DT 48 S 5 Ohm (Innerfidelity on-ear)`*`
 - Soul by Ludacris SL300 (Innerfidelity on-ear)`*`
@@ -137,7 +137,7 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
 ```
 
 ### Error-causing headphones 
-There are no functional differences between the errors of each headphone below. The only difference is the line for `**headphone_kwargs` (earbud_kwargs or onear_kwargs), which differs between mic data providers. These headphones are put in the ['bad headphones' folder](measurements\bad headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
+There are no functional differences between the errors of each headphone below. The only difference is the line for `**headphone_kwargs` (earbud_kwargs or onear_kwargs), which differs between mic data providers. These headphones are put in the ['bad headphones' folder](measurements/bad headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
 - Stax SR-3 (Innerfidelity)
 - Apple iPod Ear Buds (sample B) (Innerfidelity)
 - Beats by Dr (Headphone.com)
