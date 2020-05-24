@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-143.17dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-143.09dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-82.42dB**.
+When using independent subset of filters, apply preamp of **-83.00dB**.
 
 | Type    | Fc          |      Q | Gain      |
 |:--------|:------------|:-------|:----------|
-| Peaking | 23.10 Hz    | 0.5762 | 7.77 dB   |
-| Peaking | 428.81 Hz   | 1.1006 | 11.16 dB  |
-| Peaking | 836.12 Hz   | 0.0656 | -40.60 dB |
-| Peaking | 8635.57 Hz  | 0.9408 | -42.92 dB |
-| Peaking | 19169.97 Hz | 0.0357 | 95.23 dB  |
-| Peaking | 1294.20 Hz  | 0.9985 | 3.41 dB   |
-| Peaking | 2865.83 Hz  | 0.1976 | -36.22 dB |
-| Peaking | 10975.03 Hz | 1.8029 | -36.20 dB |
-| Peaking | 12571.82 Hz | 2.215  | -32.85 dB |
-| Peaking | 19649.57 Hz | 0.0754 | 77.66 dB  |
+| Peaking | 22.89 Hz    | 0.5693 | 7.90 dB   |
+| Peaking | 425.50 Hz   | 1.1074 | 11.26 dB  |
+| Peaking | 812.08 Hz   | 0.0628 | -41.12 dB |
+| Peaking | 8619.98 Hz  | 0.918  | -43.29 dB |
+| Peaking | 19161.47 Hz | 0.0345 | 96.45 dB  |
+| Peaking | 3197.03 Hz  | 0.2429 | -35.61 dB |
+| Peaking | 10599.47 Hz | 1.6728 | -28.66 dB |
+| Peaking | 11917.53 Hz | 2.3639 | -26.64 dB |
+| Peaking | 13499.66 Hz | 2.8551 | -19.79 dB |
+| Peaking | 19693.57 Hz | 0.0859 | 75.84 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-90.52dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-90.37dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |      Q | Gain      |
 |:--------|:------------|:-------|:----------|
-| Peaking | 31.25 Hz    | 1.4142 | -13.66 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -16.34 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -29.75 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -19.49 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -13.57 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -21.30 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -13.10 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | -67.73 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -54.29 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 165.84 dB |
+| Peaking | 31.25 Hz    | 1.4142 | -13.05 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -16.19 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -29.34 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -19.37 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -13.55 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -21.27 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | -13.08 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | -67.17 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | -53.83 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 164.76 dB |
 
 ### Graphs
 ![](./EarFun%20Wave.png)

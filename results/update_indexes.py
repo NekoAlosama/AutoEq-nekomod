@@ -211,7 +211,7 @@ def write_hesuvi_index():
                 sl = np.logical_and(data[:, 0] > 100, data[:, 0] < 10000)
                 data[:, 1] -= np.mean(data[sl, 1])
                 s = 'GraphicEQ: '
-                s += '; '.join([f'{x[0]:.2f} {x[1]:.2f}' for x in data])
+                s += '; '.join([f'{x[0]:.0f} {x[1]:.2f}' for x in data])
                 zip_object.writestr(arcname, s)
                 zip_files.add(arcname)
 

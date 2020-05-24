@@ -2,7 +2,7 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.83dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.82dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
 When using independent subset of filters, apply preamp of **-8.83dB**.
 
@@ -13,11 +13,11 @@ When using independent subset of filters, apply preamp of **-8.83dB**.
 | Peaking | 3660.52 Hz | 3.9103 | 5.71 dB   |
 | Peaking | 8701.14 Hz | 2.0707 | -10.43 dB |
 | Peaking | 9177.45 Hz | 0.4292 | 4.64 dB   |
-| Peaking | 32.36 Hz   | 1.3642 | 0.85 dB   |
-| Peaking | 905.06 Hz  | 1.6412 | 1.92 dB   |
-| Peaking | 1264.49 Hz | 0.6447 | -1.48 dB  |
-| Peaking | 1839.28 Hz | 2.3368 | 0.94 dB   |
-| Peaking | 2882.18 Hz | 1.2896 | 0.38 dB   |
+| Peaking | 32.75 Hz   | 1.4096 | 0.83 dB   |
+| Peaking | 924.76 Hz  | 1.6124 | 1.96 dB   |
+| Peaking | 1252.29 Hz | 0.6371 | -1.52 dB  |
+| Peaking | 1803.14 Hz | 2.3869 | 0.95 dB   |
+| Peaking | 2874.05 Hz | 1.3081 | 0.40 dB   |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.32dB**
