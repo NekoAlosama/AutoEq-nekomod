@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.29dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.32dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 13.73 Hz    | 0.5622 | 15.30 dB |
-| Peaking | 1055.76 Hz  | 0.5312 | -9.15 dB |
-| Peaking | 4737.74 Hz  | 2.1886 | 13.05 dB |
-| Peaking | 6969.58 Hz  | 0.8789 | -7.30 dB |
-| Peaking | 12754.76 Hz | 0.2297 | 14.40 dB |
-| Peaking | 65.67 Hz    | 2.69   | 1.17 dB  |
-| Peaking | 1472.42 Hz  | 1.1595 | -0.71 dB |
-| Peaking | 1613.81 Hz  | 2.1027 | 1.12 dB  |
-| Peaking | 6286.46 Hz  | 0.8042 | -0.65 dB |
-| Peaking | 6447.94 Hz  | 0.9287 | 0.72 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 21 Hz    | 0.63 | 6.2 dB  |
+| Peaking | 662 Hz   | 0.55 | -5.5 dB |
+| Peaking | 1142 Hz  | 1.25 | -8.6 dB |
+| Peaking | 2016 Hz  | 2.19 | -3.8 dB |
+| Peaking | 10051 Hz | 0.06 | 6.5 dB  |
+| Peaking | 563 Hz   | 2.33 | 1.0 dB  |
+| Peaking | 655 Hz   | 4.59 | -1.8 dB |
+| Peaking | 2711 Hz  | 5.08 | -1.9 dB |
+| Peaking | 3475 Hz  | 2.47 | 1.7 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.55dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 9.22 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 1.68 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | 0.16 dB  |
-| Peaking | 250.00 Hz   | 1.4142 | -1.56 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.77 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -8.48 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -4.12 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 11.50 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 6.33 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 19.60 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 5.9 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.9 dB  |
+| Peaking | 125 Hz   | 1.41 | -0.3 dB |
+| Peaking | 250 Hz   | 1.41 | -1.4 dB |
+| Peaking | 500 Hz   | 1.41 | -2.6 dB |
+| Peaking | 1000 Hz  | 1.41 | -8.7 dB |
+| Peaking | 2000 Hz  | 1.41 | -2.0 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.6 dB  |
+| Peaking | 8000 Hz  | 1.41 | 5.8 dB  |
+| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
 
 ### Graphs
 ![](./Phiaton%20Chord%20MS%20530%20(ANC%20on).png)

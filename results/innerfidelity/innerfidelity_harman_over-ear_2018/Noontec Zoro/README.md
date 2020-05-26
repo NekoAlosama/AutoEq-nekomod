@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-26.17dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-25.87dB**.
+When using independent subset of filters, apply preamp of **-7.4dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 255.26 Hz   | 0.3376 | -5.42 dB |
-| Peaking | 4203.42 Hz  | 2.889  | 27.54 dB |
-| Peaking | 7367.12 Hz  | 1.2249 | -8.01 dB |
-| Peaking | 9805.32 Hz  | 2.0483 | 4.04 dB  |
-| Peaking | 12312.32 Hz | 2.3358 | 3.68 dB  |
-| Peaking | 783.02 Hz   | 0.6286 | 0.48 dB  |
-| Peaking | 1588.79 Hz  | 2.1141 | -2.70 dB |
-| Peaking | 2852.22 Hz  | 1.4961 | 1.93 dB  |
-| Peaking | 3618.31 Hz  | 7.8443 | -2.63 dB |
-| Peaking | 19648.62 Hz | 1.2176 | -6.68 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 170 Hz   | 0.57 | -2.8 dB |
+| Peaking | 333 Hz   | 0.09 | -3.0 dB |
+| Peaking | 3463 Hz  | 0.85 | 8.4 dB  |
+| Peaking | 7760 Hz  | 4.11 | -6.3 dB |
+| Peaking | 12137 Hz | 1.71 | 3.7 dB  |
+| Peaking | 1619 Hz  | 4.45 | -1.6 dB |
+| Peaking | 2498 Hz  | 3.8  | 1.6 dB  |
+| Peaking | 5018 Hz  | 4.36 | 4.1 dB  |
+| Peaking | 5210 Hz  | 1.53 | -2.3 dB |
+| Peaking | 9390 Hz  | 5.45 | 1.3 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-19.20dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.0dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 0.60 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -1.14 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -4.11 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.69 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.96 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -1.83 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -3.65 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 20.34 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -6.07 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 1.22 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -1.4 dB |
+| Peaking | 62 Hz    | 1.41 | -2.5 dB |
+| Peaking | 125 Hz   | 1.41 | -4.5 dB |
+| Peaking | 250 Hz   | 1.41 | -4.5 dB |
+| Peaking | 500 Hz   | 1.41 | -2.7 dB |
+| Peaking | 1000 Hz  | 1.41 | -1.8 dB |
+| Peaking | 2000 Hz  | 1.41 | 1.0 dB  |
+| Peaking | 4000 Hz  | 1.41 | 7.7 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.7 dB |
+| Peaking | 16000 Hz | 1.41 | 1.4 dB  |
 
 ### Graphs
 ![](./Noontec%20Zoro.png)

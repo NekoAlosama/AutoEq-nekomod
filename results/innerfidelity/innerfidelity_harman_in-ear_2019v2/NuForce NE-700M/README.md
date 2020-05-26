@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.59dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.53dB**.
+When using independent subset of filters, apply preamp of **-6.5dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 10.85 Hz    | 0.1773 | -6.04 dB  |
-| Peaking | 160.61 Hz   | 0.9916 | -3.20 dB  |
-| Peaking | 6891.36 Hz  | 3.2273 | 3.56 dB   |
-| Peaking | 9877.95 Hz  | 1.6215 | 6.76 dB   |
-| Peaking | 19657.02 Hz | 0.4729 | -11.15 dB |
-| Peaking | 278.06 Hz   | 2.2132 | -0.97 dB  |
-| Peaking | 847.94 Hz   | 1.2218 | 2.65 dB   |
-| Peaking | 2804.42 Hz  | 3.2937 | -4.46 dB  |
-| Peaking | 3980.76 Hz  | 1.4882 | 1.74 dB   |
-| Peaking | 5078.39 Hz  | 3.5435 | -1.43 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 13 Hz    | 0.08 | -7.9 dB  |
+| Peaking | 821 Hz   | 1.43 | 3.1 dB   |
+| Peaking | 6897 Hz  | 3.22 | 3.7 dB   |
+| Peaking | 9926 Hz  | 1.6  | 6.7 dB   |
+| Peaking | 19666 Hz | 0.47 | -11.0 dB |
+| Peaking | 20 Hz    | 1.01 | -1.5 dB  |
+| Peaking | 47 Hz    | 0.62 | 0.9 dB   |
+| Peaking | 218 Hz   | 2.33 | -0.8 dB  |
+| Peaking | 2776 Hz  | 3.35 | -5.2 dB  |
+| Peaking | 3016 Hz  | 1.16 | 1.6 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.94dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -5.77 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -2.10 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -3.21 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -2.62 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 0.80 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.71 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -1.26 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | -1.01 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 6.96 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -6.76 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -8.9 dB |
+| Peaking | 62 Hz    | 1.41 | -4.0 dB |
+| Peaking | 125 Hz   | 1.41 | -3.8 dB |
+| Peaking | 250 Hz   | 1.41 | -2.4 dB |
+| Peaking | 500 Hz   | 1.41 | 0.9 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | -1.2 dB |
+| Peaking | 4000 Hz  | 1.41 | -0.8 dB |
+| Peaking | 8000 Hz  | 1.41 | 7.1 dB  |
+| Peaking | 16000 Hz | 1.41 | -6.5 dB |
 
 ### Graphs
 ![](./NuForce%20NE-700M.png)
