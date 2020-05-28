@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.87dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9dB**.
+When using independent subset of filters, apply preamp of **-9.91dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 198 Hz   | 0.64 | -3.2 dB |
-| Peaking | 475 Hz   | 0.27 | -6.5 dB |
-| Peaking | 665 Hz   | 1.21 | 9.5 dB  |
-| Peaking | 3837 Hz  | 2.21 | 3.4 dB  |
-| Peaking | 15497 Hz | 0.11 | 6.3 dB  |
-| Peaking | 19 Hz    | 1.78 | 1.1 dB  |
-| Peaking | 4992 Hz  | 5.93 | 1.7 dB  |
-| Peaking | 5654 Hz  | 3.57 | -2.5 dB |
-| Peaking | 6306 Hz  | 5.83 | 1.6 dB  |
-| Peaking | 7360 Hz  | 2.81 | 0.6 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 229.95 Hz   | 0.7371 | -8.11 dB |
+| Peaking | 662.20 Hz   | 2.9489 | 5.10 dB  |
+| Peaking | 4148.98 Hz  | 2.6255 | 7.64 dB  |
+| Peaking | 8383.83 Hz  | 1.2489 | 5.74 dB  |
+| Peaking | 19265.54 Hz | 0.2176 | 8.40 dB  |
+| Peaking | 21.24 Hz    | 0.8591 | 2.73 dB  |
+| Peaking | 1271.23 Hz  | 2.6032 | -1.58 dB |
+| Peaking | 4837.53 Hz  | 6.1293 | 2.79 dB  |
+| Peaking | 5674.12 Hz  | 2.5737 | -2.85 dB |
+| Peaking | 6606.75 Hz  | 5.696  | 3.14 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.94dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 0.4 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.4 dB |
-| Peaking | 125 Hz   | 1.41 | -4.2 dB |
-| Peaking | 250 Hz   | 1.41 | -8.3 dB |
-| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.5 dB  |
-| Peaking | 2000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 4000 Hz  | 1.41 | 5.6 dB  |
-| Peaking | 8000 Hz  | 1.41 | 5.8 dB  |
-| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 2.46 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -0.07 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -3.81 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -8.51 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 1.12 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 0.46 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -2.29 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 6.71 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 7.49 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 10.98 dB |
 
 ### Graphs
 ![](./Plugged%20Crown.png)

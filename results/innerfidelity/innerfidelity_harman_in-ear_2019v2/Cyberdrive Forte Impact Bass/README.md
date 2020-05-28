@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.46dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-9.48dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 77 Hz    | 0.12 | -6.7 dB  |
-| Peaking | 897 Hz   | 0.5  | 3.2 dB   |
-| Peaking | 3113 Hz  | 0.59 | 6.3 dB   |
-| Peaking | 6505 Hz  | 2.6  | -12.5 dB |
-| Peaking | 11372 Hz | 2.62 | 4.4 dB   |
-| Peaking | 406 Hz   | 3.21 | 0.2 dB   |
-| Peaking | 5074 Hz  | 5.67 | 0.9 dB   |
-| Peaking | 13588 Hz | 1.82 | 1.8 dB   |
-| Peaking | 14566 Hz | 1.21 | 1.8 dB   |
-| Peaking | 19805 Hz | 0.52 | -11.6 dB |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 20.28 Hz    | 0.1307 | -2.91 dB  |
+| Peaking | 189.52 Hz   | 0.5628 | -4.73 dB  |
+| Peaking | 2568.81 Hz  | 0.7358 | 9.34 dB   |
+| Peaking | 6507.77 Hz  | 2.6682 | -11.91 dB |
+| Peaking | 11336.33 Hz | 2.6241 | 4.45 dB   |
+| Peaking | 870.25 Hz   | 3.7142 | 0.95 dB   |
+| Peaking | 9904.87 Hz  | 5.0109 | 1.26 dB   |
+| Peaking | 13257.77 Hz | 3.045  | 2.45 dB   |
+| Peaking | 15078.13 Hz | 1.8866 | 2.03 dB   |
+| Peaking | 19729.67 Hz | 0.537  | -11.99 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.47dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -6.1 dB |
-| Peaking | 62 Hz    | 1.41 | -4.7 dB |
-| Peaking | 125 Hz   | 1.41 | -5.4 dB |
-| Peaking | 250 Hz   | 1.41 | -4.3 dB |
-| Peaking | 500 Hz   | 1.41 | -1.0 dB |
-| Peaking | 1000 Hz  | 1.41 | 2.1 dB  |
-| Peaking | 2000 Hz  | 1.41 | 6.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 3.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | -4.2 dB |
-| Peaking | 16000 Hz | 1.41 | -1.3 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -3.14 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -2.72 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -4.78 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -4.63 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -0.94 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 1.16 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 8.36 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 3.54 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -4.50 dB |
+| Peaking | 16000.01 Hz | 1.4142 | -1.47 dB |
 
 ### Graphs
 ![](./Cyberdrive%20Forte%20Impact%20Bass.png)

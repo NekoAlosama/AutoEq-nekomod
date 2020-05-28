@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.56dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.6dB**.
+When using independent subset of filters, apply preamp of **-8.56dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 20 Hz    | 0.36 | 5.8 dB   |
-| Peaking | 64 Hz    | 1.32 | 6.3 dB   |
-| Peaking | 200 Hz   | 0.44 | -10.3 dB |
-| Peaking | 404 Hz   | 0.64 | 10.4 dB  |
-| Peaking | 2611 Hz  | 2.78 | -5.1 dB  |
-| Peaking | 606 Hz   | 7.83 | -1.8 dB  |
-| Peaking | 1231 Hz  | 3.67 | 1.3 dB   |
-| Peaking | 4766 Hz  | 6.25 | 2.4 dB   |
-| Peaking | 8150 Hz  | 3.28 | 2.7 dB   |
-| Peaking | 19557 Hz | 0.46 | -5.8 dB  |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 19.81 Hz    | 0.3574 | 7.56 dB   |
+| Peaking | 64.17 Hz    | 1.2394 | 7.01 dB   |
+| Peaking | 203.20 Hz   | 0.4721 | -10.28 dB |
+| Peaking | 398.95 Hz   | 0.6383 | 10.16 dB  |
+| Peaking | 2614.59 Hz  | 2.7147 | -5.12 dB  |
+| Peaking | 606.53 Hz   | 7.75   | -1.79 dB  |
+| Peaking | 1230.94 Hz  | 3.7581 | 1.25 dB   |
+| Peaking | 4759.37 Hz  | 6.401  | 2.37 dB   |
+| Peaking | 8181.49 Hz  | 3.0684 | 2.54 dB   |
+| Peaking | 19617.54 Hz | 0.4325 | -5.88 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.11dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 5.5 dB  |
-| Peaking | 62 Hz    | 1.41 | 6.0 dB  |
-| Peaking | 125 Hz   | 1.41 | -5.4 dB |
-| Peaking | 250 Hz   | 1.41 | -2.4 dB |
-| Peaking | 500 Hz   | 1.41 | 5.0 dB  |
-| Peaking | 1000 Hz  | 1.41 | 2.3 dB  |
-| Peaking | 2000 Hz  | 1.41 | -2.6 dB |
-| Peaking | 4000 Hz  | 1.41 | -0.9 dB |
-| Peaking | 8000 Hz  | 1.41 | 2.1 dB  |
-| Peaking | 16000 Hz | 1.41 | -4.5 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 7.57 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 7.34 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -5.12 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.63 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 4.95 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.27 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -2.69 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | -0.99 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 1.99 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -4.64 dB |
 
 ### Graphs
 ![](./KRK%20SYSTEMS%20KNS%208400.png)

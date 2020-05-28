@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.02dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-5.28dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 40 Hz    | 0.12 | -7.2 dB |
-| Peaking | 857 Hz   | 0.73 | 4.6 dB  |
-| Peaking | 5198 Hz  | 4.32 | -7.8 dB |
-| Peaking | 6963 Hz  | 1.14 | 5.2 dB  |
-| Peaking | 19567 Hz | 0.48 | 6.4 dB  |
-| Peaking | 2727 Hz  | 4.41 | -1.9 dB |
-| Peaking | 3919 Hz  | 2.43 | 2.2 dB  |
-| Peaking | 4675 Hz  | 4.9  | -1.9 dB |
-| Peaking | 9313 Hz  | 5.44 | 2.1 dB  |
-| Peaking | 10792 Hz | 1.83 | -1.3 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 51.57 Hz    | 0.1905 | -4.70 dB |
+| Peaking | 162.76 Hz   | 0.6121 | -4.53 dB |
+| Peaking | 4571.87 Hz  | 0.0046 | 2.81 dB  |
+| Peaking | 5131.44 Hz  | 3.2328 | -7.34 dB |
+| Peaking | 7032.17 Hz  | 1.9386 | 2.94 dB  |
+| Peaking | 27.01 Hz    | 0.4941 | -1.32 dB |
+| Peaking | 896.36 Hz   | 2.3677 | 1.95 dB  |
+| Peaking | 2593.96 Hz  | 3.2174 | -2.93 dB |
+| Peaking | 12360.85 Hz | 2.157  | -2.37 dB |
+| Peaking | 19878.69 Hz | 0.7089 | 4.67 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.13dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -7.5 dB |
-| Peaking | 62 Hz    | 1.41 | -5.2 dB |
-| Peaking | 125 Hz   | 1.41 | -5.1 dB |
-| Peaking | 250 Hz   | 1.41 | -3.4 dB |
-| Peaking | 500 Hz   | 1.41 | 0.9 dB  |
-| Peaking | 1000 Hz  | 1.41 | 4.1 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 4000 Hz  | 1.41 | -0.9 dB |
-| Peaking | 8000 Hz  | 1.41 | 4.1 dB  |
-| Peaking | 16000 Hz | 1.41 | 4.6 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -4.37 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -3.24 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -4.52 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.70 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.77 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 3.95 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 0.90 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | -1.05 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 4.01 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 4.43 dB  |
 
 ### Graphs
 ![](./Rock%20Jaw%20Alpha%20Genus%20(silver%20filters).png)

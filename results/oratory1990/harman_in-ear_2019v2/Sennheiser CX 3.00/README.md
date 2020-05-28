@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.59dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-7.55dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 16 Hz    | 0.72 | -5.1 dB  |
-| Peaking | 107 Hz   | 0.49 | -4.5 dB  |
-| Peaking | 3882 Hz  | 0.76 | 9.1 dB   |
-| Peaking | 5334 Hz  | 2.26 | 5.0 dB   |
-| Peaking | 7133 Hz  | 0.95 | -11.8 dB |
-| Peaking | 312 Hz   | 1.52 | -0.9 dB  |
-| Peaking | 744 Hz   | 0.7  | 1.3 dB   |
-| Peaking | 1362 Hz  | 1.98 | -1.6 dB  |
-| Peaking | 8974 Hz  | 5.32 | 0.8 dB   |
-| Peaking | 12051 Hz | 2.5  | -0.6 dB  |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 19.31 Hz    | 1.4816 | -2.26 dB  |
+| Peaking | 117.43 Hz   | 0.7012 | -3.17 dB  |
+| Peaking | 241.36 Hz   | 1.2969 | -1.78 dB  |
+| Peaking | 4538.04 Hz  | 0.774  | 12.29 dB  |
+| Peaking | 7407.81 Hz  | 0.9691 | -13.33 dB |
+| Peaking | 754.48 Hz   | 1.7884 | 1.05 dB   |
+| Peaking | 1411.34 Hz  | 1.9453 | -1.17 dB  |
+| Peaking | 2569.35 Hz  | 2.8396 | 0.69 dB   |
+| Peaking | 8889.02 Hz  | 5.0625 | 1.02 dB   |
+| Peaking | 11975.49 Hz | 1.8366 | -0.76 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.36dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -4.5 dB |
-| Peaking | 62 Hz    | 1.41 | -3.0 dB |
-| Peaking | 125 Hz   | 1.41 | -3.8 dB |
-| Peaking | 250 Hz   | 1.41 | -2.5 dB |
-| Peaking | 500 Hz   | 1.41 | 0.6 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 8.6 dB  |
-| Peaking | 8000 Hz  | 1.41 | -8.4 dB |
-| Peaking | 16000 Hz | 1.41 | -0.4 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.38 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -0.99 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -3.18 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.72 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.47 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 0.30 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 1.47 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 8.93 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -8.71 dB |
+| Peaking | 16000.01 Hz | 1.4142 | -0.60 dB |
 
 ### Graphs
 ![](./Sennheiser%20CX%203.00.png)

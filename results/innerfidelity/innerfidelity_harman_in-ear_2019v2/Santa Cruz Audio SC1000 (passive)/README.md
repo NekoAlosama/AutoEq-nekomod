@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.47dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.3dB**.
+When using independent subset of filters, apply preamp of **-13.89dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 39 Hz    | 0.17 | 6.1 dB   |
-| Peaking | 3151 Hz  | 0.87 | -9.0 dB  |
-| Peaking | 4966 Hz  | 3    | -7.9 dB  |
-| Peaking | 8340 Hz  | 1.45 | -19.7 dB |
-| Peaking | 9107 Hz  | 0.1  | 9.1 dB   |
-| Peaking | 1378 Hz  | 3.58 | -1.1 dB  |
-| Peaking | 2131 Hz  | 5.03 | 1.2 dB   |
-| Peaking | 8886 Hz  | 5.66 | 1.3 dB   |
-| Peaking | 10366 Hz | 3.3  | -2.2 dB  |
-| Peaking | 12937 Hz | 3.26 | 2.1 dB   |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 24.56 Hz    | 0.3081 | 11.60 dB  |
+| Peaking | 146.09 Hz   | 0.1067 | 2.29 dB   |
+| Peaking | 3105.69 Hz  | 3.3506 | -4.66 dB  |
+| Peaking | 4986.56 Hz  | 2.3195 | -9.49 dB  |
+| Peaking | 8126.06 Hz  | 3.1953 | -13.04 dB |
+| Peaking | 12.52 Hz    | 1.3194 | 2.42 dB   |
+| Peaking | 862.90 Hz   | 1.5168 | 1.24 dB   |
+| Peaking | 1960.12 Hz  | 2.25   | 1.13 dB   |
+| Peaking | 9989.12 Hz  | 1.794  | -6.98 dB  |
+| Peaking | 18946.45 Hz | 0.2424 | 12.00 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.75dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | 6.2 dB   |
-| Peaking | 62 Hz    | 1.41 | 4.5 dB   |
-| Peaking | 125 Hz   | 1.41 | 4.3 dB   |
-| Peaking | 250 Hz   | 1.41 | 1.6 dB   |
-| Peaking | 500 Hz   | 1.41 | 2.4 dB   |
-| Peaking | 1000 Hz  | 1.41 | 2.4 dB   |
-| Peaking | 2000 Hz  | 1.41 | 1.9 dB   |
-| Peaking | 4000 Hz  | 1.41 | -5.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | -10.7 dB |
-| Peaking | 16000 Hz | 1.41 | 10.6 dB  |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 31.25 Hz    | 1.4142 | 15.25 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 6.95 dB   |
+| Peaking | 125.00 Hz   | 1.4142 | 4.21 dB   |
+| Peaking | 250.00 Hz   | 1.4142 | 1.41 dB   |
+| Peaking | 500.00 Hz   | 1.4142 | 2.26 dB   |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.33 dB   |
+| Peaking | 2000.00 Hz  | 1.4142 | 1.72 dB   |
+| Peaking | 4000.00 Hz  | 1.4142 | -5.41 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -11.98 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 15.66 dB  |
 
 ### Graphs
 ![](./Santa%20Cruz%20Audio%20SC1000%20(passive).png)

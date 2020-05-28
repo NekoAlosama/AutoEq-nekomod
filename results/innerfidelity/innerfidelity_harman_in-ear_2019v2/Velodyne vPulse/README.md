@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.15dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.4dB**.
+When using independent subset of filters, apply preamp of **-8.05dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 20 Hz    | 0.6  | -9.8 dB  |
-| Peaking | 94 Hz    | 0.47 | -3.9 dB  |
-| Peaking | 3661 Hz  | 2.93 | -4.7 dB  |
-| Peaking | 5762 Hz  | 1.31 | 6.1 dB   |
-| Peaking | 11327 Hz | 2.07 | 6.0 dB   |
-| Peaking | 832 Hz   | 1.62 | 1.7 dB   |
-| Peaking | 2067 Hz  | 4.34 | 1.3 dB   |
-| Peaking | 9704 Hz  | 7.16 | 1.7 dB   |
-| Peaking | 14207 Hz | 1.86 | 3.7 dB   |
-| Peaking | 19941 Hz | 0.54 | -11.9 dB |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 16.16 Hz    | 0.4261 | -8.24 dB  |
+| Peaking | 113.66 Hz   | 0.8566 | -2.25 dB  |
+| Peaking | 225.82 Hz   | 1.5871 | -2.08 dB  |
+| Peaking | 6144.69 Hz  | 2.909  | 6.82 dB   |
+| Peaking | 10962.49 Hz | 2.0345 | 7.12 dB   |
+| Peaking | 854.21 Hz   | 1.8724 | 1.46 dB   |
+| Peaking | 2125.40 Hz  | 2.7762 | 1.29 dB   |
+| Peaking | 3400.12 Hz  | 3.6502 | -3.40 dB  |
+| Peaking | 13933.27 Hz | 1.4037 | 3.45 dB   |
+| Peaking | 19675.04 Hz | 0.5851 | -11.93 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.78dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | -10.6 dB |
-| Peaking | 62 Hz    | 1.41 | -3.5 dB  |
-| Peaking | 125 Hz   | 1.41 | -3.3 dB  |
-| Peaking | 250 Hz   | 1.41 | -2.2 dB  |
-| Peaking | 500 Hz   | 1.41 | 0.5 dB   |
-| Peaking | 1000 Hz  | 1.41 | 1.2 dB   |
-| Peaking | 2000 Hz  | 1.41 | 0.4 dB   |
-| Peaking | 4000 Hz  | 1.41 | -0.9 dB  |
-| Peaking | 8000 Hz  | 1.41 | 7.3 dB   |
-| Peaking | 16000 Hz | 1.41 | -1.6 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -7.27 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.72 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -2.74 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.50 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.34 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 1.13 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 0.25 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | -1.07 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 7.51 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -1.76 dB |
 
 ### Graphs
 ![](./Velodyne%20vPulse.png)

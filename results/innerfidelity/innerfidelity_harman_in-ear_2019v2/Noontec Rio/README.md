@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-11.65dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-11.64dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 13 Hz    | 0.18 | -10.3 dB |
-| Peaking | 160 Hz   | 0.68 | -3.1 dB  |
-| Peaking | 3165 Hz  | 1.16 | -13.3 dB |
-| Peaking | 4399 Hz  | 0.34 | 11.4 dB  |
-| Peaking | 4490 Hz  | 3.36 | -10.0 dB |
-| Peaking | 816 Hz   | 2.3  | 1.3 dB   |
-| Peaking | 1397 Hz  | 2.89 | -1.6 dB  |
-| Peaking | 5818 Hz  | 6.38 | 1.1 dB   |
-| Peaking | 13887 Hz | 1.57 | 4.5 dB   |
-| Peaking | 19943 Hz | 0.56 | -11.4 dB |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 10.15 Hz    | 0.1461 | -7.42 dB  |
+| Peaking | 165.41 Hz   | 0.9585 | -3.58 dB  |
+| Peaking | 4218.15 Hz  | 1.3589 | -17.58 dB |
+| Peaking | 5868.72 Hz  | 0.5688 | 13.49 dB  |
+| Peaking | 10856.40 Hz | 1.6413 | 5.90 dB   |
+| Peaking | 850.66 Hz   | 1.8491 | 2.57 dB   |
+| Peaking | 2782.31 Hz  | 1.0858 | 1.90 dB   |
+| Peaking | 2953.06 Hz  | 3.4444 | -5.25 dB  |
+| Peaking | 14027.02 Hz | 1.3818 | 3.15 dB   |
+| Peaking | 19713.43 Hz | 0.5653 | -11.46 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-14.09dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | -10.5 dB |
-| Peaking | 62 Hz    | 1.41 | -4.7 dB  |
-| Peaking | 125 Hz   | 1.41 | -4.5 dB  |
-| Peaking | 250 Hz   | 1.41 | -2.8 dB  |
-| Peaking | 500 Hz   | 1.41 | 0.8 dB   |
-| Peaking | 1000 Hz  | 1.41 | 2.8 dB   |
-| Peaking | 2000 Hz  | 1.41 | 1.5 dB   |
-| Peaking | 4000 Hz  | 1.41 | -6.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 10.0 dB  |
-| Peaking | 16000 Hz | 1.41 | 0.6 dB   |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -7.25 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -2.86 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -3.90 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.05 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.65 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 2.60 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 1.53 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | -8.61 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 14.86 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 0.24 dB  |
 
 ### Graphs
 ![](./Noontec%20Rio.png)

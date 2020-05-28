@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.87dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9dB**.
+When using independent subset of filters, apply preamp of **-9.80dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 25 Hz    | 0.73 | 6.3 dB   |
-| Peaking | 247 Hz   | 0.88 | -10.4 dB |
-| Peaking | 549 Hz   | 1.28 | 9.3 dB   |
-| Peaking | 1610 Hz  | 2.49 | 4.7 dB   |
-| Peaking | 8934 Hz  | 2.68 | 4.4 dB   |
-| Peaking | 3375 Hz  | 4.77 | 2.2 dB   |
-| Peaking | 4296 Hz  | 5.35 | -3.5 dB  |
-| Peaking | 5521 Hz  | 2.59 | -5.5 dB  |
-| Peaking | 7130 Hz  | 5.63 | 6.4 dB   |
-| Peaking | 19370 Hz | 0.9  | -6.6 dB  |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 15.12 Hz    | 0.124  | 11.03 dB  |
+| Peaking | 278.40 Hz   | 0.3772 | -24.89 dB |
+| Peaking | 518.92 Hz   | 0.4705 | 22.90 dB  |
+| Peaking | 5538.48 Hz  | 1.6767 | -10.70 dB |
+| Peaking | 7218.97 Hz  | 1.5788 | 9.39 dB   |
+| Peaking | 592.95 Hz   | 6.2315 | 3.79 dB   |
+| Peaking | 984.93 Hz   | 1.063  | -3.61 dB  |
+| Peaking | 1643.17 Hz  | 1.0683 | 4.05 dB   |
+| Peaking | 2411.51 Hz  | 3.6199 | -3.06 dB  |
+| Peaking | 19310.70 Hz | 0.8511 | -6.71 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.14dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | 6.8 dB   |
-| Peaking | 62 Hz    | 1.41 | 0.1 dB   |
-| Peaking | 125 Hz   | 1.41 | -1.6 dB  |
-| Peaking | 250 Hz   | 1.41 | -11.0 dB |
-| Peaking | 500 Hz   | 1.41 | 6.9 dB   |
-| Peaking | 1000 Hz  | 1.41 | 1.9 dB   |
-| Peaking | 2000 Hz  | 1.41 | 4.1 dB   |
-| Peaking | 4000 Hz  | 1.41 | -4.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 4.4 dB   |
-| Peaking | 16000 Hz | 1.41 | -2.9 dB  |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 31.25 Hz    | 1.4142 | 9.62 dB   |
+| Peaking | 62.50 Hz    | 1.4142 | 1.05 dB   |
+| Peaking | 125.00 Hz   | 1.4142 | -1.08 dB  |
+| Peaking | 250.00 Hz   | 1.4142 | -11.74 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 8.02 dB   |
+| Peaking | 1000.00 Hz  | 1.4142 | 1.59 dB   |
+| Peaking | 2000.00 Hz  | 1.4142 | 4.10 dB   |
+| Peaking | 4000.00 Hz  | 1.4142 | -5.04 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 4.45 dB   |
+| Peaking | 16000.01 Hz | 1.4142 | -3.03 dB  |
 
 ### Graphs
 ![](./Soul%20Jet%20Pro%20ANC%20Off.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.23dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-9.87dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 30 Hz    | 1    | -4.3 dB |
-| Peaking | 126 Hz   | 1    | -8.3 dB |
-| Peaking | 2139 Hz  | 2.02 | 5.0 dB  |
-| Peaking | 3366 Hz  | 1.41 | 3.9 dB  |
-| Peaking | 15364 Hz | 0.93 | 6.0 dB  |
-| Peaking | 70 Hz    | 9.57 | 2.5 dB  |
-| Peaking | 3776 Hz  | 5.05 | -4.4 dB |
-| Peaking | 4303 Hz  | 2.89 | 4.4 dB  |
-| Peaking | 7477 Hz  | 3.36 | -5.6 dB |
-| Peaking | 11687 Hz | 2.59 | 2.1 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 128.41 Hz   | 0.8824 | -7.69 dB |
+| Peaking | 2479.67 Hz  | 1.8975 | 9.00 dB  |
+| Peaking | 4493.59 Hz  | 5.2898 | 4.99 dB  |
+| Peaking | 7623.91 Hz  | 2.6415 | -6.67 dB |
+| Peaking | 14636.21 Hz | 0.445  | 5.42 dB  |
+| Peaking | 29.38 Hz    | 1.4028 | -2.26 dB |
+| Peaking | 70.67 Hz    | 6.7526 | 3.49 dB  |
+| Peaking | 921.57 Hz   | 0.9192 | -2.35 dB |
+| Peaking | 1009.92 Hz  | 0.4088 | 1.45 dB  |
+| Peaking | 3667.77 Hz  | 5.8985 | -1.54 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.35dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -5.0 dB |
-| Peaking | 62 Hz    | 1.41 | -1.0 dB |
-| Peaking | 125 Hz   | 1.41 | -8.9 dB |
-| Peaking | 250 Hz   | 1.41 | -0.9 dB |
-| Peaking | 500 Hz   | 1.41 | 0.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 5.6 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.2 dB  |
-| Peaking | 8000 Hz  | 1.41 | -2.3 dB |
-| Peaking | 16000 Hz | 1.41 | 8.0 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -2.85 dB |
+| Peaking | 62.50 Hz    | 1.4142 | 0.39 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -8.53 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -1.16 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.16 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -2.24 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 6.64 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 4.56 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -2.52 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 7.92 dB  |
 
 ### Graphs
 ![](./Beyerdynamic%20DT%20177X%20Go%20(velour%20earpads).png)

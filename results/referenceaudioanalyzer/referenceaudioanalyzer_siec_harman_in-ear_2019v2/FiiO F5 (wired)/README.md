@@ -13,10 +13,10 @@ When using independent subset of filters, apply preamp of **-8.54dB**.
 | Peaking | 871.27 Hz   | 1.4091 | 2.40 dB  |
 | Peaking | 3685.63 Hz  | 4.7713 | 3.70 dB  |
 | Peaking | 15505.90 Hz | 0.5364 | 7.93 dB  |
-| Peaking | 2486.05 Hz  | 3.8564 | -2.48 dB |
-| Peaking | 4212.86 Hz  | 1.0329 | 2.02 dB  |
-| Peaking | 5605.36 Hz  | 2.3063 | -4.83 dB |
-| Peaking | 9413.51 Hz  | 4.6585 | 2.02 dB  |
+| Peaking | 2486.07 Hz  | 3.8565 | -2.48 dB |
+| Peaking | 4212.90 Hz  | 1.0329 | 2.02 dB  |
+| Peaking | 5605.34 Hz  | 2.3063 | -4.83 dB |
+| Peaking | 9413.49 Hz  | 4.6585 | 2.02 dB  |
 | Peaking | 11926.05 Hz | 3.9763 | 1.09 dB  |
 
 ### Fixed Band EQs

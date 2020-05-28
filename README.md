@@ -2,7 +2,7 @@
 There are a few things this fork does that both introduces new problems and fixes some existing ones. This fork pretty much updates only if the original branch updates its results.
 
 Differences from souce:
-- `--max_gain` is increased from `6.0` to `sys.float_info.max`. This seems to better center the microphone data with the compensation and fixes some problems in the treble. It also allows the use of larger values to be used in the equalization; adjust the EQ if neccessary, since they can be very large. Setting it to `Inf` adds a warning where `-Inf + Inf` occurs.
+- `--max_gain` is increased from `6.0` to `NaN`. This seems to better center the microphone data with the compensation and fixes some problems in the treble. It also allows the use of larger values to be used in the equalization; adjust the EQ if neccessary, since they can be very large. Setting it to `Inf` adds a warning where `-Inf + Inf` occurs, which results in `Nan` anyways.
 - All of the new results are using the Harman compensation (with bass) curve calibrated to each data provider's mic.
 - Many values like Frequency and Gain are increased to two decimal places. Q factor specifically is increased to four decimal places.
 - A few headphones give warnings or errors while results are calculated; these are documented below. All non-problematic headphones **except Crinacle-measured headphones** are recalculated.

@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*
 
 import os
-from sys import float_info
 
 DEFAULT_F_MIN = 20
 DEFAULT_F_MAX = 20000
 DEFAULT_STEP = 1.01
 
-DEFAULT_MAX_GAIN = float_info.max
+DEFAULT_MAX_GAIN = float('nan')
 DEFAULT_TREBLE_F_LOWER = 6000.0
 DEFAULT_TREBLE_F_UPPER = 8000.0
 DEFAULT_TREBLE_MAX_GAIN = 6.0

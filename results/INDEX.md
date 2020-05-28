@@ -342,7 +342,6 @@ from the same source.
 - [Apple EarPods](./rtings/rtings_harman_in-ear_2019v2/Apple%20EarPods) by Rtings
 - [Apple In-Ear 2013](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20In-Ear%202013) by Innerfidelity
 - [Apple iPod Ear Buds (sample A)](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20iPod%20Ear%20Buds%20(sample%20A)) by Innerfidelity
-- [Apple iPod Ear Buds (sample B)](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20iPod%20Ear%20Buds%20(sample%20B)) by Innerfidelity
 - [Apple iPod Ear Buds](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20iPod%20Ear%20Buds) by Innerfidelity
 - [Apple ME186 In-Ear Headphones](./oratory1990/harman_in-ear_2019v2/Apple%20ME186%20In-Ear%20Headphones) by oratory1990
 - [ARC Mira](./crinacle/harman_in-ear_2019v2/ARC%20Mira) by Crinacle
@@ -661,7 +660,6 @@ from the same source.
 - [Base Audio G12](./oratory1990/harman_over-ear_2018/Base%20Audio%20G12) by oratory1990
 - [Beats BeatsX](./rtings/rtings_harman_in-ear_2019v2/Beats%20BeatsX) by Rtings
 - [Beats by Dr Dre Solo HD](./innerfidelity/innerfidelity_harman_over-ear_2018/Beats%20by%20Dr%20Dre%20Solo%20HD) by Innerfidelity
-- [Beats by Dr](./headphonecom/headphonecom_harman_over-ear_2018/Beats%20by%20Dr) by Headphone.com
 - [Beats EP On-Ear](./rtings/rtings_harman_over-ear_2018/Beats%20EP%20On-Ear) by Rtings
 - [Beats Executive](./rtings/rtings_harman_over-ear_2018/Beats%20Executive) by Rtings
 - [Beats Mixr 2014](./innerfidelity/innerfidelity_harman_over-ear_2018/Beats%20Mixr%202014) by Innerfidelity
@@ -2102,7 +2100,6 @@ from the same source.
 - [JVC HA-RX900](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-RX900) by Reference Audio Analyzer
 - [JVC HA-S500-Z](./innerfidelity/innerfidelity_harman_over-ear_2018/JVC%20HA-S500-Z) by Innerfidelity
 - [JVC HA-SR44X](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR44X) by Reference Audio Analyzer
-- [JVC HA-SR500](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR500) by Reference Audio Analyzer
 - [JVC HA-SR75S](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR75S) by Reference Audio Analyzer
 - [JVC HA-SR85](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR85) by Reference Audio Analyzer
 - [JVC HA-SZ2000](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SZ2000) by Reference Audio Analyzer
@@ -3104,7 +3101,6 @@ from the same source.
 - [Sennheiser HD 820](./crinacle/crinacle_harman_over-ear_2018/Sennheiser%20HD%20820) by Crinacle
 - [Sennheiser HD 820](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20820) by oratory1990
 - [Sennheiser HD 820](./rtings/rtings_harman_over-ear_2018/Sennheiser%20HD%20820) by Rtings
-- [Sennheiser HD R 130](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20HD%20R%20130) by Headphone.com
 - [Sennheiser HD1 In-Ear Wireless](./rtings/rtings_harman_in-ear_2019v2/Sennheiser%20HD1%20In-Ear%20Wireless) by Rtings
 - [Sennheiser HE 1 Orpheus 2](./oratory1990/harman_over-ear_2018/Sennheiser%20HE%201%20Orpheus%202) by oratory1990
 - [Sennheiser HE 60](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20HE%2060) by Innerfidelity
@@ -3207,7 +3203,6 @@ from the same source.
 - [Sennheiser PXC 550 Wireless](./rtings/rtings_harman_over-ear_2018/Sennheiser%20PXC%20550%20Wireless) by Rtings
 - [Sennheiser PXC 550-II Wireless](./oratory1990/harman_over-ear_2018/Sennheiser%20PXC%20550-II%20Wireless) by oratory1990
 - [Sennheiser PXC 550-II Wireless](./rtings/rtings_harman_over-ear_2018/Sennheiser%20PXC%20550-II%20Wireless) by Rtings
-- [Sennheiser RS 130](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20RS%20130) by Headphone.com
 - [Sennheiser RS 160](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20RS%20160) by Headphone.com
 - [Sennheiser RS 165](./rtings/rtings_harman_over-ear_2018/Sennheiser%20RS%20165) by Rtings
 - [Sennheiser RS 170](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20RS%20170) by Headphone.com
@@ -3406,7 +3401,6 @@ from the same source.
 - [Sony MDR-1RBT](./innerfidelity/innerfidelity_harman_over-ear_2018/Sony%20MDR-1RBT) by Innerfidelity
 - [Sony MDR-1RBT](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Sony%20MDR-1RBT) by Reference Audio Analyzer
 - [Sony MDR-3](./crinacle/crinacle_harman_over-ear_2018/Sony%20MDR-3) by Crinacle
-- [Sony MDR-7502](./headphonecom/headphonecom_harman_over-ear_2018/Sony%20MDR-7502) by Headphone.com
 - [Sony MDR-7502](./innerfidelity/innerfidelity_harman_over-ear_2018/Sony%20MDR-7502) by Innerfidelity
 - [Sony MDR-7505](./headphonecom/headphonecom_harman_over-ear_2018/Sony%20MDR-7505) by Headphone.com
 - [Sony MDR-7505](./innerfidelity/innerfidelity_harman_over-ear_2018/Sony%20MDR-7505) by Innerfidelity
@@ -3633,8 +3627,6 @@ from the same source.
 - [Stax SR-202](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Stax%20SR-202) by Reference Audio Analyzer
 - [Stax SR-207 (EP-507 leather earpads)](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207%20(EP-507%20leather%20earpads)) by Innerfidelity
 - [Stax SR-207](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207) by Innerfidelity
-- [Stax SR-303](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Stax%20SR-303) by Reference Audio Analyzer
-- [Stax SR-3](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-3) by Innerfidelity
 - [Stax SR-40 Electret SR4 Adapter](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-40%20Electret%20SR4%20Adapter) by Innerfidelity
 - [Stax SR-404 (with perfect seal)](./oratory1990/harman_over-ear_2018/Stax%20SR-404%20(with%20perfect%20seal)) by oratory1990
 - [Stax SR-404 Ltd SSL-0670](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-404%20Ltd%20SSL-0670) by Innerfidelity
