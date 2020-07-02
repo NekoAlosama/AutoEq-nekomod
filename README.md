@@ -1,5 +1,5 @@
 # AutoEQ (Optimized*)
-Results are found [here](./results). Do note that the Crinacle results and any [problematic headphone](##error-causing-headphones)'s results are in the original project found [here](https://github.com/jaakkopasanen/AutoEq/tree/master/results).
+Results are found [here](./results). Do note that the Crinacle results and any [problematic headphone](#error-causing-headphones)'s results are in the original project found [here](https://github.com/jaakkopasanen/AutoEq/tree/master/results).
 There are a few things this fork does that both introduces new problems and fixes some existing ones. This fork pretty much updates only if the original branch updates its results.
 
 Differences from souce:
