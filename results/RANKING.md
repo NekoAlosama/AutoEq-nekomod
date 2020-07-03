@@ -261,7 +261,6 @@ targets and preference scoring developed by Sean Olive et al.
 | [Vision Ears Elysium](./oratory1990/harman_in-ear_2019v2/Vision%20Ears%20Elysium)                                     |      69 |       2.47 |   -0.17 |           2.49 |
 | [AKG N20](./oratory1990/harman_in-ear_2019v2/AKG%20N20)                                                               |      68 |       2.67 |   -0.21 |           2.42 |
 | [Sony XBA-N3](./oratory1990/harman_in-ear_2019v2/Sony%20XBA-N3)                                                       |      68 |       2.3  |   -0.82 |           2.02 |
-| [Shuoer Tape](./crinacle/harman_in-ear_2019v2/Shuoer%20Tape)                                                          |      68 |       2.41 |   -0.65 |           2.15 |
 | [oBravo Cupid](./oratory1990/harman_in-ear_2019v2/oBravo%20Cupid)                                                     |      67 |       2.43 |   -0.55 |           2.45 |
 | [Sennheiser OCX 685](./oratory1990/harman_in-ear_2019v2/Sennheiser%20OCX%20685)                                       |      67 |       2.93 |    0.02 |           2.39 |
 | [Shuoer Tape](./oratory1990/harman_in-ear_2019v2/Shuoer%20Tape)                                                       |      67 |       2.46 |   -0.67 |           2.22 |

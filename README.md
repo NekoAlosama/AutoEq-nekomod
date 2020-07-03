@@ -8,7 +8,7 @@ Differences from souce:
 - Many values like Frequency and Gain are increased to two decimal places. Q factor specifically is increased to four decimal places.
 - A few headphones give warnings or errors while results are calculated; these are documented below. All non-problematic headphones **except Crinacle-measured headphones** are recalculated.
 
-**Crinacle results are removed** because their measurements are locked behind a paywall, and I do not plan on accidentally commiting said data to the fork.
+**Crinacle results are removed** because their measurements are locked behind a paywall.
 
 ## Problems caused
 Warnings, errors, and their effects are documented below. These are usually caused by a value in the equalization being too high for some calculations to work (e.g. +28db, +40db, etc.). 

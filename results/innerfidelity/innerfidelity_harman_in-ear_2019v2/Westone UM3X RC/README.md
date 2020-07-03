@@ -14,8 +14,8 @@ When using independent subset of filters, apply preamp of **-16.13dB**.
 | Peaking | 4432.72 Hz  | 1.3193 | 15.60 dB |
 | Peaking | 13817.82 Hz | 1.8188 | 5.77 dB  |
 | Peaking | 2634.04 Hz  | 3.4927 | 2.62 dB  |
-| Peaking | 3866.40 Hz  | 3.2353 | -2.63 dB |
-| Peaking | 4897.67 Hz  | 2.3538 | 1.82 dB  |
+| Peaking | 3866.45 Hz  | 3.2353 | -2.63 dB |
+| Peaking | 4897.61 Hz  | 2.3538 | 1.82 dB  |
 | Peaking | 8566.97 Hz  | 4.6189 | -4.96 dB |
 | Peaking | 11784.12 Hz | 3.9377 | 1.77 dB  |
 

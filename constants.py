@@ -25,9 +25,11 @@ DEFAULT_PHASE = 'minimum'
 DEFAULT_F_RES = 10
 DEFAULT_BASS_BOOST_GAIN = 0.0
 DEFAULT_BASS_BOOST_FC = 105.0
-DEFAULT_BASS_BOOST_Q = 0.71
+# DEFAULT_BASS_BOOST_Q = 0.71 # Original
+DEFAULT_BASS_BOOST_Q = (2.0 ** 0.5) / 2.0 # Experiment, means sqrt(2)/2, can be reduced to 0.5 ** 0.5
 
-DEFAULT_GRAPHIC_EQ_STEP = 1.0563  # Produces 127 samples with greatest frequency of 19871
+# DEFAULT_GRAPHIC_EQ_STEP = 1.0563 # Produces 127 samples with greatest frequency of 19871, original
+DEFAULT_GRAPHIC_EQ_STEP = (19999.0 / 20.0) ** (1.0 / (127 - 1)) # Produces 127 samples with greatest frequency of 19999, experiment
 
 ROOT_DIR = os.path.abspath(os.path.dirname(os.path.abspath(__file__)))
 MOD_REGEX = r' \((sample|serial number) [a-zA-Z0-9\-]+\)$'
