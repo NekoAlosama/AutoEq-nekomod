@@ -3,16 +3,18 @@ Results are found [here](./results). Do note that the Crinacle results and any [
 There are a few things this fork does that both introduces new problems and fixes some existing ones. This fork pretty much updates only if the original branch updates its results.
 
 Differences from souce:
-- `--max_gain` is increased from `6.0` to `NaN`. This seems to better center the microphone data with the compensation and fixes some problems in the treble. It also allows the use of larger values to be used in the equalization; adjust the EQ if neccessary, since they can be very large. Setting it to `Inf` adds a warning where `-Inf + Inf` occurs, which results in `Nan` anyways.
-- All of the new results are using the Harman compensation (with bass) curve calibrated to each data provider's mic.
-- Many values like Frequency and Gain are increased to two decimal places. Q factor specifically is increased to four decimal places.
-- A few headphones give warnings or errors while results are calculated; these are documented below. All non-problematic headphones **except Crinacle-measured headphones** are recalculated.
+- `--max_gain`incresed from `6.0` to `NaN`. Adjust EQ if neccessary, since the values can be very large
+- New results use provider-specific Harman target w/ bass curve
+- Many values like Frequency and Gain increased to 2 decimal places. Q factor increased to 4 decimal places.
+- Bass boost Q changed to `sqrt(2)/2` as guess.
+- GraphicEQ uses 127 samples from 20 to 19999, compared to default's 127 samples from 20 to 19871.
+- Most headphones recalculated. Problems documented below.
 
-**Crinacle results are removed** because their measurements are locked behind a paywall.
+Crinacle results are removed because their measurements are locked behind a paywall.
 
 ## Problems caused
-Warnings, errors, and their effects are documented below. These are usually caused by a value in the equalization being too high for some calculations to work (e.g. +28db, +40db, etc.). 
-Ordered by headphone source recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer). An asterisk (`*`) after any names mean they match the recommended results in [results/README.md](./results/README.md), so they are either the highest on the priority or is the only one existent. Check the source repo for any results that give bad results here; there should be normal results in the source. Additional problems shown for specific headphones.
+Warnings, errors, and effects documented below. usually caused by a very high EQ value.
+Ordered by provider recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer). Asterisks (`*`) after any name means they are the "best" verison in [results/README.md](./results/README.md). Check the source repo or other providers for any other results to those headphones. Any additional problems are listed.
 
 - Beyerdynamic DT 48 S 5 Ohm (Innerfidelity on-ear)`*`
 - Soul by Ludacris SL300 (Innerfidelity on-ear)`*`
@@ -137,7 +139,7 @@ C:\*\AutoEq-optimized\biquad.py:129: RuntimeWarning: invalid value encountered i
 ```
 
 ### Error-causing headphones 
-There are no functional differences between the errors of each headphone below. The only difference is the line for `**headphone_kwargs` (earbud_kwargs or onear_kwargs), which differs between mic data providers. These headphones are put in the ['bad headphones' folder](./measurements/bad%20headphones). All of these are on-ear headphones, and they might not be the best measurements that were possible, so check the results and see if these appear in there from another provider.
+`**headphone_kwargs` (earbud_kwargs or onear_kwargs) differs between measurements. These headphones are placed in ['bad headphones' folder](./measurements/bad%20headphones). Check the results from other providers or from AutoEQ's results.
 - Stax SR-3 (Innerfidelity)
 - Apple iPod Ear Buds (sample B) (Innerfidelity)
 - Beats by Dr (Headphone.com)
@@ -146,7 +148,7 @@ There are no functional differences between the errors of each headphone below. 
 - Sony MDR-7502 (Headphone.com)
 - JVC HA-SR500 (Reference Audio Analyzer HDM1)
 - Stax SR-303 (Reference Audio Analyzer HDM1)
-- Effects: No results are rewritten to files. Source results still exist for these headphones.
+- Effects: No results are written to files.
 ```
 C:\*\AutoEq-optimized\frequency_response.py:542: RuntimeWarning: invalid value encountered in greater
   if min_loss is None or min_loss - step_loss > threshold:
