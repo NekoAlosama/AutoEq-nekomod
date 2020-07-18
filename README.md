@@ -6,8 +6,9 @@ Differences from souce:
 - `--max_gain`incresed from `6.0` to `NaN`. Adjust EQ if neccessary, since the values can be very large
 - New results use provider-specific Harman target w/ bass curve
 - Many values like Frequency and Gain increased to 2 decimal places. Q factor increased to 4 decimal places.
-- Bass boost Q changed to `sqrt(2)/2` as guess.
-- GraphicEQ uses 127 samples from 20 to 19999, compared to default's 127 samples from 20 to 19871.
+- Bass boost Q changed to `sqrt(2)/2` as a guess guess.
+- ~~GraphicEQ uses 127 samples from 20 to 19999, compared to default's 127 samples from 20 to 19871.~~
+  - Removed for compatibility with Wavelet
 - Most headphones recalculated. Problems documented below.
 
 Crinacle results are removed because their measurements are locked behind a paywall.
