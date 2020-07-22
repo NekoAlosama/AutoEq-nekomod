@@ -13,11 +13,11 @@ When using independent subset of filters, apply preamp of **-21.08dB**.
 | Peaking | 2314.52 Hz  | 2.6411 | -2.99 dB  |
 | Peaking | 4703.43 Hz  | 2.789  | 8.41 dB   |
 | Peaking | 6830.96 Hz  | 2.4384 | -10.89 dB |
-| Peaking | 3795.43 Hz  | 1.0282 | 0.29 dB   |
-| Peaking | 9768.50 Hz  | 3.2406 | 4.05 dB   |
-| Peaking | 11246.52 Hz | 2.3416 | 1.64 dB   |
-| Peaking | 19788.46 Hz | 0.2914 | -8.64 dB  |
-| Peaking | 20061.21 Hz | 0.5074 | -3.34 dB  |
+| Peaking | 4143.44 Hz  | 1.0222 | 0.50 dB   |
+| Peaking | 9732.41 Hz  | 2.9742 | 4.33 dB   |
+| Peaking | 11311.95 Hz | 2.1528 | 2.01 dB   |
+| Peaking | 19340.32 Hz | 0.1669 | -3.46 dB  |
+| Peaking | 19866.35 Hz | 0.4659 | -8.66 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.19dB**
