@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.31dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.45dB**.
+When using independent subset of filters, apply preamp of **-7.2dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 19.64 Hz    | 1.5789 | 6.91 dB  |
-| Peaking | 106.20 Hz   | 0.5927 | -4.03 dB |
-| Peaking | 290.26 Hz   | 2.3371 | 4.52 dB  |
-| Peaking | 3356.74 Hz  | 4.4168 | -7.10 dB |
-| Peaking | 6319.93 Hz  | 4.169  | 8.05 dB  |
-| Peaking | 2161.99 Hz  | 1.2323 | 3.59 dB  |
-| Peaking | 2785.39 Hz  | 4.1359 | -3.88 dB |
-| Peaking | 3925.88 Hz  | 5.0864 | -2.28 dB |
-| Peaking | 4637.99 Hz  | 3.3754 | 1.81 dB  |
-| Peaking | 19663.62 Hz | 0.1653 | -2.85 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 20 Hz    | 1.77 | 5.8 dB  |
+| Peaking | 87 Hz    | 0.5  | -5.0 dB |
+| Peaking | 291 Hz   | 2.12 | 4.8 dB  |
+| Peaking | 3362 Hz  | 4.44 | -7.0 dB |
+| Peaking | 6243 Hz  | 3.53 | 6.8 dB  |
+| Peaking | 2051 Hz  | 1.42 | 3.7 dB  |
+| Peaking | 2817 Hz  | 3.8  | -3.0 dB |
+| Peaking | 4806 Hz  | 6.44 | 1.8 dB  |
+| Peaking | 6894 Hz  | 7.98 | 2.5 dB  |
+| Peaking | 19476 Hz | 0.12 | -2.4 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.47dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 3.63 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -2.90 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -4.41 dB |
-| Peaking | 250.00 Hz   | 1.4142 | 2.63 dB  |
-| Peaking | 500.00 Hz   | 1.4142 | -0.76 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.75 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 1.84 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | -2.97 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 3.25 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -4.04 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 1.6 dB  |
+| Peaking | 62 Hz    | 1.41 | -4.3 dB |
+| Peaking | 125 Hz   | 1.41 | -4.8 dB |
+| Peaking | 250 Hz   | 1.41 | 2.8 dB  |
+| Peaking | 500 Hz   | 1.41 | -0.7 dB |
+| Peaking | 1000 Hz  | 1.41 | 0.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | 1.9 dB  |
+| Peaking | 4000 Hz  | 1.41 | -2.9 dB |
+| Peaking | 8000 Hz  | 1.41 | 3.1 dB  |
+| Peaking | 16000 Hz | 1.41 | -3.9 dB |
 
 ### Graphs
 ![](./Ultrasone%20Signature%20DJ.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.09dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.11dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 70.97 Hz    | 0.4095 | -3.89 dB |
-| Peaking | 206.38 Hz   | 1.1588 | -6.40 dB |
-| Peaking | 1835.27 Hz  | 1.8747 | 6.85 dB  |
-| Peaking | 3608.15 Hz  | 4.7415 | 6.19 dB  |
-| Peaking | 10572.47 Hz | 1.0065 | 5.89 dB  |
-| Peaking | 301.23 Hz   | 3.5776 | -1.07 dB |
-| Peaking | 527.12 Hz   | 3.8355 | 2.56 dB  |
-| Peaking | 5381.15 Hz  | 4.0348 | -2.13 dB |
-| Peaking | 10462.98 Hz | 0.9359 | 1.66 dB  |
-| Peaking | 10948.60 Hz | 2.7374 | -2.51 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 58 Hz    | 0.35 | -5.5 dB |
+| Peaking | 206 Hz   | 1.19 | -5.9 dB |
+| Peaking | 1824 Hz  | 1.62 | 6.2 dB  |
+| Peaking | 3590 Hz  | 4.26 | 4.9 dB  |
+| Peaking | 10623 Hz | 0.97 | 5.9 dB  |
+| Peaking | 299 Hz   | 3.46 | -1.0 dB |
+| Peaking | 526 Hz   | 3.76 | 2.6 dB  |
+| Peaking | 5404 Hz  | 3.92 | -2.5 dB |
+| Peaking | 6432 Hz  | 1.24 | 1.0 dB  |
+| Peaking | 6849 Hz  | 2.07 | -0.2 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.01dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -2.38 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -2.75 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -5.07 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -7.29 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 1.80 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | -0.73 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 6.26 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 1.52 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 4.46 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 3.15 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -4.4 dB |
+| Peaking | 62 Hz    | 1.41 | -4.1 dB |
+| Peaking | 125 Hz   | 1.41 | -5.4 dB |
+| Peaking | 250 Hz   | 1.41 | -7.1 dB |
+| Peaking | 500 Hz   | 1.41 | 1.9 dB  |
+| Peaking | 1000 Hz  | 1.41 | -0.6 dB |
+| Peaking | 2000 Hz  | 1.41 | 6.0 dB  |
+| Peaking | 4000 Hz  | 1.41 | 1.3 dB  |
+| Peaking | 8000 Hz  | 1.41 | 4.6 dB  |
+| Peaking | 16000 Hz | 1.41 | 3.3 dB  |
 
 ### Graphs
 ![](./Turtle%20Beach%20Stealth%20700.png)

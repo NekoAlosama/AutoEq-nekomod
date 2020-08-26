@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.31dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.21dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 10.30 Hz    | 0.3161 | 7.18 dB  |
-| Peaking | 202.34 Hz   | 0.947  | -4.63 dB |
-| Peaking | 1182.01 Hz  | 0.502  | -4.41 dB |
-| Peaking | 2546.22 Hz  | 1.5341 | 6.35 dB  |
-| Peaking | 4298.72 Hz  | 2.4947 | 15.13 dB |
-| Peaking | 437.73 Hz   | 6.3847 | 1.01 dB  |
-| Peaking | 1037.03 Hz  | 5.2938 | 0.75 dB  |
-| Peaking | 8114.30 Hz  | 5.2011 | -2.85 dB |
-| Peaking | 10429.54 Hz | 3.3414 | -2.01 dB |
-| Peaking | 19620.71 Hz | 0.2755 | 4.28 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 18 Hz    | 1.12 | 4.6 dB  |
+| Peaking | 196 Hz   | 0.83 | -4.5 dB |
+| Peaking | 1340 Hz  | 0.49 | -4.8 dB |
+| Peaking | 2550 Hz  | 1.4  | 7.7 dB  |
+| Peaking | 4637 Hz  | 1.28 | 5.9 dB  |
+| Peaking | 755 Hz   | 3.7  | -1.0 dB |
+| Peaking | 1012 Hz  | 4.81 | 1.1 dB  |
+| Peaking | 8120 Hz  | 5.31 | -3.2 dB |
+| Peaking | 10582 Hz | 2.98 | -2.3 dB |
+| Peaking | 20030 Hz | 0.18 | 4.5 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-14.26dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 4.64 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 1.11 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -2.23 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.45 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -1.41 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -4.55 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -0.62 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 14.37 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -2.63 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 4.57 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 2.6 dB  |
+| Peaking | 62 Hz    | 1.41 | -0.2 dB |
+| Peaking | 125 Hz   | 1.41 | -2.6 dB |
+| Peaking | 250 Hz   | 1.41 | -4.3 dB |
+| Peaking | 500 Hz   | 1.41 | -1.3 dB |
+| Peaking | 1000 Hz  | 1.41 | -4.6 dB |
+| Peaking | 2000 Hz  | 1.41 | 1.7 dB  |
+| Peaking | 4000 Hz  | 1.41 | 7.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | -0.6 dB |
+| Peaking | 16000 Hz | 1.41 | 4.7 dB  |
 
 ### Graphs
 ![](./Tascam%20TH-02.png)

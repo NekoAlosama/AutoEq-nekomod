@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-11.31dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.5dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-11.23dB**.
+When using independent subset of filters, apply preamp of **-7.6dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 35.37 Hz    | 0.2452 | -18.38 dB |
-| Peaking | 144.09 Hz   | 1.3608 | -7.21 dB  |
-| Peaking | 552.75 Hz   | 1.125  | 10.79 dB  |
-| Peaking | 1270.13 Hz  | 2.5636 | 8.54 dB   |
-| Peaking | 12007.10 Hz | 1.1321 | 10.61 dB  |
-| Peaking | 1928.61 Hz  | 2.8468 | 5.78 dB   |
-| Peaking | 2731.35 Hz  | 2.0489 | -9.15 dB  |
-| Peaking | 4269.06 Hz  | 4.9719 | 5.00 dB   |
-| Peaking | 5121.63 Hz  | 4.8818 | -3.74 dB  |
-| Peaking | 8895.86 Hz  | 4.7469 | 2.91 dB   |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 37 Hz    | 0.22 | -20.8 dB |
+| Peaking | 153 Hz   | 0.85 | -11.6 dB |
+| Peaking | 443 Hz   | 0.22 | 10.5 dB  |
+| Peaking | 2808 Hz  | 2.73 | -11.2 dB |
+| Peaking | 12394 Hz | 0.77 | 6.8 dB   |
+| Peaking | 1800 Hz  | 2.67 | 3.8 dB   |
+| Peaking | 1828 Hz  | 0.69 | -1.6 dB  |
+| Peaking | 4306 Hz  | 5.37 | 4.4 dB   |
+| Peaking | 5082 Hz  | 4.06 | -4.4 dB  |
+| Peaking | 8713 Hz  | 4.66 | 2.1 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.81dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 31.25 Hz    | 1.4142 | -19.66 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -10.92 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -14.16 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.15 dB  |
-| Peaking | 500.00 Hz   | 1.4142 | 8.01 dB   |
-| Peaking | 1000.00 Hz  | 1.4142 | 8.01 dB   |
-| Peaking | 2000.00 Hz  | 1.4142 | 0.91 dB   |
-| Peaking | 4000.00 Hz  | 1.4142 | -4.33 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 7.22 dB   |
-| Peaking | 16000.01 Hz | 1.4142 | 7.94 dB   |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | -22.2 dB |
+| Peaking | 62 Hz    | 1.41 | -11.7 dB |
+| Peaking | 125 Hz   | 1.41 | -14.5 dB |
+| Peaking | 250 Hz   | 1.41 | -3.2 dB  |
+| Peaking | 500 Hz   | 1.41 | 6.8 dB   |
+| Peaking | 1000 Hz  | 1.41 | 6.2 dB   |
+| Peaking | 2000 Hz  | 1.41 | 1.1 dB   |
+| Peaking | 4000 Hz  | 1.41 | -3.7 dB  |
+| Peaking | 8000 Hz  | 1.41 | 5.9 dB   |
+| Peaking | 16000 Hz | 1.41 | 6.5 dB   |
 
 ### Graphs
 ![](./Sennheiser%20PXC%20550%20Wireless%20(wireless).png)

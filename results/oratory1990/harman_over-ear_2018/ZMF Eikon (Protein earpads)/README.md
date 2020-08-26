@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-11.26dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.94dB**.
+When using independent subset of filters, apply preamp of **-7.3dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 492.21 Hz   | 0.2719 | -3.63 dB |
-| Peaking | 1738.64 Hz  | 1.6575 | 8.78 dB  |
-| Peaking | 6969.83 Hz  | 5.7449 | 9.36 dB  |
-| Peaking | 9287.62 Hz  | 2.572  | 5.62 dB  |
-| Peaking | 20153.12 Hz | 0.3019 | -4.27 dB |
-| Peaking | 24.09 Hz    | 1.0013 | 1.76 dB  |
-| Peaking | 64.53 Hz    | 3.0336 | 1.97 dB  |
-| Peaking | 2988.59 Hz  | 3.4891 | -2.34 dB |
-| Peaking | 4323.60 Hz  | 1.2337 | 3.32 dB  |
-| Peaking | 5300.21 Hz  | 4.7116 | -7.16 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 364 Hz   | 0.21 | -3.5 dB |
+| Peaking | 1758 Hz  | 1.66 | 8.5 dB  |
+| Peaking | 7004 Hz  | 4.67 | 5.4 dB  |
+| Peaking | 9222 Hz  | 2.46 | 5.8 dB  |
+| Peaking | 19617 Hz | 0.4  | -4.0 dB |
+| Peaking | 939 Hz   | 1    | 1.7 dB  |
+| Peaking | 1051 Hz  | 2.86 | -3.6 dB |
+| Peaking | 4146 Hz  | 3.86 | 2.9 dB  |
+| Peaking | 5429 Hz  | 4.24 | -5.9 dB |
+| Peaking | 6219 Hz  | 4.67 | 3.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.23dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 1.21 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 1.68 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -2.88 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -3.06 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -1.99 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -2.31 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 6.74 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | -2.05 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 7.04 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -3.71 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -0.9 dB |
+| Peaking | 62 Hz    | 1.41 | 0.3 dB  |
+| Peaking | 125 Hz   | 1.41 | -3.2 dB |
+| Peaking | 250 Hz   | 1.41 | -2.9 dB |
+| Peaking | 500 Hz   | 1.41 | -1.9 dB |
+| Peaking | 1000 Hz  | 1.41 | -2.2 dB |
+| Peaking | 2000 Hz  | 1.41 | 6.7 dB  |
+| Peaking | 4000 Hz  | 1.41 | -1.8 dB |
+| Peaking | 8000 Hz  | 1.41 | 6.1 dB  |
+| Peaking | 16000 Hz | 1.41 | -3.4 dB |
 
 ### Graphs
 ![](./ZMF%20Eikon%20(Protein%20earpads).png)

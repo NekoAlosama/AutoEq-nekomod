@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-19.13dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-19.13dB**.
+When using independent subset of filters, apply preamp of **-7.9dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 20.76 Hz    | 0.8974 | 18.57 dB |
-| Peaking | 145.81 Hz   | 0.4715 | -4.20 dB |
-| Peaking | 467.93 Hz   | 2.0761 | -4.35 dB |
-| Peaking | 4169.29 Hz  | 2.0531 | 9.60 dB  |
-| Peaking | 11182.19 Hz | 2.3744 | 11.34 dB |
-| Peaking | 1104.79 Hz  | 2.7289 | 1.64 dB  |
-| Peaking | 5166.54 Hz  | 2.9228 | 1.76 dB  |
-| Peaking | 8008.79 Hz  | 2.6844 | -8.14 dB |
-| Peaking | 8706.69 Hz  | 4.192  | 4.36 dB  |
-| Peaking | 9378.81 Hz  | 4.1084 | 4.04 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 29 Hz    | 0.69 | 7.9 dB   |
+| Peaking | 118 Hz   | 0.38 | -4.5 dB  |
+| Peaking | 469 Hz   | 2.08 | -4.2 dB  |
+| Peaking | 3882 Hz  | 1.35 | 6.5 dB   |
+| Peaking | 11553 Hz | 2.01 | 7.0 dB   |
+| Peaking | 1096 Hz  | 2.69 | 1.7 dB   |
+| Peaking | 5149 Hz  | 4.2  | 3.6 dB   |
+| Peaking | 9396 Hz  | 5.5  | 5.8 dB   |
+| Peaking | 14548 Hz | 0.97 | 14.2 dB  |
+| Peaking | 19897 Hz | 0.17 | -18.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-16.11dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.0dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 16.22 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -2.75 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -2.72 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -2.87 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -5.08 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 1.86 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -1.13 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 8.18 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 2.82 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -0.66 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 7.9 dB  |
+| Peaking | 62 Hz    | 1.41 | -1.4 dB |
+| Peaking | 125 Hz   | 1.41 | -3.2 dB |
+| Peaking | 250 Hz   | 1.41 | -2.6 dB |
+| Peaking | 500 Hz   | 1.41 | -5.0 dB |
+| Peaking | 1000 Hz  | 1.41 | 1.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.4 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.5 dB  |
+| Peaking | 8000 Hz  | 1.41 | 2.0 dB  |
+| Peaking | 16000 Hz | 1.41 | -1.2 dB |
 
 ### Graphs
 ![](./Panasonic%20RP-HC101.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.52dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.47dB**.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 13.45 Hz    | 0.2642 | -5.61 dB  |
-| Peaking | 170.93 Hz   | 0.3628 | -8.52 dB  |
-| Peaking | 1218.18 Hz  | 0.5519 | 6.70 dB   |
-| Peaking | 4398.98 Hz  | 3.6263 | 5.52 dB   |
-| Peaking | 10654.05 Hz | 2.3111 | 7.62 dB   |
-| Peaking | 5198.93 Hz  | 4.9123 | 2.51 dB   |
-| Peaking | 6317.98 Hz  | 3.7296 | -3.94 dB  |
-| Peaking | 9000.47 Hz  | 5.7082 | 2.31 dB   |
-| Peaking | 13605.80 Hz | 1.8338 | 3.84 dB   |
-| Peaking | 19737.36 Hz | 0.5768 | -12.65 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 14 Hz    | 0.3  | -7.7 dB  |
+| Peaking | 142 Hz   | 0.3  | -8.9 dB  |
+| Peaking | 1205 Hz  | 0.54 | 6.9 dB   |
+| Peaking | 4382 Hz  | 3.32 | 5.0 dB   |
+| Peaking | 10764 Hz | 2.1  | 6.8 dB   |
+| Peaking | 5186 Hz  | 4.88 | 2.7 dB   |
+| Peaking | 6276 Hz  | 3.64 | -3.9 dB  |
+| Peaking | 8879 Hz  | 5.49 | 2.6 dB   |
+| Peaking | 13769 Hz | 1.82 | 3.9 dB   |
+| Peaking | 19834 Hz | 0.55 | -12.5 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.87dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -6.39 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -4.93 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -7.22 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -6.49 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -1.26 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 5.00 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 3.86 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 3.47 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 3.33 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -2.03 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -9.5 dB |
+| Peaking | 62 Hz    | 1.41 | -6.9 dB |
+| Peaking | 125 Hz   | 1.41 | -7.7 dB |
+| Peaking | 250 Hz   | 1.41 | -6.3 dB |
+| Peaking | 500 Hz   | 1.41 | -1.1 dB |
+| Peaking | 1000 Hz  | 1.41 | 5.1 dB  |
+| Peaking | 2000 Hz  | 1.41 | 4.1 dB  |
+| Peaking | 4000 Hz  | 1.41 | 3.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | 3.3 dB  |
+| Peaking | 16000 Hz | 1.41 | -1.9 dB |
 
 ### Graphs
 ![](./Tekfusion%20Ecoofers.png)

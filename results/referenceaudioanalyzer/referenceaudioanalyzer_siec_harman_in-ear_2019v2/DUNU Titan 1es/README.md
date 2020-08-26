@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-11.21dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-11.24dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 23.15 Hz    | 0.592  | 7.28 dB  |
-| Peaking | 57.56 Hz    | 0.8732 | 3.83 dB  |
-| Peaking | 3104.55 Hz  | 1.8676 | 3.16 dB  |
-| Peaking | 5686.53 Hz  | 2.2919 | -9.08 dB |
-| Peaking | 20173.42 Hz | 0.1866 | 10.67 dB |
-| Peaking | 315.13 Hz   | 1.3782 | -0.82 dB |
-| Peaking | 1459.82 Hz  | 3.9824 | -1.33 dB |
-| Peaking | 7757.04 Hz  | 3.746  | -2.01 dB |
-| Peaking | 9263.45 Hz  | 2.7837 | 3.63 dB  |
-| Peaking | 12111.60 Hz | 1.2844 | -1.56 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 29 Hz    | 0.46 | 5.4 dB  |
+| Peaking | 3490 Hz  | 1.31 | 4.8 dB  |
+| Peaking | 5627 Hz  | 1.44 | -9.7 dB |
+| Peaking | 9290 Hz  | 2.73 | 3.7 dB  |
+| Peaking | 18011 Hz | 0.31 | 6.5 dB  |
+| Peaking | 363 Hz   | 0.83 | -0.7 dB |
+| Peaking | 903 Hz   | 1.28 | 1.4 dB  |
+| Peaking | 1392 Hz  | 1.57 | -1.7 dB |
+| Peaking | 2419 Hz  | 3.6  | 1.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.75dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 9.04 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 4.55 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | 1.18 dB  |
-| Peaking | 250.00 Hz   | 1.4142 | -0.80 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -0.11 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -0.33 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 1.54 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | -1.54 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -1.76 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 11.36 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 5.8 dB  |
+| Peaking | 62 Hz    | 1.41 | 2.6 dB  |
+| Peaking | 125 Hz   | 1.41 | 0.6 dB  |
+| Peaking | 250 Hz   | 1.41 | -0.5 dB |
+| Peaking | 500 Hz   | 1.41 | 0.0 dB  |
+| Peaking | 1000 Hz  | 1.41 | -0.2 dB |
+| Peaking | 2000 Hz  | 1.41 | 1.7 dB  |
+| Peaking | 4000 Hz  | 1.41 | -1.5 dB |
+| Peaking | 8000 Hz  | 1.41 | -1.3 dB |
+| Peaking | 16000 Hz | 1.41 | 9.4 dB  |
 
 ### Graphs
 ![](./DUNU%20Titan%201es.png)

@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.98dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-14.46dB**.
+In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
+with these parameters. The first 4 filters can be used independently.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 61.68 Hz    | 0.5314 | -3.18 dB |
-| Peaking | 135.50 Hz   | 0.9993 | -4.81 dB |
-| Peaking | 3679.06 Hz  | 3.6129 | 13.86 dB |
-| Peaking | 9896.31 Hz  | 2.9503 | 5.36 dB  |
-| Peaking | 19610.15 Hz | 0.5318 | -8.38 dB |
-| Peaking | 534.35 Hz   | 1.7466 | 2.17 dB  |
-| Peaking | 1346.39 Hz  | 1.1002 | -2.95 dB |
-| Peaking | 2751.26 Hz  | 0.7911 | 1.78 dB  |
-| Peaking | 6463.23 Hz  | 1.362  | -3.39 dB |
-| Peaking | 8660.28 Hz  | 1.054  | 1.66 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 45 Hz    | 0.47 | -4.4 dB |
+| Peaking | 124 Hz   | 0.92 | -5.3 dB |
+| Peaking | 3535 Hz  | 2.28 | 7.0 dB  |
+| Peaking | 9614 Hz  | 3.92 | 5.0 dB  |
+| Peaking | 545 Hz   | 1.57 | 2.5 dB  |
+| Peaking | 1394 Hz  | 0.83 | -2.7 dB |
+| Peaking | 2347 Hz  | 1.48 | 2.0 dB  |
+| Peaking | 12479 Hz | 1.33 | 3.3 dB  |
+| Peaking | 19801 Hz | 0.26 | -7.6 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.01dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.0dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -1.84 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -3.17 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -6.19 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -2.28 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 2.52 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | -2.34 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -0.76 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 8.78 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | -0.26 dB |
-| Peaking | 16000.01 Hz | 1.4142 | -4.34 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -3.8 dB |
+| Peaking | 62 Hz    | 1.41 | -4.5 dB |
+| Peaking | 125 Hz   | 1.41 | -6.5 dB |
+| Peaking | 250 Hz   | 1.41 | -2.1 dB |
+| Peaking | 500 Hz   | 1.41 | 2.6 dB  |
+| Peaking | 1000 Hz  | 1.41 | -2.3 dB |
+| Peaking | 2000 Hz  | 1.41 | 0.2 dB  |
+| Peaking | 4000 Hz  | 1.41 | 5.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | 0.9 dB  |
+| Peaking | 16000 Hz | 1.41 | -4.3 dB |
 
 ### Graphs
 ![](./Caeden%20Linea%20No%2010%20(wired,%20active).png)

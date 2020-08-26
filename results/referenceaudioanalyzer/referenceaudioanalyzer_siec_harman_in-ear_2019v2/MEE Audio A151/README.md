@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-23.43dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-24.27dB**.
+When using independent subset of filters, apply preamp of **-7.3dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 15.41 Hz    | 0.2207 | 4.61 dB   |
-| Peaking | 251.94 Hz   | 0.3675 | -6.29 dB  |
-| Peaking | 2512.10 Hz  | 1.4483 | -4.62 dB  |
-| Peaking | 3720.12 Hz  | 2.2608 | 10.32 dB  |
-| Peaking | 10670.00 Hz | 1.2777 | 23.54 dB  |
-| Peaking | 4636.64 Hz  | 5.1486 | 2.17 dB   |
-| Peaking | 8913.76 Hz  | 3.7252 | 7.57 dB   |
-| Peaking | 9864.75 Hz  | 0.9377 | -5.75 dB  |
-| Peaking | 13598.83 Hz | 1.1673 | 9.02 dB   |
-| Peaking | 19639.67 Hz | 0.6722 | -16.47 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 117 Hz   | 1.01 | -1.9 dB  |
+| Peaking | 322 Hz   | 0.47 | -5.9 dB  |
+| Peaking | 1566 Hz  | 1.12 | -4.9 dB  |
+| Peaking | 2458 Hz  | 3.59 | -5.4 dB  |
+| Peaking | 5121 Hz  | 0.25 | 7.2 dB   |
+| Peaking | 20 Hz    | 1.33 | 1.6 dB   |
+| Peaking | 3381 Hz  | 5.3  | 1.9 dB   |
+| Peaking | 5933 Hz  | 0.74 | -0.7 dB  |
+| Peaking | 15313 Hz | 1.06 | 7.5 dB   |
+| Peaking | 19732 Hz | 0.61 | -16.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-19.67dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.2dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 4.40 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 0.47 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -3.00 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -5.51 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -3.79 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -1.12 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -3.62 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 5.12 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 18.08 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 7.96 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 1.4 dB  |
+| Peaking | 62 Hz    | 1.41 | -1.5 dB |
+| Peaking | 125 Hz   | 1.41 | -3.6 dB |
+| Peaking | 250 Hz   | 1.41 | -5.2 dB |
+| Peaking | 500 Hz   | 1.41 | -3.7 dB |
+| Peaking | 1000 Hz  | 1.41 | -1.0 dB |
+| Peaking | 2000 Hz  | 1.41 | -2.9 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.2 dB  |
+| Peaking | 8000 Hz  | 1.41 | 6.7 dB  |
+| Peaking | 16000 Hz | 1.41 | 3.8 dB  |
 
 ### Graphs
 ![](./MEE%20Audio%20A151.png)

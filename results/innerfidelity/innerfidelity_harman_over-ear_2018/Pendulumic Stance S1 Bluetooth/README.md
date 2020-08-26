@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-17.77dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-17.77dB**.
+When using independent subset of filters, apply preamp of **-7.2dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 19.24 Hz    | 0.4206 | 19.17 dB |
-| Peaking | 98.81 Hz    | 0.3885 | -7.38 dB |
-| Peaking | 3447.82 Hz  | 1.8813 | 5.04 dB  |
-| Peaking | 5892.53 Hz  | 3.3467 | 5.73 dB  |
-| Peaking | 19426.46 Hz | 0.7787 | 6.26 dB  |
-| Peaking | 627.35 Hz   | 3.0775 | 1.87 dB  |
-| Peaking | 1650.18 Hz  | 1.0401 | -3.72 dB |
-| Peaking | 2348.44 Hz  | 1.6482 | 4.91 dB  |
-| Peaking | 3069.07 Hz  | 6.7559 | -3.59 dB |
-| Peaking | 10925.63 Hz | 4.3389 | -1.55 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 37 Hz    | 0.5  | 11.4 dB |
+| Peaking | 85 Hz    | 0.39 | -8.5 dB |
+| Peaking | 3362 Hz  | 1.66 | 4.6 dB  |
+| Peaking | 5918 Hz  | 3.27 | 5.7 dB  |
+| Peaking | 19325 Hz | 0.78 | 6.2 dB  |
+| Peaking | 1407 Hz  | 1.82 | -2.9 dB |
+| Peaking | 2371 Hz  | 3.4  | 2.7 dB  |
+| Peaking | 3054 Hz  | 7.38 | -2.7 dB |
+| Peaking | 4583 Hz  | 0.07 | 0.4 dB  |
+| Peaking | 11079 Hz | 2.06 | -1.5 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.27dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.5dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 17.70 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -2.23 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -3.79 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -3.20 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 0.26 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | -1.86 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 0.47 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 5.60 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 0.92 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 2.84 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 8.1 dB  |
+| Peaking | 62 Hz    | 1.41 | -0.4 dB |
+| Peaking | 125 Hz   | 1.41 | -4.3 dB |
+| Peaking | 250 Hz   | 1.41 | -2.9 dB |
+| Peaking | 500 Hz   | 1.41 | 0.3 dB  |
+| Peaking | 1000 Hz  | 1.41 | -1.8 dB |
+| Peaking | 2000 Hz  | 1.41 | 0.6 dB  |
+| Peaking | 4000 Hz  | 1.41 | 5.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | 1.1 dB  |
+| Peaking | 16000 Hz | 1.41 | 3.0 dB  |
 
 ### Graphs
 ![](./Pendulumic%20Stance%20S1%20Bluetooth.png)

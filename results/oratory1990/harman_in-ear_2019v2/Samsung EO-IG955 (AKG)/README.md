@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-5.18dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.3dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.25dB**.
+When using independent subset of filters, apply preamp of **-5.2dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 176.28 Hz   | 0.6553 | -4.44 dB |
-| Peaking | 783.72 Hz   | 1.0697 | 2.63 dB  |
-| Peaking | 3105.10 Hz  | 0.3747 | 2.45 dB  |
-| Peaking | 6586.20 Hz  | 4.3681 | 6.17 dB  |
-| Peaking | 19108.14 Hz | 0.163  | -9.93 dB |
-| Peaking | 22.01 Hz    | 1.2278 | 2.23 dB  |
-| Peaking | 3420.29 Hz  | 3.7619 | -0.79 dB |
-| Peaking | 4373.34 Hz  | 5.3062 | 1.10 dB  |
-| Peaking | 8153.00 Hz  | 6.5669 | -2.49 dB |
-| Peaking | 9012.42 Hz  | 4.6542 | 1.42 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 103 Hz   | 0.48 | -5.1 dB |
+| Peaking | 271 Hz   | 0.98 | -3.2 dB |
+| Peaking | 999 Hz   | 0.18 | 3.2 dB  |
+| Peaking | 6574 Hz  | 4.22 | 6.4 dB  |
+| Peaking | 19161 Hz | 0.16 | -9.9 dB |
+| Peaking | 824 Hz   | 2.33 | 1.1 dB  |
+| Peaking | 1342 Hz  | 0.39 | -0.4 dB |
+| Peaking | 4440 Hz  | 5.53 | 1.5 dB  |
+| Peaking | 8052 Hz  | 7.44 | -2.3 dB |
+| Peaking | 9011 Hz  | 2.96 | 1.3 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.70dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 31.25 Hz    | 1.4142 | 2.07 dB   |
-| Peaking | 62.50 Hz    | 1.4142 | -1.24 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -3.46 dB  |
-| Peaking | 250.00 Hz   | 1.4142 | -3.52 dB  |
-| Peaking | 500.00 Hz   | 1.4142 | 0.97 dB   |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.87 dB   |
-| Peaking | 2000.00 Hz  | 1.4142 | 1.45 dB   |
-| Peaking | 4000.00 Hz  | 1.4142 | 1.93 dB   |
-| Peaking | 8000.00 Hz  | 1.4142 | -0.71 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -14.30 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | -1.0 dB  |
+| Peaking | 62 Hz    | 1.41 | -3.2 dB  |
+| Peaking | 125 Hz   | 1.41 | -4.1 dB  |
+| Peaking | 250 Hz   | 1.41 | -3.2 dB  |
+| Peaking | 500 Hz   | 1.41 | 1.1 dB   |
+| Peaking | 1000 Hz  | 1.41 | 3.0 dB   |
+| Peaking | 2000 Hz  | 1.41 | 1.6 dB   |
+| Peaking | 4000 Hz  | 1.41 | 2.1 dB   |
+| Peaking | 8000 Hz  | 1.41 | -0.6 dB  |
+| Peaking | 16000 Hz | 1.41 | -14.0 dB |
 
 ### Graphs
 ![](./Samsung%20EO-IG955%20(AKG).png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-15.98dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-15.97dB**.
+When using independent subset of filters, apply preamp of **-7.2dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 18.42 Hz    | 0.8869 | 13.93 dB |
-| Peaking | 33.03 Hz    | 0.8859 | 3.09 dB  |
-| Peaking | 2199.54 Hz  | 4.565  | -3.88 dB |
-| Peaking | 6662.62 Hz  | 3.1879 | -2.65 dB |
-| Peaking | 8364.78 Hz  | 2.8258 | -3.79 dB |
-| Peaking | 1041.17 Hz  | 0.6256 | 2.89 dB  |
-| Peaking | 2102.59 Hz  | 1.9344 | -2.19 dB |
-| Peaking | 7120.08 Hz  | 2.3903 | -0.56 dB |
-| Peaking | 10276.71 Hz | 3.5331 | -2.03 dB |
-| Peaking | 18395.47 Hz | 0.4156 | 3.74 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 28 Hz    | 0.89 | 6.6 dB  |
+| Peaking | 1270 Hz  | 0.49 | 3.3 dB  |
+| Peaking | 2161 Hz  | 2.26 | -6.2 dB |
+| Peaking | 6438 Hz  | 2.96 | -2.6 dB |
+| Peaking | 8239 Hz  | 2.67 | -4.0 dB |
+| Peaking | 134 Hz   | 1.55 | -1.2 dB |
+| Peaking | 3808 Hz  | 8.61 | -3.9 dB |
+| Peaking | 5793 Hz  | 6.17 | -2.1 dB |
+| Peaking | 9947 Hz  | 1.2  | -3.9 dB |
+| Peaking | 19063 Hz | 0.08 | 3.7 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.60dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 12.93 dB |
-| Peaking | 62.50 Hz    | 1.4142 | 1.02 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -0.87 dB |
-| Peaking | 250.00 Hz   | 1.4142 | 0.23 dB  |
-| Peaking | 500.00 Hz   | 1.4142 | 1.18 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 3.27 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -2.29 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 0.40 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | -4.69 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 4.43 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 7.5 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.7 dB  |
+| Peaking | 125 Hz   | 1.41 | -1.0 dB |
+| Peaking | 250 Hz   | 1.41 | 0.1 dB  |
+| Peaking | 500 Hz   | 1.41 | 1.4 dB  |
+| Peaking | 1000 Hz  | 1.41 | 3.5 dB  |
+| Peaking | 2000 Hz  | 1.41 | -2.8 dB |
+| Peaking | 4000 Hz  | 1.41 | 1.0 dB  |
+| Peaking | 8000 Hz  | 1.41 | -4.7 dB |
+| Peaking | 16000 Hz | 1.41 | 4.6 dB  |
 
 ### Graphs
 ![](./Grado%20SR60e.png)

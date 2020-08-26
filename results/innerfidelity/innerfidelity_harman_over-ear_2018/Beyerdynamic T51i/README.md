@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.52dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.53dB**.
+When using independent subset of filters, apply preamp of **-7.2dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 15.93 Hz    | 0.8636 | 4.11 dB  |
-| Peaking | 131.60 Hz   | 0.5768 | -6.43 dB |
-| Peaking | 1920.99 Hz  | 2.7448 | 6.25 dB  |
-| Peaking | 3933.95 Hz  | 1.689  | 6.14 dB  |
-| Peaking | 22049.93 Hz | 2.2084 | 2.64 dB  |
-| Peaking | 293.00 Hz   | 5.7369 | 1.41 dB  |
-| Peaking | 4096.80 Hz  | 3.8844 | 1.22 dB  |
-| Peaking | 4883.30 Hz  | 2.9046 | -2.18 dB |
-| Peaking | 6497.66 Hz  | 4.2935 | 3.27 dB  |
-| Peaking | 19561.36 Hz | 1.031  | -5.30 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 64 Hz    | 1.29 | -2.0 dB |
+| Peaking | 136 Hz   | 0.66 | -6.6 dB |
+| Peaking | 1909 Hz  | 2.38 | 6.0 dB  |
+| Peaking | 3806 Hz  | 2.43 | 6.0 dB  |
+| Peaking | 6301 Hz  | 3.06 | 3.0 dB  |
+| Peaking | 302 Hz   | 3.96 | 1.7 dB  |
+| Peaking | 494 Hz   | 1.65 | -1.2 dB |
+| Peaking | 2638 Hz  | 8.17 | -1.0 dB |
+| Peaking | 8012 Hz  | 2.94 | -0.2 dB |
+| Peaking | 12070 Hz | 3.91 | 1.6 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.01dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 2.06 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -2.43 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -6.45 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -2.23 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -1.55 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -0.49 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 4.78 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 4.56 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 0.95 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -1.58 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.1 dB  |
+| Peaking | 62 Hz    | 1.41 | -3.8 dB |
+| Peaking | 125 Hz   | 1.41 | -6.8 dB |
+| Peaking | 250 Hz   | 1.41 | -2.0 dB |
+| Peaking | 500 Hz   | 1.41 | -1.5 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.3 dB |
+| Peaking | 2000 Hz  | 1.41 | 4.6 dB  |
+| Peaking | 4000 Hz  | 1.41 | 4.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | 1.1 dB  |
+| Peaking | 16000 Hz | 1.41 | -1.5 dB |
 
 ### Graphs
 ![](./Beyerdynamic%20T51i.png)

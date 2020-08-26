@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.05dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.93dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.56 Hz    | 0.7164 | 2.61 dB  |
-| Peaking | 540.65 Hz   | 1.4646 | 3.60 dB  |
-| Peaking | 2097.42 Hz  | 1.1957 | -6.62 dB |
-| Peaking | 4074.22 Hz  | 3.0526 | 10.00 dB |
-| Peaking | 7788.80 Hz  | 5.8215 | -3.42 dB |
-| Peaking | 167.22 Hz   | 2.2577 | -1.45 dB |
-| Peaking | 4446.34 Hz  | 4.4509 | 1.26 dB  |
-| Peaking | 5184.43 Hz  | 2.1505 | -1.74 dB |
-| Peaking | 6111.33 Hz  | 5.3651 | 2.13 dB  |
-| Peaking | 12967.06 Hz | 2.0549 | 1.87 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 543 Hz   | 1.42 | 3.7 dB  |
+| Peaking | 2147 Hz  | 1.13 | -6.7 dB |
+| Peaking | 4016 Hz  | 2.32 | 8.4 dB  |
+| Peaking | 7813 Hz  | 5.58 | -3.7 dB |
+| Peaking | 12946 Hz | 1.76 | 1.9 dB  |
+| Peaking | 132 Hz   | 2.32 | -1.1 dB |
+| Peaking | 185 Hz   | 3.42 | -1.0 dB |
+| Peaking | 4543 Hz  | 6.68 | 1.6 dB  |
+| Peaking | 5131 Hz  | 2.68 | -1.6 dB |
+| Peaking | 6141 Hz  | 5.25 | 1.8 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.72dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 2.60 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 1.51 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -0.93 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -0.56 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 3.65 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.46 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -8.22 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 6.97 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | -2.15 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 1.02 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.6 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.2 dB  |
+| Peaking | 125 Hz   | 1.41 | -1.3 dB |
+| Peaking | 250 Hz   | 1.41 | -0.4 dB |
+| Peaking | 500 Hz   | 1.41 | 3.7 dB  |
+| Peaking | 1000 Hz  | 1.41 | 0.5 dB  |
+| Peaking | 2000 Hz  | 1.41 | -7.9 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.3 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.9 dB |
+| Peaking | 16000 Hz | 1.41 | 1.1 dB  |
 
 ### Graphs
 ![](./Sennheiser%20Momentum%20On-Ear.png)

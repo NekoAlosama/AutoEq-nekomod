@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-13.51dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.75dB**.
+When using independent subset of filters, apply preamp of **-7.4dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 10.43 Hz   | 0.2414 | 6.00 dB   |
-| Peaking | 203.81 Hz  | 0.5875 | -6.60 dB  |
-| Peaking | 3701.15 Hz | 1.8457 | 17.30 dB  |
-| Peaking | 5272.35 Hz | 1.3911 | -14.60 dB |
-| Peaking | 9676.05 Hz | 0.6938 | 11.05 dB  |
-| Peaking | 492.99 Hz  | 1.9152 | -2.05 dB  |
-| Peaking | 843.98 Hz  | 1.7737 | 4.87 dB   |
-| Peaking | 1365.86 Hz | 1.6175 | -4.26 dB  |
-| Peaking | 2258.46 Hz | 1.8965 | 2.91 dB   |
-| Peaking | 3136.87 Hz | 4.6153 | -2.09 dB  |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 13 Hz   | 0.53 | 4.6 dB  |
+| Peaking | 192 Hz  | 0.55 | -6.4 dB |
+| Peaking | 3040 Hz | 1.37 | 5.5 dB  |
+| Peaking | 5608 Hz | 2.87 | -9.9 dB |
+| Peaking | 9878 Hz | 0.44 | 6.8 dB  |
+| Peaking | 487 Hz  | 1.84 | -2.1 dB |
+| Peaking | 841 Hz  | 1.8  | 4.9 dB  |
+| Peaking | 1382 Hz | 1.61 | -4.5 dB |
+| Peaking | 2294 Hz | 1.33 | 2.4 dB  |
+| Peaking | 2946 Hz | 4.08 | -2.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.24dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 4.65 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 0.86 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -4.25 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -5.55 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.21 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.61 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 2.14 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 5.65 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 4.54 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 6.45 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 2.5 dB  |
+| Peaking | 62 Hz    | 1.41 | -0.5 dB |
+| Peaking | 125 Hz   | 1.41 | -4.6 dB |
+| Peaking | 250 Hz   | 1.41 | -5.4 dB |
+| Peaking | 500 Hz   | 1.41 | -2.1 dB |
+| Peaking | 1000 Hz  | 1.41 | 0.7 dB  |
+| Peaking | 2000 Hz  | 1.41 | 2.8 dB  |
+| Peaking | 4000 Hz  | 1.41 | 2.7 dB  |
+| Peaking | 8000 Hz  | 1.41 | 4.0 dB  |
+| Peaking | 16000 Hz | 1.41 | 6.1 dB  |
 
 ### Graphs
 ![](./Soul%20by%20Ludacris%20SL100.png)
