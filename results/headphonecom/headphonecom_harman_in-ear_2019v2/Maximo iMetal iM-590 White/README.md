@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.5dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.35dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-8.24dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 16 Hz    | 0.19 | -5.6 dB  |
-| Peaking | 143 Hz   | 0.78 | -2.3 dB  |
-| Peaking | 4349 Hz  | 1.57 | 7.6 dB   |
-| Peaking | 6566 Hz  | 3.83 | -10.2 dB |
-| Peaking | 12448 Hz | 1.49 | 6.6 dB   |
-| Peaking | 774 Hz   | 2.07 | 1.7 dB   |
-| Peaking | 2668 Hz  | 1.29 | -2.7 dB  |
-| Peaking | 3170 Hz  | 3.28 | 3.9 dB   |
-| Peaking | 8781 Hz  | 5.12 | -2.6 dB  |
-| Peaking | 8845 Hz  | 1.68 | 1.3 dB   |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 11.48 Hz    | 0.2063 | -2.84 dB  |
+| Peaking | 155.15 Hz   | 0.776  | -2.81 dB  |
+| Peaking | 4292.89 Hz  | 1.7793 | 8.17 dB   |
+| Peaking | 6571.70 Hz  | 3.9029 | -10.01 dB |
+| Peaking | 12403.68 Hz | 1.5647 | 6.71 dB   |
+| Peaking | 817.23 Hz   | 1.7301 | 1.57 dB   |
+| Peaking | 1282.62 Hz  | 3.9542 | -1.49 dB  |
+| Peaking | 2348.18 Hz  | 2.9575 | -2.29 dB  |
+| Peaking | 3204.69 Hz  | 4.4108 | 2.01 dB   |
+| Peaking | 8694.13 Hz  | 6.3685 | -1.05 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.00dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -5.7 dB |
-| Peaking | 62 Hz    | 1.41 | -3.2 dB |
-| Peaking | 125 Hz   | 1.41 | -3.1 dB |
-| Peaking | 250 Hz   | 1.41 | -1.9 dB |
-| Peaking | 500 Hz   | 1.41 | 0.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 2000 Hz  | 1.41 | -1.9 dB |
-| Peaking | 4000 Hz  | 1.41 | 6.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | -2.1 dB |
-| Peaking | 16000 Hz | 1.41 | 4.5 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -2.57 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.19 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -2.50 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.14 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.55 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 0.89 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -2.18 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 7.16 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -2.41 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 4.37 dB  |
 
 ### Graphs
 ![](./Maximo%20iMetal%20iM-590%20White.png)

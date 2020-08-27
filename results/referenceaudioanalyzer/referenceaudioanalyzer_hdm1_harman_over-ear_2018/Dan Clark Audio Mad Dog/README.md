@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.12dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-8.14dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 17 Hz   | 0.64 | -4.5 dB |
-| Peaking | 65 Hz   | 2.06 | -3.1 dB |
-| Peaking | 277 Hz  | 0.4  | -3.8 dB |
-| Peaking | 2710 Hz | 1.25 | 5.5 dB  |
-| Peaking | 4871 Hz | 2.53 | 5.0 dB  |
-| Peaking | 49 Hz   | 1.86 | -0.1 dB |
-| Peaking | 938 Hz  | 4.82 | -0.7 dB |
-| Peaking | 5676 Hz | 3.42 | 0.6 dB  |
-| Peaking | 7793 Hz | 2.17 | -2.1 dB |
-| Peaking | 9868 Hz | 1.95 | 2.2 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 19.85 Hz   | 0.0939 | -1.90 dB |
+| Peaking | 223.61 Hz  | 1.2861 | -2.39 dB |
+| Peaking | 552.57 Hz  | 0.5048 | -2.34 dB |
+| Peaking | 2706.10 Hz | 1.1474 | 5.58 dB  |
+| Peaking | 4878.81 Hz | 3.2069 | 5.91 dB  |
+| Peaking | 42.47 Hz   | 2.2352 | 1.24 dB  |
+| Peaking | 68.11 Hz   | 1.6018 | -1.53 dB |
+| Peaking | 103.86 Hz  | 3.4941 | 1.31 dB  |
+| Peaking | 7829.02 Hz | 3.4089 | -2.05 dB |
+| Peaking | 9924.00 Hz | 2.0127 | 1.81 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.32dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.5 dB |
-| Peaking | 62 Hz    | 1.41 | -3.5 dB |
-| Peaking | 125 Hz   | 1.41 | -1.6 dB |
-| Peaking | 250 Hz   | 1.41 | -3.8 dB |
-| Peaking | 500 Hz   | 1.41 | -2.0 dB |
-| Peaking | 1000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 6.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.1 dB  |
-| Peaking | 16000 Hz | 1.41 | -0.5 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.41 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -2.15 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -1.26 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -4.02 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -2.04 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -1.74 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 2.86 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 6.40 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 0.02 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -0.66 dB |
 
 ### Graphs
 ![](./Dan%20Clark%20Audio%20Mad%20Dog.png)

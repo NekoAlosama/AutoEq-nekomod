@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.5dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-16.83dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.8dB**.
+When using independent subset of filters, apply preamp of **-16.29dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 0.45 | -6.2 dB |
-| Peaking | 92 Hz    | 0.48 | -7.6 dB |
-| Peaking | 280 Hz   | 0.86 | -4.6 dB |
-| Peaking | 1448 Hz  | 0.65 | 7.3 dB  |
-| Peaking | 15788 Hz | 0.74 | 7.2 dB  |
-| Peaking | 3067 Hz  | 2.65 | 3.8 dB  |
-| Peaking | 6861 Hz  | 1.04 | -5.5 dB |
-| Peaking | 10493 Hz | 1.71 | 5.3 dB  |
-| Peaking | 15829 Hz | 2.25 | -1.8 dB |
-| Peaking | 18517 Hz | 1.74 | 1.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 30.00 Hz    | 0.3378 | -4.89 dB |
+| Peaking | 121.58 Hz   | 0.6705 | -5.92 dB |
+| Peaking | 274.31 Hz   | 1.3124 | -4.95 dB |
+| Peaking | 1869.61 Hz  | 0.9509 | 10.06 dB |
+| Peaking | 14283.25 Hz | 1.2975 | 15.61 dB |
+| Peaking | 957.41 Hz   | 3.4524 | 2.59 dB  |
+| Peaking | 2745.85 Hz  | 3.0935 | 4.90 dB  |
+| Peaking | 6973.88 Hz  | 0.7201 | -5.66 dB |
+| Peaking | 11357.20 Hz | 2.441  | 7.15 dB  |
+| Peaking | 17803.67 Hz | 1.8675 | 3.87 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.33dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -8.7 dB |
-| Peaking | 62 Hz    | 1.41 | -7.3 dB |
-| Peaking | 125 Hz   | 1.41 | -7.1 dB |
-| Peaking | 250 Hz   | 1.41 | -6.4 dB |
-| Peaking | 500 Hz   | 1.41 | -1.5 dB |
-| Peaking | 1000 Hz  | 1.41 | 5.3 dB  |
-| Peaking | 2000 Hz  | 1.41 | 6.4 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.1 dB |
-| Peaking | 16000 Hz | 1.41 | 9.9 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -5.45 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -5.21 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -6.69 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -6.80 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -1.53 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 3.97 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 10.74 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | -0.45 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | -2.25 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 19.92 dB |
 
 ### Graphs
 ![](./Ferrari%20r100i.png)

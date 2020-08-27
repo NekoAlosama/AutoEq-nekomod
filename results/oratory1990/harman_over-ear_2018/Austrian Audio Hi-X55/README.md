@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.87dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-9.91dB**.
 
-| Type    | Fc      |    Q | Gain     |
-|:--------|:--------|:-----|:---------|
-| Peaking | 146 Hz  | 0.13 | 7.3 dB   |
-| Peaking | 165 Hz  | 0.65 | -13.0 dB |
-| Peaking | 1214 Hz | 1.14 | -8.8 dB  |
-| Peaking | 1926 Hz | 2.6  | 6.6 dB   |
-| Peaking | 2788 Hz | 1.95 | 5.8 dB   |
-| Peaking | 3829 Hz | 5.02 | -2.6 dB  |
-| Peaking | 5295 Hz | 1.32 | 2.4 dB   |
-| Peaking | 7234 Hz | 2.68 | -5.1 dB  |
-| Peaking | 8830 Hz | 3.96 | 1.6 dB   |
-| Peaking | 9235 Hz | 2.3  | 1.9 dB   |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 102.41 Hz   | 0.1502 | 9.30 dB   |
+| Peaking | 165.76 Hz   | 0.6427 | -14.73 dB |
+| Peaking | 1227.07 Hz  | 1.3611 | -9.20 dB  |
+| Peaking | 2363.20 Hz  | 1.2747 | 10.90 dB  |
+| Peaking | 3798.80 Hz  | 6.4641 | -3.44 dB  |
+| Peaking | 5943.28 Hz  | 2.4893 | 2.97 dB   |
+| Peaking | 7144.02 Hz  | 2.0839 | -5.64 dB  |
+| Peaking | 8937.71 Hz  | 3.7518 | 1.95 dB   |
+| Peaking | 8957.89 Hz  | 4.6707 | 2.12 dB   |
+| Peaking | 11047.47 Hz | 4.2853 | 1.44 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.36dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.9 dB  |
-| Peaking | 62 Hz    | 1.41 | 3.7 dB  |
-| Peaking | 125 Hz   | 1.41 | -5.3 dB |
-| Peaking | 250 Hz   | 1.41 | -3.5 dB |
-| Peaking | 500 Hz   | 1.41 | 4.1 dB  |
-| Peaking | 1000 Hz  | 1.41 | -6.6 dB |
-| Peaking | 2000 Hz  | 1.41 | 6.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 16000 Hz | 1.41 | -1.6 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 5.86 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 5.09 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -4.98 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.73 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 4.19 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -7.29 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 7.73 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 2.05 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -0.49 dB |
+| Peaking | 16000.01 Hz | 1.4142 | -1.74 dB |
 
 ### Graphs
 ![](./Austrian%20Audio%20Hi-X55.png)

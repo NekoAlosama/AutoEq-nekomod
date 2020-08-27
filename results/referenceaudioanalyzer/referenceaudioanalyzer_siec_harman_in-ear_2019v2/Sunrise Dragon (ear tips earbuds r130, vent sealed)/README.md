@@ -2,38 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-24.15dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-24.16dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 20 Hz    | 0.7  | -6.5 dB |
-| Peaking | 65 Hz    | 0.54 | -7.1 dB |
-| Peaking | 326 Hz   | 0.4  | -7.2 dB |
-| Peaking | 2407 Hz  | 1.38 | 4.0 dB  |
-| Peaking | 15466 Hz | 0.09 | 6.2 dB  |
-| Peaking | 868 Hz   | 3.56 | 1.3 dB  |
-| Peaking | 1859 Hz  | 0.77 | -1.1 dB |
-| Peaking | 2019 Hz  | 4.44 | 2.0 dB  |
-| Peaking | 3755 Hz  | 2.66 | 1.0 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 146.14 Hz   | 0.6408 | -1.71 dB |
+| Peaking | 313.07 Hz   | 0.4011 | -7.84 dB |
+| Peaking | 2861.22 Hz  | 1.4064 | 9.54 dB  |
+| Peaking | 12243.06 Hz | 0.952  | 11.20 dB |
+| Peaking | 16825.33 Hz | 0.3299 | 16.57 dB |
+| Peaking | 2197.63 Hz  | 4.8973 | 1.31 dB  |
+| Peaking | 2860.52 Hz  | 3.6239 | -1.61 dB |
+| Peaking | 3810.47 Hz  | 3.1191 | 2.95 dB  |
+| Peaking | 5135.36 Hz  | 3.0123 | -4.26 dB |
+| Peaking | 6509.23 Hz  | 4.4983 | 2.85 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-38.12dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -9.4 dB |
-| Peaking | 62 Hz    | 1.41 | -7.4 dB |
-| Peaking | 125 Hz   | 1.41 | -6.5 dB |
-| Peaking | 250 Hz   | 1.41 | -6.8 dB |
-| Peaking | 500 Hz   | 1.41 | -5.5 dB |
-| Peaking | 1000 Hz  | 1.41 | -2.1 dB |
-| Peaking | 2000 Hz  | 1.41 | 4.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 5.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 5.9 dB  |
-| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -0.16 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.36 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -4.83 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -7.69 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -5.65 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -3.06 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 5.30 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 4.98 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 6.64 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 37.31 dB |
 
 ### Graphs
 ![](./Sunrise%20Dragon%20(ear%20tips%20earbuds%20r130,%20vent%20sealed).png)
