@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-25.90dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-25.90dB**.
+When using independent subset of filters, apply preamp of **-7.1dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 20.97 Hz   | 0.4859 | 21.14 dB  |
-| Peaking | 48.26 Hz   | 0.441  | 8.80 dB   |
-| Peaking | 147.47 Hz  | 0.4193 | -10.02 dB |
-| Peaking | 3356.95 Hz | 1.3119 | 6.22 dB   |
-| Peaking | 7310.38 Hz | 2.4596 | 6.22 dB   |
-| Peaking | 1085.32 Hz | 2.2547 | -3.16 dB  |
-| Peaking | 1562.23 Hz | 3.7852 | 2.61 dB   |
-| Peaking | 3110.42 Hz | 3.8482 | -3.50 dB  |
-| Peaking | 3970.40 Hz | 1.2099 | 3.31 dB   |
-| Peaking | 4935.58 Hz | 3.373  | -4.29 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 84 Hz    | 0.27 | 20.8 dB  |
+| Peaking | 149 Hz   | 0.34 | -22.0 dB |
+| Peaking | 2253 Hz  | 1.3  | 3.8 dB   |
+| Peaking | 3676 Hz  | 2.61 | 4.9 dB   |
+| Peaking | 7352 Hz  | 1.9  | 6.0 dB   |
+| Peaking | 1111 Hz  | 1.99 | -5.3 dB  |
+| Peaking | 1320 Hz  | 0.9  | 3.8 dB   |
+| Peaking | 2066 Hz  | 4.09 | -2.6 dB  |
+| Peaking | 5114 Hz  | 6.66 | -1.5 dB  |
+| Peaking | 19962 Hz | 0.48 | 1.4 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-30.11dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.7dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 29.16 dB |
-| Peaking | 62.50 Hz    | 1.4142 | 3.87 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -5.46 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -5.49 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -1.12 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -3.42 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 3.20 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 4.86 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 4.30 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 0.38 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.1 dB  |
+| Peaking | 62 Hz    | 1.41 | 6.6 dB  |
+| Peaking | 125 Hz   | 1.41 | -3.0 dB |
+| Peaking | 250 Hz   | 1.41 | -5.4 dB |
+| Peaking | 500 Hz   | 1.41 | -1.0 dB |
+| Peaking | 1000 Hz  | 1.41 | -3.4 dB |
+| Peaking | 2000 Hz  | 1.41 | 3.4 dB  |
+| Peaking | 4000 Hz  | 1.41 | 4.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | 4.3 dB  |
+| Peaking | 16000 Hz | 1.41 | 0.5 dB  |
 
 ### Graphs
 ![](./Fostex%20TH500RP.png)

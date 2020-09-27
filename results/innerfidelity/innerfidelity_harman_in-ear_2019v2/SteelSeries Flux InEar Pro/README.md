@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-21.57dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-21.56dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 20.30 Hz    | 0.4962 | 4.72 dB  |
-| Peaking | 50.10 Hz    | 0.7872 | 2.14 dB  |
-| Peaking | 241.29 Hz   | 0.6284 | -4.32 dB |
-| Peaking | 19008.85 Hz | 0.1704 | 11.71 dB |
-| Peaking | 19729.34 Hz | 0.2743 | 9.35 dB  |
-| Peaking | 1405.61 Hz  | 4.3799 | -1.00 dB |
-| Peaking | 3243.20 Hz  | 3.7678 | 1.94 dB  |
-| Peaking | 5843.06 Hz  | 4.4338 | 2.64 dB  |
-| Peaking | 7703.40 Hz  | 3.09   | -5.28 dB |
-| Peaking | 9840.58 Hz  | 2.2687 | 2.63 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 27 Hz    | 0.56 | 2.6 dB  |
+| Peaking | 226 Hz   | 0.57 | -4.1 dB |
+| Peaking | 4751 Hz  | 0.79 | 2.8 dB  |
+| Peaking | 11817 Hz | 0.74 | 4.5 dB  |
+| Peaking | 19211 Hz | 0.44 | 5.7 dB  |
+| Peaking | 3476 Hz  | 3.3  | 2.0 dB  |
+| Peaking | 4500 Hz  | 2.13 | -3.0 dB |
+| Peaking | 5636 Hz  | 2.74 | 3.4 dB  |
+| Peaking | 7522 Hz  | 3.89 | -3.4 dB |
+| Peaking | 8767 Hz  | 4.29 | 2.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-30.61dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 5.85 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 2.34 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -1.47 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.09 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -1.63 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.03 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -0.22 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 2.08 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 1.03 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 30.08 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 2.9 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.4 dB  |
+| Peaking | 125 Hz   | 1.41 | -2.1 dB |
+| Peaking | 250 Hz   | 1.41 | -3.8 dB |
+| Peaking | 500 Hz   | 1.41 | -1.5 dB |
+| Peaking | 1000 Hz  | 1.41 | 0.1 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.1 dB |
+| Peaking | 4000 Hz  | 1.41 | 2.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | 4.7 dB  |
+| Peaking | 16000 Hz | 1.41 | 9.1 dB  |
 
 ### Graphs
 ![](./SteelSeries%20Flux%20InEar%20Pro.png)

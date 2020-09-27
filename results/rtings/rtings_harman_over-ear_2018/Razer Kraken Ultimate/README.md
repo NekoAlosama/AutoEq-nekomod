@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.47dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.5dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.47dB**.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 19.83 Hz    | 0.7001 | 11.21 dB  |
-| Peaking | 81.51 Hz    | 0.4661 | -4.70 dB  |
-| Peaking | 245.15 Hz   | 0.8753 | -3.61 dB  |
-| Peaking | 1769.08 Hz  | 0.6041 | 2.88 dB   |
-| Peaking | 8251.28 Hz  | 2.6048 | 7.98 dB   |
-| Peaking | 619.64 Hz   | 5.9612 | 1.67 dB   |
-| Peaking | 3301.87 Hz  | 2.8543 | 0.79 dB   |
-| Peaking | 10377.21 Hz | 2.2081 | 1.70 dB   |
-| Peaking | 11270.78 Hz | 1.1694 | 2.96 dB   |
-| Peaking | 19877.17 Hz | 0.2735 | -12.35 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 24 Hz    | 0.91 | 8.2 dB   |
+| Peaking | 78 Hz    | 0.45 | -5.6 dB  |
+| Peaking | 254 Hz   | 0.94 | -3.2 dB  |
+| Peaking | 1784 Hz  | 0.58 | 2.9 dB   |
+| Peaking | 8300 Hz  | 2.32 | 6.8 dB   |
+| Peaking | 618 Hz   | 5.74 | 1.7 dB   |
+| Peaking | 3338 Hz  | 2.64 | 0.7 dB   |
+| Peaking | 10489 Hz | 2.3  | 2.6 dB   |
+| Peaking | 11887 Hz | 0.85 | 2.6 dB   |
+| Peaking | 19658 Hz | 0.26 | -12.3 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.19dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.0dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 31.25 Hz    | 1.4142 | 8.63 dB   |
-| Peaking | 62.50 Hz    | 1.4142 | -3.87 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -3.92 dB  |
-| Peaking | 250.00 Hz   | 1.4142 | -4.96 dB  |
-| Peaking | 500.00 Hz   | 1.4142 | -0.04 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.95 dB   |
-| Peaking | 2000.00 Hz  | 1.4142 | 2.98 dB   |
-| Peaking | 4000.00 Hz  | 1.4142 | -0.15 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 7.54 dB   |
-| Peaking | 16000.01 Hz | 1.4142 | -10.11 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.0 dB  |
+| Peaking | 62 Hz    | 1.41 | -5.0 dB |
+| Peaking | 125 Hz   | 1.41 | -4.3 dB |
+| Peaking | 250 Hz   | 1.41 | -4.7 dB |
+| Peaking | 500 Hz   | 1.41 | 0.0 dB  |
+| Peaking | 1000 Hz  | 1.41 | 1.0 dB  |
+| Peaking | 2000 Hz  | 1.41 | 3.0 dB  |
+| Peaking | 4000 Hz  | 1.41 | 0.1 dB  |
+| Peaking | 8000 Hz  | 1.41 | 7.0 dB  |
+| Peaking | 16000 Hz | 1.41 | -9.8 dB |
 
 ### Graphs
 ![](./Razer%20Kraken%20Ultimate.png)

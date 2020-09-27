@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.80dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.77dB**.
+When using independent subset of filters, apply preamp of **-6.9dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 295.56 Hz   | 0.8327 | -4.85 dB  |
-| Peaking | 5532.49 Hz  | 0.5045 | 6.67 dB   |
-| Peaking | 7701.48 Hz  | 3.0599 | -14.09 dB |
-| Peaking | 13851.46 Hz | 0.6521 | 4.92 dB   |
-| Peaking | 19302.44 Hz | 0.3392 | 7.66 dB   |
-| Peaking | 31.74 Hz    | 0.7423 | 4.33 dB   |
-| Peaking | 2927.60 Hz  | 4.6157 | -8.64 dB  |
-| Peaking | 3454.98 Hz  | 1.5831 | 6.26 dB   |
-| Peaking | 4535.79 Hz  | 3.1574 | -5.57 dB  |
-| Peaking | 5591.01 Hz  | 6.1233 | 2.30 dB   |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 2065 Hz  | 3.32 | 3.5 dB   |
+| Peaking | 5309 Hz  | 1    | 5.9 dB   |
+| Peaking | 7680 Hz  | 3.2  | -11.8 dB |
+| Peaking | 10295 Hz | 1.93 | 2.9 dB   |
+| Peaking | 18272 Hz | 0.22 | 6.1 dB   |
+| Peaking | 250 Hz   | 0.63 | -4.6 dB  |
+| Peaking | 2903 Hz  | 5.2  | -5.6 dB  |
+| Peaking | 3331 Hz  | 1.62 | 4.0 dB   |
+| Peaking | 4554 Hz  | 4.15 | -3.6 dB  |
+| Peaking | 5769 Hz  | 4.87 | 0.7 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.64dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 4.38 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 2.17 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -1.97 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.23 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.46 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.15 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 1.92 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 6.36 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | -1.74 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 17.17 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 1.4 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.1 dB  |
+| Peaking | 125 Hz   | 1.41 | -2.6 dB |
+| Peaking | 250 Hz   | 1.41 | -4.0 dB |
+| Peaking | 500 Hz   | 1.41 | -2.3 dB |
+| Peaking | 1000 Hz  | 1.41 | 0.2 dB  |
+| Peaking | 2000 Hz  | 1.41 | 2.3 dB  |
+| Peaking | 4000 Hz  | 1.41 | 5.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | -0.6 dB |
+| Peaking | 16000 Hz | 1.41 | 10.1 dB |
 
 ### Graphs
 ![](./Ortofon%20e-Q8.png)

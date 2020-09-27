@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.26dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.32dB**.
+When using independent subset of filters, apply preamp of **-6.8dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 148.95 Hz   | 0.727  | -7.77 dB |
-| Peaking | 902.06 Hz   | 0.9485 | 6.71 dB  |
-| Peaking | 3218.25 Hz  | 2.9183 | -4.21 dB |
-| Peaking | 7597.60 Hz  | 2.4579 | 9.83 dB  |
-| Peaking | 14061.07 Hz | 0.5917 | -5.64 dB |
-| Peaking | 39.36 Hz    | 3.4984 | 2.19 dB  |
-| Peaking | 90.89 Hz    | 5.2606 | -1.61 dB |
-| Peaking | 2093.99 Hz  | 5.313  | -1.19 dB |
-| Peaking | 4708.54 Hz  | 4.9281 | 1.98 dB  |
-| Peaking | 5831.50 Hz  | 5.8699 | -1.70 dB |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 21 Hz   | 2.33 | -3.9 dB |
+| Peaking | 140 Hz  | 0.63 | -8.2 dB |
+| Peaking | 932 Hz  | 0.78 | 7.4 dB  |
+| Peaking | 7476 Hz | 1.13 | 14.4 dB |
+| Peaking | 9065 Hz | 0.28 | -8.8 dB |
+| Peaking | 87 Hz   | 1.11 | 1.4 dB  |
+| Peaking | 90 Hz   | 2.6  | -2.8 dB |
+| Peaking | 3440 Hz | 3.67 | -3.1 dB |
+| Peaking | 4660 Hz | 2.1  | 3.4 dB  |
+| Peaking | 5913 Hz | 4.49 | -3.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.35dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 0.06 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -0.55 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -7.53 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.27 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 1.87 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 6.91 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -0.76 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | -2.16 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 5.20 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -7.87 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -1.9 dB |
+| Peaking | 62 Hz    | 1.41 | -1.9 dB |
+| Peaking | 125 Hz   | 1.41 | -7.9 dB |
+| Peaking | 250 Hz   | 1.41 | -4.1 dB |
+| Peaking | 500 Hz   | 1.41 | 2.0 dB  |
+| Peaking | 1000 Hz  | 1.41 | 7.0 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.7 dB |
+| Peaking | 4000 Hz  | 1.41 | -2.0 dB |
+| Peaking | 8000 Hz  | 1.41 | 4.7 dB  |
+| Peaking | 16000 Hz | 1.41 | -7.6 dB |
 
 ### Graphs
 ![](./Ollo%20Audio%20HPS%20S4.png)

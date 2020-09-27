@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-11.26dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-11.17dB**.
+When using independent subset of filters, apply preamp of **-7.3dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 15.09 Hz    | 0.3631 | 8.15 dB  |
-| Peaking | 223.96 Hz   | 0.5392 | -7.01 dB |
-| Peaking | 1605.22 Hz  | 0.9957 | 6.03 dB  |
-| Peaking | 9574.97 Hz  | 1.234  | 5.46 dB  |
-| Peaking | 12869.28 Hz | 1.2078 | 8.11 dB  |
-| Peaking | 3843.67 Hz  | 0.4812 | 0.41 dB  |
-| Peaking | 4952.17 Hz  | 3.1478 | -5.57 dB |
-| Peaking | 5947.59 Hz  | 2.4505 | 0.90 dB  |
-| Peaking | 6804.52 Hz  | 2.5425 | 3.42 dB  |
-| Peaking | 8403.79 Hz  | 4.1031 | -2.59 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 15 Hz    | 0.51 | 5.8 dB  |
+| Peaking | 218 Hz   | 0.43 | -6.8 dB |
+| Peaking | 1519 Hz  | 0.77 | 5.6 dB  |
+| Peaking | 4768 Hz  | 3.11 | -6.3 dB |
+| Peaking | 9982 Hz  | 0.46 | 6.8 dB  |
+| Peaking | 1386 Hz  | 2.42 | -2.8 dB |
+| Peaking | 1568 Hz  | 1.02 | 2.2 dB  |
+| Peaking | 2875 Hz  | 2.3  | -1.6 dB |
+| Peaking | 6502 Hz  | 5.85 | 1.4 dB  |
+| Peaking | 19583 Hz | 1.79 | -5.7 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.84dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 7.27 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 0.48 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -3.52 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -6.33 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.84 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.48 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 6.17 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | -2.97 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 9.16 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 7.67 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 4.2 dB  |
+| Peaking | 62 Hz    | 1.41 | -1.5 dB |
+| Peaking | 125 Hz   | 1.41 | -4.1 dB |
+| Peaking | 250 Hz   | 1.41 | -6.1 dB |
+| Peaking | 500 Hz   | 1.41 | -2.7 dB |
+| Peaking | 1000 Hz  | 1.41 | 2.7 dB  |
+| Peaking | 2000 Hz  | 1.41 | 6.1 dB  |
+| Peaking | 4000 Hz  | 1.41 | -2.1 dB |
+| Peaking | 8000 Hz  | 1.41 | 7.4 dB  |
+| Peaking | 16000 Hz | 1.41 | 5.8 dB  |
 
 ### Graphs
 ![](./JVC%20XX%20Elation%20HA%20FR100X.png)

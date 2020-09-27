@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.99dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.84dB**.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 22.61 Hz    | 0.5407 | 10.03 dB  |
-| Peaking | 61.62 Hz    | 0.8769 | 4.13 dB   |
-| Peaking | 6270.72 Hz  | 2.5024 | 14.11 dB  |
-| Peaking | 7336.22 Hz  | 0.8315 | -13.29 dB |
-| Peaking | 12647.65 Hz | 1.0454 | 20.22 dB  |
-| Peaking | 2307.93 Hz  | 1.0298 | -5.69 dB  |
-| Peaking | 2904.15 Hz  | 2.1342 | 5.91 dB   |
-| Peaking | 4258.43 Hz  | 0.8608 | 3.35 dB   |
-| Peaking | 4358.73 Hz  | 5.5999 | -6.75 dB  |
-| Peaking | 8192.01 Hz  | 5.6282 | -3.77 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 34 Hz    | 0.43 | 6.5 dB  |
+| Peaking | 1799 Hz  | 2.23 | -3.5 dB |
+| Peaking | 4347 Hz  | 7.55 | -6.0 dB |
+| Peaking | 5831 Hz  | 4.01 | 6.4 dB  |
+| Peaking | 13956 Hz | 1.02 | 7.1 dB  |
+| Peaking | 3074 Hz  | 4.7  | 3.0 dB  |
+| Peaking | 6879 Hz  | 4.82 | 4.8 dB  |
+| Peaking | 8069 Hz  | 2.7  | -7.2 dB |
+| Peaking | 9885 Hz  | 3.8  | 3.6 dB  |
+| Peaking | 10887 Hz | 4.02 | 1.6 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-15.89dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 11.75 dB |
-| Peaking | 62.50 Hz    | 1.4142 | 5.45 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | 2.03 dB  |
-| Peaking | 250.00 Hz   | 1.4142 | -1.05 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -0.33 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -0.44 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -2.74 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 0.39 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 2.08 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 15.30 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
+| Peaking | 62 Hz    | 1.41 | 4.2 dB  |
+| Peaking | 125 Hz   | 1.41 | 1.5 dB  |
+| Peaking | 250 Hz   | 1.41 | -0.8 dB |
+| Peaking | 500 Hz   | 1.41 | -0.2 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.3 dB |
+| Peaking | 2000 Hz  | 1.41 | -2.6 dB |
+| Peaking | 4000 Hz  | 1.41 | 0.7 dB  |
+| Peaking | 8000 Hz  | 1.41 | 2.2 dB  |
+| Peaking | 16000 Hz | 1.41 | 8.0 dB  |
 
 ### Graphs
 ![](./Lenntek%20Pro%20Series.png)

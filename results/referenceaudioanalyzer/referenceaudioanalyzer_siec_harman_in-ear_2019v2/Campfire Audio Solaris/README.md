@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.86dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.83dB**.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 339.68 Hz   | 0.4641 | -6.24 dB |
-| Peaking | 525.71 Hz   | 1.0832 | 3.95 dB  |
-| Peaking | 3713.97 Hz  | 1.4251 | 6.10 dB  |
-| Peaking | 5159.44 Hz  | 2.1295 | 7.47 dB  |
-| Peaking | 20081.27 Hz | 0.3339 | -9.19 dB |
-| Peaking | 28.80 Hz    | 0.926  | 2.36 dB  |
-| Peaking | 2159.64 Hz  | 4.5804 | -2.22 dB |
-| Peaking | 2739.18 Hz  | 5.6576 | 2.60 dB  |
-| Peaking | 6350.90 Hz  | 5.2642 | 3.13 dB  |
-| Peaking | 8095.86 Hz  | 2.7435 | -3.83 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 72 Hz    | 0.87 | 0.1 dB  |
+| Peaking | 158 Hz   | 0.38 | -4.2 dB |
+| Peaking | 244 Hz   | 1.57 | -1.0 dB |
+| Peaking | 4250 Hz  | 1.07 | 7.3 dB  |
+| Peaking | 20078 Hz | 0.3  | -9.1 dB |
+| Peaking | 2168 Hz  | 3.55 | -3.0 dB |
+| Peaking | 2770 Hz  | 3.17 | 3.4 dB  |
+| Peaking | 4220 Hz  | 2.19 | -1.6 dB |
+| Peaking | 6345 Hz  | 2.98 | 3.9 dB  |
+| Peaking | 8046 Hz  | 3.21 | -4.3 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.56dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 2.44 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 0.22 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -2.94 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.72 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -0.70 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -1.02 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -1.63 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 11.65 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -1.27 dB |
-| Peaking | 16000.01 Hz | 1.4142 | -6.95 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -0.6 dB |
+| Peaking | 62 Hz    | 1.41 | -1.8 dB |
+| Peaking | 125 Hz   | 1.41 | -3.5 dB |
+| Peaking | 250 Hz   | 1.41 | -4.5 dB |
+| Peaking | 500 Hz   | 1.41 | -0.5 dB |
+| Peaking | 1000 Hz  | 1.41 | -1.0 dB |
+| Peaking | 2000 Hz  | 1.41 | -0.3 dB |
+| Peaking | 4000 Hz  | 1.41 | 8.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | -0.8 dB |
+| Peaking | 16000 Hz | 1.41 | -6.6 dB |
 
 ### Graphs
 ![](./Campfire%20Audio%20Solaris.png)

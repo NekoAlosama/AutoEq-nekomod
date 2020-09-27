@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.07dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.49dB**.
+When using independent subset of filters, apply preamp of **-7.2dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 22.47 Hz    | 0.257  | 3.23 dB   |
-| Peaking | 274.78 Hz   | 0.3835 | -6.72 dB  |
-| Peaking | 2469.05 Hz  | 2.4343 | -6.24 dB  |
-| Peaking | 5040.20 Hz  | 1.134  | 15.94 dB  |
-| Peaking | 12566.59 Hz | 1.7332 | 10.80 dB  |
-| Peaking | 3557.74 Hz  | 4.1077 | 3.48 dB   |
-| Peaking | 6190.96 Hz  | 3.6081 | 5.08 dB   |
-| Peaking | 10499.12 Hz | 2.3572 | 5.28 dB   |
-| Peaking | 15402.06 Hz | 0.9336 | 11.13 dB  |
-| Peaking | 19618.94 Hz | 0.1077 | -10.56 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 78 Hz    | 1.59 | -1.3 dB  |
+| Peaking | 285 Hz   | 0.49 | -6.8 dB  |
+| Peaking | 1487 Hz  | 0.99 | -4.4 dB  |
+| Peaking | 2494 Hz  | 3.55 | -6.1 dB  |
+| Peaking | 5231 Hz  | 0.24 | 7.1 dB   |
+| Peaking | 362 Hz   | 4.54 | 0.4 dB   |
+| Peaking | 3443 Hz  | 4.54 | 2.1 dB   |
+| Peaking | 6727 Hz  | 0.44 | -0.8 dB  |
+| Peaking | 14991 Hz | 1.08 | 5.1 dB   |
+| Peaking | 19768 Hz | 0.63 | -10.9 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.62dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 3.36 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 0.25 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -2.25 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -6.52 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -3.83 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -0.66 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -5.31 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 12.48 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 9.45 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 5.69 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.3 dB  |
+| Peaking | 62 Hz    | 1.41 | -1.8 dB |
+| Peaking | 125 Hz   | 1.41 | -2.8 dB |
+| Peaking | 250 Hz   | 1.41 | -6.3 dB |
+| Peaking | 500 Hz   | 1.41 | -3.6 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.9 dB |
+| Peaking | 2000 Hz  | 1.41 | -2.6 dB |
+| Peaking | 4000 Hz  | 1.41 | 5.9 dB  |
+| Peaking | 8000 Hz  | 1.41 | 6.5 dB  |
+| Peaking | 16000 Hz | 1.41 | 4.2 dB  |
 
 ### Graphs
 ![](./DUNU%20DN13%20Crius.png)
