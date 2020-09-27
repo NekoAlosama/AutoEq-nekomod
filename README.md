@@ -352,18 +352,22 @@ Viper4Android. It provides a system wide solution, has a convolution engine but 
 ### Linux
 #### PulseEffects
 [PulseEffects](https://github.com/wwmm/pulseeffects) is a PulseAudio (Linux) module with wide variety of signal
-processing tools including parametric equalizer. Adjust filter parameters  by clicking the cog button on each filter
+processing tools including parametric equalizer. Load eq settings by clicking the top center cog & clicking
+*Import ACO Presets* button and select the ParametricEQ.txt file.
+Pre-amp can be adjusted with the input slider.
+For versions prior to v4.8.0, adjust filter parameters by clicking the cog button on each filter
 and set type to "Bell" and adjust the gain with the slider. Number of filters can be changed by clicking the screwdriver
-and wrench button. Pre-amp can be adjusted with the input slider.
+and wrench button.
 
 ![pulseeffects](./img/pulseeffects.png)
 
-### OSX
+### OSX / MacOS
 System wide parametric EQ solutions on OSX typically rely on separate plugin hosting software and the actual plugin
 which does the actual equalization.
 
 Pardon the lack of documentation for these. I have not tested any of the methods myself but they have been suggested by
 helpful AutoEQ users.
+
 
 Audio plugin hosts include:
 - [MenuBus](https://www.menubus.audio/versions) has a free version but is no longer actively developed.
@@ -373,10 +377,15 @@ Audio plugin hosts include:
 
 EQ plugins include:
 - [Voxengo PrimeEQ](https://www.voxengo.com/product/primeeq/) is a parametric EQ plugin but is not free.
+- [Fabfilter Pro Q3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) is another parametric EQ plugin, more
+expensive than Voxengo but might be easier to install and use.
 - [LAConvolver plugin](http://audio.lernvall.com/) is a free convolver EQ which works with impulse response WAV files.
 - AUNBandEq comes built in with Mac OSX. Works at least with HostingAU + BlackHole
 
 ![hostingau+blackhole](https://user-images.githubusercontent.com/38220377/71527191-9706ac80-28da-11ea-8f70-88caf57c4821.png)
+
+Tutorials:
+- [Apple AU Lab + Soundflower + AUNBandEQ Tutorial](https://www.superbestaudiofriends.org/index.php?threads/systemwide-eq-on-mac.7435/) [AU Lab Permission Issue](https://discussions.apple.com/thread/8552731)
 
 #### eqMac2
 [eqMac2](https://bitgapp.com/eqmac/) is a free system wide 31-band equalizer on Mac. AutoEQ results don't have 31 band
@@ -676,7 +685,9 @@ measurements done on this system are not as accurate as oratory1990's but becaus
 these are a bit better than rest.
 
 Innerfidelity, Rtings and Headphone.com measurements have been performed on Head Acoustics HMSII.3 measurement system.
-This system is not an industry standard anymore because of the rigid pinnae.
+This system is not an industry standard anymore because of the rigid pinnae. The Headphone.com measurements are the old
+ones which are no longer available. These are not to be consfused with the new measurements Resolve is producing using
+GRAS system.
 
 Reference Audio Analyzer have [three different measurement systems](https://reference-audio-analyzer.pro/en/stands.php)
 none of which seem to represent human hearing particularly well. The most recent HDM-X system is close to the Head
