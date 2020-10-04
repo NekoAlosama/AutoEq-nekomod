@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.63dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.8dB**.
+When using independent subset of filters, apply preamp of **-8.52dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 20 Hz    | 0.65 | -3.3 dB |
-| Peaking | 130 Hz   | 0.26 | -3.0 dB |
-| Peaking | 3050 Hz  | 2.39 | 4.7 dB  |
-| Peaking | 6560 Hz  | 2.97 | 3.9 dB  |
-| Peaking | 7184 Hz  | 2.96 | 2.7 dB  |
-| Peaking | 850 Hz   | 4.42 | -1.4 dB |
-| Peaking | 1893 Hz  | 3.87 | 1.9 dB  |
-| Peaking | 9075 Hz  | 0.28 | -2.1 dB |
-| Peaking | 12915 Hz | 0.99 | -5.7 dB |
-| Peaking | 18822 Hz | 0.12 | 6.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 24.18 Hz    | 1.0981 | -1.97 dB |
+| Peaking | 200.66 Hz   | 0.2765 | -2.65 dB |
+| Peaking | 1910.70 Hz  | 2.6119 | 1.60 dB  |
+| Peaking | 3105.68 Hz  | 3.1412 | 4.73 dB  |
+| Peaking | 6829.08 Hz  | 3.4143 | 7.79 dB  |
+| Peaking | 107.00 Hz   | 8.8064 | 1.87 dB  |
+| Peaking | 861.61 Hz   | 5.1389 | -1.14 dB |
+| Peaking | 9548.12 Hz  | 2.8342 | 1.93 dB  |
+| Peaking | 11788.62 Hz | 1.3643 | -3.50 dB |
+| Peaking | 19693.22 Hz | 0.6082 | 8.10 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.25dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -4.3 dB |
-| Peaking | 62 Hz    | 1.41 | -2.4 dB |
-| Peaking | 125 Hz   | 1.41 | -2.3 dB |
-| Peaking | 250 Hz   | 1.41 | -2.7 dB |
-| Peaking | 500 Hz   | 1.41 | -0.3 dB |
-| Peaking | 1000 Hz  | 1.41 | -1.9 dB |
-| Peaking | 2000 Hz  | 1.41 | 2.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.0 dB  |
-| Peaking | 16000 Hz | 1.41 | 1.6 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -2.25 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.08 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -1.89 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -2.85 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -0.42 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -2.00 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 2.10 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 2.19 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 3.32 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 1.46 dB  |
 
 ### Graphs
 ![](./Final%20Audio%20Pandora%20Hope%204.png)

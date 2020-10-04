@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-5.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.59dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.7dB**.
+When using independent subset of filters, apply preamp of **-5.59dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 20 Hz    | 0.82 | -1.3 dB |
-| Peaking | 54 Hz    | 0.46 | -4.5 dB |
-| Peaking | 2734 Hz  | 0.33 | 1.3 dB  |
-| Peaking | 6774 Hz  | 3.08 | -5.4 dB |
-| Peaking | 10050 Hz | 2.21 | 5.1 dB  |
-| Peaking | 368 Hz   | 0.77 | -2.9 dB |
-| Peaking | 561 Hz   | 0.35 | 2.4 dB  |
-| Peaking | 1294 Hz  | 2.03 | -2.1 dB |
-| Peaking | 3083 Hz  | 3.85 | -1.6 dB |
-| Peaking | 4183 Hz  | 6.34 | 1.4 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 82.36 Hz   | 0.2605 | -1.94 dB |
+| Peaking | 1339.84 Hz | 0.4254 | 1.02 dB  |
+| Peaking | 4282.25 Hz | 3.6647 | 1.89 dB  |
+| Peaking | 6775.48 Hz | 2.7426 | -4.94 dB |
+| Peaking | 9982.81 Hz | 2.1378 | 5.46 dB  |
+| Peaking | 159.44 Hz  | 2.6259 | 0.95 dB  |
+| Peaking | 806.98 Hz  | 1.2332 | 3.34 dB  |
+| Peaking | 1114.12 Hz | 0.5356 | -3.27 dB |
+| Peaking | 2240.55 Hz | 1.0368 | 2.67 dB  |
+| Peaking | 2972.72 Hz | 3.462  | -1.55 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-1.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-1.70dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -4.1 dB |
-| Peaking | 62 Hz    | 1.41 | -4.3 dB |
-| Peaking | 125 Hz   | 1.41 | -1.3 dB |
-| Peaking | 250 Hz   | 1.41 | -1.0 dB |
-| Peaking | 500 Hz   | 1.41 | 0.1 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.6 dB  |
-| Peaking | 16000 Hz | 1.41 | 0.0 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.01 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -2.27 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -0.72 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -1.26 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -0.03 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 0.75 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 1.01 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 0.34 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 0.47 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -0.15 dB |
 
 ### Graphs
 ![](./Samsung%20Galaxy%20Buds.png)

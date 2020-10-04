@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.91dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2dB**.
+When using independent subset of filters, apply preamp of **-8.77dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 89 Hz    | 0.6  | -5.7 dB  |
-| Peaking | 238 Hz   | 0.96 | -4.0 dB  |
-| Peaking | 4443 Hz  | 0.54 | 14.9 dB  |
-| Peaking | 7518 Hz  | 0.46 | -12.7 dB |
-| Peaking | 18576 Hz | 0.56 | 7.5 dB   |
-| Peaking | 20 Hz    | 2.91 | 2.4 dB   |
-| Peaking | 808 Hz   | 3.99 | 1.4 dB   |
-| Peaking | 5446 Hz  | 4.08 | 2.3 dB   |
-| Peaking | 6750 Hz  | 2.88 | -3.2 dB  |
-| Peaking | 7792 Hz  | 4.75 | 2.9 dB   |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 17.65 Hz    | 1.2732 | 5.49 dB   |
+| Peaking | 167.86 Hz   | 0.469  | -6.21 dB  |
+| Peaking | 7054.84 Hz  | 2.4767 | -7.64 dB  |
+| Peaking | 11744.84 Hz | 0.6984 | -15.54 dB |
+| Peaking | 13118.61 Hz | 0.1109 | 12.16 dB  |
+| Peaking | 1570.24 Hz  | 2.8398 | -2.18 dB  |
+| Peaking | 3835.15 Hz  | 1.8506 | 2.41 dB   |
+| Peaking | 9507.31 Hz  | 4.1742 | -2.32 dB  |
+| Peaking | 11976.06 Hz | 2.4201 | 1.57 dB   |
+| Peaking | 15913.60 Hz | 1.6747 | -1.70 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.79dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -0.6 dB |
-| Peaking | 62 Hz    | 1.41 | -4.6 dB |
-| Peaking | 125 Hz   | 1.41 | -5.3 dB |
-| Peaking | 250 Hz   | 1.41 | -4.9 dB |
-| Peaking | 500 Hz   | 1.41 | -0.4 dB |
-| Peaking | 1000 Hz  | 1.41 | 1.5 dB  |
-| Peaking | 2000 Hz  | 1.41 | 2.8 dB  |
-| Peaking | 4000 Hz  | 1.41 | 7.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | -5.1 dB |
-| Peaking | 16000 Hz | 1.41 | 3.3 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 2.44 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -2.59 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -4.70 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -5.20 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -0.48 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 1.41 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 2.33 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 9.70 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -6.03 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 3.50 dB  |
 
 ### Graphs
 ![](./Sennheiser%20AMBEO%20Smart%20Headset.png)

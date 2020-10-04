@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-17.99dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.3dB**.
+When using independent subset of filters, apply preamp of **-15.53dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 21 Hz   | 0.87 | 7.7 dB  |
-| Peaking | 62 Hz   | 0.49 | -7.7 dB |
-| Peaking | 420 Hz  | 0.42 | -7.8 dB |
-| Peaking | 1275 Hz | 2.14 | -8.4 dB |
-| Peaking | 8958 Hz | 0.08 | 6.8 dB  |
-| Peaking | 212 Hz  | 2.23 | -1.8 dB |
-| Peaking | 308 Hz  | 0.75 | 1.1 dB  |
-| Peaking | 714 Hz  | 2.07 | -1.4 dB |
-| Peaking | 1605 Hz | 4.46 | -2.3 dB |
-| Peaking | 2205 Hz | 2.46 | 3.0 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 21.53 Hz    | 0.9875 | 9.97 dB  |
+| Peaking | 269.57 Hz   | 0.0898 | -7.87 dB |
+| Peaking | 2682.73 Hz  | 2.8567 | 12.36 dB |
+| Peaking | 10945.85 Hz | 0.2034 | 13.74 dB |
+| Peaking | 22049.95 Hz | 1.6932 | 11.54 dB |
+| Peaking | 1351.39 Hz  | 4.2633 | -4.16 dB |
+| Peaking | 3897.36 Hz  | 4.0942 | -5.17 dB |
+| Peaking | 5248.62 Hz  | 2.5112 | 9.23 dB  |
+| Peaking | 7963.54 Hz  | 1.8131 | -5.13 dB |
+| Peaking | 13052.90 Hz | 2.29   | 1.94 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.12dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 2.6 dB  |
-| Peaking | 62 Hz    | 1.41 | -7.9 dB |
-| Peaking | 125 Hz   | 1.41 | -5.1 dB |
-| Peaking | 250 Hz   | 1.41 | -6.3 dB |
-| Peaking | 500 Hz   | 1.41 | -4.0 dB |
-| Peaking | 1000 Hz  | 1.41 | -6.8 dB |
-| Peaking | 2000 Hz  | 1.41 | 3.4 dB  |
-| Peaking | 4000 Hz  | 1.41 | 6.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 5.9 dB  |
-| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 4.63 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -6.67 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -4.69 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -6.64 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -3.83 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -7.71 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 4.21 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 10.58 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 10.48 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 18.88 dB |
 
 ### Graphs
 ![](./Zealot%20Sparkle%20B570.png)

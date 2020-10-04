@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.00dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.5dB**.
+When using independent subset of filters, apply preamp of **-5.01dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 176 Hz   | 0.82 | -5.3 dB |
-| Peaking | 931 Hz   | 1.03 | 3.2 dB  |
-| Peaking | 4535 Hz  | 5.28 | 5.7 dB  |
-| Peaking | 8804 Hz  | 3.32 | 3.8 dB  |
-| Peaking | 22050 Hz | 2.41 | 1.8 dB  |
-| Peaking | 29 Hz    | 0.99 | 2.8 dB  |
-| Peaking | 4977 Hz  | 5.44 | 3.0 dB  |
-| Peaking | 5618 Hz  | 4.72 | -5.5 dB |
-| Peaking | 6853 Hz  | 3.92 | 3.0 dB  |
-| Peaking | 17114 Hz | 0.59 | -2.1 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 38.29 Hz    | 0.4363 | 6.30 dB  |
+| Peaking | 142.95 Hz   | 0.3938 | -6.52 dB |
+| Peaking | 826.44 Hz   | 0.6627 | 3.49 dB  |
+| Peaking | 8309.47 Hz  | 1.9288 | 3.13 dB  |
+| Peaking | 22049.54 Hz | 2.4816 | 1.41 dB  |
+| Peaking | 4690.65 Hz  | 3.6065 | 8.76 dB  |
+| Peaking | 5592.06 Hz  | 3.612  | -5.57 dB |
+| Peaking | 6746.97 Hz  | 4.8477 | 3.21 dB  |
+| Peaking | 9547.58 Hz  | 2.925  | 2.81 dB  |
+| Peaking | 14113.47 Hz | 0.169  | -2.07 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.82dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.1 dB  |
-| Peaking | 62 Hz    | 1.41 | -0.2 dB |
-| Peaking | 125 Hz   | 1.41 | -4.6 dB |
-| Peaking | 250 Hz   | 1.41 | -3.7 dB |
-| Peaking | 500 Hz   | 1.41 | 0.4 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.3 dB  |
-| Peaking | 2000 Hz  | 1.41 | -0.5 dB |
-| Peaking | 4000 Hz  | 1.41 | 2.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.8 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 5.18 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 1.16 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -4.22 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.87 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.36 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 3.26 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -0.61 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 1.97 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 2.36 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -2.90 dB |
 
 ### Graphs
 ![](./SteelSeries%20Arctis%207.png)

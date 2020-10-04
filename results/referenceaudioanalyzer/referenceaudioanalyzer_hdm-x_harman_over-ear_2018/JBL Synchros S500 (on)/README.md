@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-11.82dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2dB**.
+When using independent subset of filters, apply preamp of **-11.80dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 37 Hz    | 1.6  | -7.8 dB |
-| Peaking | 179 Hz   | 0.26 | -5.1 dB |
-| Peaking | 640 Hz   | 0.85 | 9.5 dB  |
-| Peaking | 2613 Hz  | 3.11 | -6.0 dB |
-| Peaking | 18007 Hz | 0.29 | -7.9 dB |
-| Peaking | 85 Hz    | 7.05 | -1.9 dB |
-| Peaking | 1208 Hz  | 5.25 | -3.3 dB |
-| Peaking | 1643 Hz  | 2.86 | 4.1 dB  |
-| Peaking | 2042 Hz  | 3.54 | -2.5 dB |
-| Peaking | 3722 Hz  | 6.75 | 1.1 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 38.11 Hz    | 2.0763 | -7.03 dB |
+| Peaking | 157.38 Hz   | 0.3836 | -4.13 dB |
+| Peaking | 702.82 Hz   | 1.4633 | 12.42 dB |
+| Peaking | 2612.40 Hz  | 3.0371 | -5.92 dB |
+| Peaking | 17985.24 Hz | 0.2848 | -7.97 dB |
+| Peaking | 83.67 Hz    | 6.8661 | -1.74 dB |
+| Peaking | 862.31 Hz   | 4.4864 | 3.22 dB  |
+| Peaking | 1147.68 Hz  | 1.7932 | -3.55 dB |
+| Peaking | 1576.49 Hz  | 4.4474 | 4.82 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.33dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | -7.5 dB  |
-| Peaking | 62 Hz    | 1.41 | -4.4 dB  |
-| Peaking | 125 Hz   | 1.41 | -3.1 dB  |
-| Peaking | 250 Hz   | 1.41 | -4.0 dB  |
-| Peaking | 500 Hz   | 1.41 | 5.5 dB   |
-| Peaking | 1000 Hz  | 1.41 | 4.6 dB   |
-| Peaking | 2000 Hz  | 1.41 | -2.4 dB  |
-| Peaking | 4000 Hz  | 1.41 | -1.4 dB  |
-| Peaking | 8000 Hz  | 1.41 | -2.1 dB  |
-| Peaking | 16000 Hz | 1.41 | -11.0 dB |
+| Type    | Fc          |      Q | Gain      |
+|:--------|:------------|:-------|:----------|
+| Peaking | 31.25 Hz    | 1.4142 | -5.49 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -3.07 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -2.65 dB  |
+| Peaking | 250.00 Hz   | 1.4142 | -4.69 dB  |
+| Peaking | 500.00 Hz   | 1.4142 | 6.51 dB   |
+| Peaking | 1000.00 Hz  | 1.4142 | 6.33 dB   |
+| Peaking | 2000.00 Hz  | 1.4142 | -3.18 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | -1.31 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -2.26 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -11.00 dB |
 
 ### Graphs
 ![](./JBL%20Synchros%20S500%20(on).png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.46dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-14.46dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 29 Hz    | 0.38 | 6.2 dB   |
-| Peaking | 239 Hz   | 2    | 6.4 dB   |
-| Peaking | 6382 Hz  | 1.02 | -10.3 dB |
-| Peaking | 8888 Hz  | 1.39 | 10.8 dB  |
-| Peaking | 19238 Hz | 0.37 | -7.9 dB  |
-| Peaking | 314 Hz   | 5.27 | 2.8 dB   |
-| Peaking | 484 Hz   | 2.65 | -3.0 dB  |
-| Peaking | 899 Hz   | 1.8  | -1.5 dB  |
-| Peaking | 1677 Hz  | 1.93 | -2.2 dB  |
-| Peaking | 2341 Hz  | 4.61 | 3.7 dB   |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 14.61 Hz    | 0.8303 | 12.99 dB |
+| Peaking | 38.06 Hz    | 0.3676 | 5.28 dB  |
+| Peaking | 249.26 Hz   | 2.3438 | 7.28 dB  |
+| Peaking | 9840.10 Hz  | 1.571  | 8.97 dB  |
+| Peaking | 14748.68 Hz | 0.1517 | -5.68 dB |
+| Peaking | 490.39 Hz   | 3.7054 | -3.18 dB |
+| Peaking | 855.90 Hz   | 2.0618 | -1.50 dB |
+| Peaking | 1773.50 Hz  | 1.3244 | -2.28 dB |
+| Peaking | 2319.45 Hz  | 3.7506 | 4.53 dB  |
+| Peaking | 5895.17 Hz  | 3.0101 | -4.87 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.85dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.7 dB  |
-| Peaking | 62 Hz    | 1.41 | 3.0 dB  |
-| Peaking | 125 Hz   | 1.41 | 0.8 dB  |
-| Peaking | 250 Hz   | 1.41 | 7.2 dB  |
-| Peaking | 500 Hz   | 1.41 | -2.8 dB |
-| Peaking | 1000 Hz  | 1.41 | -2.0 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.6 dB  |
-| Peaking | 4000 Hz  | 1.41 | -4.9 dB |
-| Peaking | 8000 Hz  | 1.41 | 0.5 dB  |
-| Peaking | 16000 Hz | 1.41 | -6.6 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 12.90 dB |
+| Peaking | 62.50 Hz    | 1.4142 | 2.89 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | 1.07 dB  |
+| Peaking | 250.00 Hz   | 1.4142 | 7.78 dB  |
+| Peaking | 500.00 Hz   | 1.4142 | -3.15 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -2.02 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 0.49 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | -5.01 dB |
+| Peaking | 8000.00 Hz  | 1.4142 | 0.45 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -6.76 dB |
 
 ### Graphs
 ![](./Ultrasone%20PRO%20750.png)

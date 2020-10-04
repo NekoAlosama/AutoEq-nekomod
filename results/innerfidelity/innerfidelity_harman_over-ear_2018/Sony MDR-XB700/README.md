@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.44dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-8.43dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 118 Hz   | 0.42 | -7.7 dB |
-| Peaking | 614 Hz   | 1.27 | 8.0 dB  |
-| Peaking | 3341 Hz  | 3.7  | 6.4 dB  |
-| Peaking | 6001 Hz  | 6.9  | -9.1 dB |
-| Peaking | 7216 Hz  | 4.04 | 5.3 dB  |
-| Peaking | 56 Hz    | 4.47 | 1.9 dB  |
-| Peaking | 897 Hz   | 4.31 | 3.1 dB  |
-| Peaking | 1713 Hz  | 1.83 | -4.0 dB |
-| Peaking | 4524 Hz  | 5.35 | 3.6 dB  |
-| Peaking | 13948 Hz | 1.35 | -2.2 dB |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 146.12 Hz  | 0.6094 | -8.09 dB  |
+| Peaking | 745.52 Hz  | 0.8339 | 14.47 dB  |
+| Peaking | 2201.76 Hz | 0.3298 | -11.50 dB |
+| Peaking | 3291.45 Hz | 1.4512 | 16.22 dB  |
+| Peaking | 7598.53 Hz | 4.3845 | 7.08 dB   |
+| Peaking | 3801.39 Hz | 7.603  | -3.61 dB  |
+| Peaking | 4625.60 Hz | 3.1993 | 4.49 dB   |
+| Peaking | 5973.68 Hz | 5.6498 | -7.62 dB  |
+| Peaking | 6847.13 Hz | 8.3492 | 3.45 dB   |
+| Peaking | 9586.34 Hz | 7.5595 | 3.07 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.04dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.3 dB |
-| Peaking | 62 Hz    | 1.41 | -2.7 dB |
-| Peaking | 125 Hz   | 1.41 | -7.9 dB |
-| Peaking | 250 Hz   | 1.41 | -4.2 dB |
-| Peaking | 500 Hz   | 1.41 | 5.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.5 dB  |
-| Peaking | 2000 Hz  | 1.41 | -4.0 dB |
-| Peaking | 4000 Hz  | 1.41 | 4.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.2 dB |
-| Peaking | 16000 Hz | 1.41 | -2.2 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.27 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -1.30 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -7.46 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -4.56 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 5.97 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 3.92 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | -4.34 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 5.02 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -0.42 dB |
+| Peaking | 16000.01 Hz | 1.4142 | -2.29 dB |
 
 ### Graphs
 ![](./Sony%20MDR-XB700.png)

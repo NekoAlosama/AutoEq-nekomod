@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-15.86dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.7dB**.
+When using independent subset of filters, apply preamp of **-16.61dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 53 Hz    | 0.84 | -3.5 dB |
-| Peaking | 194 Hz   | 0.98 | -4.0 dB |
-| Peaking | 4959 Hz  | 1.32 | 5.6 dB  |
-| Peaking | 18780 Hz | 0.58 | 5.6 dB  |
-| Peaking | 20365 Hz | 1.73 | 2.8 dB  |
-| Peaking | 109 Hz   | 8.63 | 2.0 dB  |
-| Peaking | 1272 Hz  | 1.2  | -3.1 dB |
-| Peaking | 4337 Hz  | 2.76 | 2.0 dB  |
-| Peaking | 5374 Hz  | 4.25 | -2.6 dB |
-| Peaking | 7918 Hz  | 3.79 | 2.4 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 65.23 Hz    | 1.5298 | -2.09 dB |
+| Peaking | 191.68 Hz   | 1.4123 | -4.54 dB |
+| Peaking | 1201.34 Hz  | 1.0135 | -3.03 dB |
+| Peaking | 4294.93 Hz  | 4.1353 | 16.10 dB |
+| Peaking | 20475.27 Hz | 0.2341 | 6.98 dB  |
+| Peaking | 18.22 Hz    | 2.0074 | 1.60 dB  |
+| Peaking | 2355.69 Hz  | 4.1683 | 2.24 dB  |
+| Peaking | 6609.47 Hz  | 1.7555 | 2.79 dB  |
+| Peaking | 7215.74 Hz  | 0.4339 | -2.29 dB |
+| Peaking | 8187.35 Hz  | 2.2697 | 3.54 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.8dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.25dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.6 dB |
-| Peaking | 62 Hz    | 1.41 | -3.3 dB |
-| Peaking | 125 Hz   | 1.41 | -2.3 dB |
-| Peaking | 250 Hz   | 1.41 | -3.2 dB |
-| Peaking | 500 Hz   | 1.41 | 0.8 dB  |
-| Peaking | 1000 Hz  | 1.41 | -3.0 dB |
-| Peaking | 2000 Hz  | 1.41 | -1.5 dB |
-| Peaking | 4000 Hz  | 1.41 | 5.2 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.8 dB  |
-| Peaking | 16000 Hz | 1.41 | 4.4 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 0.38 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | -1.89 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -1.90 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.42 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 0.69 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | -2.82 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | -2.96 dB |
+| Peaking | 4000.00 Hz  | 1.4142 | 9.05 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 1.75 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | 4.36 dB  |
 
 ### Graphs
 ![](./Sennheiser%20HD%20449.png)

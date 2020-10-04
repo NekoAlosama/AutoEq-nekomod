@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-11.39dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2dB**.
+When using independent subset of filters, apply preamp of **-11.31dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 109 Hz   | 0.18 | -5.6 dB |
-| Peaking | 644 Hz   | 0.6  | 5.6 dB  |
-| Peaking | 3521 Hz  | 1.8  | 5.9 dB  |
-| Peaking | 5603 Hz  | 0.8  | -6.5 dB |
-| Peaking | 14794 Hz | 0.29 | 7.1 dB  |
-| Peaking | 1866 Hz  | 4.5  | 0.8 dB  |
-| Peaking | 5198 Hz  | 5.28 | -2.8 dB |
-| Peaking | 6455 Hz  | 2.94 | 3.8 dB  |
-| Peaking | 7908 Hz  | 3.38 | -4.0 dB |
-| Peaking | 10647 Hz | 3.86 | 2.0 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 219.03 Hz   | 0.3061 | -5.72 dB |
+| Peaking | 628.92 Hz   | 0.5425 | 6.25 dB  |
+| Peaking | 3433.81 Hz  | 2.3781 | 4.83 dB  |
+| Peaking | 7653.79 Hz  | 0.6136 | -9.61 dB |
+| Peaking | 13022.84 Hz | 0.4617 | 14.67 dB |
+| Peaking | 1033.01 Hz  | 3.6549 | -0.79 dB |
+| Peaking | 5215.99 Hz  | 4.6147 | -4.52 dB |
+| Peaking | 6504.87 Hz  | 1.9547 | 3.65 dB  |
+| Peaking | 7777.02 Hz  | 4.0715 | -3.65 dB |
+| Peaking | 19658.03 Hz | 1.6135 | 0.88 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-16.02dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.8 dB |
-| Peaking | 62 Hz    | 1.41 | -4.1 dB |
-| Peaking | 125 Hz   | 1.41 | -4.3 dB |
-| Peaking | 250 Hz   | 1.41 | -3.1 dB |
-| Peaking | 500 Hz   | 1.41 | 2.5 dB  |
-| Peaking | 1000 Hz  | 1.41 | 2.1 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.4 dB |
-| Peaking | 16000 Hz | 1.41 | 10.0 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -0.77 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -2.04 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -3.65 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.34 dB |
+| Peaking | 500.00 Hz   | 1.4142 | 2.37 dB  |
+| Peaking | 1000.00 Hz  | 1.4142 | 1.95 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 1.55 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 0.87 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -1.03 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 15.56 dB |
 
 ### Graphs
 ![](./Light%20Harmonic%20Mera.png)

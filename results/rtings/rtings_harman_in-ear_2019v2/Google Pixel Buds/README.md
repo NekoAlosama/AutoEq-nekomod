@@ -2,39 +2,29 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+In case of using parametric equalizer, apply preamp of **-0.60dB** and build filters manually
+with these parameters. The first 0 filters can be used independently.
+When using independent subset of filters, apply preamp of **-0.60dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 38 Hz    | 0.52 | 11.8 dB  |
-| Peaking | 94 Hz    | 0.46 | -11.3 dB |
-| Peaking | 1205 Hz  | 1.81 | 6.7 dB   |
-| Peaking | 3870 Hz  | 2.88 | 5.4 dB   |
-| Peaking | 20174 Hz | 0.17 | 5.8 dB   |
-| Peaking | 536 Hz   | 3.18 | -0.7 dB  |
-| Peaking | 6381 Hz  | 5.89 | 2.6 dB   |
-| Peaking | 7776 Hz  | 3.33 | -5.9 dB  |
-| Peaking | 9319 Hz  | 2.52 | 5.0 dB   |
-| Peaking | 13037 Hz | 2.26 | -1.7 dB  |
+| Type   | Fc   | Q   | Gain   |
+|:-------|:-----|:----|:-------|
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **nandB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 8.6 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.1 dB |
-| Peaking | 125 Hz   | 1.41 | -7.6 dB |
-| Peaking | 250 Hz   | 1.41 | -2.3 dB |
-| Peaking | 500 Hz   | 1.41 | -2.6 dB |
-| Peaking | 1000 Hz  | 1.41 | 5.6 dB  |
-| Peaking | 2000 Hz  | 1.41 | 0.3 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 16000 Hz | 1.41 | 6.2 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 38.94 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -4.59 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -9.94 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -4.21 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -3.15 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | 5.24 dB  |
+| Peaking | 2000.00 Hz  | 1.4142 | 0.01 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 3.70 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | -0.02 dB |
+| Peaking | 16000.01 Hz | 1.4142 | 5.74 dB  |
 
 ### Graphs
 ![](./Google%20Pixel%20Buds.png)

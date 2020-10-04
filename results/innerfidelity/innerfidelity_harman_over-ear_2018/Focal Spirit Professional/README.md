@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.80dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-7.03dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 0.57 | -2.6 dB |
-| Peaking | 121 Hz   | 0.45 | -3.6 dB |
-| Peaking | 2146 Hz  | 3.15 | 1.8 dB  |
-| Peaking | 7020 Hz  | 1.61 | 6.4 dB  |
-| Peaking | 19495 Hz | 1.72 | 4.0 dB  |
-| Peaking | 359 Hz   | 2.51 | 1.8 dB  |
-| Peaking | 1655 Hz  | 1.33 | 1.5 dB  |
-| Peaking | 2550 Hz  | 3.23 | 0.9 dB  |
-| Peaking | 2930 Hz  | 0.15 | -1.7 dB |
-| Peaking | 6340 Hz  | 0.81 | 1.9 dB  |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 190.24 Hz   | 0.2698 | -3.38 dB |
+| Peaking | 362.02 Hz   | 1.9629 | 2.56 dB  |
+| Peaking | 2081.64 Hz  | 2.6135 | 2.02 dB  |
+| Peaking | 7016.01 Hz  | 1.6444 | 6.42 dB  |
+| Peaking | 19506.32 Hz | 1.8395 | 3.99 dB  |
+| Peaking | 3613.23 Hz  | 3.8788 | -2.99 dB |
+| Peaking | 4011.20 Hz  | 1.4563 | 1.42 dB  |
+| Peaking | 7006.66 Hz  | 5.2815 | -1.95 dB |
+| Peaking | 8134.29 Hz  | 2.6128 | 1.71 dB  |
+| Peaking | 11897.45 Hz | 1.4083 | -1.29 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.25dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.3 dB |
-| Peaking | 62 Hz    | 1.41 | -2.2 dB |
-| Peaking | 125 Hz   | 1.41 | -3.7 dB |
-| Peaking | 250 Hz   | 1.41 | -1.4 dB |
-| Peaking | 500 Hz   | 1.41 | -0.5 dB |
-| Peaking | 1000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 2000 Hz  | 1.41 | 1.5 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 5.7 dB  |
-| Peaking | 16000 Hz | 1.41 | -0.2 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | -1.33 dB |
+| Peaking | 62.50 Hz    | 1.4142 | -0.87 dB |
+| Peaking | 125.00 Hz   | 1.4142 | -3.29 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -1.59 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -0.62 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -1.33 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 1.46 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 0.23 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 5.71 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -0.34 dB |
 
 ### Graphs
 ![](./Focal%20Spirit%20Professional.png)

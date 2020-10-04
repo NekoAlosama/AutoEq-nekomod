@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.25dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.2dB**.
+When using independent subset of filters, apply preamp of **-5.66dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 1606 Hz  | 1.59 | 8.5 dB  |
-| Peaking | 2130 Hz  | 0.02 | -3.8 dB |
-| Peaking | 3285 Hz  | 4.15 | 5.2 dB  |
-| Peaking | 5694 Hz  | 0.84 | 6.2 dB  |
-| Peaking | 10281 Hz | 2.66 | 4.0 dB  |
-| Peaking | 26 Hz    | 0.28 | 3.4 dB  |
-| Peaking | 2478 Hz  | 4.06 | -1.3 dB |
-| Peaking | 4743 Hz  | 3.29 | 2.5 dB  |
-| Peaking | 5349 Hz  | 3.89 | -1.4 dB |
-| Peaking | 12097 Hz | 2.68 | 2.8 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 20.83 Hz   | 0.2628 | 4.35 dB  |
+| Peaking | 540.28 Hz  | 0.133  | -3.89 dB |
+| Peaking | 1539.91 Hz | 1.813  | 7.56 dB  |
+| Peaking | 4068.88 Hz | 0.9787 | 5.73 dB  |
+| Peaking | 9910.70 Hz | 3.0514 | 3.10 dB  |
+| Peaking | 201.38 Hz  | 3.5833 | -0.90 dB |
+| Peaking | 2588.84 Hz | 3.774  | -3.32 dB |
+| Peaking | 2817.51 Hz | 1.0615 | 1.06 dB  |
+| Peaking | 3271.78 Hz | 4.0849 | 3.17 dB  |
+| Peaking | 3794.79 Hz | 4.9243 | -2.99 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.77dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 2.0 dB  |
-| Peaking | 62 Hz    | 1.41 | -0.0 dB |
-| Peaking | 125 Hz   | 1.41 | -2.1 dB |
-| Peaking | 250 Hz   | 1.41 | -2.9 dB |
-| Peaking | 500 Hz   | 1.41 | -2.8 dB |
-| Peaking | 1000 Hz  | 1.41 | -0.6 dB |
-| Peaking | 2000 Hz  | 1.41 | 3.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.3 dB  |
-| Peaking | 16000 Hz | 1.41 | -6.1 dB |
+| Type    | Fc          |      Q | Gain     |
+|:--------|:------------|:-------|:---------|
+| Peaking | 31.25 Hz    | 1.4142 | 4.08 dB  |
+| Peaking | 62.50 Hz    | 1.4142 | 1.38 dB  |
+| Peaking | 125.00 Hz   | 1.4142 | -1.69 dB |
+| Peaking | 250.00 Hz   | 1.4142 | -3.12 dB |
+| Peaking | 500.00 Hz   | 1.4142 | -2.90 dB |
+| Peaking | 1000.00 Hz  | 1.4142 | -0.66 dB |
+| Peaking | 2000.00 Hz  | 1.4142 | 3.13 dB  |
+| Peaking | 4000.00 Hz  | 1.4142 | 3.07 dB  |
+| Peaking | 8000.00 Hz  | 1.4142 | 3.20 dB  |
+| Peaking | 16000.01 Hz | 1.4142 | -6.27 dB |
 
 ### Graphs
 ![](./Yamaha%20YH-3.png)
