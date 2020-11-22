@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.90dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.81dB**.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 16.09 Hz    | 0.3791 | 9.01 dB  |
-| Peaking | 243.11 Hz   | 0.3676 | -7.82 dB |
-| Peaking | 1083.81 Hz  | 0.9188 | 5.79 dB  |
-| Peaking | 3883.52 Hz  | 1.62   | 9.64 dB  |
-| Peaking | 17399.17 Hz | 0.6157 | 8.26 dB  |
-| Peaking | 5299.01 Hz  | 4.1364 | 3.43 dB  |
-| Peaking | 7886.77 Hz  | 2.1494 | -5.46 dB |
-| Peaking | 9180.97 Hz  | 2.0276 | 0.61 dB  |
-| Peaking | 13035.18 Hz | 1.6533 | 2.53 dB  |
-| Peaking | 17248.06 Hz | 2.8378 | -1.64 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 17 Hz    | 0.54 | 6.4 dB  |
+| Peaking | 232 Hz   | 0.31 | -7.6 dB |
+| Peaking | 1076 Hz  | 0.9  | 6.2 dB  |
+| Peaking | 3688 Hz  | 1.25 | 6.3 dB  |
+| Peaking | 17502 Hz | 0.53 | 7.0 dB  |
+| Peaking | 5478 Hz  | 4.11 | 3.3 dB  |
+| Peaking | 7813 Hz  | 2.54 | -4.7 dB |
+| Peaking | 12548 Hz | 2.52 | 2.7 dB  |
+| Peaking | 20028 Hz | 4.02 | 2.2 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.67dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 7.97 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -0.30 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -4.32 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -6.77 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -3.99 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 4.14 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 1.02 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 10.48 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -2.89 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 11.19 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 4.8 dB  |
+| Peaking | 62 Hz    | 1.41 | -2.2 dB |
+| Peaking | 125 Hz   | 1.41 | -4.9 dB |
+| Peaking | 250 Hz   | 1.41 | -6.5 dB |
+| Peaking | 500 Hz   | 1.41 | -3.9 dB |
+| Peaking | 1000 Hz  | 1.41 | 4.2 dB  |
+| Peaking | 2000 Hz  | 1.41 | 2.1 dB  |
+| Peaking | 4000 Hz  | 1.41 | 7.1 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.6 dB |
+| Peaking | 16000 Hz | 1.41 | 9.6 dB  |
 
 ### Graphs
 ![](./Phiaton%20Moderna%20MS200.png)

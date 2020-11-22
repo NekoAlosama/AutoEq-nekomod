@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.84dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.88dB**.
+When using independent subset of filters, apply preamp of **-7.3dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 16.31 Hz    | 0.1289 | -5.21 dB |
-| Peaking | 182.91 Hz   | 0.6168 | -5.38 dB |
-| Peaking | 1387.18 Hz  | 0.535  | 4.78 dB  |
-| Peaking | 10413.63 Hz | 2.278  | 8.04 dB  |
-| Peaking | 12649.22 Hz | 3.0346 | 4.90 dB  |
-| Peaking | 1327.59 Hz  | 3.4077 | -1.77 dB |
-| Peaking | 2291.39 Hz  | 2.7688 | 2.79 dB  |
-| Peaking | 5234.86 Hz  | 3.3404 | -1.16 dB |
-| Peaking | 5345.04 Hz  | 1.8588 | -3.80 dB |
-| Peaking | 6664.22 Hz  | 3.2714 | 4.66 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 50 Hz    | 0.09 | -8.5 dB |
+| Peaking | 726 Hz   | 0.66 | 5.9 dB  |
+| Peaking | 2169 Hz  | 1.98 | 5.5 dB  |
+| Peaking | 9706 Hz  | 1.86 | 5.5 dB  |
+| Peaking | 12838 Hz | 2.87 | 5.2 dB  |
+| Peaking | 2704 Hz  | 4.38 | 1.0 dB  |
+| Peaking | 4323 Hz  | 3.52 | 1.9 dB  |
+| Peaking | 4334 Hz  | 2.4  | 0.3 dB  |
+| Peaking | 5107 Hz  | 2.02 | -5.1 dB |
+| Peaking | 6659 Hz  | 3.69 | 4.5 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.79dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -5.52 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -3.98 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -5.95 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -5.26 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 0.93 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.37 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 6.03 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | -2.62 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | 6.49 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -0.21 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -8.6 dB |
+| Peaking | 62 Hz    | 1.41 | -5.9 dB |
+| Peaking | 125 Hz   | 1.41 | -6.5 dB |
+| Peaking | 250 Hz   | 1.41 | -5.0 dB |
+| Peaking | 500 Hz   | 1.41 | 1.0 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.5 dB  |
+| Peaking | 2000 Hz  | 1.41 | 6.1 dB  |
+| Peaking | 4000 Hz  | 1.41 | -2.3 dB |
+| Peaking | 8000 Hz  | 1.41 | 5.8 dB  |
+| Peaking | 16000 Hz | 1.41 | -0.4 dB |
 
 ### Graphs
 ![](./NarMoo%20R1M%20(black%20ports).png)

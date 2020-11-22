@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.63dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.63dB**.
+When using independent subset of filters, apply preamp of **-6.9dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 16.76 Hz    | 0.5855 | 10.02 dB |
-| Peaking | 157.33 Hz   | 0.5946 | -9.29 dB |
-| Peaking | 1457.63 Hz  | 0.7171 | 6.71 dB  |
-| Peaking | 3043.77 Hz  | 2.9797 | 1.00 dB  |
-| Peaking | 9852.82 Hz  | 1.5839 | 2.98 dB  |
-| Peaking | 608.19 Hz   | 2.925  | 1.52 dB  |
-| Peaking | 983.29 Hz   | 4.4802 | -1.72 dB |
-| Peaking | 5838.69 Hz  | 4.9664 | -1.67 dB |
-| Peaking | 6750.08 Hz  | 4.3267 | 1.81 dB  |
-| Peaking | 19783.45 Hz | 0.9332 | -5.67 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 19 Hz    | 0.65 | 7.2 dB   |
+| Peaking | 168 Hz   | 0.44 | -10.2 dB |
+| Peaking | 933 Hz   | 0.32 | 4.4 dB   |
+| Peaking | 1711 Hz  | 1.04 | 2.8 dB   |
+| Peaking | 9944 Hz  | 1.57 | 3.0 dB   |
+| Peaking | 2243 Hz  | 3.57 | -0.6 dB  |
+| Peaking | 3028 Hz  | 4.88 | 1.3 dB   |
+| Peaking | 5803 Hz  | 4.12 | -1.4 dB  |
+| Peaking | 6876 Hz  | 6    | 2.0 dB   |
+| Peaking | 19547 Hz | 0.93 | -5.5 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.24dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 7.58 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -1.69 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -7.54 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -6.71 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 0.66 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 3.49 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 6.04 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 0.21 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 2.80 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -1.31 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 5.3 dB  |
+| Peaking | 62 Hz    | 1.41 | -2.8 dB |
+| Peaking | 125 Hz   | 1.41 | -8.1 dB |
+| Peaking | 250 Hz   | 1.41 | -6.4 dB |
+| Peaking | 500 Hz   | 1.41 | 0.9 dB  |
+| Peaking | 1000 Hz  | 1.41 | 3.5 dB  |
+| Peaking | 2000 Hz  | 1.41 | 5.6 dB  |
+| Peaking | 4000 Hz  | 1.41 | 0.5 dB  |
+| Peaking | 8000 Hz  | 1.41 | 2.8 dB  |
+| Peaking | 16000 Hz | 1.41 | -1.2 dB |
 
 ### Graphs
 ![](./Cougar%20Immersa.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.50dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-4.5dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.50dB**.
+When using independent subset of filters, apply preamp of **-4.5dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 31.84 Hz    | 0.3665 | 5.90 dB   |
-| Peaking | 1774.77 Hz  | 1.6121 | -4.60 dB  |
-| Peaking | 4160.49 Hz  | 2.6177 | 3.41 dB   |
-| Peaking | 9314.81 Hz  | 2.1492 | 2.56 dB   |
-| Peaking | 19401.38 Hz | 0.4594 | -11.56 dB |
-| Peaking | 202.65 Hz   | 3.7327 | -1.09 dB  |
-| Peaking | 5024.81 Hz  | 4.8694 | 2.27 dB   |
-| Peaking | 5842.50 Hz  | 3.7711 | -3.18 dB  |
-| Peaking | 7645.48 Hz  | 7.0785 | 1.80 dB   |
-| Peaking | 12564.01 Hz | 3.0587 | 1.16 dB   |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 0.33 | 3.9 dB   |
+| Peaking | 1780 Hz  | 1.7  | -4.6 dB  |
+| Peaking | 4172 Hz  | 2.61 | 3.5 dB   |
+| Peaking | 9335 Hz  | 2.14 | 2.6 dB   |
+| Peaking | 19564 Hz | 0.46 | -11.6 dB |
+| Peaking | 4974 Hz  | 4.55 | 1.6 dB   |
+| Peaking | 5231 Hz  | 3.48 | 1.0 dB   |
+| Peaking | 5287 Hz  | 3.24 | 0.4 dB   |
+| Peaking | 5779 Hz  | 3.41 | -3.9 dB  |
+| Peaking | 7671 Hz  | 7.34 | 1.9 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.51dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 6.14 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 3.92 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | 1.23 dB  |
-| Peaking | 250.00 Hz   | 1.4142 | -0.36 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 1.06 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | -0.94 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -4.46 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 2.92 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 0.84 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -8.50 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 4.0 dB  |
+| Peaking | 62 Hz    | 1.41 | 2.6 dB  |
+| Peaking | 125 Hz   | 1.41 | 0.9 dB  |
+| Peaking | 250 Hz   | 1.41 | -0.2 dB |
+| Peaking | 500 Hz   | 1.41 | 1.1 dB  |
+| Peaking | 1000 Hz  | 1.41 | -0.9 dB |
+| Peaking | 2000 Hz  | 1.41 | -4.4 dB |
+| Peaking | 4000 Hz  | 1.41 | 3.0 dB  |
+| Peaking | 8000 Hz  | 1.41 | 0.9 dB  |
+| Peaking | 16000 Hz | 1.41 | -8.4 dB |
 
 ### Graphs
 ![](./Stax%20SR-Lambda%20Pro%20Classic.png)

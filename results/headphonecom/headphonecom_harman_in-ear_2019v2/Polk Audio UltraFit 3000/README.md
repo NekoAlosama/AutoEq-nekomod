@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-15.73dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.30dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 29.76 Hz    | 0.1973 | -4.54 dB |
-| Peaking | 132.55 Hz   | 0.6734 | -5.05 dB |
-| Peaking | 282.34 Hz   | 0.9569 | -4.61 dB |
-| Peaking | 7818.99 Hz  | 0.8449 | 13.12 dB |
-| Peaking | 11450.93 Hz | 1.0742 | 5.87 dB  |
-| Peaking | 963.03 Hz   | 3.3482 | 1.25 dB  |
-| Peaking | 2938.54 Hz  | 1.4455 | 1.73 dB  |
-| Peaking | 4234.08 Hz  | 1.8551 | -2.93 dB |
-| Peaking | 6178.90 Hz  | 2.0815 | 1.65 dB  |
-| Peaking | 8101.64 Hz  | 4.9952 | -1.19 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 17 Hz    | 0.28 | -6.7 dB |
+| Peaking | 104 Hz   | 0.52 | -6.9 dB |
+| Peaking | 263 Hz   | 0.82 | -4.7 dB |
+| Peaking | 6639 Hz  | 0.38 | 5.8 dB  |
+| Peaking | 14058 Hz | 1.41 | 3.5 dB  |
+| Peaking | 475 Hz   | 3.05 | -0.6 dB |
+| Peaking | 914 Hz   | 3.22 | 1.2 dB  |
+| Peaking | 3935 Hz  | 4.02 | -2.1 dB |
+| Peaking | 4635 Hz  | 1.34 | 1.0 dB  |
+| Peaking | 6298 Hz  | 2.53 | -0.4 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.50dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.3dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -4.90 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -4.66 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -7.43 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -7.15 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.37 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 0.91 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 0.96 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 0.24 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 19.73 dB |
-| Peaking | 16000.01 Hz | 1.4142 | 4.20 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -8.0 dB |
+| Peaking | 62 Hz    | 1.41 | -6.7 dB |
+| Peaking | 125 Hz   | 1.41 | -7.9 dB |
+| Peaking | 250 Hz   | 1.41 | -6.9 dB |
+| Peaking | 500 Hz   | 1.41 | -2.3 dB |
+| Peaking | 1000 Hz  | 1.41 | 1.2 dB  |
+| Peaking | 2000 Hz  | 1.41 | 1.2 dB  |
+| Peaking | 4000 Hz  | 1.41 | 3.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | 7.0 dB  |
+| Peaking | 16000 Hz | 1.41 | 5.4 dB  |
 
 ### Graphs
 ![](./Polk%20Audio%20UltraFit%203000.png)

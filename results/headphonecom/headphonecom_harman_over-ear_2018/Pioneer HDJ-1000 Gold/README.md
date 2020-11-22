@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-31.28dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-29.44dB**.
+When using independent subset of filters, apply preamp of **-7.7dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 20.87 Hz   | 1.3818 | 24.33 dB |
-| Peaking | 34.83 Hz   | 1.1767 | 13.40 dB |
-| Peaking | 4724.63 Hz | 4.2382 | 4.80 dB  |
-| Peaking | 7689.20 Hz | 5.1337 | 8.15 dB  |
-| Peaking | 9810.81 Hz | 3.0524 | 6.33 dB  |
-| Peaking | 54.08 Hz   | 0.0659 | 2.12 dB  |
-| Peaking | 152.09 Hz  | 0.6667 | -5.07 dB |
-| Peaking | 1462.37 Hz | 1.1479 | -6.61 dB |
-| Peaking | 2856.56 Hz | 1.3336 | 3.48 dB  |
-| Peaking | 6129.87 Hz | 6.0938 | -3.14 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 34 Hz    | 0.7  | 6.9 dB  |
+| Peaking | 1559 Hz  | 1.22 | -6.5 dB |
+| Peaking | 2253 Hz  | 2.05 | 2.4 dB  |
+| Peaking | 3805 Hz  | 1.32 | 3.6 dB  |
+| Peaking | 9094 Hz  | 1.91 | 6.8 dB  |
+| Peaking | 65 Hz    | 2.95 | 3.5 dB  |
+| Peaking | 134 Hz   | 0.94 | -2.7 dB |
+| Peaking | 11008 Hz | 3.61 | 2.4 dB  |
+| Peaking | 11492 Hz | 1.25 | 0.2 dB  |
+| Peaking | 19674 Hz | 0.38 | -5.7 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-37.73dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 36.92 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -2.21 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -6.33 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -2.30 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 1.36 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | -3.69 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -2.61 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 2.80 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 7.09 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | -4.12 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
+| Peaking | 62 Hz    | 1.41 | 5.2 dB  |
+| Peaking | 125 Hz   | 1.41 | -2.7 dB |
+| Peaking | 250 Hz   | 1.41 | -1.3 dB |
+| Peaking | 500 Hz   | 1.41 | 1.6 dB  |
+| Peaking | 1000 Hz  | 1.41 | -3.6 dB |
+| Peaking | 2000 Hz  | 1.41 | -2.6 dB |
+| Peaking | 4000 Hz  | 1.41 | 3.2 dB  |
+| Peaking | 8000 Hz  | 1.41 | 5.9 dB  |
+| Peaking | 16000 Hz | 1.41 | -3.8 dB |
 
 ### Graphs
 ![](./Pioneer%20HDJ-1000%20Gold.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-12.25dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-12.14dB**.
+When using independent subset of filters, apply preamp of **-7.5dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 16.22 Hz    | 0.4607 | 8.87 dB   |
-| Peaking | 215.86 Hz   | 0.7932 | -4.30 dB  |
-| Peaking | 717.03 Hz   | 1.8011 | 3.62 dB   |
-| Peaking | 2559.96 Hz  | 2.1018 | -6.16 dB  |
-| Peaking | 3448.58 Hz  | 3.4003 | 13.79 dB  |
-| Peaking | 4399.68 Hz  | 4.9463 | 1.65 dB   |
-| Peaking | 5484.44 Hz  | 4.2498 | -2.44 dB  |
-| Peaking | 10358.37 Hz | 1.6177 | 1.91 dB   |
-| Peaking | 13131.31 Hz | 1.3336 | 2.13 dB   |
-| Peaking | 19846.86 Hz | 0.4461 | -10.28 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 20 Hz    | 0.84 | 6.1 dB   |
+| Peaking | 203 Hz   | 0.67 | -4.1 dB  |
+| Peaking | 710 Hz   | 1.68 | 3.8 dB   |
+| Peaking | 2475 Hz  | 2.36 | -5.5 dB  |
+| Peaking | 3513 Hz  | 2.34 | 8.2 dB   |
+| Peaking | 4403 Hz  | 3.66 | 1.4 dB   |
+| Peaking | 5474 Hz  | 4.5  | -2.8 dB  |
+| Peaking | 10376 Hz | 1.63 | 2.0 dB   |
+| Peaking | 13221 Hz | 1.43 | 2.1 dB   |
+| Peaking | 19871 Hz | 0.48 | -10.3 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.88dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.7dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 7.56 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 0.60 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -1.54 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.52 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 1.23 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.27 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -3.91 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 6.63 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | -0.43 dB |
-| Peaking | 16000.01 Hz | 1.4142 | -4.25 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 5.4 dB  |
+| Peaking | 62 Hz    | 1.41 | -0.7 dB |
+| Peaking | 125 Hz   | 1.41 | -1.9 dB |
+| Peaking | 250 Hz   | 1.41 | -4.3 dB |
+| Peaking | 500 Hz   | 1.41 | 1.3 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.3 dB  |
+| Peaking | 2000 Hz  | 1.41 | -3.6 dB |
+| Peaking | 4000 Hz  | 1.41 | 5.2 dB  |
+| Peaking | 8000 Hz  | 1.41 | 0.2 dB  |
+| Peaking | 16000 Hz | 1.41 | -4.2 dB |
 
 ### Graphs
 ![](./AKG%20K601%20(Dekoni%20fenestrated%20sheepskin%20earpads).png)

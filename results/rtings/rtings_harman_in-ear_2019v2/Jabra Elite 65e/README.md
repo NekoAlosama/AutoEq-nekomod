@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-4.48dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-4.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-0.53dB**.
+When using independent subset of filters, apply preamp of **-4.2dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 40.45 Hz    | 0.38   | -5.98 dB |
-| Peaking | 171.93 Hz   | 1.2959 | -1.80 dB |
-| Peaking | 7400.95 Hz  | 5.7841 | -5.87 dB |
-| Peaking | 11884.40 Hz | 1.7654 | -4.06 dB |
-| Peaking | 16865.52 Hz | 0.8762 | -3.92 dB |
-| Peaking | 1070.67 Hz  | 1.5964 | 2.90 dB  |
-| Peaking | 2987.45 Hz  | 1.4821 | 3.23 dB  |
-| Peaking | 5362.62 Hz  | 1.6153 | 3.54 dB  |
-| Peaking | 6724.22 Hz  | 5.7151 | -3.80 dB |
-| Peaking | 9236.75 Hz  | 3.1986 | -2.08 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 38 Hz    | 0.27 | -8.6 dB |
+| Peaking | 4793 Hz  | 0.22 | 4.3 dB  |
+| Peaking | 7319 Hz  | 4.01 | -7.7 dB |
+| Peaking | 10478 Hz | 1.26 | -4.7 dB |
+| Peaking | 15250 Hz | 0.57 | -5.3 dB |
+| Peaking | 1195 Hz  | 1.53 | 1.7 dB  |
+| Peaking | 1678 Hz  | 2.41 | -2.7 dB |
+| Peaking | 5960 Hz  | 1.63 | 0.8 dB  |
+| Peaking | 6318 Hz  | 2.78 | 1.2 dB  |
+| Peaking | 6580 Hz  | 6.49 | -3.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.20dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | -5.90 dB |
-| Peaking | 62.50 Hz    | 1.4142 | -4.24 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -3.13 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -1.79 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -0.18 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.65 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | 0.97 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 5.34 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | -5.79 dB |
-| Peaking | 16000.01 Hz | 1.4142 | -5.85 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -9.0 dB |
+| Peaking | 62 Hz    | 1.41 | -6.2 dB |
+| Peaking | 125 Hz   | 1.41 | -3.7 dB |
+| Peaking | 250 Hz   | 1.41 | -1.5 dB |
+| Peaking | 500 Hz   | 1.41 | -0.1 dB |
+| Peaking | 1000 Hz  | 1.41 | 2.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | 1.1 dB  |
+| Peaking | 4000 Hz  | 1.41 | 5.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | -5.6 dB |
+| Peaking | 16000 Hz | 1.41 | -5.6 dB |
 
 ### Graphs
 ![](./Jabra%20Elite%2065e.png)

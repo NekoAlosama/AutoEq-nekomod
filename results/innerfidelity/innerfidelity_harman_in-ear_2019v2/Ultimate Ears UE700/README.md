@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.84dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.57dB**.
+When using independent subset of filters, apply preamp of **-7.4dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 31.63 Hz    | 0.2966 | 6.36 dB   |
-| Peaking | 235.81 Hz   | 0.3321 | -4.82 dB  |
-| Peaking | 3925.74 Hz  | 1.1751 | 10.34 dB  |
-| Peaking | 8315.51 Hz  | 3.034  | -7.57 dB  |
-| Peaking | 12207.72 Hz | 3.4623 | 4.37 dB   |
-| Peaking | 1453.22 Hz  | 2.2913 | -1.88 dB  |
-| Peaking | 2475.72 Hz  | 0.1951 | 0.49 dB   |
-| Peaking | 14061.04 Hz | 1.106  | 3.14 dB   |
-| Peaking | 15484.99 Hz | 1.0023 | 2.63 dB   |
-| Peaking | 19766.31 Hz | 0.4    | -14.35 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 0.32 | 3.4 dB   |
+| Peaking | 244 Hz   | 0.31 | -4.2 dB  |
+| Peaking | 4147 Hz  | 0.79 | 7.3 dB   |
+| Peaking | 8300 Hz  | 2.81 | -8.0 dB  |
+| Peaking | 12213 Hz | 3.4  | 4.3 dB   |
+| Peaking | 1437 Hz  | 3.56 | -1.5 dB  |
+| Peaking | 2732 Hz  | 5.1  | 1.4 dB   |
+| Peaking | 10391 Hz | 0.8  | 0.6 dB   |
+| Peaking | 14405 Hz | 1.62 | 3.8 dB   |
+| Peaking | 19767 Hz | 0.57 | -14.4 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.51dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.5dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 6.53 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 2.67 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -1.07 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -4.05 dB |
-| Peaking | 500.00 Hz   | 1.4142 | -2.29 dB |
-| Peaking | 1000.00 Hz  | 1.4142 | -1.27 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | -0.10 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | 11.66 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -3.71 dB |
-| Peaking | 16000.01 Hz | 1.4142 | -2.42 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 3.4 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.7 dB  |
+| Peaking | 125 Hz   | 1.41 | -1.6 dB |
+| Peaking | 250 Hz   | 1.41 | -3.8 dB |
+| Peaking | 500 Hz   | 1.41 | -2.1 dB |
+| Peaking | 1000 Hz  | 1.41 | -1.2 dB |
+| Peaking | 2000 Hz  | 1.41 | 1.0 dB  |
+| Peaking | 4000 Hz  | 1.41 | 8.3 dB  |
+| Peaking | 8000 Hz  | 1.41 | -2.6 dB |
+| Peaking | 16000 Hz | 1.41 | -2.3 dB |
 
 ### Graphs
 ![](./Ultimate%20Ears%20UE700.png)

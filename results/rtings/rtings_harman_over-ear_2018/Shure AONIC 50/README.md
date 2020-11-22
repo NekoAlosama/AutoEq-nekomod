@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.83dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.83dB**.
+When using independent subset of filters, apply preamp of **-7.0dB**.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 21.49 Hz    | 0.8686 | 10.51 dB |
-| Peaking | 82.39 Hz    | 1.6012 | 2.94 dB  |
-| Peaking | 131.49 Hz   | 1.1408 | -6.40 dB |
-| Peaking | 603.45 Hz   | 0.8482 | 3.73 dB  |
-| Peaking | 5448.97 Hz  | 3.7671 | -3.88 dB |
-| Peaking | 2968.04 Hz  | 4.8805 | -3.39 dB |
-| Peaking | 3947.99 Hz  | 2.5131 | 4.07 dB  |
-| Peaking | 4625.05 Hz  | 5.6791 | -3.01 dB |
-| Peaking | 8776.94 Hz  | 2.18   | 2.43 dB  |
-| Peaking | 15021.92 Hz | 0.3445 | -2.54 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 25 Hz    | 1    | 6.4 dB  |
+| Peaking | 140 Hz   | 1.54 | -6.1 dB |
+| Peaking | 638 Hz   | 0.81 | 3.8 dB  |
+| Peaking | 3945 Hz  | 4.07 | 7.3 dB  |
+| Peaking | 4407 Hz  | 1.42 | -5.0 dB |
+| Peaking | 2420 Hz  | 4.66 | 2.1 dB  |
+| Peaking | 2533 Hz  | 4.42 | -0.7 dB |
+| Peaking | 2853 Hz  | 7.42 | -1.7 dB |
+| Peaking | 8525 Hz  | 1.88 | 2.9 dB  |
+| Peaking | 15115 Hz | 0.37 | -2.4 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.10dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 9.23 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | 1.45 dB  |
-| Peaking | 125.00 Hz   | 1.4142 | -4.91 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -1.08 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 3.57 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | 2.02 dB  |
-| Peaking | 2000.00 Hz  | 1.4142 | -0.34 dB |
-| Peaking | 4000.00 Hz  | 1.4142 | -0.63 dB |
-| Peaking | 8000.00 Hz  | 1.4142 | -0.56 dB |
-| Peaking | 16000.01 Hz | 1.4142 | -3.28 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.2 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.5 dB  |
+| Peaking | 125 Hz   | 1.41 | -5.3 dB |
+| Peaking | 250 Hz   | 1.41 | -0.9 dB |
+| Peaking | 500 Hz   | 1.41 | 3.6 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.1 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.3 dB |
+| Peaking | 4000 Hz  | 1.41 | -0.6 dB |
+| Peaking | 8000 Hz  | 1.41 | -0.5 dB |
+| Peaking | 16000 Hz | 1.41 | -3.2 dB |
 
 ### Graphs
 ![](./Shure%20AONIC%2050.png)

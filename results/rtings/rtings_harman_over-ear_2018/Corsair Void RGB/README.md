@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-12.05dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-11.44dB**.
+When using independent subset of filters, apply preamp of **-6.7dB**.
 
-| Type    | Fc          |      Q | Gain      |
-|:--------|:------------|:-------|:----------|
-| Peaking | 22.31 Hz    | 2.1214 | 11.47 dB  |
-| Peaking | 1122.34 Hz  | 2.2572 | -6.79 dB  |
-| Peaking | 3090.67 Hz  | 0.688  | 4.62 dB   |
-| Peaking | 6323.62 Hz  | 1.6587 | -15.89 dB |
-| Peaking | 9587.96 Hz  | 0.5517 | 12.01 dB  |
-| Peaking | 34.35 Hz    | 1.333  | 3.66 dB   |
-| Peaking | 71.31 Hz    | 0.7367 | -4.08 dB  |
-| Peaking | 272.05 Hz   | 0.3238 | -2.81 dB  |
-| Peaking | 516.93 Hz   | 0.9829 | 3.84 dB   |
-| Peaking | 18104.23 Hz | 1.5416 | 0.89 dB   |
+| Type    | Fc      |    Q | Gain     |
+|:--------|:--------|:-----|:---------|
+| Peaking | 26 Hz   | 0.78 | 10.8 dB  |
+| Peaking | 65 Hz   | 0.38 | -8.1 dB  |
+| Peaking | 1148 Hz | 1.27 | -11.1 dB |
+| Peaking | 4612 Hz | 0.11 | 7.9 dB   |
+| Peaking | 6098 Hz | 2.13 | -13.2 dB |
+| Peaking | 260 Hz  | 7.45 | -1.8 dB  |
+| Peaking | 4330 Hz | 5.91 | 1.9 dB   |
+| Peaking | 6056 Hz | 6.37 | 3.4 dB   |
+| Peaking | 6826 Hz | 1.35 | -3.4 dB  |
+| Peaking | 8515 Hz | 2.69 | 3.7 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.53dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc          |      Q | Gain     |
-|:--------|:------------|:-------|:---------|
-| Peaking | 31.25 Hz    | 1.4142 | 9.84 dB  |
-| Peaking | 62.50 Hz    | 1.4142 | -5.65 dB |
-| Peaking | 125.00 Hz   | 1.4142 | -3.31 dB |
-| Peaking | 250.00 Hz   | 1.4142 | -2.33 dB |
-| Peaking | 500.00 Hz   | 1.4142 | 3.29 dB  |
-| Peaking | 1000.00 Hz  | 1.4142 | -5.87 dB |
-| Peaking | 2000.00 Hz  | 1.4142 | 4.47 dB  |
-| Peaking | 4000.00 Hz  | 1.4142 | 1.63 dB  |
-| Peaking | 8000.00 Hz  | 1.4142 | 2.49 dB  |
-| Peaking | 16000.01 Hz | 1.4142 | 8.89 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
+| Peaking | 62 Hz    | 1.41 | -6.6 dB |
+| Peaking | 125 Hz   | 1.41 | -3.7 dB |
+| Peaking | 250 Hz   | 1.41 | -2.1 dB |
+| Peaking | 500 Hz   | 1.41 | 3.4 dB  |
+| Peaking | 1000 Hz  | 1.41 | -5.8 dB |
+| Peaking | 2000 Hz  | 1.41 | 4.5 dB  |
+| Peaking | 4000 Hz  | 1.41 | 2.1 dB  |
+| Peaking | 8000 Hz  | 1.41 | 1.1 dB  |
+| Peaking | 16000 Hz | 1.41 | 8.3 dB  |
 
 ### Graphs
 ![](./Corsair%20Void%20RGB.png)
