@@ -1,4 +1,7 @@
-# AutoEQ (Optimized*)
+# AutoEQ (modification)
+Changed the name from 'AutoEQ Optimized' to 'AutoEQ (modification)' for clarity. The old name is still the repo name because I've already ran my mouth about it with the old name.
+
+
 Changed results are found [here.](./results)
 Default results for headphones in ['Problems caused'](#problems-caused) or ['Error-causing-headphones'](#error-causing-headphones) are found on the [source repo.](https://github.com/jaakkopasanen/AutoEq/tree/master/results)
 If the source repo updates and it affects the results, I will commit the results of the source into this repo before generating and commiting my version.
@@ -19,7 +22,7 @@ Differences from souce:
   - Removed for compatibility with Wavelet (since last checked).
 
 
-Use an amplifier or adjust output values when neccessary, because `--max_gain` and `--bass_boost`
+Use an amplifier or adjust output values when neccessary, because of `--max_gain` and `--bass_boost` changes.
 
 
 Crinacle results aren't changed because the source measurements are locked behind [Crinacle's Patreon.](https://www.patreon.com/crinacle)
