@@ -1,5 +1,5 @@
-# AutoEQ (modification)
-Changed the name from 'AutoEQ Optimized' to 'AutoEQ (modification)' for clarity. The old name is still the repo name because I've already ran my mouth about it with the old name.
+# AutoEQ (NekoAlosama's mod)
+Changed the name from 'AutoEq-optimized' to 'AutoEQ (NekoAlosama's mod)' for clairity. The old name is still the repo name because I've already ran my mouth about it with the old name.
 
 
 Changed results are found [here.](./results)
