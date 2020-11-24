@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-17.25dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-17.25 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 30 Hz   | 0.37 | 6.2 dB  |
-| Peaking | 1651 Hz | 1.17 | -7.0 dB |
-| Peaking | 3353 Hz | 2.13 | 8.1 dB  |
-| Peaking | 7908 Hz | 5.41 | -3.3 dB |
-| Peaking | 9217 Hz | 3.36 | 2.0 dB  |
-| Peaking | 910 Hz  | 1.74 | -3.1 dB |
-| Peaking | 1031 Hz | 0.59 | 2.1 dB  |
-| Peaking | 1836 Hz | 5.27 | -2.2 dB |
-| Peaking | 4944 Hz | 5.02 | -2.0 dB |
-| Peaking | 6383 Hz | 3.49 | 0.7 dB  |
+| Type    | Fc        |      Q | Gain     |
+|:--------|:----------|:-------|:---------|
+| Peaking | 14.4 Hz   | 0.9127 | 16.98 dB |
+| Peaking | 35.2 Hz   | 0.4047 | 6.71 dB  |
+| Peaking | 1660.4 Hz | 1.0877 | -7.30 dB |
+| Peaking | 3555.5 Hz | 2.0729 | 11.62 dB |
+| Peaking | 4643.6 Hz | 2.5816 | -3.83 dB |
+| Peaking | 915.1 Hz  | 1.867  | -3.04 dB |
+| Peaking | 1054.1 Hz | 0.7472 | 2.07 dB  |
+| Peaking | 1828.7 Hz | 5.3083 | -2.08 dB |
+| Peaking | 7911.9 Hz | 5.7228 | -3.82 dB |
+| Peaking | 9034.9 Hz | 2.9879 | 1.78 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.06dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.8 dB  |
-| Peaking | 62 Hz    | 1.41 | 3.4 dB  |
-| Peaking | 125 Hz   | 1.41 | 1.3 dB  |
-| Peaking | 250 Hz   | 1.41 | -0.1 dB |
-| Peaking | 500 Hz   | 1.41 | 1.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | -3.6 dB |
-| Peaking | 2000 Hz  | 1.41 | -4.6 dB |
-| Peaking | 4000 Hz  | 1.41 | 6.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.2 dB |
-| Peaking | 16000 Hz | 1.41 | -2.8 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 16.23 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 3.15 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 2.04 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -0.43 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 1.20 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -3.76 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -4.97 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 6.96 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -1.67 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -2.95 dB |
 
 ### Graphs
 ![](./German%20Maestro%20GMP%20450%20PRO.png)

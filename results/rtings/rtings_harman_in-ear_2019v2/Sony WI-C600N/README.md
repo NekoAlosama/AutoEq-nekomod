@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.5dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.85dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.5dB**.
+When using independent subset of filters, apply preamp of **-12.70 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 53 Hz    | 0.36 | -1.8 dB |
-| Peaking | 90 Hz    | 0.7  | -2.9 dB |
-| Peaking | 369 Hz   | 1.11 | -4.3 dB |
-| Peaking | 3635 Hz  | 1.16 | 6.5 dB  |
-| Peaking | 18581 Hz | 0.7  | 6.8 dB  |
-| Peaking | 5088 Hz  | 4.46 | 3.1 dB  |
-| Peaking | 6542 Hz  | 2.81 | -4.1 dB |
-| Peaking | 8501 Hz  | 3.43 | 3.4 dB  |
-| Peaking | 12149 Hz | 1.14 | -1.2 dB |
-| Peaking | 15980 Hz | 2.68 | 1.6 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 16.1 Hz    | 0.2423 | 3.41 dB  |
+| Peaking | 102.6 Hz   | 0.5533 | -2.97 dB |
+| Peaking | 368.0 Hz   | 1.0795 | -4.58 dB |
+| Peaking | 3843.7 Hz  | 1.4822 | 7.68 dB  |
+| Peaking | 19535.5 Hz | 0.7609 | 12.49 dB |
+| Peaking | 5005.5 Hz  | 4.0462 | 2.83 dB  |
+| Peaking | 6578.5 Hz  | 2.7949 | -4.37 dB |
+| Peaking | 8490.5 Hz  | 3.4006 | 3.27 dB  |
+| Peaking | 12228.9 Hz | 1.3515 | -1.51 dB |
+| Peaking | 16783.9 Hz | 1.6019 | 1.68 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.78dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.7 dB |
-| Peaking | 62 Hz    | 1.41 | -3.8 dB |
-| Peaking | 125 Hz   | 1.41 | -2.9 dB |
-| Peaking | 250 Hz   | 1.41 | -3.0 dB |
-| Peaking | 500 Hz   | 1.41 | -3.6 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 6.6 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.4 dB |
-| Peaking | 16000 Hz | 1.41 | 5.9 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 3.11 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -0.63 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -1.89 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.37 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.82 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.66 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.57 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 7.59 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -1.07 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 6.53 dB  |
 
 ### Graphs
 ![](./Sony%20WI-C600N.png)

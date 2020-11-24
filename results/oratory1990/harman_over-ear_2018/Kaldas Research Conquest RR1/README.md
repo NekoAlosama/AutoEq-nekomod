@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.5dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.34dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-12.40 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 26 Hz   | 1.36 | 6.6 dB  |
-| Peaking | 1459 Hz | 1.46 | -7.7 dB |
-| Peaking | 2211 Hz | 1.79 | 8.1 dB  |
-| Peaking | 4003 Hz | 4.03 | 6.2 dB  |
-| Peaking | 9080 Hz | 5.44 | 4.3 dB  |
-| Peaking | 179 Hz  | 0.53 | -3.4 dB |
-| Peaking | 2983 Hz | 0.79 | -1.5 dB |
-| Peaking | 3027 Hz | 1.45 | 1.0 dB  |
-| Peaking | 6163 Hz | 0.02 | 0.8 dB  |
-| Peaking | 7089 Hz | 3.64 | -3.3 dB |
+| Type    | Fc        |      Q | Gain     |
+|:--------|:----------|:-------|:---------|
+| Peaking | 23.7 Hz   | 0.8473 | 10.29 dB |
+| Peaking | 2330.6 Hz | 2.1694 | 11.29 dB |
+| Peaking | 2338.6 Hz | 0.4123 | -6.92 dB |
+| Peaking | 3922.6 Hz | 3.3688 | 15.90 dB |
+| Peaking | 9068.8 Hz | 3.8481 | 5.50 dB  |
+| Peaking | 227.2 Hz  | 0.7425 | -2.50 dB |
+| Peaking | 730.4 Hz  | 1.5382 | 2.83 dB  |
+| Peaking | 1447.4 Hz | 2.8029 | -3.67 dB |
+| Peaking | 1820.4 Hz | 3.1235 | 2.32 dB  |
+| Peaking | 3200.8 Hz | 1.7767 | -0.13 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.20dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.8 dB  |
-| Peaking | 62 Hz    | 1.41 | -0.7 dB |
-| Peaking | 125 Hz   | 1.41 | -2.3 dB |
-| Peaking | 250 Hz   | 1.41 | -2.4 dB |
-| Peaking | 500 Hz   | 1.41 | 0.5 dB  |
-| Peaking | 1000 Hz  | 1.41 | -4.1 dB |
-| Peaking | 2000 Hz  | 1.41 | 1.6 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.9 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 16000 Hz | 1.41 | 1.1 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 10.52 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 1.14 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -1.59 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -2.65 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 0.41 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -4.07 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.78 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 7.03 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -1.16 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 0.90 dB  |
 
 ### Graphs
 ![](./Kaldas%20Research%20Conquest%20RR1.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-11.82dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.6dB**.
+When using independent subset of filters, apply preamp of **-11.82 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 23 Hz    | 0.45 | 6.1 dB  |
-| Peaking | 229 Hz   | 0.69 | -2.6 dB |
-| Peaking | 4826 Hz  | 1.26 | 4.5 dB  |
-| Peaking | 12816 Hz | 1.85 | -3.5 dB |
-| Peaking | 14917 Hz | 2.42 | -1.0 dB |
-| Peaking | 845 Hz   | 2    | 0.9 dB  |
-| Peaking | 1404 Hz  | 2.42 | -1.7 dB |
-| Peaking | 6921 Hz  | 4.19 | 2.1 dB  |
-| Peaking | 8321 Hz  | 3.32 | -3.0 dB |
-| Peaking | 9774 Hz  | 3.47 | 1.5 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 13.0 Hz    | 0.5302 | 10.41 dB |
+| Peaking | 44.7 Hz    | 0.4827 | 5.81 dB  |
+| Peaking | 230.8 Hz   | 0.6258 | -3.26 dB |
+| Peaking | 4880.0 Hz  | 1.3154 | 4.32 dB  |
+| Peaking | 13182.2 Hz | 1.4435 | -4.05 dB |
+| Peaking | 1465.6 Hz  | 3.0449 | -1.79 dB |
+| Peaking | 3513.7 Hz  | 4.5973 | 0.93 dB  |
+| Peaking | 6925.5 Hz  | 4.2855 | 3.00 dB  |
+| Peaking | 8314.4 Hz  | 1.9317 | -3.17 dB |
+| Peaking | 9779.6 Hz  | 3.234  | 2.38 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.74dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
-| Peaking | 62 Hz    | 1.41 | 1.5 dB  |
-| Peaking | 125 Hz   | 1.41 | -0.7 dB |
-| Peaking | 250 Hz   | 1.41 | -2.6 dB |
-| Peaking | 500 Hz   | 1.41 | -0.4 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.0 dB  |
-| Peaking | 2000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 4000 Hz  | 1.41 | 4.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.1 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.6 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 11.87 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 4.29 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 0.26 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -2.99 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -0.61 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.15 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.46 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 4.58 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -0.18 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -2.99 dB |
 
 ### Graphs
 ![](./Phonak%20PFE%20121%20(gray%20filter).png)

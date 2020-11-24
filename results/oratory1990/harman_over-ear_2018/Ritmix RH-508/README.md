@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-19.82dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0dB**.
+When using independent subset of filters, apply preamp of **-19.82 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 28 Hz    | 0.64 | 6.4 dB  |
-| Peaking | 247 Hz   | 0.87 | 5.5 dB  |
-| Peaking | 1566 Hz  | 0.16 | -5.1 dB |
-| Peaking | 3123 Hz  | 0.57 | 5.4 dB  |
-| Peaking | 13621 Hz | 1.02 | 3.8 dB  |
-| Peaking | 3169 Hz  | 4.73 | -2.9 dB |
-| Peaking | 4106 Hz  | 3.62 | 5.5 dB  |
-| Peaking | 4831 Hz  | 4.81 | -6.4 dB |
-| Peaking | 7040 Hz  | 2.81 | 3.1 dB  |
-| Peaking | 7963 Hz  | 5.6  | -3.6 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 21.0 Hz    | 0.7611 | 19.81 dB |
+| Peaking | 251.4 Hz   | 0.8098 | 4.71 dB  |
+| Peaking | 628.6 Hz   | 0.4933 | -4.30 dB |
+| Peaking | 4181.6 Hz  | 3.8219 | 5.63 dB  |
+| Peaking | 4846.5 Hz  | 6.1455 | -6.39 dB |
+| Peaking | 2223.1 Hz  | 2.8023 | 4.11 dB  |
+| Peaking | 2278.3 Hz  | 1.2007 | -2.35 dB |
+| Peaking | 7110.7 Hz  | 4.2346 | 2.61 dB  |
+| Peaking | 7981.0 Hz  | 4.9553 | -3.52 dB |
+| Peaking | 13864.0 Hz | 1.1932 | 3.12 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-19.35dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 7.4 dB  |
-| Peaking | 62 Hz    | 1.41 | 0.9 dB  |
-| Peaking | 125 Hz   | 1.41 | 1.4 dB  |
-| Peaking | 250 Hz   | 1.41 | 3.7 dB  |
-| Peaking | 500 Hz   | 1.41 | -2.4 dB |
-| Peaking | 1000 Hz  | 1.41 | -3.0 dB |
-| Peaking | 2000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 4000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.2 dB |
-| Peaking | 16000 Hz | 1.41 | 3.3 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 18.89 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -0.56 dB |
+| Peaking | 125.0 Hz   | 1.4142 | 2.11 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | 3.30 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -2.55 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -3.08 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -0.39 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 0.87 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -0.41 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 3.12 dB  |
 
 ### Graphs
 ![](./Ritmix%20RH-508.png)

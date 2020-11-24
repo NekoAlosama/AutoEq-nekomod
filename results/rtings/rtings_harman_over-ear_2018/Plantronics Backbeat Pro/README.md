@@ -2,38 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-3.2dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-0.5dB**.
+In case of using parametric equalizer, apply preamp of **-3.09dB** and build filters manually
+with these parameters. The first 4 filters can be used independently.
+When using independent subset of filters, apply preamp of **-0.15 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 11 Hz    | 0.55 | -18.4 dB |
-| Peaking | 17 Hz    | 0.4  | -7.6 dB  |
-| Peaking | 4390 Hz  | 3.18 | -3.9 dB  |
-| Peaking | 13127 Hz | 1.37 | -5.9 dB  |
-| Peaking | 17999 Hz | 0.52 | -6.9 dB  |
-| Peaking | 61 Hz    | 1.83 | -3.2 dB  |
-| Peaking | 98 Hz    | 4.39 | 3.5 dB   |
-| Peaking | 194 Hz   | 3.66 | 3.0 dB   |
-| Peaking | 471 Hz   | 1.12 | 2.1 dB   |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 20.5 Hz    | 0.8657 | -14.89 dB |
+| Peaking | 4388.4 Hz  | 2.9586 | -4.04 dB  |
+| Peaking | 13200.9 Hz | 1.2719 | -6.14 dB  |
+| Peaking | 18151.1 Hz | 0.5097 | -6.77 dB  |
+| Peaking | 30.3 Hz    | 3.8241 | 4.34 dB   |
+| Peaking | 63.8 Hz    | 0.5766 | -2.64 dB  |
+| Peaking | 97.2 Hz    | 3.0858 | 5.49 dB   |
+| Peaking | 192.5 Hz   | 3.188  | 3.45 dB   |
+| Peaking | 464.6 Hz   | 1.2326 | 2.06 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.10dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | -15.5 dB |
-| Peaking | 62 Hz    | 1.41 | -3.8 dB  |
-| Peaking | 125 Hz   | 1.41 | 1.4 dB   |
-| Peaking | 250 Hz   | 1.41 | 1.2 dB   |
-| Peaking | 500 Hz   | 1.41 | 1.9 dB   |
-| Peaking | 1000 Hz  | 1.41 | -0.1 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.1 dB   |
-| Peaking | 4000 Hz  | 1.41 | -2.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.6 dB  |
-| Peaking | 16000 Hz | 1.41 | -13.0 dB |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 31.3 Hz    | 1.4142 | -11.95 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -2.01 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 1.88 dB   |
+| Peaking | 250.0 Hz   | 1.4142 | 0.93 dB   |
+| Peaking | 500.0 Hz   | 1.4142 | 1.75 dB   |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.24 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.94 dB   |
+| Peaking | 4000.0 Hz  | 1.4142 | -2.93 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -1.73 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -13.28 dB |
 
 ### Graphs
 ![](./Plantronics%20Backbeat%20Pro.png)

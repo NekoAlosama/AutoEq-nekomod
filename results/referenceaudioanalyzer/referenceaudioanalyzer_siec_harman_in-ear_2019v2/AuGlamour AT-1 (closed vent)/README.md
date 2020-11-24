@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-20.52dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1dB**.
+When using independent subset of filters, apply preamp of **-20.52 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 70 Hz    | 0.7  | -3.7 dB |
-| Peaking | 200 Hz   | 0.4  | -7.9 dB |
-| Peaking | 993 Hz   | 1.1  | 5.5 dB  |
-| Peaking | 3465 Hz  | 3.64 | 4.1 dB  |
-| Peaking | 15712 Hz | 0.18 | 6.5 dB  |
-| Peaking | 17 Hz    | 2.03 | 0.9 dB  |
-| Peaking | 2384 Hz  | 5.01 | -1.1 dB |
-| Peaking | 4193 Hz  | 2.59 | 1.6 dB  |
-| Peaking | 5060 Hz  | 3.51 | -5.4 dB |
-| Peaking | 6147 Hz  | 2.2  | 2.9 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 12.1 Hz    | 0.3471 | 5.92 dB  |
+| Peaking | 194.5 Hz   | 0.3367 | -8.83 dB |
+| Peaking | 973.2 Hz   | 0.8849 | 5.68 dB  |
+| Peaking | 9569.6 Hz  | 1.3478 | 4.92 dB  |
+| Peaking | 19308.4 Hz | 0.1918 | 20.25 dB |
+| Peaking | 2404.3 Hz  | 3.3263 | -1.95 dB |
+| Peaking | 3575.0 Hz  | 2.3785 | 4.57 dB  |
+| Peaking | 5111.6 Hz  | 3.0398 | -6.18 dB |
+| Peaking | 6567.3 Hz  | 3.842  | 3.70 dB  |
+| Peaking | 7863.0 Hz  | 4.522  | -0.99 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-30.29dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.2 dB |
-| Peaking | 62 Hz    | 1.41 | -5.7 dB |
-| Peaking | 125 Hz   | 1.41 | -7.6 dB |
-| Peaking | 250 Hz   | 1.41 | -6.7 dB |
-| Peaking | 500 Hz   | 1.41 | -2.9 dB |
-| Peaking | 1000 Hz  | 1.41 | 4.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 4000 Hz  | 1.41 | 3.4 dB  |
-| Peaking | 8000 Hz  | 1.41 | 6.0 dB  |
-| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 3.62 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -2.63 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -6.51 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -7.15 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.06 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 4.53 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.66 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.51 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 7.82 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 29.68 dB |
 
 ### Graphs
 ![](./AuGlamour%20AT-1%20(closed%20vent).png)

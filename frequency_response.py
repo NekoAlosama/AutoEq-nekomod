@@ -260,7 +260,7 @@ class FrequencyResponse:
         while np.abs(fr.raw[-1]) < 0.1 and np.abs(fr.raw[-2]) < 0.1:  # Last two are zeros
             fr.raw = fr.raw[:-1]
 
-        s = '; '.join(['{f} {a:.1f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
+        s = '; '.join(['{f} {a:.4f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
         s = 'GraphicEQ: ' + s
         return s
 
@@ -679,9 +679,9 @@ class FrequencyResponse:
             preamp = np.min([0.0, -(np.max(fr) + PREAMP_HEADROOM)])
 
         with open(file_path, 'w', encoding='utf-8') as f:
-            s = f'Preamp: {preamp:.1f} dB\n'
+            s = f'Preamp: {preamp:.2f} dB\n'
             for i, filt in enumerate(filters):
-                s += f'Filter {i+1}: ON PK Fc {filt[0]:.0f} Hz Gain {filt[2]:.1f} dB Q {filt[1]:.2f}\n'
+                s += f'Filter {i+1}: ON PK Fc {filt[0]:.1f} Hz Gain {filt[2]:.2f} dB Q {filt[1]:.4f}\n'
             f.write(s)
 
     @staticmethod
@@ -830,19 +830,19 @@ class FrequencyResponse:
             preamp_str = ''
             if type(max_gains) == list and len(max_gains) > 1:
                 if len(max_gains) > 3:
-                    strs = f', '.join([f'{-(x + PREAMP_HEADROOM):.1f} dB' for x in max_gains[:-2]]) + f' or -{max_gains[-2]:.1f} dB'
+                    strs = f', '.join([f'{-(x + PREAMP_HEADROOM):.2f} dB' for x in max_gains[:-2]]) + f' or -{max_gains[-2]:.2f} dB'
                     preamp_str = f'When using independent subset of filters, apply preamp of {strs}, respectively.'
                 elif len(max_gains) == 3:
                     preamp_str = f'When using independent subset of filters, apply preamp of ' \
-                                 f'{-(max_gains[0] + PREAMP_HEADROOM):.1f} dB ' \
-                                 f'or {-(max_gains[1] + PREAMP_HEADROOM):.1f} dB, respectively.'
+                                 f'{-(max_gains[0] + PREAMP_HEADROOM):.2f} dB ' \
+                                 f'or {-(max_gains[1] + PREAMP_HEADROOM):.2f} dB, respectively.'
                 elif len(max_gains) == 2:
                     preamp_str = f'When using independent subset of filters, apply preamp of ' \
-                                 f'**{-(max_gains[0] + PREAMP_HEADROOM):.1f} dB**.'
+                                 f'**{-(max_gains[0] + PREAMP_HEADROOM):.2f} dB**.'
 
             s += '''
             ### Parametric EQs
-            In case of using parametric equalizer, apply preamp of **{preamp:.1f}dB** and build filters manually
+            In case of using parametric equalizer, apply preamp of **{preamp:.2f}dB** and build filters manually
             with these parameters. {max_filters_str}
             {preamp_str}
 
@@ -888,7 +888,7 @@ class FrequencyResponse:
 
             s += '''
             ### Fixed Band EQs
-            In case of using fixed band (also called graphic) equalizer, apply preamp of **{preamp:.1f}dB**
+            In case of using fixed band (also called graphic) equalizer, apply preamp of **{preamp:.2f}dB**
             (if available) and set gains manually with these parameters.
 
             {filters_table}

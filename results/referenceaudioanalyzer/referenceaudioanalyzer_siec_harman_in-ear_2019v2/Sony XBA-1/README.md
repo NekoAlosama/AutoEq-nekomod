@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-35.19dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.4dB**.
+When using independent subset of filters, apply preamp of **-34.45 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 24 Hz    | 1.14 | 3.5 dB  |
-| Peaking | 1969 Hz  | 3.14 | 5.5 dB  |
-| Peaking | 5689 Hz  | 3.07 | 5.9 dB  |
-| Peaking | 8735 Hz  | 2.42 | -7.7 dB |
-| Peaking | 16683 Hz | 0.33 | 7.0 dB  |
-| Peaking | 267 Hz   | 0.7  | -3.4 dB |
-| Peaking | 1160 Hz  | 0.53 | 0.9 dB  |
-| Peaking | 3581 Hz  | 3.6  | -4.4 dB |
-| Peaking | 4585 Hz  | 4.19 | 2.2 dB  |
-| Peaking | 16902 Hz | 3.28 | -1.0 dB |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 22.7 Hz    | 0.9851 | 7.56 dB   |
+| Peaking | 49.0 Hz    | 1.4319 | 4.00 dB   |
+| Peaking | 1961.8 Hz  | 5.2112 | 4.38 dB   |
+| Peaking | 9234.1 Hz  | 1.4246 | -16.30 dB |
+| Peaking | 19231.4 Hz | 0.301  | 34.63 dB  |
+| Peaking | 279.2 Hz   | 1.0521 | -3.70 dB  |
+| Peaking | 3564.1 Hz  | 3.6701 | -6.24 dB  |
+| Peaking | 5502.1 Hz  | 2.3867 | 3.61 dB   |
+| Peaking | 11190.1 Hz | 0.8432 | -1.66 dB  |
+| Peaking | 15986.8 Hz | 0.9052 | 3.02 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.8dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-39.42dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.5 dB  |
-| Peaking | 62 Hz    | 1.41 | 0.1 dB  |
-| Peaking | 125 Hz   | 1.41 | -1.2 dB |
-| Peaking | 250 Hz   | 1.41 | -3.2 dB |
-| Peaking | 500 Hz   | 1.41 | -1.2 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.5 dB  |
-| Peaking | 2000 Hz  | 1.41 | 3.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 16000 Hz | 1.41 | 9.3 dB  |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 31.3 Hz    | 1.4142 | 8.63 dB   |
+| Peaking | 62.5 Hz    | 1.4142 | 3.10 dB   |
+| Peaking | 125.0 Hz   | 1.4142 | -0.20 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -3.63 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -1.47 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.32 dB   |
+| Peaking | 2000.0 Hz  | 1.4142 | 3.06 dB   |
+| Peaking | 4000.0 Hz  | 1.4142 | 0.05 dB   |
+| Peaking | 8000.0 Hz  | 1.4142 | -11.32 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 40.04 dB  |
 
 ### Graphs
 ![](./Sony%20XBA-1.png)

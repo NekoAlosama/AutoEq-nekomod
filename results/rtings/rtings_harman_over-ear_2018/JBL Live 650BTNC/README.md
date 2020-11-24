@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.7dB**.
+In case of using parametric equalizer, apply preamp of **-6.13dB** and build filters manually
+with these parameters. The first 4 filters can be used independently.
+When using independent subset of filters, apply preamp of **-6.11 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 16 Hz   | 0.38 | -8.8 dB |
-| Peaking | 93 Hz   | 1.44 | -3.3 dB |
-| Peaking | 2618 Hz | 5.28 | 3.4 dB  |
-| Peaking | 6520 Hz | 4.14 | -6.5 dB |
-| Peaking | 9374 Hz | 2.08 | 6.5 dB  |
-| Peaking | 376 Hz  | 1.54 | 0.8 dB  |
-| Peaking | 713 Hz  | 1.54 | 2.1 dB  |
-| Peaking | 1270 Hz | 2.14 | -3.4 dB |
-| Peaking | 3480 Hz | 4.13 | -7.2 dB |
-| Peaking | 3517 Hz | 1.31 | 3.3 dB  |
+| Type    | Fc        |      Q | Gain     |
+|:--------|:----------|:-------|:---------|
+| Peaking | 2361.1 Hz | 0.947  | -3.60 dB |
+| Peaking | 2461.8 Hz | 2.3735 | 6.59 dB  |
+| Peaking | 6550.2 Hz | 4.5302 | -6.40 dB |
+| Peaking | 9350.5 Hz | 2.0343 | 6.41 dB  |
+| Peaking | 18.0 Hz   | 0.8959 | -5.53 dB |
+| Peaking | 40.0 Hz   | 0.7616 | -1.05 dB |
+| Peaking | 100.2 Hz  | 1.6226 | -2.66 dB |
+| Peaking | 3450.2 Hz | 7.577  | -3.29 dB |
+| Peaking | 4738.9 Hz | 7.3814 | 3.78 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.6dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.12dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -7.9 dB |
-| Peaking | 62 Hz    | 1.41 | -3.1 dB |
-| Peaking | 125 Hz   | 1.41 | -3.0 dB |
-| Peaking | 250 Hz   | 1.41 | 0.4 dB  |
-| Peaking | 500 Hz   | 1.41 | 2.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 1.4 dB  |
-| Peaking | 4000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 8000 Hz  | 1.41 | 2.2 dB  |
-| Peaking | 16000 Hz | 1.41 | 0.6 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | -4.54 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -1.01 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -2.40 dB |
+| Peaking | 250.0 Hz   | 1.4142 | 0.08 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | 2.16 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -1.79 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.24 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | -1.44 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 2.08 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 0.41 dB  |
 
 ### Graphs
 ![](./JBL%20Live%20650BTNC.png)

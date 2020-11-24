@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.71dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.2dB**.
+When using independent subset of filters, apply preamp of **-5.71 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 99 Hz    | 0.54 | -7.7 dB |
-| Peaking | 241 Hz   | 1.31 | -5.8 dB |
-| Peaking | 513 Hz   | 0.77 | 7.4 dB  |
-| Peaking | 3753 Hz  | 3.36 | 4.2 dB  |
-| Peaking | 12605 Hz | 1.8  | 3.2 dB  |
-| Peaking | 1101 Hz  | 3.04 | -0.6 dB |
-| Peaking | 2241 Hz  | 3.84 | 1.6 dB  |
-| Peaking | 4348 Hz  | 5.8  | 2.7 dB  |
-| Peaking | 5330 Hz  | 2.9  | -3.9 dB |
-| Peaking | 6909 Hz  | 4.28 | 2.4 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 97.0 Hz    | 1.2315 | -4.63 dB |
+| Peaking | 223.1 Hz   | 0.8973 | -8.70 dB |
+| Peaking | 509.9 Hz   | 0.8086 | 7.82 dB  |
+| Peaking | 3760.0 Hz  | 3.4781 | 4.10 dB  |
+| Peaking | 12614.8 Hz | 1.9649 | 3.05 dB  |
+| Peaking | 21.2 Hz    | 1.5484 | 2.18 dB  |
+| Peaking | 2261.3 Hz  | 4.3398 | 1.61 dB  |
+| Peaking | 4361.8 Hz  | 5.787  | 3.02 dB  |
+| Peaking | 5329.9 Hz  | 2.5408 | -4.03 dB |
+| Peaking | 6790.1 Hz  | 3.857  | 2.54 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.30dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.3 dB |
-| Peaking | 62 Hz    | 1.41 | -5.0 dB |
-| Peaking | 125 Hz   | 1.41 | -7.0 dB |
-| Peaking | 250 Hz   | 1.41 | -6.1 dB |
-| Peaking | 500 Hz   | 1.41 | 7.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | 1.4 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.5 dB  |
-| Peaking | 16000 Hz | 1.41 | 1.3 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 1.91 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -2.83 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -6.42 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -6.38 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 7.22 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 1.25 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.86 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 2.01 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 0.38 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 1.12 dB  |
 
 ### Graphs
 ![](./Campfire%20Audio%20Cascade%20(no%20filter).png)

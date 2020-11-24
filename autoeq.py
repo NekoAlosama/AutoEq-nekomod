@@ -170,7 +170,7 @@ def batch_processing(input_dir=None, output_dir=None, new_only=False, standardiz
             fr.plot_graph(show=True, close=False)
 
         n += 1
-        print(f'{n}/{n_total} ({n / n_total * 100:.1f}%) {time() - start_time:.0f}s: {fr.name}')
+        print(f'{n}/{n_total} ({n / n_total * 100:.2f}%) {time() - start_time:.2f}s: {fr.name}')
 
 
 def cli_args():

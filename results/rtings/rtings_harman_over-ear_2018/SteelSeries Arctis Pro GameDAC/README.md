@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.58dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.3dB**.
+When using independent subset of filters, apply preamp of **-10.68 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 48 Hz    | 0.02 | -2.0 dB |
-| Peaking | 1547 Hz  | 1.38 | 3.8 dB  |
-| Peaking | 3808 Hz  | 2.54 | 8.5 dB  |
-| Peaking | 5711 Hz  | 1.89 | -7.0 dB |
-| Peaking | 9342 Hz  | 2.55 | 7.6 dB  |
-| Peaking | 29 Hz    | 0.95 | -2.1 dB |
-| Peaking | 50 Hz    | 1.15 | 2.4 dB  |
-| Peaking | 11223 Hz | 3.23 | 1.3 dB  |
-| Peaking | 11744 Hz | 1.18 | 0.3 dB  |
-| Peaking | 19945 Hz | 0.41 | -4.8 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 344.5 Hz   | 0.7936 | -3.02 dB |
+| Peaking | 1562.7 Hz  | 2.3874 | 2.80 dB  |
+| Peaking | 3754.4 Hz  | 3.6337 | 12.14 dB |
+| Peaking | 5735.4 Hz  | 1.7355 | -6.96 dB |
+| Peaking | 9305.8 Hz  | 2.6381 | 7.87 dB  |
+| Peaking | 55.0 Hz    | 1.7049 | 2.63 dB  |
+| Peaking | 2245.2 Hz  | 4.3042 | 0.94 dB  |
+| Peaking | 2773.3 Hz  | 5.6191 | -1.37 dB |
+| Peaking | 11141.3 Hz | 2.6515 | 1.49 dB  |
+| Peaking | 19585.1 Hz | 0.4544 | -4.87 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.63dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.6 dB |
-| Peaking | 62 Hz    | 1.41 | 0.6 dB  |
-| Peaking | 125 Hz   | 1.41 | -1.5 dB |
-| Peaking | 250 Hz   | 1.41 | -2.2 dB |
-| Peaking | 500 Hz   | 1.41 | -2.1 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 2000 Hz  | 1.41 | 2.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 1.1 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.3 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | -0.31 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 2.82 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -0.89 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -2.50 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -2.22 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.29 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.72 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 3.08 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 0.62 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -2.48 dB |
 
 ### Graphs
 ![](./SteelSeries%20Arctis%20Pro%20GameDAC.png)

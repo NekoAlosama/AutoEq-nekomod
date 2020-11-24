@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.56dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-9.56 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 16 Hz    | 0.3  | 3.9 dB   |
-| Peaking | 77 Hz    | 0.27 | 2.3 dB   |
-| Peaking | 217 Hz   | 0.52 | -5.0 dB  |
-| Peaking | 3187 Hz  | 2.12 | 7.1 dB   |
-| Peaking | 9248 Hz  | 3.95 | 3.6 dB   |
-| Peaking | 1400 Hz  | 1.37 | -4.1 dB  |
-| Peaking | 1475 Hz  | 0.61 | 2.2 dB   |
-| Peaking | 7587 Hz  | 4.22 | 1.4 dB   |
-| Peaking | 11586 Hz | 1.37 | 4.6 dB   |
-| Peaking | 19709 Hz | 0.32 | -15.5 dB |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 16.0 Hz    | 0.3538 | 7.64 dB   |
+| Peaking | 67.2 Hz    | 0.4153 | 5.66 dB   |
+| Peaking | 199.7 Hz   | 0.4658 | -5.62 dB  |
+| Peaking | 3157.9 Hz  | 2.4297 | 7.81 dB   |
+| Peaking | 9243.7 Hz  | 4.0001 | 3.27 dB   |
+| Peaking | 1401.9 Hz  | 1.2449 | -4.55 dB  |
+| Peaking | 1477.5 Hz  | 0.5546 | 2.55 dB   |
+| Peaking | 10362.2 Hz | 1.4382 | 3.42 dB   |
+| Peaking | 13327.1 Hz | 0.9326 | 2.87 dB   |
+| Peaking | 19757.4 Hz | 0.2696 | -16.02 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.60dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | 5.4 dB   |
-| Peaking | 62 Hz    | 1.41 | 2.1 dB   |
-| Peaking | 125 Hz   | 1.41 | -0.7 dB  |
-| Peaking | 250 Hz   | 1.41 | -4.0 dB  |
-| Peaking | 500 Hz   | 1.41 | -0.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.9 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.2 dB   |
-| Peaking | 4000 Hz  | 1.41 | 4.4 dB   |
-| Peaking | 8000 Hz  | 1.41 | 2.1 dB   |
-| Peaking | 16000 Hz | 1.41 | -11.0 dB |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 31.3 Hz    | 1.4142 | 10.37 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 5.05 dB   |
+| Peaking | 125.0 Hz   | 1.4142 | 0.29 dB   |
+| Peaking | 250.0 Hz   | 1.4142 | -4.37 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -0.40 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -2.08 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.10 dB   |
+| Peaking | 4000.0 Hz  | 1.4142 | 4.52 dB   |
+| Peaking | 8000.0 Hz  | 1.4142 | 1.76 dB   |
+| Peaking | 16000.0 Hz | 1.4142 | -11.35 dB |
 
 ### Graphs
 ![](./AAW%20Halcyon%20(Vokal%20filter).png)

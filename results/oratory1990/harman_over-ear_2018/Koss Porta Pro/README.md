@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.8dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.08dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9dB**.
+When using independent subset of filters, apply preamp of **-12.73 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 25 Hz    | 1.04 | 7.0 dB  |
-| Peaking | 130 Hz   | 0.54 | -5.1 dB |
-| Peaking | 3533 Hz  | 4.68 | 5.7 dB  |
-| Peaking | 7858 Hz  | 1.87 | 4.6 dB  |
-| Peaking | 19067 Hz | 0.23 | 5.3 dB  |
-| Peaking | 1864 Hz  | 3.97 | -1.6 dB |
-| Peaking | 4036 Hz  | 3.38 | 3.7 dB  |
-| Peaking | 4634 Hz  | 3.95 | -6.6 dB |
-| Peaking | 6458 Hz  | 4.95 | 2.3 dB  |
-| Peaking | 22050 Hz | 1.81 | -0.2 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 20.0 Hz    | 0.7802 | 12.77 dB |
+| Peaking | 157.5 Hz   | 0.635  | -4.80 dB |
+| Peaking | 3611.1 Hz  | 4.2534 | 9.27 dB  |
+| Peaking | 6488.6 Hz  | 1.9109 | 5.41 dB  |
+| Peaking | 19151.1 Hz | 0.3397 | 6.08 dB  |
+| Peaking | 1858.9 Hz  | 3.4802 | -1.66 dB |
+| Peaking | 3735.9 Hz  | 6.5892 | 7.50 dB  |
+| Peaking | 4649.6 Hz  | 2.1549 | -6.97 dB |
+| Peaking | 6907.0 Hz  | 6.2068 | 2.77 dB  |
+| Peaking | 9660.2 Hz  | 2.0659 | 3.02 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.69dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.9 dB  |
-| Peaking | 62 Hz    | 1.41 | -3.3 dB |
-| Peaking | 125 Hz   | 1.41 | -4.1 dB |
-| Peaking | 250 Hz   | 1.41 | -3.2 dB |
-| Peaking | 500 Hz   | 1.41 | 0.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | -0.0 dB |
-| Peaking | 2000 Hz  | 1.41 | -0.7 dB |
-| Peaking | 4000 Hz  | 1.41 | 2.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 5.4 dB  |
-| Peaking | 16000 Hz | 1.41 | 6.5 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 11.24 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -1.46 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -3.56 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.52 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 0.17 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.03 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.44 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 4.18 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 5.02 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 6.06 dB  |
 
 ### Graphs
 ![](./Koss%20Porta%20Pro.png)

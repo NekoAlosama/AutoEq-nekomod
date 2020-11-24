@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.14dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9dB**.
+When using independent subset of filters, apply preamp of **-7.12 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 12 Hz   | 0.22 | 3.6 dB  |
-| Peaking | 325 Hz  | 0.57 | -2.7 dB |
-| Peaking | 2322 Hz | 3.8  | -2.9 dB |
-| Peaking | 4622 Hz | 2.44 | 6.2 dB  |
-| Peaking | 8487 Hz | 2.74 | 3.8 dB  |
-| Peaking | 423 Hz  | 1.4  | -0.4 dB |
-| Peaking | 528 Hz  | 3.61 | 2.1 dB  |
-| Peaking | 899 Hz  | 2.52 | -2.9 dB |
-| Peaking | 1476 Hz | 1.86 | 2.8 dB  |
-| Peaking | 1947 Hz | 2.97 | -1.7 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 13.2 Hz    | 0.1168 | 6.47 dB  |
+| Peaking | 282.2 Hz   | 0.3761 | -3.36 dB |
+| Peaking | 4616.8 Hz  | 3.4061 | 6.58 dB  |
+| Peaking | 8837.0 Hz  | 1.4537 | 4.83 dB  |
+| Peaking | 19824.7 Hz | 0.3048 | -8.53 dB |
+| Peaking | 252.8 Hz   | 2.9167 | -0.80 dB |
+| Peaking | 538.6 Hz   | 3.8193 | 1.89 dB  |
+| Peaking | 915.6 Hz   | 2.2629 | -3.21 dB |
+| Peaking | 1457.8 Hz  | 1.154  | 3.23 dB  |
+| Peaking | 2172.6 Hz  | 2.5048 | -4.24 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.64dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.5 dB  |
-| Peaking | 62 Hz    | 1.41 | 0.6 dB  |
-| Peaking | 125 Hz   | 1.41 | 0.4 dB  |
-| Peaking | 250 Hz   | 1.41 | -3.0 dB |
-| Peaking | 500 Hz   | 1.41 | -1.1 dB |
-| Peaking | 1000 Hz  | 1.41 | -0.8 dB |
-| Peaking | 2000 Hz  | 1.41 | -1.8 dB |
-| Peaking | 4000 Hz  | 1.41 | 3.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | 4.0 dB  |
-| Peaking | 16000 Hz | 1.41 | -7.1 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 6.92 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 2.43 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 1.25 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -3.24 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -1.42 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.90 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.91 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 3.68 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.81 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -7.05 dB |
 
 ### Graphs
 ![](./Erzetich%20Phobos%20(gap%20sealed).png)

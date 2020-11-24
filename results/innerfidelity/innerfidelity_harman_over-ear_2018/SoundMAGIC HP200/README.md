@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.06dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.5dB**.
+When using independent subset of filters, apply preamp of **-7.56 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 57 Hz    | 2.81 | 5.7 dB  |
-| Peaking | 664 Hz   | 1.04 | 6.0 dB  |
-| Peaking | 2571 Hz  | 2.3  | -6.2 dB |
-| Peaking | 10122 Hz | 2.19 | -7.1 dB |
-| Peaking | 17255 Hz | 0.53 | -3.2 dB |
-| Peaking | 121 Hz   | 2.62 | -2.6 dB |
-| Peaking | 200 Hz   | 1.99 | -2.4 dB |
-| Peaking | 398 Hz   | 2.6  | 1.6 dB  |
-| Peaking | 6697 Hz  | 4.47 | 6.1 dB  |
-| Peaking | 7784 Hz  | 2.19 | -2.7 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 47.5 Hz    | 1.1236 | 7.32 dB  |
+| Peaking | 666.8 Hz   | 1.0719 | 5.84 dB  |
+| Peaking | 2575.0 Hz  | 2.2341 | -6.26 dB |
+| Peaking | 10112.9 Hz | 2.1566 | -7.15 dB |
+| Peaking | 17311.8 Hz | 0.5162 | -3.32 dB |
+| Peaking | 21.5 Hz    | 2.4183 | 2.38 dB  |
+| Peaking | 62.6 Hz    | 6.1899 | 3.74 dB  |
+| Peaking | 146.6 Hz   | 1.1096 | -2.86 dB |
+| Peaking | 6680.3 Hz  | 5.0938 | 4.85 dB  |
+| Peaking | 8335.6 Hz  | 3.7191 | -2.39 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.61dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 0.7 dB  |
-| Peaking | 62 Hz    | 1.41 | 5.0 dB  |
-| Peaking | 125 Hz   | 1.41 | -3.8 dB |
-| Peaking | 250 Hz   | 1.41 | -1.0 dB |
-| Peaking | 500 Hz   | 1.41 | 5.5 dB  |
-| Peaking | 1000 Hz  | 1.41 | 4.2 dB  |
-| Peaking | 2000 Hz  | 1.41 | -4.0 dB |
-| Peaking | 4000 Hz  | 1.41 | -0.6 dB |
-| Peaking | 8000 Hz  | 1.41 | -3.7 dB |
-| Peaking | 16000 Hz | 1.41 | -5.3 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 3.90 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 7.23 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -3.26 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -1.29 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 5.34 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 4.09 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | -4.16 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | -0.77 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | -3.82 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -5.52 dB |
 
 ### Graphs
 ![](./SoundMAGIC%20HP200.png)

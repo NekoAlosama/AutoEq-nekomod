@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.05dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-8.98 dB**.
 
-| Type    | Fc      |    Q | Gain     |
-|:--------|:--------|:-----|:---------|
-| Peaking | 17 Hz   | 0.52 | 5.9 dB   |
-| Peaking | 136 Hz  | 0.44 | -6.8 dB  |
-| Peaking | 2823 Hz | 0.79 | 4.7 dB   |
-| Peaking | 5608 Hz | 4.26 | -19.9 dB |
-| Peaking | 8336 Hz | 0.34 | 6.3 dB   |
-| Peaking | 1057 Hz | 5.26 | -5.4 dB  |
-| Peaking | 1225 Hz | 3.94 | -2.7 dB  |
-| Peaking | 1498 Hz | 1.51 | 3.8 dB   |
-| Peaking | 3205 Hz | 0.8  | -1.7 dB  |
-| Peaking | 4317 Hz | 4.99 | 3.5 dB   |
+| Type    | Fc        |      Q | Gain      |
+|:--------|:----------|:-------|:----------|
+| Peaking | 23.6 Hz   | 1.6061 | 7.87 dB   |
+| Peaking | 2137.3 Hz | 2.1893 | 7.39 dB   |
+| Peaking | 4105.9 Hz | 1.7003 | 8.62 dB   |
+| Peaking | 5568.4 Hz | 3.074  | -21.30 dB |
+| Peaking | 8783.4 Hz | 0.7084 | 8.87 dB   |
+| Peaking | 40.5 Hz   | 1.6838 | 2.11 dB   |
+| Peaking | 156.3 Hz  | 0.796  | -5.75 dB  |
+| Peaking | 296.9 Hz  | 0.355  | -1.08 dB  |
+| Peaking | 1071.5 Hz | 5.2221 | -4.66 dB  |
+| Peaking | 1496.5 Hz | 3.7003 | 2.95 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.04dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 4.0 dB  |
-| Peaking | 62 Hz    | 1.41 | -2.9 dB |
-| Peaking | 125 Hz   | 1.41 | -6.3 dB |
-| Peaking | 250 Hz   | 1.41 | -3.8 dB |
-| Peaking | 500 Hz   | 1.41 | -0.4 dB |
-| Peaking | 1000 Hz  | 1.41 | -2.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 7.9 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.6 dB  |
-| Peaking | 16000 Hz | 1.41 | 5.5 dB  |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 7.19 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -0.79 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -5.70 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -4.14 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -0.45 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -3.38 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 9.25 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 0.87 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.12 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 5.21 dB  |
 
 ### Graphs
 ![](./Cowin%20E8.png)

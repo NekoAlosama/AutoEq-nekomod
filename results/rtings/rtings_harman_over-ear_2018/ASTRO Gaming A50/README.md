@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-5.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.36dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.3dB**.
+When using independent subset of filters, apply preamp of **-7.26 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 1.69 | 4.4 dB  |
-| Peaking | 625 Hz   | 4.32 | 4.2 dB  |
-| Peaking | 2183 Hz  | 3.18 | 3.1 dB  |
-| Peaking | 4071 Hz  | 2.28 | 4.8 dB  |
-| Peaking | 6258 Hz  | 3.05 | -6.7 dB |
-| Peaking | 168 Hz   | 0.8  | -3.0 dB |
-| Peaking | 942 Hz   | 0.68 | 1.9 dB  |
-| Peaking | 1100 Hz  | 2.37 | -4.8 dB |
-| Peaking | 9295 Hz  | 3.54 | 2.7 dB  |
-| Peaking | 19469 Hz | 0.33 | -3.6 dB |
+| Type    | Fc        |      Q | Gain     |
+|:--------|:----------|:-------|:---------|
+| Peaking | 22.4 Hz   | 0.7968 | 7.17 dB  |
+| Peaking | 625.8 Hz  | 4.6564 | 4.12 dB  |
+| Peaking | 2188.7 Hz | 3.3122 | 2.94 dB  |
+| Peaking | 4082.3 Hz | 2.3368 | 4.79 dB  |
+| Peaking | 6258.6 Hz | 2.9441 | -6.81 dB |
+| Peaking | 61.3 Hz   | 1.1391 | 1.32 dB  |
+| Peaking | 186.9 Hz  | 0.7511 | -3.01 dB |
+| Peaking | 900.1 Hz  | 0.5798 | 1.92 dB  |
+| Peaking | 1117.8 Hz | 2.2946 | -4.85 dB |
+| Peaking | 5236.3 Hz | 3.6398 | -0.51 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.8dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.26dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.6 dB  |
-| Peaking | 62 Hz    | 1.41 | -0.8 dB |
-| Peaking | 125 Hz   | 1.41 | -2.2 dB |
-| Peaking | 250 Hz   | 1.41 | -2.7 dB |
-| Peaking | 500 Hz   | 1.41 | 3.5 dB  |
-| Peaking | 1000 Hz  | 1.41 | -2.3 dB |
-| Peaking | 2000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | -2.6 dB |
-| Peaking | 16000 Hz | 1.41 | -2.9 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 6.95 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 1.26 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -1.54 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.03 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 3.40 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -2.39 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 2.37 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 2.39 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -2.71 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -3.11 dB |
 
 ### Graphs
 ![](./ASTRO%20Gaming%20A50.png)

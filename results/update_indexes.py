@@ -235,10 +235,10 @@ def ranking_row(file_path, target, form='onear'):
     fr.compensate(target, bass_boost_gain=0.0)  # Pre-computed results are with Harman target without bass
     if form == 'onear':
         score, std, slope = fr.harman_onear_preference_score()
-        return [f'[{fr.name}]({url})', f'{score:.0f}', f'{std:.2f}', f'{slope:.2f}']
+        return [f'[{fr.name}]({url})', f'{score:.2f}', f'{std:.2f}', f'{slope:.2f}']
     elif form == 'inear':
         score, std, slope, mean = fr.harman_inear_preference_score()
-        return [f'[{fr.name}]({url})', f'{score:.0f}', f'{std:.2f}', f'{slope:.2f}', f'{mean:.2f}']
+        return [f'[{fr.name}]({url})', f'{score:.2f}', f'{std:.2f}', f'{slope:.2f}', f'{mean:.2f}']
     if '|' in f'[{fr.name}]({url})':
         print(file_path)
         print(fr.name)

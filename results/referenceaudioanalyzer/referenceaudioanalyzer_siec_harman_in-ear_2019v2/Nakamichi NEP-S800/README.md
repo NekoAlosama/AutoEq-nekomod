@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-13.37dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.6dB**.
+When using independent subset of filters, apply preamp of **-13.96 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 20 Hz    | 1.08 | 4.5 dB   |
-| Peaking | 334 Hz   | 0.35 | -6.8 dB  |
-| Peaking | 4820 Hz  | 0.42 | 21.2 dB  |
-| Peaking | 7344 Hz  | 0.86 | -29.9 dB |
-| Peaking | 13044 Hz | 1.26 | 10.1 dB  |
-| Peaking | 186 Hz   | 5.66 | 1.7 dB   |
-| Peaking | 1913 Hz  | 3.46 | 2.3 dB   |
-| Peaking | 5168 Hz  | 1.37 | -2.1 dB  |
-| Peaking | 5283 Hz  | 4.95 | 4.9 dB   |
-| Peaking | 19856 Hz | 1.92 | -6.8 dB  |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 10.7 Hz    | 0.2255 | 9.63 dB   |
+| Peaking | 413.5 Hz   | 0.2952 | -7.03 dB  |
+| Peaking | 3653.4 Hz  | 0.5689 | 19.16 dB  |
+| Peaking | 7397.6 Hz  | 1.4963 | -22.71 dB |
+| Peaking | 13082.9 Hz | 1.6756 | 7.95 dB   |
+| Peaking | 262.6 Hz   | 5.9102 | -2.05 dB  |
+| Peaking | 3756.1 Hz  | 3.8538 | -3.09 dB  |
+| Peaking | 5080.1 Hz  | 1.5709 | 3.34 dB   |
+| Peaking | 6351.9 Hz  | 4.7127 | -4.60 dB  |
+| Peaking | 19736.4 Hz | 1.6395 | -7.18 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-14.16dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.2 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.9 dB |
-| Peaking | 125 Hz   | 1.41 | -2.5 dB |
-| Peaking | 250 Hz   | 1.41 | -5.7 dB |
-| Peaking | 500 Hz   | 1.41 | -3.8 dB |
-| Peaking | 1000 Hz  | 1.41 | -0.8 dB |
-| Peaking | 2000 Hz  | 1.41 | 5.5 dB  |
-| Peaking | 4000 Hz  | 1.41 | 7.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | -9.7 dB |
-| Peaking | 16000 Hz | 1.41 | 6.7 dB  |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 31.3 Hz    | 1.4142 | 8.55 dB   |
+| Peaking | 62.5 Hz    | 1.4142 | 1.03 dB   |
+| Peaking | 125.0 Hz   | 1.4142 | -1.45 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -6.29 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -3.68 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -2.58 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 7.38 dB   |
+| Peaking | 4000.0 Hz  | 1.4142 | 14.66 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -12.20 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 6.39 dB   |
 
 ### Graphs
 ![](./Nakamichi%20NEP-S800.png)

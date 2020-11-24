@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-15.70dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2dB**.
+When using independent subset of filters, apply preamp of **-15.70 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 37 Hz    | 0.4  | 6.6 dB  |
-| Peaking | 1902 Hz  | 1.87 | 2.2 dB  |
-| Peaking | 3776 Hz  | 2.14 | 3.9 dB  |
-| Peaking | 4888 Hz  | 3.84 | -2.6 dB |
-| Peaking | 8778 Hz  | 2.14 | -9.5 dB |
-| Peaking | 92 Hz    | 1.66 | 0.9 dB  |
-| Peaking | 366 Hz   | 1.13 | -1.9 dB |
-| Peaking | 6480 Hz  | 6.18 | 1.3 dB  |
-| Peaking | 13402 Hz | 2.38 | 1.7 dB  |
-| Peaking | 19806 Hz | 0.61 | -6.4 dB |
+| Type    | Fc        |      Q | Gain     |
+|:--------|:----------|:-------|:---------|
+| Peaking | 21.4 Hz   | 0.5596 | 14.19 dB |
+| Peaking | 61.1 Hz   | 0.8273 | 5.71 dB  |
+| Peaking | 2946.8 Hz | 0.9852 | 2.59 dB  |
+| Peaking | 8628.0 Hz | 1.8578 | -8.64 dB |
+| Peaking | 9608.9 Hz | 2.1131 | -1.15 dB |
+| Peaking | 403.9 Hz  | 1.1423 | -2.21 dB |
+| Peaking | 2761.8 Hz | 2.554  | -4.27 dB |
+| Peaking | 3172.3 Hz | 0.999  | 3.52 dB  |
+| Peaking | 5071.0 Hz | 2.9507 | -3.58 dB |
+| Peaking | 6443.3 Hz | 6.2706 | 1.75 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.8dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-18.56dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.2 dB  |
-| Peaking | 62 Hz    | 1.41 | 4.8 dB  |
-| Peaking | 125 Hz   | 1.41 | 2.5 dB  |
-| Peaking | 250 Hz   | 1.41 | -0.9 dB |
-| Peaking | 500 Hz   | 1.41 | -1.6 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.9 dB  |
-| Peaking | 4000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | -7.9 dB |
-| Peaking | 16000 Hz | 1.41 | -1.8 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 16.26 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 6.64 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 3.19 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -1.28 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -1.85 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.63 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.68 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 2.87 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -8.17 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -2.13 dB |
 
 ### Graphs
 ![](./Tin%20HiFi%20T2%20Pro.png)
