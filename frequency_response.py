@@ -210,7 +210,7 @@ class FrequencyResponse:
                     raw.append(float(floats[1]))  # Assume second to be raw
                 # Discard all lines which don't match data pattern
             return cls(name=name, frequency=frequency, raw=raw)
-    
+
     def to_dict(self):
         d = dict()
         if len(self.frequency):
@@ -684,6 +684,29 @@ class FrequencyResponse:
                 s += f'Filter {i+1}: ON PK Fc {filt[0]:.1f} Hz Gain {filt[2]:.2f} dB Q {filt[1]:.4f}\n'
             f.write(s)
 
+    def write_rockbox_10_band_fixed_eq(self, file_path, filters, preamp=None):
+        """Writes Rockbox 10 band eq settings to a file."""
+        file_path = os.path.abspath(file_path)
+
+        if preamp is None:
+            # Calculate preamp from the cascade frequency response
+            fr = np.zeros(self.frequency.shape)
+            for filt in filters:
+                a0, a1, a2, b0, b1, b2 = biquad.peaking(filt[0], filt[1], filt[2], fs=44100)
+                fr += biquad.digital_coeffs(self.frequency, 44100, a0, a1, a2, b0, b1, b2)
+            preamp = np.min([0.0, -(np.max(fr) + PREAMP_HEADROOM)])
+
+        with open(file_path, 'w', encoding='utf-8') as f:
+            s = f'eq enabled: on\neq precut: {round(abs(preamp), 1) * 10:.0f}\n'
+            for i, filt in enumerate(filters):
+                if i == 0:
+                    s += f'eq low shelf filter: {filt[0]:.0f}, {round(filt[1], 1) * 10:.0f}, {round(filt[2], 1) * 10:.0f}\n'
+                elif i == len(filters) - 1:
+                    s += f'eq high shelf filter: {filt[0]:.0f}, {round(filt[1], 1) * 10:.0f}, {round(filt[2], 1) * 10:.0f}\n'
+                else:
+                    s += f'eq peak filter {i}: {filt[0]:.0f}, {round(filt[1], 1) * 10:.0f}, {round(filt[2], 1) * 10:.0f}\n'
+            f.write(s)
+
     @staticmethod
     def _split_path(path):
         """Splits file system path into components."""
@@ -1151,7 +1174,7 @@ class FrequencyResponse:
         with warnings.catch_warnings():
             # Savgol filter uses array indexing which is not future proof, ignoring the warning and trusting that this
             # will be fixed in the future release
-            warnings.simplefilter("ignore")
+            warnings.simplefilter('ignore')
             for i in range(iterations):
                 y_normal = savgol_filter(y_normal, self._window_size(window_size), 2)
 
@@ -1467,12 +1490,14 @@ class FrequencyResponse:
         ax.semilogx()
         ax.set_xlim([f_min, f_max])
         ax.set_ylabel('Amplitude (dBr)')
-        ax.set_ylim([a_min, a_max])
+        if a_min is not None or a_max is not None:
+            ax.set_ylim([a_min, a_max])
         ax.set_title(self.name)
         ax.legend(fontsize=8)
         ax.grid(True, which='major')
         ax.grid(True, which='minor')
         ax.xaxis.set_major_formatter(ticker.StrMethodFormatter('{x:.0f}'))
+        ax.set_xticks([20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000])
         if file_path is not None:
             file_path = os.path.abspath(file_path)
             fig.savefig(file_path, dpi=120)
@@ -1537,6 +1562,7 @@ class FrequencyResponse:
                 equalize=False,
                 parametric_eq=False,
                 fixed_band_eq=False,
+                rockbox=False,
                 fc=None,
                 q=None,
                 ten_band_eq=None,
@@ -1611,6 +1637,9 @@ class FrequencyResponse:
         if fixed_band_eq and not equalize:
             raise ValueError('equalize must be True when fixed_band_eq or ten_band_eq is True.')
 
+        if rockbox and not ten_band_eq:
+            raise ValueError('ten_band_eq must be True when rockbox is True.')
+
         if max_filters is not None and type(max_filters) != list:
             max_filters = [max_filters]
 
@@ -1633,7 +1662,6 @@ class FrequencyResponse:
             )
 
         # Smooth data
-        self.smoothen_heavy_light()
         self.smoothen_fractional_octave(
             window_size=1/3,
             treble_window_size=1.4,
