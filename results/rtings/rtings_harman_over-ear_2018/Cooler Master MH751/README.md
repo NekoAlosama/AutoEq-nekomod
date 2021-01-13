@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-4.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.88dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-4.7 dB**.
+When using independent subset of filters, apply preamp of **-7.88 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 21 Hz    | 0.83 | 4.7 dB   |
-| Peaking | 125 Hz   | 0.88 | -3.9 dB  |
-| Peaking | 3899 Hz  | 2.89 | 3.7 dB   |
-| Peaking | 5107 Hz  | 4    | 3.1 dB   |
-| Peaking | 10640 Hz | 3.09 | 4.0 dB   |
-| Peaking | 558 Hz   | 2.36 | 1.0 dB   |
-| Peaking | 4354 Hz  | 3    | 0.2 dB   |
-| Peaking | 12645 Hz | 1.74 | 2.7 dB   |
-| Peaking | 15298 Hz | 1.39 | 1.5 dB   |
-| Peaking | 19537 Hz | 0.42 | -10.5 dB |
+| Type    | Fc         |      Q | Gain      |
+|:--------|:-----------|:-------|:----------|
+| Peaking | 17.2 Hz    | 0.3974 | 7.95 dB   |
+| Peaking | 137.3 Hz   | 0.8969 | -3.69 dB  |
+| Peaking | 3917.9 Hz  | 3.1359 | 3.71 dB   |
+| Peaking | 5115.0 Hz  | 4.2956 | 3.15 dB   |
+| Peaking | 10627.2 Hz | 3.2444 | 3.91 dB   |
+| Peaking | 1838.0 Hz  | 3.3    | 0.20 dB   |
+| Peaking | 5691.2 Hz  | 3.5023 | 1.42 dB   |
+| Peaking | 6316.1 Hz  | 4.3551 | -2.38 dB  |
+| Peaking | 13188.9 Hz | 1.3339 | 2.87 dB   |
+| Peaking | 19885.2 Hz | 0.494  | -10.85 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.08dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 4.3 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.1 dB |
-| Peaking | 125 Hz   | 1.41 | -3.7 dB |
-| Peaking | 250 Hz   | 1.41 | -1.3 dB |
-| Peaking | 500 Hz   | 1.41 | 1.0 dB  |
-| Peaking | 1000 Hz  | 1.41 | -0.4 dB |
-| Peaking | 2000 Hz  | 1.41 | -0.4 dB |
-| Peaking | 4000 Hz  | 1.41 | 3.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | 1.4 dB  |
-| Peaking | 16000 Hz | 1.41 | -3.5 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 31.3 Hz    | 1.4142 | 7.88 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 0.83 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -2.91 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -1.66 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 0.84 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.47 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -0.45 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 3.59 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 1.19 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -3.73 dB |
 
 ### Graphs
 ![](./Cooler%20Master%20MH751.png)

@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.33dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.32dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.31 dB**.
+When using independent subset of filters, apply preamp of **-6.30 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 37.5 Hz    | 0.0289 | -2.80 dB |
-| Peaking | 774.6 Hz   | 0.837  | 4.75 dB  |
-| Peaking | 5522.8 Hz  | 4.4098 | -5.27 dB |
-| Peaking | 7946.9 Hz  | 0.6076 | 1.70 dB  |
-| Peaking | 11894.8 Hz | 0.9339 | 5.05 dB  |
-| Peaking | 22.4 Hz    | 2.2785 | -1.34 dB |
-| Peaking | 2642.2 Hz  | 2.9251 | -4.27 dB |
-| Peaking | 3463.5 Hz  | 2.0207 | 0.88 dB  |
-| Peaking | 4020.8 Hz  | 2.272  | 2.75 dB  |
-| Peaking | 4950.4 Hz  | 3.4606 | -2.22 dB |
+| Peaking | 25.0 Hz    | 0.0104 | -2.80 dB |
+| Peaking | 766.4 Hz   | 0.8582 | 4.77 dB  |
+| Peaking | 5472.1 Hz  | 5.0831 | -5.60 dB |
+| Peaking | 7842.0 Hz  | 0.6448 | 1.52 dB  |
+| Peaking | 11857.8 Hz | 0.9391 | 5.25 dB  |
+| Peaking | 20.8 Hz    | 2.0443 | -1.23 dB |
+| Peaking | 1083.6 Hz  | 1.0155 | 1.03 dB  |
+| Peaking | 2636.9 Hz  | 3.6084 | -3.59 dB |
+| Peaking | 3895.3 Hz  | 2.3247 | 3.55 dB  |
+| Peaking | 4896.2 Hz  | 3.3244 | -1.63 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.93dB**
@@ -32,9 +32,9 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Peaking | 500.0 Hz   | 1.4142 | 1.15 dB  |
 | Peaking | 1000.0 Hz  | 1.4142 | 3.27 dB  |
 | Peaking | 2000.0 Hz  | 1.4142 | -1.76 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.05 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 3.76 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 4.55 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | -0.06 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.77 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 4.54 dB  |
 
 ### Graphs
 ![](./Philips%20SME3580.png)

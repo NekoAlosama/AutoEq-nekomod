@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.11dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.08dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.95 dB**.
+When using independent subset of filters, apply preamp of **-13.92 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 20.9 Hz    | 0.4471 | 14.18 dB |
-| Peaking | 107.9 Hz   | 0.3152 | -8.40 dB |
-| Peaking | 3548.3 Hz  | 2.562  | 8.39 dB  |
-| Peaking | 9889.5 Hz  | 2.0894 | 8.54 dB  |
-| Peaking | 19518.6 Hz | 0.2172 | 13.53 dB |
-| Peaking | 603.1 Hz   | 1.3662 | -4.35 dB |
-| Peaking | 1067.0 Hz  | 0.7574 | 4.73 dB  |
-| Peaking | 1950.3 Hz  | 1.7948 | -3.46 dB |
-| Peaking | 5348.9 Hz  | 1.7966 | 2.03 dB  |
-| Peaking | 5349.1 Hz  | 5.0651 | -5.39 dB |
+| Peaking | 20.8 Hz    | 0.4416 | 14.18 dB |
+| Peaking | 108.7 Hz   | 0.3189 | -8.42 dB |
+| Peaking | 3547.9 Hz  | 2.5606 | 8.36 dB  |
+| Peaking | 9887.9 Hz  | 2.0986 | 8.46 dB  |
+| Peaking | 19550.3 Hz | 0.2122 | 13.52 dB |
+| Peaking | 603.3 Hz   | 1.3857 | -4.23 dB |
+| Peaking | 1071.4 Hz  | 0.7803 | 4.65 dB  |
+| Peaking | 1948.3 Hz  | 1.8207 | -3.39 dB |
+| Peaking | 5328.6 Hz  | 1.7736 | 2.05 dB  |
+| Peaking | 5350.4 Hz  | 5.0523 | -5.41 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-19.71dB**
@@ -25,16 +25,16 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 11.34 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -3.36 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -6.08 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.30 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 11.33 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -3.35 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -6.11 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.31 dB |
 | Peaking | 500.0 Hz   | 1.4142 | -4.92 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 3.07 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 3.09 dB  |
 | Peaking | 2000.0 Hz  | 1.4142 | -0.86 dB |
 | Peaking | 4000.0 Hz  | 1.4142 | 5.62 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.75 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 19.10 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 6.76 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 19.11 dB |
 
 ### Graphs
 ![](./Google%20Pixel%20USB-C%20Earbuds.png)

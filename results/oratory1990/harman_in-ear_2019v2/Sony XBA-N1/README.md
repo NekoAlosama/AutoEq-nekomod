@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-5.04 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 138.2 Hz   | 0.8744 | -4.58 dB |
-| Peaking | 245.3 Hz   | 1.6847 | -2.70 dB |
-| Peaking | 3245.6 Hz  | 1.1571 | 4.65 dB  |
-| Peaking | 5520.1 Hz  | 3.0439 | 2.80 dB  |
-| Peaking | 22050.0 Hz | 2.4647 | 2.79 dB  |
-| Peaking | 17.1 Hz    | 1.665  | 0.91 dB  |
-| Peaking | 791.3 Hz   | 2.0421 | 1.77 dB  |
-| Peaking | 1604.5 Hz  | 4.752  | -1.21 dB |
-| Peaking | 4480.2 Hz  | 1.5732 | 0.15 dB  |
-| Peaking | 19158.6 Hz | 0.5418 | -3.70 dB |
+| Peaking | 137.5 Hz   | 0.8707 | -4.58 dB |
+| Peaking | 245.3 Hz   | 1.6826 | -2.70 dB |
+| Peaking | 3245.8 Hz  | 1.1569 | 4.65 dB  |
+| Peaking | 5520.6 Hz  | 3.048  | 2.80 dB  |
+| Peaking | 22049.9 Hz | 2.4648 | 2.79 dB  |
+| Peaking | 20.9 Hz    | 1.5939 | 0.79 dB  |
+| Peaking | 791.4 Hz   | 2.0446 | 1.77 dB  |
+| Peaking | 1604.5 Hz  | 4.7549 | -1.21 dB |
+| Peaking | 4481.0 Hz  | 1.5754 | 0.15 dB  |
+| Peaking | 19159.0 Hz | 0.5417 | -3.70 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.72dB**
@@ -25,14 +25,14 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 0.61 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -1.20 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -4.07 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 0.58 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -1.19 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -4.08 dB |
 | Peaking | 250.0 Hz   | 1.4142 | -4.54 dB |
 | Peaking | 500.0 Hz   | 1.4142 | 0.64 dB  |
 | Peaking | 1000.0 Hz  | 1.4142 | 0.90 dB  |
 | Peaking | 2000.0 Hz  | 1.4142 | 0.86 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 5.31 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 5.32 dB  |
 | Peaking | 8000.0 Hz  | 1.4142 | 0.45 dB  |
 | Peaking | 16000.0 Hz | 1.4142 | -3.08 dB |
 

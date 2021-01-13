@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-11.61 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 11.9 Hz    | 0.2369 | 6.96 dB  |
-| Peaking | 239.8 Hz   | 0.6033 | -8.80 dB |
-| Peaking | 1089.9 Hz  | 1.3373 | 3.36 dB  |
-| Peaking | 2271.7 Hz  | 1.505  | 11.08 dB |
-| Peaking | 10748.3 Hz | 3.0255 | 8.03 dB  |
-| Peaking | 2846.2 Hz  | 5.5073 | -1.34 dB |
-| Peaking | 4027.8 Hz  | 1.7755 | 4.46 dB  |
-| Peaking | 5748.5 Hz  | 1.3281 | -5.26 dB |
-| Peaking | 9247.1 Hz  | 4.124  | 2.74 dB  |
-| Peaking | 13022.4 Hz | 4.4828 | 1.66 dB  |
+| Peaking | 11.1 Hz    | 0.223  | 7.06 dB  |
+| Peaking | 239.6 Hz   | 0.6048 | -8.80 dB |
+| Peaking | 1090.7 Hz  | 1.3634 | 3.35 dB  |
+| Peaking | 2270.6 Hz  | 1.5025 | 11.10 dB |
+| Peaking | 10746.6 Hz | 3.0485 | 8.07 dB  |
+| Peaking | 2840.9 Hz  | 5.5656 | -1.34 dB |
+| Peaking | 4032.0 Hz  | 1.7708 | 4.52 dB  |
+| Peaking | 5734.8 Hz  | 1.3129 | -5.29 dB |
+| Peaking | 9218.0 Hz  | 4.1248 | 2.76 dB  |
+| Peaking | 13025.0 Hz | 4.5187 | 1.69 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.24dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.22dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
 | Peaking | 31.3 Hz    | 1.4142 | 6.12 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 1.29 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -3.17 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -8.44 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -3.12 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.60 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 10.70 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.24 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 1.17 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -0.17 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 1.26 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -3.18 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -8.46 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.10 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 1.59 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 10.68 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.23 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 1.16 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -0.14 dB |
 
 ### Graphs
 ![](./SoundPeats%20QY9.png)

@@ -81,6 +81,7 @@ preference scoring developed by Sean Olive et al.
 | [Audio-Technica ATH-M40x](./oratory1990/harman_over-ear_2018/Audio-Technica%20ATH-M40x)                                                                                   |   78.73 |       2.15 |    0.56 |
 | [Audio Zenith PMx2 v2](./oratory1990/harman_over-ear_2018/Audio%20Zenith%20PMx2%20v2)                                                                                     |   78.66 |       2.24 |   -0.49 |
 | [Audio-Technica ATH-M50x](./oratory1990/harman_over-ear_2018/Audio-Technica%20ATH-M50x)                                                                                   |   78.66 |       1.94 |    0.73 |
+| [Sennheiser HE 90 Orpheus](./oratory1990/harman_over-ear_2018/Sennheiser%20HE%2090%20Orpheus)                                                                             |   78.64 |       1.86 |    0.8  |
 | [Stax Lambda Nova Basic](./oratory1990/harman_over-ear_2018/Stax%20Lambda%20Nova%20Basic)                                                                                 |   78.58 |       2.4  |   -0.36 |
 | [Audio-Technica ATH-M50x (Massdrop velours earpads)](./oratory1990/harman_over-ear_2018/Audio-Technica%20ATH-M50x%20(Massdrop%20velours%20earpads))                       |   78.42 |       1.99 |    0.7  |
 | [Beyerdynamic DT 990 250 Ohm](./oratory1990/harman_over-ear_2018/Beyerdynamic%20DT%20990%20250%20Ohm)                                                                     |   78.41 |       2.21 |    0.52 |
@@ -89,7 +90,6 @@ preference scoring developed by Sean Olive et al.
 | [HIFIMAN HE6se](./oratory1990/harman_over-ear_2018/HIFIMAN%20HE6se)                                                                                                       |   78.19 |       2.73 |    0.12 |
 | [HIFIMAN HE400i](./oratory1990/harman_over-ear_2018/HIFIMAN%20HE400i)                                                                                                     |   78.14 |       2.87 |    0.01 |
 | [HIFIMAN HE1000 V2](./oratory1990/harman_over-ear_2018/HIFIMAN%20HE1000%20V2)                                                                                             |   78.11 |       2.22 |    0.54 |
-| [Sennheiser HE 90 Orpheus](./oratory1990/harman_over-ear_2018/Sennheiser%20HE%2090%20Orpheus)                                                                             |   77.83 |       2.08 |    0.67 |
 | [Beyerdynamic DTX 350p](./oratory1990/harman_over-ear_2018/Beyerdynamic%20DTX%20350p)                                                                                     |   77.63 |       2.55 |   -0.3  |
 | [Audio-Technica ATH-A2000Z](./oratory1990/harman_over-ear_2018/Audio-Technica%20ATH-A2000Z)                                                                               |   77.61 |       2.4  |    0.43 |
 | [ORA GrapheneQ](./oratory1990/harman_over-ear_2018/ORA%20GrapheneQ)                                                                                                       |   77.6  |       2.91 |   -0.01 |
@@ -144,8 +144,10 @@ preference scoring developed by Sean Olive et al.
 | [Sennheiser HD 58X](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%2058X)                                                                                             |   70.43 |       2.7  |   -0.64 |
 | [Audeze LCD-2 Fazor](./oratory1990/harman_over-ear_2018/Audeze%20LCD-2%20Fazor)                                                                                           |   70.36 |       2.7  |   -0.65 |
 | [Sennheiser HD 598](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20598)                                                                                             |   70.3  |       2.8  |   -0.57 |
+| [Avantone Planar](./oratory1990/harman_over-ear_2018/Avantone%20Planar)                                                                                                   |   70.22 |       2.88 |   -0.51 |
 | [Audeze LCD-2](./oratory1990/harman_over-ear_2018/Audeze%20LCD-2)                                                                                                         |   70.2  |       2.68 |   -0.67 |
 | [Sennheiser PXC 550-II Wireless](./oratory1990/harman_over-ear_2018/Sennheiser%20PXC%20550-II%20Wireless)                                                                 |   70.03 |       2.6  |   -0.75 |
+| [Sennheiser HD 518](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20518)                                                                                             |   69.98 |       2.73 |   -0.64 |
 | [Stax SR-L700 (blu-tac mod)](./oratory1990/harman_over-ear_2018/Stax%20SR-L700%20(blu-tac%20mod))                                                                         |   69.6  |       3.23 |    0.27 |
 | [Philips Fidelio X3](./oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X3)                                                                                           |   69.53 |       3    |   -0.46 |
 | [Beyerdynamic T1 2nd Generation](./oratory1990/harman_over-ear_2018/Beyerdynamic%20T1%202nd%20Generation)                                                                 |   69.48 |       3.17 |   -0.32 |
@@ -169,6 +171,7 @@ preference scoring developed by Sean Olive et al.
 | [Kingsound KS-H04](./oratory1990/harman_over-ear_2018/Kingsound%20KS-H04)                                                                                                 |   66.36 |       2.97 |   -0.68 |
 | [Andover Audio PM-50 (medium squared earpads)](./oratory1990/harman_over-ear_2018/Andover%20Audio%20PM-50%20(medium%20squared%20earpads))                                 |   66.23 |       2.82 |   -0.81 |
 | [Grado GW100](./oratory1990/harman_over-ear_2018/Grado%20GW100)                                                                                                           |   66.01 |       3.17 |   -0.54 |
+| [Philips Fidelio L2](./oratory1990/harman_over-ear_2018/Philips%20Fidelio%20L2)                                                                                           |   66    |       3.55 |    0.24 |
 | [Sennheiser HD 700](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20700)                                                                                             |   65.67 |       3.22 |   -0.52 |
 | [AKG K612](./oratory1990/harman_over-ear_2018/AKG%20K612)                                                                                                                 |   65.59 |       2.69 |    0.97 |
 | [HyperX Cloud Alpha](./oratory1990/harman_over-ear_2018/HyperX%20Cloud%20Alpha)                                                                                           |   65.58 |       2.8  |   -0.87 |
@@ -182,6 +185,7 @@ preference scoring developed by Sean Olive et al.
 | [AKG K712 (Dekoni fenestrated sheepskin earpads)](./oratory1990/harman_over-ear_2018/AKG%20K712%20(Dekoni%20fenestrated%20sheepskin%20earpads))                           |   63.81 |       3.09 |   -0.75 |
 | [HIFIMAN Shangri-La](./oratory1990/harman_over-ear_2018/HIFIMAN%20Shangri-La)                                                                                             |   63.78 |       2.98 |    0.85 |
 | [Sony MDR-R10](./oratory1990/harman_over-ear_2018/Sony%20MDR-R10)                                                                                                         |   63.49 |       3.39 |   -0.53 |
+| [Teufel Real Z](./oratory1990/harman_over-ear_2018/Teufel%20Real%20Z)                                                                                                     |   62.7  |       3.19 |   -0.74 |
 | [Dan Clark Audio Ether Flow](./oratory1990/harman_over-ear_2018/Dan%20Clark%20Audio%20Ether%20Flow)                                                                       |   62.41 |       3.04 |   -0.88 |
 | [Grado SR60e](./oratory1990/harman_over-ear_2018/Grado%20SR60e)                                                                                                           |   62.18 |       2.75 |    1.13 |
 | [EarFun Wave](./oratory1990/harman_over-ear_2018/EarFun%20Wave)                                                                                                           |   61.6  |       3.05 |   -0.93 |
@@ -235,6 +239,7 @@ preference scoring developed by Sean Olive et al.
 | [Beyerdynamic DT 1770 (velour earpads)](./oratory1990/harman_over-ear_2018/Beyerdynamic%20DT%201770%20(velour%20earpads))                                                 |   49.88 |       3.85 |   -1.03 |
 | [Massdrop Panda](./oratory1990/harman_over-ear_2018/Massdrop%20Panda)                                                                                                     |   49.63 |       3.38 |   -1.43 |
 | [Audeze LCD-X](./oratory1990/harman_over-ear_2018/Audeze%20LCD-X)                                                                                                         |   49.57 |       3.86 |   -1.05 |
+| [Audeze LCD-MX4](./oratory1990/harman_over-ear_2018/Audeze%20LCD-MX4)                                                                                                     |   49.46 |       3.8  |   -1.1  |
 | [AKG K271 MKII](./oratory1990/harman_over-ear_2018/AKG%20K271%20MKII)                                                                                                     |   49.4  |       3.88 |    1.04 |
 | [Kennerton Magister](./oratory1990/harman_over-ear_2018/Kennerton%20Magister)                                                                                             |   49.15 |       3.92 |   -1.02 |
 | [KLH Ultimate One](./oratory1990/harman_over-ear_2018/KLH%20Ultimate%20One)                                                                                               |   48.5  |       3.96 |   -1.03 |
@@ -243,11 +248,13 @@ preference scoring developed by Sean Olive et al.
 | [Bose Noise Cancelling Headphones 700](./oratory1990/harman_over-ear_2018/Bose%20Noise%20Cancelling%20Headphones%20700)                                                   |   47.02 |       3.41 |   -1.58 |
 | [Fostex TH500RP](./oratory1990/harman_over-ear_2018/Fostex%20TH500RP)                                                                                                     |   46.93 |       4.92 |   -0.35 |
 | [Koss Porta Pro](./oratory1990/harman_over-ear_2018/Koss%20Porta%20Pro)                                                                                                   |   46.41 |       3.55 |   -1.5  |
+| [Koss KSC75](./oratory1990/harman_over-ear_2018/Koss%20KSC75)                                                                                                             |   45.64 |       3.58 |    1.52 |
 | [Andover Audio PM-50 (small rounded earpads)](./oratory1990/harman_over-ear_2018/Andover%20Audio%20PM-50%20(small%20rounded%20earpads))                                   |   45.44 |       3.88 |   -1.3  |
 | [Dali IO-6](./oratory1990/harman_over-ear_2018/Dali%20IO-6)                                                                                                               |   44.97 |       3.31 |   -1.79 |
 | [Beyerdynamic DT 177X Go (leather earpads)](./oratory1990/harman_over-ear_2018/Beyerdynamic%20DT%20177X%20Go%20(leather%20earpads))                                       |   44.87 |       3.43 |   -1.7  |
 | [Denon AH-D7200](./oratory1990/harman_over-ear_2018/Denon%20AH-D7200)                                                                                                     |   44.59 |       3.65 |   -1.54 |
 | [Sony WH-1000XM4](./oratory1990/harman_over-ear_2018/Sony%20WH-1000XM4)                                                                                                   |   42.38 |       3.71 |   -1.63 |
+| [Peerless MB PMB 85 Double Action](./oratory1990/harman_over-ear_2018/Peerless%20MB%20PMB%2085%20Double%20Action)                                                         |   41.47 |       4.2  |    1.29 |
 | [Beyerdynamic Aventho Wireless](./oratory1990/harman_over-ear_2018/Beyerdynamic%20Aventho%20Wireless)                                                                     |   40.16 |       3.62 |   -1.85 |
 | [AKG N60 NC Wireless](./oratory1990/harman_over-ear_2018/AKG%20N60%20NC%20Wireless)                                                                                       |   39.39 |       4.93 |   -0.83 |
 | [Focal Radiance](./oratory1990/harman_over-ear_2018/Focal%20Radiance)                                                                                                     |   38.94 |       3.95 |   -1.65 |
@@ -300,12 +307,12 @@ preference scoring developed by Sean Olive et al.
 | [Sony XBA-H3](./oratory1990/harman_in-ear_2019v2/Sony%20XBA-H3)                                                                     |   70.7  |       2.65 |    0.01 |           1.95 |
 | [Campfire Audio Polaris](./oratory1990/harman_in-ear_2019v2/Campfire%20Audio%20Polaris)                                             |   70.43 |       2.13 |   -0.5  |           2.34 |
 | [KZ ZST](./oratory1990/harman_in-ear_2019v2/KZ%20ZST)                                                                               |   70.36 |       2.31 |   -0.47 |           1.97 |
-| [64 Audio A12t M15](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20M15)                                                     |   69.85 |       2.34 |   -0.66 |           1.68 |
+| [64 Audio A12t (m15 Apex module)](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20(m15%20Apex%20module))                     |   69.85 |       2.34 |   -0.66 |           1.68 |
 | [Sony MH755](./oratory1990/harman_in-ear_2019v2/Sony%20MH755)                                                                       |   69.31 |       2.19 |   -1.02 |           1.5  |
 | [Bose QuietComfort 20](./oratory1990/harman_in-ear_2019v2/Bose%20QuietComfort%2020)                                                 |   69.27 |       2.63 |    0.12 |           2.19 |
 | [Vision Ears Elysium](./oratory1990/harman_in-ear_2019v2/Vision%20Ears%20Elysium)                                                   |   69.27 |       2.47 |   -0.17 |           2.49 |
 | [TFZ T2 Galaxy](./oratory1990/harman_in-ear_2019v2/TFZ%20T2%20Galaxy)                                                               |   69.1  |       2.12 |   -0.77 |           2.23 |
-| [64 Audio A12t M20](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20M20)                                                     |   68.65 |       2.37 |   -0.8  |           1.68 |
+| [64 Audio A12t (m20 Apex module)](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20(m20%20Apex%20module))                     |   68.65 |       2.37 |   -0.8  |           1.68 |
 | [1MORE Triple Driver LTNG](./oratory1990/harman_in-ear_2019v2/1MORE%20Triple%20Driver%20LTNG)                                       |   68.55 |       2.66 |   -0.3  |           1.98 |
 | [Samsung EO-IG955 (AKG)](./oratory1990/harman_in-ear_2019v2/Samsung%20EO-IG955%20(AKG))                                             |   68.52 |       2.48 |   -0.38 |           2.27 |
 | [Sony XBA-N3](./oratory1990/harman_in-ear_2019v2/Sony%20XBA-N3)                                                                     |   68    |       2.3  |   -0.82 |           2.02 |
@@ -315,6 +322,7 @@ preference scoring developed by Sean Olive et al.
 | [Sennheiser OCX 685](./oratory1990/harman_in-ear_2019v2/Sennheiser%20OCX%20685)                                                     |   66.69 |       2.93 |    0.02 |           2.39 |
 | [Sony IER-M9](./oratory1990/harman_in-ear_2019v2/Sony%20IER-M9)                                                                     |   66.31 |       2.55 |   -0.59 |           2.31 |
 | [Meze Rai Penta](./oratory1990/harman_in-ear_2019v2/Meze%20Rai%20Penta)                                                             |   65.76 |       3.07 |    0.01 |           2.34 |
+| [Final Audio Heaven V](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20Heaven%20V)                                               |   65.71 |       2.75 |   -0.18 |           2.81 |
 | [MEE Audio Pinnacle PX](./oratory1990/harman_in-ear_2019v2/MEE%20Audio%20Pinnacle%20PX)                                             |   65.55 |       2.94 |   -0.05 |           2.65 |
 | [Vivo XE800](./oratory1990/harman_in-ear_2019v2/Vivo%20XE800)                                                                       |   65.32 |       2.73 |    0.65 |           2.05 |
 | [Light Harmonic Mera](./oratory1990/harman_in-ear_2019v2/Light%20Harmonic%20Mera)                                                   |   65.03 |       2.47 |   -0.74 |           2.59 |
@@ -337,6 +345,7 @@ preference scoring developed by Sean Olive et al.
 | [Sennheiser CX 2.00](./oratory1990/harman_in-ear_2019v2/Sennheiser%20CX%202.00)                                                     |   59.59 |       3.2  |   -0.59 |           2.66 |
 | [Anker SoundCore Liberty Air 2](./oratory1990/harman_in-ear_2019v2/Anker%20SoundCore%20Liberty%20Air%202)                           |   59.36 |       2.88 |   -1.14 |           2.45 |
 | [Shure KSE1500](./oratory1990/harman_in-ear_2019v2/Shure%20KSE1500)                                                                 |   59.05 |       3.55 |   -0.27 |           2.61 |
+| [Final Audio E1000](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20E1000)                                                       |   58.97 |       3.31 |    0.54 |           2.67 |
 | [BGVP DMG](./oratory1990/harman_in-ear_2019v2/BGVP%20DMG)                                                                           |   58.66 |       3.24 |   -0.52 |           2.99 |
 | [FiiO FA9](./oratory1990/harman_in-ear_2019v2/FiiO%20FA9)                                                                           |   58.63 |       3.22 |   -0.61 |           2.87 |
 | [Sennheiser CX 3.00](./oratory1990/harman_in-ear_2019v2/Sennheiser%20CX%203.00)                                                     |   58.46 |       3.19 |   -0.74 |           2.73 |
@@ -344,10 +353,12 @@ preference scoring developed by Sean Olive et al.
 | [JVC HA-FW10000](./oratory1990/harman_in-ear_2019v2/JVC%20HA-FW10000)                                                               |   57.41 |       2.97 |    1.09 |           2.88 |
 | [Anker Soundcore Liberty 2 Pro](./oratory1990/harman_in-ear_2019v2/Anker%20Soundcore%20Liberty%202%20Pro)                           |   57.34 |       2.89 |   -0.97 |           3.33 |
 | [BLON BL-03](./oratory1990/harman_in-ear_2019v2/BLON%20BL-03)                                                                       |   56.84 |       3    |   -1.3  |           2.58 |
+| [Final Audio E5000](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20E5000)                                                       |   56.57 |       2.97 |   -1.28 |           2.74 |
 | [Periodic Audio Be](./oratory1990/harman_in-ear_2019v2/Periodic%20Audio%20Be)                                                       |   56.46 |       3    |   -1.3  |           2.67 |
 | [Noble Audio K10 CIEM](./oratory1990/harman_in-ear_2019v2/Noble%20Audio%20K10%20CIEM)                                               |   56.27 |       3.53 |   -0.71 |           2.6  |
 | [Rock Zircon](./oratory1990/harman_in-ear_2019v2/Rock%20Zircon)                                                                     |   55.91 |       3.25 |    0.73 |           3.35 |
 | [Vision Ears Erlkönig](./oratory1990/harman_in-ear_2019v2/Vision%20Ears%20Erlk%C3%B6nig)                                            |   55.82 |       3.17 |   -0.89 |           3.23 |
+| [Final Audio Heaven IV](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20Heaven%20IV)                                             |   55.54 |       3.31 |   -0.54 |           3.67 |
 | [Tin HiFi T3](./oratory1990/harman_in-ear_2019v2/Tin%20HiFi%20T3)                                                                   |   55.27 |       3.7  |    0.27 |           3.3  |
 | [Beyerdynamic Xelento](./oratory1990/harman_in-ear_2019v2/Beyerdynamic%20Xelento)                                                   |   55.23 |       3.12 |   -1.35 |           2.63 |
 | [Final Audio E500](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20E500)                                                         |   55.16 |       3.59 |    0.62 |           2.93 |

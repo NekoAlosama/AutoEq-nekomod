@@ -9,32 +9,32 @@ When using independent subset of filters, apply preamp of **-8.21 dB**.
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
 | Peaking | 1236.6 Hz  | 0.5886 | -9.10 dB |
-| Peaking | 1808.0 Hz  | 1.4258 | 6.55 dB  |
-| Peaking | 2748.2 Hz  | 1.4034 | 6.61 dB  |
+| Peaking | 1808.1 Hz  | 1.4258 | 6.55 dB  |
+| Peaking | 2748.2 Hz  | 1.4033 | 6.61 dB  |
 | Peaking | 8572.2 Hz  | 1.3591 | 4.72 dB  |
-| Peaking | 18110.3 Hz | 0.2299 | 7.03 dB  |
-| Peaking | 52.1 Hz    | 0.9278 | 2.97 dB  |
-| Peaking | 202.6 Hz   | 1.0032 | -3.86 dB |
-| Peaking | 328.6 Hz   | 0.8093 | 2.05 dB  |
-| Peaking | 1062.7 Hz  | 5.4575 | -1.36 dB |
-| Peaking | 4652.1 Hz  | 6.8295 | -1.14 dB |
+| Peaking | 18109.5 Hz | 0.2299 | 7.03 dB  |
+| Peaking | 52.8 Hz    | 0.9214 | 2.98 dB  |
+| Peaking | 207.6 Hz   | 0.9622 | -4.06 dB |
+| Peaking | 320.8 Hz   | 0.8443 | 2.37 dB  |
+| Peaking | 1080.4 Hz  | 6.0992 | -1.42 dB |
+| Peaking | 4647.7 Hz  | 7.1935 | -1.18 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.72dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.83dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 1.14 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 1.11 dB  |
 | Peaking | 62.5 Hz    | 1.4142 | 2.92 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.66 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -1.67 dB |
 | Peaking | 250.0 Hz   | 1.4142 | -2.04 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.70 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -8.58 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 5.21 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.66 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 7.28 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 10.11 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -0.67 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -8.59 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 5.20 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.69 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 7.22 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 10.22 dB |
 
 ### Graphs
 ![](./A-Audio%20Elite%20(bass%20mode).png)

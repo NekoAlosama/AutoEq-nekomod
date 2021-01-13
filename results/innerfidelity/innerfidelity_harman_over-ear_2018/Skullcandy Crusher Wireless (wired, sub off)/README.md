@@ -8,28 +8,28 @@ When using independent subset of filters, apply preamp of **-4.57 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 169.3 Hz   | 0.9098 | -10.03 dB |
-| Peaking | 461.0 Hz   | 0.3491 | 5.75 dB   |
-| Peaking | 10593.6 Hz | 0.6304 | -3.59 dB  |
-| Peaking | 12917.3 Hz | 1.1985 | -3.62 dB  |
-| Peaking | 22049.8 Hz | 1.9096 | -5.57 dB  |
-| Peaking | 20.4 Hz    | 2.099  | 1.84 dB   |
-| Peaking | 928.0 Hz   | 1.5702 | -3.39 dB  |
-| Peaking | 2068.6 Hz  | 0.3519 | 2.83 dB   |
-| Peaking | 2911.7 Hz  | 2.3577 | -4.85 dB  |
-| Peaking | 6015.6 Hz  | 5.6986 | -3.33 dB  |
+| Peaking | 169.2 Hz   | 0.9096 | -10.03 dB |
+| Peaking | 461.1 Hz   | 0.3497 | 5.75 dB   |
+| Peaking | 10593.2 Hz | 0.6303 | -3.59 dB  |
+| Peaking | 12918.2 Hz | 1.1982 | -3.62 dB  |
+| Peaking | 22049.6 Hz | 1.9091 | -5.57 dB  |
+| Peaking | 20.5 Hz    | 2.0476 | 1.75 dB   |
+| Peaking | 928.4 Hz   | 1.5644 | -3.40 dB  |
+| Peaking | 2060.5 Hz  | 0.3534 | 2.84 dB   |
+| Peaking | 2911.4 Hz  | 2.3525 | -4.86 dB  |
+| Peaking | 6011.6 Hz  | 5.8681 | -3.37 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.80dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.81dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 0.39 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 0.37 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -6.26 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.71 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 5.86 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 0.44 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 0.40 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -6.30 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -2.70 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 5.87 dB  |
 | Peaking | 1000.0 Hz  | 1.4142 | 1.95 dB  |
 | Peaking | 2000.0 Hz  | 1.4142 | 2.09 dB  |
 | Peaking | 4000.0 Hz  | 1.4142 | -0.18 dB |

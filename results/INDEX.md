@@ -26,8 +26,8 @@ from the same source.
 - [64 Audio A12t (CIEM) (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20A12t%20(CIEM)%20(sample%201)) by Crinacle
 - [64 Audio A12t (CIEM) (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20A12t%20(CIEM)%20(sample%202)) by Crinacle
 - [64 Audio A12t (CIEM)](./crinacle/harman_in-ear_2019v2/64%20Audio%20A12t%20(CIEM)) by Crinacle
-- [64 Audio A12t M15](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20M15) by oratory1990
-- [64 Audio A12t M20](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20M20) by oratory1990
+- [64 Audio A12t (m15 Apex module)](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20(m15%20Apex%20module)) by oratory1990
+- [64 Audio A12t (m20 Apex module)](./oratory1990/harman_in-ear_2019v2/64%20Audio%20A12t%20(m20%20Apex%20module)) by oratory1990
 - [64 Audio A12t](./crinacle/harman_in-ear_2019v2/64%20Audio%20A12t) by Crinacle
 - [64 Audio A18s (CIEM)](./crinacle/harman_in-ear_2019v2/64%20Audio%20A18s%20(CIEM)) by Crinacle
 - [64 Audio A18s (universal) (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20A18s%20(universal)%20(sample%201)) by Crinacle
@@ -46,28 +46,29 @@ from the same source.
 - [64 Audio N8 (CIEM, m15 Apex module)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM,%20m15%20Apex%20module)) by Crinacle
 - [64 Audio N8 (CIEM, m20 Apex module)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM,%20m20%20Apex%20module)) by Crinacle
 - [64 Audio N8 (dd disabled)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(dd%20disabled)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (CIEM) (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(CIEM)%20(sample%202)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (CIEM) (sample 3)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(CIEM)%20(sample%203)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (CIEM) (sample 4)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(CIEM)%20(sample%204)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (CIEM) (sample 5)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(CIEM)%20(sample%205)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (CIEM)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(CIEM)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(sample%201)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (sample 3)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(sample%203)) by Crinacle
+- [64 Audio N8 (m15 Apex module) (sample 4)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(sample%204)) by Crinacle
 - [64 Audio N8 (m15 Apex module)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)) by Crinacle
 - [64 Audio N8 (m15 Apex module)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)) by Reference Audio Analyzer
 - [64 Audio N8 (m20 Apex module)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/64%20Audio%20N8%20(m20%20Apex%20module)) by Reference Audio Analyzer
 - [64 Audio N8 (m20 Apex module, modded)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(m20%20Apex%20module,%20modded)) by Crinacle
 - [64 Audio N8 (modded)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(modded)) by Crinacle
 - [64 Audio N8 (vent blocked)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20(vent%20blocked)) by Crinacle
-- [64 Audio N8 M15 (CIEM) (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(CIEM)%20(sample%202)) by Crinacle
-- [64 Audio N8 M15 (CIEM) (sample 3)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(CIEM)%20(sample%203)) by Crinacle
-- [64 Audio N8 M15 (CIEM) (sample 4)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(CIEM)%20(sample%204)) by Crinacle
-- [64 Audio N8 M15 (CIEM) (sample 5)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(CIEM)%20(sample%205)) by Crinacle
-- [64 Audio N8 M15 (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(sample%201)) by Crinacle
-- [64 Audio N8 M15 (sample 3)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(sample%203)) by Crinacle
-- [64 Audio N8 M15 (sample 4)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8%20M15%20(sample%204)) by Crinacle
 - [64 Audio N8](./oratory1990/harman_in-ear_2019v2/64%20Audio%20N8) by oratory1990
 - [64 Audio N8t (m15 Apex module)](./crinacle/harman_in-ear_2019v2/64%20Audio%20N8t%20(m15%20Apex%20module)) by Crinacle
+- [64 Audio Nio (m15 Apex module) (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(m15%20Apex%20module)%20(sample%201)) by Crinacle
+- [64 Audio Nio (m15 Apex module) (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(m15%20Apex%20module)%20(sample%202)) by Crinacle
 - [64 Audio Nio (m15 Apex module)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(m15%20Apex%20module)) by Crinacle
+- [64 Audio Nio (m20 Apex module) (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(m20%20Apex%20module)%20(sample%202)) by Crinacle
 - [64 Audio Nio (mX module) (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(mX%20module)%20(sample%201)) by Crinacle
 - [64 Audio Nio (mX module) (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(mX%20module)%20(sample%202)) by Crinacle
 - [64 Audio Nio (mX module)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20(mX%20module)) by Crinacle
-- [64 Audio Nio M15 (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20M15%20(sample%201)) by Crinacle
-- [64 Audio Nio M15 (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20M15%20(sample%202)) by Crinacle
-- [64 Audio Nio M20 (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Nio%20M20%20(sample%202)) by Crinacle
 - [64 Audio Tia Fourte (sample 1)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Tia%20Fourte%20(sample%201)) by Crinacle
 - [64 Audio Tia Fourte (sample 2)](./crinacle/harman_in-ear_2019v2/64%20Audio%20Tia%20Fourte%20(sample%202)) by Crinacle
 - [64 Audio Tia Fourte Noir](./crinacle/harman_in-ear_2019v2/64%20Audio%20Tia%20Fourte%20Noir) by Crinacle
@@ -99,11 +100,13 @@ from the same source.
 - [A-Audio Elite (ANC on)](./innerfidelity/innerfidelity_harman_over-ear_2018/A-Audio%20Elite%20(ANC%20on)) by Innerfidelity
 - [A-Audio Elite (bass mode)](./innerfidelity/innerfidelity_harman_over-ear_2018/A-Audio%20Elite%20(bass%20mode)) by Innerfidelity
 - [A-Audio Elite (passive)](./innerfidelity/innerfidelity_harman_over-ear_2018/A-Audio%20Elite%20(passive)) by Innerfidelity
+- [AAW (Advanced AcousticWerkes) A3H Plus](./crinacle/harman_in-ear_2019v2/AAW%20(Advanced%20AcousticWerkes)%20A3H%20Plus) by Crinacle
 - [AAW A1D](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20A1D) by Reference Audio Analyzer
 - [AAW A2H V2](./crinacle/harman_in-ear_2019v2/AAW%20A2H%20V2) by Crinacle
 - [AAW A2H](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20A2H) by Reference Audio Analyzer
 - [AAW A3H 2019](./crinacle/harman_in-ear_2019v2/AAW%20A3H%202019) by Crinacle
 - [AAW A3H V2](./crinacle/harman_in-ear_2019v2/AAW%20A3H%20V2) by Crinacle
+- [AAW A3H+](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20A3H+) by Reference Audio Analyzer
 - [AAW A3H](./crinacle/harman_in-ear_2019v2/AAW%20A3H) by Crinacle
 - [AAW A3H](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20A3H) by Reference Audio Analyzer
 - [AAW ACH](./crinacle/harman_in-ear_2019v2/AAW%20ACH) by Crinacle
@@ -126,6 +129,7 @@ from the same source.
 - [AAW Halcyon (Vokal filter)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20Halcyon%20(Vokal%20filter)) by Reference Audio Analyzer
 - [AAW Kingfisher](./crinacle/harman_in-ear_2019v2/AAW%20Kingfisher) by Crinacle
 - [AAW Mockingbird](./crinacle/harman_in-ear_2019v2/AAW%20Mockingbird) by Crinacle
+- [AAW Mockingbird](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20Mockingbird) by Reference Audio Analyzer
 - [AAW Nebula ONE](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20Nebula%20ONE) by Reference Audio Analyzer
 - [AAW Nightingale](./crinacle/harman_in-ear_2019v2/AAW%20Nightingale) by Crinacle
 - [AAW Nightingale](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AAW%20Nightingale) by Reference Audio Analyzer
@@ -231,8 +235,6 @@ from the same source.
 - [AKG K3003](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AKG%20K3003) by Reference Audio Analyzer
 - [AKG K340 Stock](./innerfidelity/innerfidelity_harman_over-ear_2018/AKG%20K340%20Stock) by Innerfidelity
 - [AKG K340ED](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/AKG%20K340ED) by Reference Audio Analyzer, HDM-X
-- [AKG K361 (sample 1)](./oratory1990/harman_over-ear_2018/AKG%20K361%20(sample%201)) by oratory1990
-- [AKG K361 (sample 2)](./oratory1990/harman_over-ear_2018/AKG%20K361%20(sample%202)) by oratory1990
 - [AKG K361](./oratory1990/harman_over-ear_2018/AKG%20K361) by oratory1990
 - [AKG K371](./crinacle/gras_43ag-7_harman_over-ear_2018/AKG%20K371) by Crinacle, GRAS 43AG-7
 - [AKG K371](./oratory1990/harman_over-ear_2018/AKG%20K371) by oratory1990
@@ -398,6 +400,7 @@ from the same source.
 - [Anker Zolo Liberty+](./rtings/rtings_harman_in-ear_2019v2/Anker%20Zolo%20Liberty+) by Rtings
 - [Anthem Five E2 (CIEM)](./crinacle/harman_in-ear_2019v2/Anthem%20Five%20E2%20(CIEM)) by Crinacle
 - [Apple AirPods 2](./rtings/rtings_harman_in-ear_2019v2/Apple%20AirPods%202) by Rtings
+- [Apple AirPods Max](./crinacle/gras_43ag-7_harman_over-ear_2018/Apple%20AirPods%20Max) by Crinacle, GRAS 43AG-7
 - [Apple AirPods Pro](./crinacle/harman_in-ear_2019v2/Apple%20AirPods%20Pro) by Crinacle
 - [Apple AirPods Pro](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Apple%20AirPods%20Pro) by Reference Audio Analyzer
 - [Apple AirPods Pro](./rtings/rtings_harman_in-ear_2019v2/Apple%20AirPods%20Pro) by Rtings
@@ -526,6 +529,7 @@ from the same source.
 - [Audeze LCD-i3](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Audeze%20LCD-i3) by Reference Audio Analyzer
 - [Audeze LCD-i4](./crinacle/harman_in-ear_2019v2/Audeze%20LCD-i4) by Crinacle
 - [Audeze LCD-MX4](./crinacle/gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-MX4) by Crinacle, GRAS 43AG-7
+- [Audeze LCD-MX4](./oratory1990/harman_over-ear_2018/Audeze%20LCD-MX4) by oratory1990
 - [Audeze LCD-MX4](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Audeze%20LCD-MX4) by Reference Audio Analyzer, HDM-X
 - [Audeze LCD-X (sample 3)](./innerfidelity/innerfidelity_harman_over-ear_2018/Audeze%20LCD-X%20(sample%203)) by Innerfidelity
 - [Audeze LCD-X (serial number 7454971)](./innerfidelity/innerfidelity_harman_over-ear_2018/Audeze%20LCD-X%20(serial%20number%207454971)) by Innerfidelity
@@ -567,6 +571,9 @@ from the same source.
 - [Audio Zenith PMx2](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio%20Zenith%20PMx2) by Innerfidelity
 - [Audio-Technica ATH-A1000X](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio-Technica%20ATH-A1000X) by Innerfidelity
 - [Audio-Technica ATH-A1000X](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Audio-Technica%20ATH-A1000X) by Reference Audio Analyzer, HDM-X
+- [Audio-Technica ATH-A1000Z](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A1000Z) by Crinacle, GRAS 43AG-7
+- [Audio-Technica ATH-A2000X](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A2000X) by Crinacle, GRAS 43AG-7
+- [Audio-Technica ATH-A2000Z](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A2000Z) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-A2000Z](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio-Technica%20ATH-A2000Z) by Innerfidelity
 - [Audio-Technica ATH-A2000Z](./oratory1990/harman_over-ear_2018/Audio-Technica%20ATH-A2000Z) by oratory1990
 - [Audio-Technica ATH-A500](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-A500) by Reference Audio Analyzer, HDM1
@@ -580,22 +587,26 @@ from the same source.
 - [Audio-Technica ATH-A990Z](./crinacle/ears-711_harman_over-ear_2018/Audio-Technica%20ATH-A990Z) by Crinacle, Ears-711
 - [Audio-Technica ATH-A990Z](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A990Z) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-AD1000PRM Premium](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-AD1000PRM%20Premium) by Reference Audio Analyzer, HDM1
+- [Audio-Technica ATH-AD1000X](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD1000X) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-AD2000](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-AD2000) by Reference Audio Analyzer, HDM1
 - [Audio-Technica ATH-AD2000X](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio-Technica%20ATH-AD2000X) by Innerfidelity
 - [Audio-Technica ATH-AD300](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-AD300) by Reference Audio Analyzer, HDM1
 - [Audio-Technica ATH-AD500](./headphonecom/headphonecom_harman_over-ear_2018/Audio-Technica%20ATH-AD500) by Headphone.com
 - [Audio-Technica ATH-AD500](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio-Technica%20ATH-AD500) by Innerfidelity
 - [Audio-Technica ATH-AD500](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-AD500) by Reference Audio Analyzer, HDM1
+- [Audio-Technica ATH-AD500X](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD500X) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-AD500X](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Audio-Technica%20ATH-AD500X) by Reference Audio Analyzer, HDM-X
 - [Audio-Technica ATH-AD700 (mod)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Audio-Technica%20ATH-AD700%20(mod)) by Reference Audio Analyzer, HDM-X
 - [Audio-Technica ATH-AD700](./headphonecom/headphonecom_harman_over-ear_2018/Audio-Technica%20ATH-AD700) by Headphone.com
 - [Audio-Technica ATH-AD700](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio-Technica%20ATH-AD700) by Innerfidelity
 - [Audio-Technica ATH-AD700](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-AD700) by Reference Audio Analyzer, HDM1
+- [Audio-Technica ATH-AD700X](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD700X) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-AD700X](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Audio-Technica%20ATH-AD700X) by Reference Audio Analyzer, HDM-X
 - [Audio-Technica ATH-AD700X](./rtings/rtings_harman_over-ear_2018/Audio-Technica%20ATH-AD700X) by Rtings
 - [Audio-Technica ATH-AD900](./headphonecom/headphonecom_harman_over-ear_2018/Audio-Technica%20ATH-AD900) by Headphone.com
 - [Audio-Technica ATH-AD900](./innerfidelity/innerfidelity_harman_over-ear_2018/Audio-Technica%20ATH-AD900) by Innerfidelity
 - [Audio-Technica ATH-AD900](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Audio-Technica%20ATH-AD900) by Reference Audio Analyzer, HDM1
+- [Audio-Technica ATH-AD900X](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD900X) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-ADX5000 (Dekoni fenestrated sheepskin earpads)](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000%20(Dekoni%20fenestrated%20sheepskin%20earpads)) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-ADX5000 (Yaxi A2000Z,AD2000X earpads)](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000%20(Yaxi%20A2000Z,AD2000X%20earpads)) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-ADX5000](./crinacle/ears-711_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000) by Crinacle, Ears-711
@@ -644,6 +655,7 @@ from the same source.
 - [Audio-Technica ATH-IM02](./crinacle/harman_in-ear_2019v2/Audio-Technica%20ATH-IM02) by Crinacle
 - [Audio-Technica ATH-IM02](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Audio-Technica%20ATH-IM02) by Innerfidelity
 - [Audio-Technica ATH-IM03](./crinacle/harman_in-ear_2019v2/Audio-Technica%20ATH-IM03) by Crinacle
+- [Audio-Technica ATH-L5000](./crinacle/gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-L5000) by Crinacle, GRAS 43AG-7
 - [Audio-Technica ATH-LS200](./crinacle/harman_in-ear_2019v2/Audio-Technica%20ATH-LS200) by Crinacle
 - [Audio-Technica ATH-LS200iS](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Audio-Technica%20ATH-LS200iS) by Reference Audio Analyzer
 - [Audio-Technica ATH-LS300](./crinacle/harman_in-ear_2019v2/Audio-Technica%20ATH-LS300) by Crinacle
@@ -735,16 +747,19 @@ from the same source.
 - [Audiosense AQ7](./crinacle/harman_in-ear_2019v2/Audiosense%20AQ7) by Crinacle
 - [Audiosense DT200](./crinacle/harman_in-ear_2019v2/Audiosense%20DT200) by Crinacle
 - [Audiosense T800](./crinacle/harman_in-ear_2019v2/Audiosense%20T800) by Crinacle
+- [Audiosense T800](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Audiosense%20T800) by Reference Audio Analyzer
 - [AuGlamour AT-1 (closed vent)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AuGlamour%20AT-1%20(closed%20vent)) by Reference Audio Analyzer
 - [AuGlamour AT-1](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AuGlamour%20AT-1) by Reference Audio Analyzer
 - [AuGlamour F300](./oratory1990/harman_in-ear_2019v2/AuGlamour%20F300) by oratory1990
 - [AuGlamour R8](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/AuGlamour%20R8) by Reference Audio Analyzer
 - [AUKEY Latitude](./rtings/rtings_harman_in-ear_2019v2/AUKEY%20Latitude) by Rtings
+- [Aur Audio Storm](./crinacle/harman_in-ear_2019v2/Aur%20Audio%20Storm) by Crinacle
 - [Aurex HR V9](./innerfidelity/innerfidelity_harman_over-ear_2018/Aurex%20HR%20V9) by Innerfidelity
 - [Aurisonics Kicker](./crinacle/harman_in-ear_2019v2/Aurisonics%20Kicker) by Crinacle
 - [Aurisonics Rockets](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Aurisonics%20Rockets) by Innerfidelity
 - [Aurorus Borealis](./oratory1990/harman_over-ear_2018/Aurorus%20Borealis) by oratory1990
 - [Austrian Audio Hi-X55](./oratory1990/harman_over-ear_2018/Austrian%20Audio%20Hi-X55) by oratory1990
+- [Avantone Planar](./oratory1990/harman_over-ear_2018/Avantone%20Planar) by oratory1990
 - [AVIOT TE-D01b](./crinacle/harman_in-ear_2019v2/AVIOT%20TE-D01b) by Crinacle
 - [AVIOT TE-D01d](./crinacle/harman_in-ear_2019v2/AVIOT%20TE-D01d) by Crinacle
 - [Axelvox HD 241](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Axelvox%20HD%20241) by Reference Audio Analyzer, HDM1
@@ -806,6 +821,7 @@ from the same source.
 - [Beats Solo Pro](./rtings/rtings_harman_over-ear_2018/Beats%20Solo%20Pro) by Rtings
 - [Beats Solo2 Wireless](./rtings/rtings_harman_over-ear_2018/Beats%20Solo2%20Wireless) by Rtings
 - [Beats Solo3 Wired](./innerfidelity/innerfidelity_harman_over-ear_2018/Beats%20Solo3%20Wired) by Innerfidelity
+- [Beats Solo3 Wireless 2019](./rtings/rtings_harman_over-ear_2018/Beats%20Solo3%20Wireless%202019) by Rtings
 - [Beats Solo3 Wireless](./innerfidelity/innerfidelity_harman_over-ear_2018/Beats%20Solo3%20Wireless) by Innerfidelity
 - [Beats Solo3 Wireless](./rtings/rtings_harman_over-ear_2018/Beats%20Solo3%20Wireless) by Rtings
 - [Beats Solo](./innerfidelity/innerfidelity_harman_over-ear_2018/Beats%20Solo) by Innerfidelity
@@ -852,6 +868,7 @@ from the same source.
 - [Beyerdynamic Custom Studio (step 4)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Beyerdynamic%20Custom%20Studio%20(step%204)) by Reference Audio Analyzer, HDM-X
 - [Beyerdynamic DJX-1](./innerfidelity/innerfidelity_harman_over-ear_2018/Beyerdynamic%20DJX-1) by Innerfidelity
 - [Beyerdynamic DT 100 2X2kOhm](./innerfidelity/innerfidelity_harman_over-ear_2018/Beyerdynamic%20DT%20100%202X2kOhm) by Innerfidelity
+- [Beyerdynamic DT 1350](./crinacle/gras_43ag-7_harman_over-ear_2018/Beyerdynamic%20DT%201350) by Crinacle, GRAS 43AG-7
 - [Beyerdynamic DT 1350](./headphonecom/headphonecom_harman_over-ear_2018/Beyerdynamic%20DT%201350) by Headphone.com
 - [Beyerdynamic DT 1350](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Beyerdynamic%20DT%201350) by Reference Audio Analyzer, HDM-X
 - [Beyerdynamic DT 150 250 Ohm](./innerfidelity/innerfidelity_harman_over-ear_2018/Beyerdynamic%20DT%20150%20250%20Ohm) by Innerfidelity
@@ -1003,6 +1020,7 @@ from the same source.
 - [BGVP DMS](./crinacle/harman_in-ear_2019v2/BGVP%20DMS) by Crinacle
 - [BGVP DMS](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/BGVP%20DMS) by Reference Audio Analyzer
 - [BGVP DS1 Pro](./crinacle/harman_in-ear_2019v2/BGVP%20DS1%20Pro) by Crinacle
+- [BGVP DS1 Pro](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/BGVP%20DS1%20Pro) by Reference Audio Analyzer
 - [BGVP ES12 (off-off-off)](./crinacle/harman_in-ear_2019v2/BGVP%20ES12%20(off-off-off)) by Crinacle
 - [BGVP ES12 (off-off-on)](./crinacle/harman_in-ear_2019v2/BGVP%20ES12%20(off-off-on)) by Crinacle
 - [BGVP ES12 (off-on-off)](./crinacle/harman_in-ear_2019v2/BGVP%20ES12%20(off-on-off)) by Crinacle
@@ -1080,6 +1098,7 @@ from the same source.
 - [Bose QuietComfort 35 II](./rtings/rtings_harman_over-ear_2018/Bose%20QuietComfort%2035%20II) by Rtings
 - [Bose QuietComfort 35](./rtings/rtings_harman_over-ear_2018/Bose%20QuietComfort%2035) by Rtings
 - [Bose QuietComfort 3](./headphonecom/headphonecom_harman_over-ear_2018/Bose%20QuietComfort%203) by Headphone.com
+- [Bose QuietComfort Earbuds](./rtings/rtings_harman_in-ear_2019v2/Bose%20QuietComfort%20Earbuds) by Rtings
 - [Bose QuietControl 30](./rtings/rtings_harman_over-ear_2018/Bose%20QuietControl%2030) by Rtings
 - [Bose SoundLink Around-Ear II](./rtings/rtings_harman_over-ear_2018/Bose%20SoundLink%20Around-Ear%20II) by Rtings
 - [Bose SoundLink Around-Ear Wireless Headphones II (wired)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bose%20SoundLink%20Around-Ear%20Wireless%20Headphones%20II%20(wired)) by Reference Audio Analyzer, HDM-X
@@ -1097,6 +1116,7 @@ from the same source.
 - [Bose SoundTrue Around-Ear](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bose%20SoundTrue%20Around-Ear) by Reference Audio Analyzer, HDM-X
 - [Bose SoundTrue Ultra In-Ear](./rtings/rtings_harman_in-ear_2019v2/Bose%20SoundTrue%20Ultra%20In-Ear) by Rtings
 - [Bose SoundWear](./rtings/rtings_harman_in-ear_2019v2/Bose%20SoundWear) by Rtings
+- [Bose Sport Earbuds](./rtings/rtings_harman_in-ear_2019v2/Bose%20Sport%20Earbuds) by Rtings
 - [Bose TriPort IE](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Bose%20TriPort%20IE) by Reference Audio Analyzer
 - [BOSS BA-PC15](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/BOSS%20BA-PC15) by Reference Audio Analyzer
 - [Bowers & Wilkins C5 Series 2](./oratory1990/harman_in-ear_2019v2/Bowers%20&%20Wilkins%20C5%20Series%202) by oratory1990
@@ -1130,6 +1150,7 @@ from the same source.
 - [Bowers & Wilkins PX](./crinacle/gras_43ag-7_harman_over-ear_2018/Bowers%20&%20Wilkins%20PX) by Crinacle, GRAS 43AG-7
 - [Bowers & Wilkins PX](./rtings/rtings_harman_over-ear_2018/Bowers%20&%20Wilkins%20PX) by Rtings
 - [BQEYZ BQ3](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/BQEYZ%20BQ3) by Reference Audio Analyzer
+- [BQEYZ K1](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/BQEYZ%20K1) by Reference Audio Analyzer
 - [BQEYZ KB100](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/BQEYZ%20KB100) by Reference Audio Analyzer
 - [BQEYZ Spring 1 (mesh mod) (sample 2)](./crinacle/harman_in-ear_2019v2/BQEYZ%20Spring%201%20(mesh%20mod)%20(sample%202)) by Crinacle
 - [BQEYZ Spring 1](./crinacle/harman_in-ear_2019v2/BQEYZ%20Spring%201) by Crinacle
@@ -1159,6 +1180,7 @@ from the same source.
 - [Campfire Audio Andromeda (sample 2)](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%20(sample%202)) by Crinacle
 - [Campfire Audio Andromeda (sample 3)](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%20(sample%203)) by Crinacle
 - [Campfire Audio Andromeda 2020](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%202020) by Crinacle
+- [Campfire Audio Andromeda 2020](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%202020) by Reference Audio Analyzer
 - [Campfire Audio Andromeda Gold](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%20Gold) by Crinacle
 - [Campfire Audio Andromeda Gold](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%20Gold) by Reference Audio Analyzer
 - [Campfire Audio Andromeda S](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Campfire%20Audio%20Andromeda%20S) by Reference Audio Analyzer
@@ -1181,6 +1203,7 @@ from the same source.
 - [Campfire Audio Comet](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Comet) by Crinacle
 - [Campfire Audio Comet](./oratory1990/harman_in-ear_2019v2/Campfire%20Audio%20Comet) by oratory1990
 - [Campfire Audio Comet](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Campfire%20Audio%20Comet) by Reference Audio Analyzer
+- [Campfire Audio Dorado 2020](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Dorado%202020) by Crinacle
 - [Campfire Audio Dorado](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Dorado) by Crinacle
 - [Campfire Audio Equinox](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Equinox) by Crinacle
 - [Campfire Audio IO (sample 1)](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20IO%20(sample%201)) by Crinacle
@@ -1211,6 +1234,7 @@ from the same source.
 - [Campfire Audio Vega (Foam Eartips)](./oratory1990/harman_in-ear_2019v2/Campfire%20Audio%20Vega%20(Foam%20Eartips)) by oratory1990
 - [Campfire Audio Vega (sample 1)](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Vega%20(sample%201)) by Crinacle
 - [Campfire Audio Vega (sample 2)](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Vega%20(sample%202)) by Crinacle
+- [Campfire Audio Vega 2020](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Vega%202020) by Crinacle
 - [Campfire Audio Vega](./crinacle/harman_in-ear_2019v2/Campfire%20Audio%20Vega) by Crinacle
 - [Cardas A8](./crinacle/harman_in-ear_2019v2/Cardas%20A8) by Crinacle
 - [Cardas EM5813](./headphonecom/headphonecom_harman_in-ear_2019v2/Cardas%20EM5813) by Headphone.com
@@ -1236,11 +1260,13 @@ from the same source.
 - [Comradz NW-STUDIO PRO](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Comradz%20NW-STUDIO%20PRO) by Innerfidelity
 - [Comradz NW-STUDIO](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Comradz%20NW-STUDIO) by Innerfidelity
 - [Cooler Master MH630](./rtings/rtings_harman_over-ear_2018/Cooler%20Master%20MH630) by Rtings
+- [Cooler Master MH751](./rtings/rtings_harman_over-ear_2018/Cooler%20Master%20MH751) by Rtings
 - [Corsair HS35](./rtings/rtings_harman_over-ear_2018/Corsair%20HS35) by Rtings
 - [Corsair HS50](./rtings/rtings_harman_over-ear_2018/Corsair%20HS50) by Rtings
 - [Corsair HS60 PRO SURROUND](./rtings/rtings_harman_over-ear_2018/Corsair%20HS60%20PRO%20SURROUND) by Rtings
 - [Corsair HS60](./rtings/rtings_harman_over-ear_2018/Corsair%20HS60) by Rtings
 - [Corsair HS70 Wireless](./rtings/rtings_harman_over-ear_2018/Corsair%20HS70%20Wireless) by Rtings
+- [Corsair HS75 XB WIRELESS](./rtings/rtings_harman_over-ear_2018/Corsair%20HS75%20XB%20WIRELESS) by Rtings
 - [Corsair Virtuoso RGB Wireless](./rtings/rtings_harman_over-ear_2018/Corsair%20Virtuoso%20RGB%20Wireless) by Rtings
 - [Corsair Void Elite](./rtings/rtings_harman_over-ear_2018/Corsair%20Void%20Elite) by Rtings
 - [Corsair Void RGB](./rtings/rtings_harman_over-ear_2018/Corsair%20Void%20RGB) by Rtings
@@ -1451,16 +1477,20 @@ from the same source.
 - [EarSonics ES5](./crinacle/harman_in-ear_2019v2/EarSonics%20ES5) by Crinacle
 - [EarSonics Grace](./crinacle/harman_in-ear_2019v2/EarSonics%20Grace) by Crinacle
 - [EarSonics Purple (standard)](./crinacle/harman_in-ear_2019v2/EarSonics%20Purple%20(standard)) by Crinacle
+- [EarSonics S-EM6 V2](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/EarSonics%20S-EM6%20V2) by Reference Audio Analyzer
 - [EarSonics S-EM9](./crinacle/harman_in-ear_2019v2/EarSonics%20S-EM9) by Crinacle
 - [EarSonics SM3 v2](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/EarSonics%20SM3%20v2) by Reference Audio Analyzer
 - [EarSonics SM64](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/EarSonics%20SM64) by Reference Audio Analyzer
 - [EarSonics Stark](./crinacle/harman_in-ear_2019v2/EarSonics%20Stark) by Crinacle
 - [EarSonics Velvet (standard)](./crinacle/harman_in-ear_2019v2/EarSonics%20Velvet%20(standard)) by Crinacle
 - [EarSonics Velvet (standard)](./innerfidelity/innerfidelity_harman_in-ear_2019v2/EarSonics%20Velvet%20(standard)) by Innerfidelity
+- [EarSonics Velvet (standard)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/EarSonics%20Velvet%20(standard)) by Reference Audio Analyzer
 - [EarSonics Velvet (tight)](./crinacle/harman_in-ear_2019v2/EarSonics%20Velvet%20(tight)) by Crinacle
 - [EarSonics Velvet (tight)](./innerfidelity/innerfidelity_harman_in-ear_2019v2/EarSonics%20Velvet%20(tight)) by Innerfidelity
+- [EarSonics Velvet (tight)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/EarSonics%20Velvet%20(tight)) by Reference Audio Analyzer
 - [EarSonics Velvet (warm)](./crinacle/harman_in-ear_2019v2/EarSonics%20Velvet%20(warm)) by Crinacle
 - [EarSonics Velvet (warm)](./innerfidelity/innerfidelity_harman_in-ear_2019v2/EarSonics%20Velvet%20(warm)) by Innerfidelity
+- [EarSonics Velvet (warm)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/EarSonics%20Velvet%20(warm)) by Reference Audio Analyzer
 - [Eartech Dual](./crinacle/harman_in-ear_2019v2/Eartech%20Dual) by Crinacle
 - [Eartech Quad](./crinacle/harman_in-ear_2019v2/Eartech%20Quad) by Crinacle
 - [Eartech Triple](./crinacle/harman_in-ear_2019v2/Eartech%20Triple) by Crinacle
@@ -1565,6 +1595,7 @@ from the same source.
 - [Etymotic hf5](./rtings/rtings_harman_in-ear_2019v2/Etymotic%20hf5) by Rtings
 - [Etymotic mc3](./headphonecom/headphonecom_harman_in-ear_2019v2/Etymotic%20mc3) by Headphone.com
 - [Etymotic mc3](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Etymotic%20mc3) by Innerfidelity
+- [Etymotic mc3](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Etymotic%20mc3) by Reference Audio Analyzer
 - [Etymotic mc5](./headphonecom/headphonecom_harman_in-ear_2019v2/Etymotic%20mc5) by Headphone.com
 - [Etymotic Mk5](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Etymotic%20Mk5) by Innerfidelity
 - [Fatfreq Eden](./crinacle/harman_in-ear_2019v2/Fatfreq%20Eden) by Crinacle
@@ -1603,6 +1634,7 @@ from the same source.
 - [Fearless Audio S8Z](./crinacle/harman_in-ear_2019v2/Fearless%20Audio%20S8Z) by Crinacle
 - [Fearless Audio S8Z](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Fearless%20Audio%20S8Z) by Reference Audio Analyzer
 - [Fearless Audio Start](./crinacle/harman_in-ear_2019v2/Fearless%20Audio%20Start) by Crinacle
+- [Fearless Audio Tequila](./crinacle/harman_in-ear_2019v2/Fearless%20Audio%20Tequila) by Crinacle
 - [Fearless Audio Y2K-G10](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Fearless%20Audio%20Y2K-G10) by Reference Audio Analyzer
 - [Fender FXA6](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Fender%20FXA6) by Innerfidelity
 - [Fender FXA9](./crinacle/harman_in-ear_2019v2/Fender%20FXA9) by Crinacle
@@ -1640,7 +1672,9 @@ from the same source.
 - [FiiO FA9](./oratory1990/harman_in-ear_2019v2/FiiO%20FA9) by oratory1990
 - [FiiO FH1](./crinacle/harman_in-ear_2019v2/FiiO%20FH1) by Crinacle
 - [FiiO FH1](./oratory1990/harman_in-ear_2019v2/FiiO%20FH1) by oratory1990
+- [FiiO FH1s](./crinacle/harman_in-ear_2019v2/FiiO%20FH1s) by Crinacle
 - [FiiO FH1s](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FiiO%20FH1s) by Reference Audio Analyzer
+- [FiiO FH3](./crinacle/harman_in-ear_2019v2/FiiO%20FH3) by Crinacle
 - [FiiO FH5 (sample 1)](./crinacle/harman_in-ear_2019v2/FiiO%20FH5%20(sample%201)) by Crinacle
 - [FiiO FH5 (sample 2)](./crinacle/harman_in-ear_2019v2/FiiO%20FH5%20(sample%202)) by Crinacle
 - [FiiO FH5](./crinacle/harman_in-ear_2019v2/FiiO%20FH5) by Crinacle
@@ -1659,6 +1693,7 @@ from the same source.
 - [Final Audio D8000 Pro Edition](./oratory1990/harman_over-ear_2018/Final%20Audio%20D8000%20Pro%20Edition) by oratory1990
 - [Final Audio D8000](./crinacle/ears-711_harman_over-ear_2018/Final%20Audio%20D8000) by Crinacle, Ears-711
 - [Final Audio E1000](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E1000) by Crinacle
+- [Final Audio E1000](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20E1000) by oratory1990
 - [Final Audio E2000 (sample 1)](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E2000%20(sample%201)) by Crinacle
 - [Final Audio E2000 (sample 2)](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E2000%20(sample%202)) by Crinacle
 - [Final Audio E2000](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E2000) by Crinacle
@@ -1672,6 +1707,7 @@ from the same source.
 - [Final Audio E5000 (sample 1)](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E5000%20(sample%201)) by Crinacle
 - [Final Audio E5000 (sample 2)](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E5000%20(sample%202)) by Crinacle
 - [Final Audio E5000](./crinacle/harman_in-ear_2019v2/Final%20Audio%20E5000) by Crinacle
+- [Final Audio E5000](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20E5000) by oratory1990
 - [Final Audio E500](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20E500) by oratory1990
 - [Final Audio F4100 (deep foam)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Final%20Audio%20F4100%20(deep%20foam)) by Reference Audio Analyzer
 - [Final Audio F4100 (deep)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Final%20Audio%20F4100%20(deep)) by Reference Audio Analyzer
@@ -1684,10 +1720,12 @@ from the same source.
 - [Final Audio Heaven 8](./crinacle/harman_in-ear_2019v2/Final%20Audio%20Heaven%208) by Crinacle
 - [Final Audio Heaven A](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Final%20Audio%20Heaven%20A) by Innerfidelity
 - [Final Audio Heaven II](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Final%20Audio%20Heaven%20II) by Innerfidelity
+- [Final Audio Heaven IV](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20Heaven%20IV) by oratory1990
 - [Final Audio Heaven IV](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Final%20Audio%20Heaven%20IV) by Reference Audio Analyzer
 - [Final Audio Heaven S](./crinacle/harman_in-ear_2019v2/Final%20Audio%20Heaven%20S) by Crinacle
 - [Final Audio Heaven S](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Final%20Audio%20Heaven%20S) by Innerfidelity
 - [Final Audio Heaven S](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Final%20Audio%20Heaven%20S) by Reference Audio Analyzer
+- [Final Audio Heaven V](./oratory1990/harman_in-ear_2019v2/Final%20Audio%20Heaven%20V) by oratory1990
 - [Final Audio III](./crinacle/harman_in-ear_2019v2/Final%20Audio%20III) by Crinacle
 - [Final Audio Lab 1 Fit 1](./crinacle/harman_in-ear_2019v2/Final%20Audio%20Lab%201%20Fit%201) by Crinacle
 - [Final Audio Lab 1 Fit 2](./crinacle/harman_in-ear_2019v2/Final%20Audio%20Lab%201%20Fit%202) by Crinacle
@@ -1723,6 +1761,7 @@ from the same source.
 - [Fir Audio M5 (sample 5)](./crinacle/harman_in-ear_2019v2/Fir%20Audio%20M5%20(sample%205)) by Crinacle
 - [Fir Audio M5 (sample 7)](./crinacle/harman_in-ear_2019v2/Fir%20Audio%20M5%20(sample%207)) by Crinacle
 - [Fir Audio M5](./crinacle/harman_in-ear_2019v2/Fir%20Audio%20M5) by Crinacle
+- [Fir Audio VxV](./crinacle/harman_in-ear_2019v2/Fir%20Audio%20VxV) by Crinacle
 - [First Harmonic IEB6](./innerfidelity/innerfidelity_harman_in-ear_2019v2/First%20Harmonic%20IEB6) by Innerfidelity
 - [Fischer Audio Bellicoso](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Fischer%20Audio%20Bellicoso) by Reference Audio Analyzer
 - [Fischer Audio Bullets 6mm](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Fischer%20Audio%20Bullets%206mm) by Reference Audio Analyzer
@@ -1813,10 +1852,18 @@ from the same source.
 - [Flare Audio Flares Gold (cone tips)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Flare%20Audio%20Flares%20Gold%20(cone%20tips)) by Reference Audio Analyzer
 - [Flare Audio Flares Gold (ordinary tips)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Flare%20Audio%20Flares%20Gold%20(ordinary%20tips)) by Reference Audio Analyzer
 - [Flare Audio Reference R1](./innerfidelity/innerfidelity_harman_over-ear_2018/Flare%20Audio%20Reference%20R1) by Innerfidelity
+- [FLC 8N (black black clear)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%208N%20(black%20black%20clear)) by Reference Audio Analyzer
 - [FLC Technology 8D (black)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208D%20(black)) by Reference Audio Analyzer
 - [FLC Technology 8D (blue)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208D%20(blue)) by Reference Audio Analyzer
 - [FLC Technology 8D (green)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208D%20(green)) by Reference Audio Analyzer
 - [FLC Technology 8D](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208D) by Reference Audio Analyzer
+- [FLC Technology 8N (black black gray)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(black%20black%20gray)) by Reference Audio Analyzer
+- [FLC Technology 8N (black black red)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(black%20black%20red)) by Reference Audio Analyzer
+- [FLC Technology 8N (black clear-gray)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(black%20clear-gray)) by Reference Audio Analyzer
+- [FLC Technology 8N (black gray gray)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(black%20gray%20gray)) by Reference Audio Analyzer
+- [FLC Technology 8N (blue gray gray)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(blue%20gray%20gray)) by Reference Audio Analyzer
+- [FLC Technology 8N (gold gray gray)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(gold%20gray%20gray)) by Reference Audio Analyzer
+- [FLC Technology 8N (green gray gray)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208N%20(green%20gray%20gray)) by Reference Audio Analyzer
 - [FLC Technology 8S](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/FLC%20Technology%208S) by Reference Audio Analyzer
 - [FLC Technology FLC8 Bk Gy Bk](./innerfidelity/innerfidelity_harman_in-ear_2019v2/FLC%20Technology%20FLC8%20Bk%20Gy%20Bk) by Innerfidelity
 - [FLC Technology FLC8 C C Bk Ligh](./innerfidelity/innerfidelity_harman_in-ear_2019v2/FLC%20Technology%20FLC8%20C%20C%20Bk%20Ligh) by Innerfidelity
@@ -1847,6 +1894,7 @@ from the same source.
 - [Focal Listen Professional](./crinacle/gras_43ag-7_harman_over-ear_2018/Focal%20Listen%20Professional) by Crinacle, GRAS 43AG-7
 - [Focal Listen](./innerfidelity/innerfidelity_harman_over-ear_2018/Focal%20Listen) by Innerfidelity
 - [Focal Listen](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Focal%20Listen) by Reference Audio Analyzer, HDM-X
+- [Focal Radiance](./crinacle/gras_43ag-7_harman_over-ear_2018/Focal%20Radiance) by Crinacle, GRAS 43AG-7
 - [Focal Radiance](./oratory1990/harman_over-ear_2018/Focal%20Radiance) by oratory1990
 - [Focal Sphear](./crinacle/harman_in-ear_2019v2/Focal%20Sphear) by Crinacle
 - [Focal Sphear](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Focal%20Sphear) by Innerfidelity
@@ -2143,6 +2191,7 @@ from the same source.
 - [HIFIMAN Sundara](./crinacle/gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Sundara) by Crinacle, GRAS 43AG-7
 - [HIFIMAN Sundara](./innerfidelity/innerfidelity_harman_over-ear_2018/HIFIMAN%20Sundara) by Innerfidelity
 - [HIFIMAN Sundara](./oratory1990/harman_over-ear_2018/HIFIMAN%20Sundara) by oratory1990
+- [HIFIMAN Sundara](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/HIFIMAN%20Sundara) by Reference Audio Analyzer, HDM-X
 - [HIFIMAN Sundara](./rtings/rtings_harman_over-ear_2018/HIFIMAN%20Sundara) by Rtings
 - [HIFIMAN Susvara](./oratory1990/harman_over-ear_2018/HIFIMAN%20Susvara) by oratory1990
 - [HIFIMAN TWS600](./crinacle/harman_in-ear_2019v2/HIFIMAN%20TWS600) by Crinacle
@@ -2286,6 +2335,7 @@ from the same source.
 - [Jabra Elite 75t](./oratory1990/harman_in-ear_2019v2/Jabra%20Elite%2075t) by oratory1990
 - [Jabra Elite 75t](./rtings/rtings_harman_in-ear_2019v2/Jabra%20Elite%2075t) by Rtings
 - [Jabra Elite 85h](./rtings/rtings_harman_in-ear_2019v2/Jabra%20Elite%2085h) by Rtings
+- [Jabra Elite 85t](./rtings/rtings_harman_in-ear_2019v2/Jabra%20Elite%2085t) by Rtings
 - [Jabra Elite Active 65t](./crinacle/harman_in-ear_2019v2/Jabra%20Elite%20Active%2065t) by Crinacle
 - [Jabra Elite Active 65t](./rtings/rtings_harman_in-ear_2019v2/Jabra%20Elite%20Active%2065t) by Rtings
 - [Jabra Elite Active 75t](./rtings/rtings_harman_in-ear_2019v2/Jabra%20Elite%20Active%2075t) by Rtings
@@ -2325,6 +2375,7 @@ from the same source.
 - [JBL CLUB 700BT](./rtings/rtings_harman_over-ear_2018/JBL%20CLUB%20700BT) by Rtings
 - [JBL CLUB 950NC](./rtings/rtings_harman_over-ear_2018/JBL%20CLUB%20950NC) by Rtings
 - [JBL CLUB ONE](./rtings/rtings_harman_over-ear_2018/JBL%20CLUB%20ONE) by Rtings
+- [JBL CLUB PRO Plus TWS](./rtings/rtings_harman_in-ear_2019v2/JBL%20CLUB%20PRO%20Plus%20TWS) by Rtings
 - [JBL Duet NC (ANC Off)](./oratory1990/harman_over-ear_2018/JBL%20Duet%20NC%20(ANC%20Off)) by oratory1990
 - [JBL Duet NC (ANC On)](./oratory1990/harman_over-ear_2018/JBL%20Duet%20NC%20(ANC%20On)) by oratory1990
 - [JBL E25BT](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/JBL%20E25BT) by Reference Audio Analyzer
@@ -2334,6 +2385,7 @@ from the same source.
 - [JBL E55BT](./rtings/rtings_harman_over-ear_2018/JBL%20E55BT) by Rtings
 - [JBL E65BTNC](./rtings/rtings_harman_over-ear_2018/JBL%20E65BTNC) by Rtings
 - [JBL Endurance Dive](./rtings/rtings_harman_in-ear_2019v2/JBL%20Endurance%20Dive) by Rtings
+- [JBL Endurance Peak II](./rtings/rtings_harman_in-ear_2019v2/JBL%20Endurance%20Peak%20II) by Rtings
 - [JBL Endurance Peak](./rtings/rtings_harman_in-ear_2019v2/JBL%20Endurance%20Peak) by Rtings
 - [JBL Endurance Sprint](./rtings/rtings_harman_in-ear_2019v2/JBL%20Endurance%20Sprint) by Rtings
 - [JBL Everest 110](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/JBL%20Everest%20110) by Reference Audio Analyzer
@@ -2368,6 +2420,7 @@ from the same source.
 - [JBL Synchros S700](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/JBL%20Synchros%20S700) by Reference Audio Analyzer, HDM-X
 - [JBL T450BT](./rtings/rtings_harman_over-ear_2018/JBL%20T450BT) by Rtings
 - [JBL TUNE 120TWS](./rtings/rtings_harman_in-ear_2019v2/JBL%20TUNE%20120TWS) by Rtings
+- [JBL Tune 125TWS](./rtings/rtings_harman_in-ear_2019v2/JBL%20Tune%20125TWS) by Rtings
 - [JBL TUNE 220TWS](./rtings/rtings_harman_in-ear_2019v2/JBL%20TUNE%20220TWS) by Rtings
 - [JBL TUNE 750BTNC](./rtings/rtings_harman_over-ear_2018/JBL%20TUNE%20750BTNC) by Rtings
 - [JBL V310 BT (bluetooth)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/JBL%20V310%20BT%20(bluetooth)) by Reference Audio Analyzer, HDM-X
@@ -2465,6 +2518,7 @@ from the same source.
 - [Kennerton Jimo](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Kennerton%20Jimo) by Reference Audio Analyzer
 - [Kennerton Jord](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Kennerton%20Jord) by Reference Audio Analyzer, HDM-X
 - [Kennerton Laguz](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Kennerton%20Laguz) by Reference Audio Analyzer
+- [Kennerton M12](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Kennerton%20M12) by Reference Audio Analyzer, HDM-X
 - [Kennerton Magister Pro](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Kennerton%20Magister%20Pro) by Reference Audio Analyzer, HDM-X
 - [Kennerton Magister](./innerfidelity/innerfidelity_harman_over-ear_2018/Kennerton%20Magister) by Innerfidelity
 - [Kennerton Magister](./oratory1990/harman_over-ear_2018/Kennerton%20Magister) by oratory1990
@@ -2518,6 +2572,7 @@ from the same source.
 - [Klipsch Reference On Ear](./innerfidelity/innerfidelity_harman_over-ear_2018/Klipsch%20Reference%20On%20Ear) by Innerfidelity
 - [Klipsch Reference ONE](./headphonecom/headphonecom_harman_over-ear_2018/Klipsch%20Reference%20ONE) by Headphone.com
 - [Klipsch Reference ONE](./innerfidelity/innerfidelity_harman_over-ear_2018/Klipsch%20Reference%20ONE) by Innerfidelity
+- [Klipsch T5 II](./rtings/rtings_harman_in-ear_2019v2/Klipsch%20T5%20II) by Rtings
 - [Klipsch T5 True Wireless](./crinacle/harman_in-ear_2019v2/Klipsch%20T5%20True%20Wireless) by Crinacle
 - [Klipsch T5 True Wireless](./rtings/rtings_harman_in-ear_2019v2/Klipsch%20T5%20True%20Wireless) by Rtings
 - [Klipsch X-10i](./headphonecom/headphonecom_harman_in-ear_2019v2/Klipsch%20X-10i) by Headphone.com
@@ -2541,6 +2596,7 @@ from the same source.
 - [Koss KSC75](./crinacle/gras_43ag-7_harman_over-ear_2018/Koss%20KSC75) by Crinacle, GRAS 43AG-7
 - [Koss KSC75](./headphonecom/headphonecom_harman_over-ear_2018/Koss%20KSC75) by Headphone.com
 - [Koss KSC75](./innerfidelity/innerfidelity_harman_over-ear_2018/Koss%20KSC75) by Innerfidelity
+- [Koss KSC75](./oratory1990/harman_over-ear_2018/Koss%20KSC75) by oratory1990
 - [Koss KSC75](./rtings/rtings_harman_over-ear_2018/Koss%20KSC75) by Rtings
 - [Koss Porta Pro (sample 1)](./headphonecom/headphonecom_harman_over-ear_2018/Koss%20Porta%20Pro%20(sample%201)) by Headphone.com
 - [Koss Porta Pro (sample 2)](./headphonecom/headphonecom_harman_over-ear_2018/Koss%20Porta%20Pro%20(sample%202)) by Headphone.com
@@ -2710,6 +2766,9 @@ from the same source.
 - [Lypertek Tevi](./crinacle/harman_in-ear_2019v2/Lypertek%20Tevi) by Crinacle
 - [Lypertek Tevi](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Lypertek%20Tevi) by Reference Audio Analyzer
 - [LZ Hi-Fi Audio A4](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/LZ%20Hi-Fi%20Audio%20A4) by Reference Audio Analyzer
+- [LZ Hi-Fi Audio A6 Mini (black)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/LZ%20Hi-Fi%20Audio%20A6%20Mini%20(black)) by Reference Audio Analyzer
+- [LZ Hi-Fi Audio A6 Mini (blue)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/LZ%20Hi-Fi%20Audio%20A6%20Mini%20(blue)) by Reference Audio Analyzer
+- [LZ Hi-Fi Audio A6 Mini (red)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/LZ%20Hi-Fi%20Audio%20A6%20Mini%20(red)) by Reference Audio Analyzer
 - [M-Audio IE-30](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/M-Audio%20IE-30) by Reference Audio Analyzer
 - [M-Audio IE-40](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/M-Audio%20IE-40) by Reference Audio Analyzer
 - [Magaosi DT6 (off-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Magaosi%20DT6%20(off-off)) by Reference Audio Analyzer
@@ -2890,6 +2949,7 @@ from the same source.
 - [Musical Fidelity EB-50](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Musical%20Fidelity%20EB-50) by Reference Audio Analyzer
 - [Musical Fidelity MF100](./innerfidelity/innerfidelity_harman_over-ear_2018/Musical%20Fidelity%20MF100) by Innerfidelity
 - [Musical Fidelity MF200](./innerfidelity/innerfidelity_harman_over-ear_2018/Musical%20Fidelity%20MF200) by Innerfidelity
+- [MySphere 3.2](./crinacle/gras_43ag-7_harman_over-ear_2018/MySphere%203.2) by Crinacle, GRAS 43AG-7
 - [MySphere 3](./oratory1990/harman_over-ear_2018/MySphere%203) by oratory1990
 - [MyST Gatling](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/MyST%20Gatling) by Reference Audio Analyzer, HDM-X
 - [MyST Izo-OS](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/MyST%20Izo-OS) by Reference Audio Analyzer, HDM-X
@@ -2946,6 +3006,7 @@ from the same source.
 - [Noble Audio Katana](./crinacle/harman_in-ear_2019v2/Noble%20Audio%20Katana) by Crinacle
 - [Noble Audio Katana](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Noble%20Audio%20Katana) by Reference Audio Analyzer
 - [Noble Audio Khan (sample 1)](./crinacle/harman_in-ear_2019v2/Noble%20Audio%20Khan%20(sample%201)) by Crinacle
+- [Noble Audio Khan](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Noble%20Audio%20Khan) by Reference Audio Analyzer
 - [Noble Audio M3](./crinacle/harman_in-ear_2019v2/Noble%20Audio%20M3) by Crinacle
 - [Noble Audio PR P Tuning](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Noble%20Audio%20PR%20P%20Tuning) by Innerfidelity
 - [Noble Audio PR R Tuning](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Noble%20Audio%20PR%20R%20Tuning) by Innerfidelity
@@ -2959,6 +3020,7 @@ from the same source.
 - [Noble Audio Trident](./crinacle/harman_in-ear_2019v2/Noble%20Audio%20Trident) by Crinacle
 - [Noble Audio Trident](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Noble%20Audio%20Trident) by Reference Audio Analyzer
 - [Noble Audio Tux 5](./crinacle/harman_in-ear_2019v2/Noble%20Audio%20Tux%205) by Crinacle
+- [Noble Audio Tux 5](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Noble%20Audio%20Tux%205) by Reference Audio Analyzer
 - [Nocs NS 400](./headphonecom/headphonecom_harman_in-ear_2019v2/Nocs%20NS%20400) by Headphone.com
 - [Nocs NS 400](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Nocs%20NS%20400) by Innerfidelity
 - [Nocs NS200](./headphonecom/headphonecom_harman_in-ear_2019v2/Nocs%20NS200) by Headphone.com
@@ -3033,6 +3095,7 @@ from the same source.
 - [Ollo Audio HPS S4](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Ollo%20Audio%20HPS%20S4) by Reference Audio Analyzer, HDM-X
 - [OLLO S4R](./oratory1990/harman_over-ear_2018/OLLO%20S4R) by oratory1990
 - [OneOdio Studio Standard Professional DJ headphone](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/OneOdio%20Studio%20Standard%20Professional%20DJ%20headphone) by Reference Audio Analyzer, HDM-X
+- [OnePlus Buds](./rtings/rtings_harman_in-ear_2019v2/OnePlus%20Buds) by Rtings
 - [Onkyo A800](./oratory1990/harman_over-ear_2018/Onkyo%20A800) by oratory1990
 - [Onkyo E900](./crinacle/harman_in-ear_2019v2/Onkyo%20E900) by Crinacle
 - [Onkyo E900](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Onkyo%20E900) by Reference Audio Analyzer
@@ -3115,6 +3178,7 @@ from the same source.
 - [PEARS SH3 (sample 1)](./crinacle/harman_in-ear_2019v2/PEARS%20SH3%20(sample%201)) by Crinacle
 - [PEARS SH3 (sample 2)](./crinacle/harman_in-ear_2019v2/PEARS%20SH3%20(sample%202)) by Crinacle
 - [PEARS SH3](./crinacle/harman_in-ear_2019v2/PEARS%20SH3) by Crinacle
+- [Peerless MB PMB 85 Double Action](./oratory1990/harman_over-ear_2018/Peerless%20MB%20PMB%2085%20Double%20Action) by oratory1990
 - [Pendulumic Stance S1 Bluetooth](./innerfidelity/innerfidelity_harman_over-ear_2018/Pendulumic%20Stance%20S1%20Bluetooth) by Innerfidelity
 - [Periodic Audio Be](./crinacle/harman_in-ear_2019v2/Periodic%20Audio%20Be) by Crinacle
 - [Periodic Audio Be](./oratory1990/harman_in-ear_2019v2/Periodic%20Audio%20Be) by oratory1990
@@ -3149,6 +3213,7 @@ from the same source.
 - [Philips EM-6126](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Philips%20EM-6126) by Reference Audio Analyzer, HDM-X
 - [Philips Fidelio L1](./innerfidelity/innerfidelity_harman_over-ear_2018/Philips%20Fidelio%20L1) by Innerfidelity
 - [Philips Fidelio L1](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Philips%20Fidelio%20L1) by Reference Audio Analyzer, HDM-X
+- [Philips Fidelio L2](./oratory1990/harman_over-ear_2018/Philips%20Fidelio%20L2) by oratory1990
 - [Philips Fidelio M1 Mk1 2012](./innerfidelity/innerfidelity_harman_over-ear_2018/Philips%20Fidelio%20M1%20Mk1%202012) by Innerfidelity
 - [Philips Fidelio M1](./innerfidelity/innerfidelity_harman_over-ear_2018/Philips%20Fidelio%20M1) by Innerfidelity
 - [Philips Fidelio M1](./oratory1990/harman_over-ear_2018/Philips%20Fidelio%20M1) by oratory1990
@@ -3285,6 +3350,7 @@ from the same source.
 - [Puretone Micro Monitor Classic 3](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Puretone%20Micro%20Monitor%20Classic%203) by Reference Audio Analyzer
 - [Puro JuniorJams](./rtings/rtings_harman_over-ear_2018/Puro%20JuniorJams) by Rtings
 - [QCY T1C](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/QCY%20T1C) by Reference Audio Analyzer
+- [QCY T5 Pro](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/QCY%20T5%20Pro) by Reference Audio Analyzer
 - [QCY T5](./crinacle/harman_in-ear_2019v2/QCY%20T5) by Crinacle
 - [QCY T5](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/QCY%20T5) by Reference Audio Analyzer
 - [qdc 3SH](./crinacle/harman_in-ear_2019v2/qdc%203SH) by Crinacle
@@ -3311,6 +3377,7 @@ from the same source.
 - [qdc Gemini (bass)](./crinacle/harman_in-ear_2019v2/qdc%20Gemini%20(bass)) by Crinacle
 - [qdc Gemini](./crinacle/harman_in-ear_2019v2/qdc%20Gemini) by Crinacle
 - [qdc Neptune](./crinacle/harman_in-ear_2019v2/qdc%20Neptune) by Crinacle
+- [qdc Neptune](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/qdc%20Neptune) by Reference Audio Analyzer
 - [qdc Uranus](./crinacle/harman_in-ear_2019v2/qdc%20Uranus) by Crinacle
 - [QKZ VK4](./crinacle/harman_in-ear_2019v2/QKZ%20VK4) by Crinacle
 - [QKZ X36M](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/QKZ%20X36M) by Reference Audio Analyzer
@@ -3340,6 +3407,7 @@ from the same source.
 - [Razer BlackShark V2](./rtings/rtings_harman_over-ear_2018/Razer%20BlackShark%20V2) by Rtings
 - [Razer Hammerhead True Wireless](./rtings/rtings_harman_in-ear_2019v2/Razer%20Hammerhead%20True%20Wireless) by Rtings
 - [Razer Hammerhead USB-C](./rtings/rtings_harman_in-ear_2019v2/Razer%20Hammerhead%20USB-C) by Rtings
+- [Razer Kaira Pro](./rtings/rtings_harman_over-ear_2018/Razer%20Kaira%20Pro) by Rtings
 - [Razer Kraken Pro V2](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Razer%20Kraken%20Pro%20V2) by Reference Audio Analyzer, HDM-X
 - [Razer Kraken Pro V2](./rtings/rtings_harman_over-ear_2018/Razer%20Kraken%20Pro%20V2) by Rtings
 - [Razer Kraken Tournament Edition](./rtings/rtings_harman_over-ear_2018/Razer%20Kraken%20Tournament%20Edition) by Rtings
@@ -3396,6 +3464,7 @@ from the same source.
 - [RUNMUS RGB K1 Gaming Headset](./rtings/rtings_harman_over-ear_2018/RUNMUS%20RGB%20K1%20Gaming%20Headset) by Rtings
 - [Sabbat E12 Ultra](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Sabbat%20E12%20Ultra) by Reference Audio Analyzer
 - [Sabbat E12](./rtings/rtings_harman_in-ear_2019v2/Sabbat%20E12) by Rtings
+- [Samsung AKG EO-IG955 Type-C](./rtings/rtings_harman_in-ear_2019v2/Samsung%20AKG%20EO-IG955%20Type-C) by Rtings
 - [Samsung EO-IC500 ANC Type-C](./oratory1990/harman_in-ear_2019v2/Samsung%20EO-IC500%20ANC%20Type-C) by oratory1990
 - [Samsung EO-IG955 (AKG)](./crinacle/harman_in-ear_2019v2/Samsung%20EO-IG955%20(AKG)) by Crinacle
 - [Samsung EO-IG955 (AKG)](./oratory1990/harman_in-ear_2019v2/Samsung%20EO-IG955%20(AKG)) by oratory1990
@@ -3424,6 +3493,7 @@ from the same source.
 - [Scosche RH1060 Bluetooth](./innerfidelity/innerfidelity_harman_over-ear_2018/Scosche%20RH1060%20Bluetooth) by Innerfidelity
 - [Seahf AWK-009](./crinacle/harman_in-ear_2019v2/Seahf%20AWK-009) by Crinacle
 - [Sendy Aiva](./crinacle/ears-711_harman_over-ear_2018/Sendy%20Aiva) by Crinacle, Ears-711
+- [Sendy Aiva](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Sendy%20Aiva) by Reference Audio Analyzer, HDM-X
 - [Sendy Aiya](./crinacle/harman_in-ear_2019v2/Sendy%20Aiya) by Crinacle
 - [Senfer DT6](./crinacle/harman_in-ear_2019v2/Senfer%20DT6) by Crinacle
 - [Sennheiser AMBEO Smart Headset](./rtings/rtings_harman_in-ear_2019v2/Sennheiser%20AMBEO%20Smart%20Headset) by Rtings
@@ -3444,6 +3514,7 @@ from the same source.
 - [Sennheiser CX 300-II](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Sennheiser%20CX%20300-II) by Reference Audio Analyzer
 - [Sennheiser CX 400-II](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Sennheiser%20CX%20400-II) by Reference Audio Analyzer
 - [Sennheiser CX 400BT](./oratory1990/harman_over-ear_2018/Sennheiser%20CX%20400BT) by oratory1990
+- [Sennheiser CX 400BT](./rtings/rtings_harman_over-ear_2018/Sennheiser%20CX%20400BT) by Rtings
 - [Sennheiser CX 5.00](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Sennheiser%20CX%205.00) by Reference Audio Analyzer
 - [Sennheiser CX 500](./headphonecom/headphonecom_harman_in-ear_2019v2/Sennheiser%20CX%20500) by Headphone.com
 - [Sennheiser CX 550](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Sennheiser%20CX%20550) by Reference Audio Analyzer
@@ -3532,6 +3603,7 @@ from the same source.
 - [Sennheiser HD 4](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20HD%204) by Innerfidelity
 - [Sennheiser HD 515](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Sennheiser%20HD%20515) by Reference Audio Analyzer, HDM1
 - [Sennheiser HD 518](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20HD%20518) by Headphone.com
+- [Sennheiser HD 518](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20518) by oratory1990
 - [Sennheiser HD 518](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Sennheiser%20HD%20518) by Reference Audio Analyzer, HDM1
 - [Sennheiser HD 518](./rtings/rtings_harman_over-ear_2018/Sennheiser%20HD%20518) by Rtings
 - [Sennheiser HD 540 reference-II](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20540%20reference-II) by oratory1990
@@ -3602,6 +3674,7 @@ from the same source.
 - [Sennheiser HD 660 S](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Sennheiser%20HD%20660%20S) by Reference Audio Analyzer, HDM-X
 - [Sennheiser HD 660 S](./rtings/rtings_harman_over-ear_2018/Sennheiser%20HD%20660%20S) by Rtings
 - [Sennheiser HD 6XX](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20HD%206XX) by Innerfidelity
+- [Sennheiser HD 6XX](./rtings/rtings_harman_over-ear_2018/Sennheiser%20HD%206XX) by Rtings
 - [Sennheiser HD 7 DJ](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Sennheiser%20HD%207%20DJ) by Reference Audio Analyzer, HDM-X
 - [Sennheiser HD 700](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20HD%20700) by Headphone.com
 - [Sennheiser HD 700](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20HD%20700) by Innerfidelity
@@ -3637,6 +3710,7 @@ from the same source.
 - [Sennheiser HD 820](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20820) by oratory1990
 - [Sennheiser HD 820](./rtings/rtings_harman_over-ear_2018/Sennheiser%20HD%20820) by Rtings
 - [Sennheiser HD1 In-Ear Wireless](./rtings/rtings_harman_in-ear_2019v2/Sennheiser%20HD1%20In-Ear%20Wireless) by Rtings
+- [Sennheiser HE 1 Orpheus 2](./crinacle/gras_43ag-7_harman_over-ear_2018/Sennheiser%20HE%201%20Orpheus%202) by Crinacle, GRAS 43AG-7
 - [Sennheiser HE 1 Orpheus 2](./oratory1990/harman_over-ear_2018/Sennheiser%20HE%201%20Orpheus%202) by oratory1990
 - [Sennheiser HE 60](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20HE%2060) by Innerfidelity
 - [Sennheiser HE 90 Orpheus](./oratory1990/harman_over-ear_2018/Sennheiser%20HE%2090%20Orpheus) by oratory1990
@@ -3681,6 +3755,7 @@ from the same source.
 - [Sennheiser Momentum 2.0 Wireless](./crinacle/gras_43ag-7_harman_over-ear_2018/Sennheiser%20Momentum%202.0%20Wireless) by Crinacle, GRAS 43AG-7
 - [Sennheiser Momentum 2.0 Wireless](./rtings/rtings_harman_over-ear_2018/Sennheiser%20Momentum%202.0%20Wireless) by Rtings
 - [Sennheiser Momentum 2.0](./rtings/rtings_harman_over-ear_2018/Sennheiser%20Momentum%202.0) by Rtings
+- [Sennheiser Momentum 3 Wireless](./crinacle/gras_43ag-7_harman_over-ear_2018/Sennheiser%20Momentum%203%20Wireless) by Crinacle, GRAS 43AG-7
 - [Sennheiser Momentum 3 Wireless](./oratory1990/harman_over-ear_2018/Sennheiser%20Momentum%203%20Wireless) by oratory1990
 - [Sennheiser Momentum 3 Wireless](./rtings/rtings_harman_over-ear_2018/Sennheiser%20Momentum%203%20Wireless) by Rtings
 - [Sennheiser Momentum In-Ear](./crinacle/harman_in-ear_2019v2/Sennheiser%20Momentum%20In-Ear) by Crinacle
@@ -3762,6 +3837,7 @@ from the same source.
 - [Sennheiser Urbanite](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20Urbanite) by Innerfidelity
 - [SENSO ActivBuds S-250](./rtings/rtings_harman_in-ear_2019v2/SENSO%20ActivBuds%20S-250) by Rtings
 - [Shanling ME100](./crinacle/harman_in-ear_2019v2/Shanling%20ME100) by Crinacle
+- [Shanling ME200](./crinacle/harman_in-ear_2019v2/Shanling%20ME200) by Crinacle
 - [Shanling ME500](./crinacle/harman_in-ear_2019v2/Shanling%20ME500) by Crinacle
 - [Shanling ME700](./crinacle/harman_in-ear_2019v2/Shanling%20ME700) by Crinacle
 - [Shanling MW100](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Shanling%20MW100) by Reference Audio Analyzer
@@ -3771,6 +3847,7 @@ from the same source.
 - [Shozy & Neo CP](./crinacle/harman_in-ear_2019v2/Shozy%20&%20Neo%20CP) by Crinacle
 - [Shozy B2](./crinacle/harman_in-ear_2019v2/Shozy%20B2) by Crinacle
 - [Shozy BG Blue Limited Edition](./crinacle/harman_in-ear_2019v2/Shozy%20BG%20Blue%20Limited%20Edition) by Crinacle
+- [Shozy Black Hole](./crinacle/harman_in-ear_2019v2/Shozy%20Black%20Hole) by Crinacle
 - [Shozy Form 1.1](./crinacle/harman_in-ear_2019v2/Shozy%20Form%201.1) by Crinacle
 - [Shozy Hibiki MK2](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Shozy%20Hibiki%20MK2) by Reference Audio Analyzer
 - [Shozy Rouge](./crinacle/harman_in-ear_2019v2/Shozy%20Rouge) by Crinacle
@@ -3783,6 +3860,7 @@ from the same source.
 - [Shozy x AAW Pola](./crinacle/harman_in-ear_2019v2/Shozy%20x%20AAW%20Pola) by Crinacle
 - [Shozy Zero](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Shozy%20Zero) by Reference Audio Analyzer
 - [Shuoer EJ07](./crinacle/harman_in-ear_2019v2/Shuoer%20EJ07) by Crinacle
+- [Shuoer Tape Pro](./crinacle/harman_in-ear_2019v2/Shuoer%20Tape%20Pro) by Crinacle
 - [Shuoer Tape](./crinacle/harman_in-ear_2019v2/Shuoer%20Tape) by Crinacle
 - [Shuoer Tape](./oratory1990/harman_in-ear_2019v2/Shuoer%20Tape) by oratory1990
 - [Shure AONIC 50](./crinacle/gras_43ag-7_harman_over-ear_2018/Shure%20AONIC%2050) by Crinacle, GRAS 43AG-7
@@ -3896,6 +3974,7 @@ from the same source.
 - [Skullcandy Aviators no Lens](./innerfidelity/innerfidelity_harman_over-ear_2018/Skullcandy%20Aviators%20no%20Lens) by Innerfidelity
 - [Skullcandy Aviators](./headphonecom/headphonecom_harman_over-ear_2018/Skullcandy%20Aviators) by Headphone.com
 - [Skullcandy Crusher 360](./rtings/rtings_harman_over-ear_2018/Skullcandy%20Crusher%20360) by Rtings
+- [Skullcandy Crusher Evo](./rtings/rtings_harman_over-ear_2018/Skullcandy%20Crusher%20Evo) by Rtings
 - [Skullcandy Crusher Wireless (wired, sub off)](./innerfidelity/innerfidelity_harman_over-ear_2018/Skullcandy%20Crusher%20Wireless%20(wired,%20sub%20off)) by Innerfidelity
 - [Skullcandy Crusher Wireless](./rtings/rtings_harman_over-ear_2018/Skullcandy%20Crusher%20Wireless) by Rtings
 - [Skullcandy Crusher](./innerfidelity/innerfidelity_harman_over-ear_2018/Skullcandy%20Crusher) by Innerfidelity
@@ -3934,6 +4013,7 @@ from the same source.
 - [SMS Audio Street by 50 Cent](./innerfidelity/innerfidelity_harman_over-ear_2018/SMS%20Audio%20Street%20by%2050%20Cent) by Innerfidelity
 - [SMS Audio Street by 50 Cent](./rtings/rtings_harman_over-ear_2018/SMS%20Audio%20Street%20by%2050%20Cent) by Rtings
 - [SMS Audio Sync by 50 Cent](./innerfidelity/innerfidelity_harman_over-ear_2018/SMS%20Audio%20Sync%20by%2050%20Cent) by Innerfidelity
+- [Snorry NM-1](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Snorry%20NM-1) by Reference Audio Analyzer, HDM-X
 - [SoftEars Cerberus](./oratory1990/harman_in-ear_2019v2/SoftEars%20Cerberus) by oratory1990
 - [SoftEars RS10](./oratory1990/harman_in-ear_2019v2/SoftEars%20RS10) by oratory1990
 - [SOL REPUBLIC Master Tracks XC](./innerfidelity/innerfidelity_harman_over-ear_2018/SOL%20REPUBLIC%20Master%20Tracks%20XC) by Innerfidelity
@@ -4102,6 +4182,7 @@ from the same source.
 - [Sony MH755 (sample 5)](./crinacle/harman_in-ear_2019v2/Sony%20MH755%20(sample%205)) by Crinacle
 - [Sony MH755](./crinacle/harman_in-ear_2019v2/Sony%20MH755) by Crinacle
 - [Sony MH755](./oratory1990/harman_in-ear_2019v2/Sony%20MH755) by oratory1990
+- [Sony PULSE 3D](./rtings/rtings_harman_over-ear_2018/Sony%20PULSE%203D) by Rtings
 - [Sony WF-1000X](./oratory1990/harman_in-ear_2019v2/Sony%20WF-1000X) by oratory1990
 - [Sony WF-1000X](./rtings/rtings_harman_in-ear_2019v2/Sony%20WF-1000X) by Rtings
 - [Sony WF-1000XM3 NC](./crinacle/harman_in-ear_2019v2/Sony%20WF-1000XM3%20NC) by Crinacle
@@ -4199,6 +4280,7 @@ from the same source.
 - [SoundPeats Q9A](./rtings/rtings_harman_in-ear_2019v2/SoundPeats%20Q9A) by Rtings
 - [SoundPeats QY8](./rtings/rtings_harman_in-ear_2019v2/SoundPeats%20QY8) by Rtings
 - [SoundPeats QY9](./rtings/rtings_harman_in-ear_2019v2/SoundPeats%20QY9) by Rtings
+- [SoundPeats TrueFree 2](./rtings/rtings_harman_in-ear_2019v2/SoundPeats%20TrueFree%202) by Rtings
 - [SoundPeats TrueFree](./rtings/rtings_harman_in-ear_2019v2/SoundPeats%20TrueFree) by Rtings
 - [Spider Moonlight](./headphonecom/headphonecom_harman_over-ear_2018/Spider%20Moonlight) by Headphone.com
 - [Spider PowerForce](./innerfidelity/innerfidelity_harman_over-ear_2018/Spider%20PowerForce) by Innerfidelity
@@ -4218,6 +4300,7 @@ from the same source.
 - [Stax Lambda Nova Signature](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20Lambda%20Nova%20Signature) by Innerfidelity
 - [Stax SR-001 Mk1 CES (stock)](./crinacle/harman_in-ear_2019v2/Stax%20SR-001%20Mk1%20CES%20(stock)) by Crinacle
 - [Stax SR-001 Mk1](./crinacle/harman_in-ear_2019v2/Stax%20SR-001%20Mk1) by Crinacle
+- [Stax SR-001 Mk2](./crinacle/harman_in-ear_2019v2/Stax%20SR-001%20Mk2) by Crinacle
 - [Stax SR-001](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Stax%20SR-001) by Reference Audio Analyzer
 - [Stax SR-002](./crinacle/harman_in-ear_2019v2/Stax%20SR-002) by Crinacle
 - [Stax SR-003 SA-1993](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Stax%20SR-003%20SA-1993) by Innerfidelity
@@ -4243,15 +4326,19 @@ from the same source.
 - [Stax SR-202](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Stax%20SR-202) by Reference Audio Analyzer, HDM1
 - [Stax SR-207 (EP-507 leather earpads)](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207%20(EP-507%20leather%20earpads)) by Innerfidelity
 - [Stax SR-207](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207) by Innerfidelity
+- [Stax SR-3](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-3) by Crinacle, GRAS 43AG-7
 - [Stax SR-40 Electret SR4 Adapter](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-40%20Electret%20SR4%20Adapter) by Innerfidelity
 - [Stax SR-404 (with perfect seal)](./oratory1990/harman_over-ear_2018/Stax%20SR-404%20(with%20perfect%20seal)) by oratory1990
+- [Stax SR-404 Limited](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-404%20Limited) by Crinacle, GRAS 43AG-7
 - [Stax SR-404 Ltd SSL-0670](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-404%20Ltd%20SSL-0670) by Innerfidelity
 - [Stax SR-404 S 2742](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-404%20S%202742) by Innerfidelity
+- [Stax SR-404](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-404) by Crinacle, GRAS 43AG-7
 - [Stax SR-404](./oratory1990/harman_over-ear_2018/Stax%20SR-404) by oratory1990
 - [Stax SR-404](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Stax%20SR-404) by Reference Audio Analyzer, HDM1
 - [Stax SR-404LE (with perfect seal)](./oratory1990/harman_over-ear_2018/Stax%20SR-404LE%20(with%20perfect%20seal)) by oratory1990
 - [Stax SR-404LE](./oratory1990/harman_over-ear_2018/Stax%20SR-404LE) by oratory1990
 - [Stax SR-4070](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-4070) by Crinacle, GRAS 43AG-7
+- [Stax SR-40](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-40) by Crinacle, GRAS 43AG-7
 - [Stax SR-40](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Stax%20SR-40) by Reference Audio Analyzer, HDM-X
 - [Stax SR-40](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/Stax%20SR-40) by Reference Audio Analyzer, HDM1
 - [Stax SR-5 Gold](./oratory1990/harman_over-ear_2018/Stax%20SR-5%20Gold) by oratory1990
@@ -4282,9 +4369,11 @@ from the same source.
 - [Stax SR-L700](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-L700) by Crinacle, GRAS 43AG-7
 - [Stax SR-L700](./oratory1990/harman_over-ear_2018/Stax%20SR-L700) by oratory1990
 - [Stax SR-Lambda Pro Classic](./oratory1990/harman_over-ear_2018/Stax%20SR-Lambda%20Pro%20Classic) by oratory1990
+- [Stax SR-Lambda Pro](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-Lambda%20Pro) by Crinacle, GRAS 43AG-7
 - [Stax SR-Lambda Pro](./oratory1990/harman_over-ear_2018/Stax%20SR-Lambda%20Pro) by oratory1990
 - [Stax SR-Lambda Signature](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-Lambda%20Signature) by Innerfidelity
 - [Stax SR-Sigma 07381](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-Sigma%2007381) by Innerfidelity
+- [Stax SR-X Mk2](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-X%20Mk2) by Crinacle, GRAS 43AG-7
 - [Stax SR-X Mk3 Pro](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-X%20Mk3%20Pro) by Innerfidelity
 - [Stealthsonics U2](./crinacle/harman_in-ear_2019v2/Stealthsonics%20U2) by Crinacle
 - [Stealthsonics U4](./crinacle/harman_in-ear_2019v2/Stealthsonics%20U4) by Crinacle
@@ -4296,6 +4385,7 @@ from the same source.
 - [SteelSeries Arctis 5 2019 Edition](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%205%202019%20Edition) by Rtings
 - [SteelSeries Arctis 7 2019 Edition](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%207%202019%20Edition) by Rtings
 - [SteelSeries Arctis 7](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%207) by Rtings
+- [SteelSeries Arctis 7P](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%207P) by Rtings
 - [SteelSeries Arctis 9](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%209) by Rtings
 - [SteelSeries Arctis 9X](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%209X) by Rtings
 - [SteelSeries Arctis Pro GameDAC](./rtings/rtings_harman_over-ear_2018/SteelSeries%20Arctis%20Pro%20GameDAC) by Rtings
@@ -4333,6 +4423,7 @@ from the same source.
 - [Symphonium Audio Aurora](./crinacle/harman_in-ear_2019v2/Symphonium%20Audio%20Aurora) by Crinacle
 - [Symphonium Audio Mirage](./crinacle/harman_in-ear_2019v2/Symphonium%20Audio%20Mirage) by Crinacle
 - [Symphonized NRG 3.0](./rtings/rtings_harman_in-ear_2019v2/Symphonized%20NRG%203.0) by Rtings
+- [System Elements A3 Lead Solo Pro](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/System%20Elements%20A3%20Lead%20Solo%20Pro) by Reference Audio Analyzer
 - [Syun ME1 Gold](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Syun%20ME1%20Gold) by Innerfidelity
 - [Syun Mix1 Gold](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Syun%20Mix1%20Gold) by Innerfidelity
 - [T-Peos Altone 200 2014](./innerfidelity/innerfidelity_harman_in-ear_2019v2/T-Peos%20Altone%20200%202014) by Innerfidelity
@@ -4352,18 +4443,18 @@ from the same source.
 - [Tanchjim Hana](./crinacle/harman_in-ear_2019v2/Tanchjim%20Hana) by Crinacle
 - [Tanchjim Oxygen](./crinacle/harman_in-ear_2019v2/Tanchjim%20Oxygen) by Crinacle
 - [Tanchjim Oxygen](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tanchjim%20Oxygen) by Reference Audio Analyzer
-- [Tansio Mirai TSMR-12 (003 setting)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(003%20setting)) by Crinacle
-- [Tansio Mirai TSMR-12 (020 setting)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(020%20setting)) by Crinacle
-- [Tansio Mirai TSMR-12 (100 setting)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(100%20setting)) by Crinacle
-- [Tansio Mirai TSMR-12 (123 setting)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(123%20setting)) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 000](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20000) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 003](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20003) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 020](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20020) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 023](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20023) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 100](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20100) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 103](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20103) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 120](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20120) by Crinacle
-- [Tansio Mirai TSMR-3 Pro 123](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20123) by Crinacle
+- [Tansio Mirai TSMR-12 (off-off-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(off-off-on)) by Crinacle
+- [Tansio Mirai TSMR-12 (off-on-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(off-on-off)) by Crinacle
+- [Tansio Mirai TSMR-12 (on-off-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(on-off-off)) by Crinacle
+- [Tansio Mirai TSMR-12 (on-on-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(on-on-on)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (off-off-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(off-off-off)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (off-off-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(off-off-on)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (off-on-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(off-on-off)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (off-on-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(off-on-on)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (on-off-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(on-off-off)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (on-off-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(on-off-on)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (on-on-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(on-on-off)) by Crinacle
+- [Tansio Mirai TSMR-3 Pro (on-on-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-3%20Pro%20(on-on-on)) by Crinacle
 - [Tansio Mirai TSMR-4 Pro (off-off-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-4%20Pro%20(off-off-off)) by Reference Audio Analyzer
 - [Tansio Mirai TSMR-4 Pro (off-off-on)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-4%20Pro%20(off-off-on)) by Reference Audio Analyzer
 - [Tansio Mirai TSMR-4 Pro (off-on-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-4%20Pro%20(off-on-off)) by Reference Audio Analyzer
@@ -4376,10 +4467,19 @@ from the same source.
 - [Tansio Mirai TSMR-5 (off-on-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-5%20(off-on-off)) by Crinacle
 - [Tansio Mirai TSMR-5 (on-off-off)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-5%20(on-off-off)) by Crinacle
 - [Tansio Mirai TSMR-5 (on-on-on)](./crinacle/harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-5%20(on-on-on)) by Crinacle
+- [Tansio Mirai TSMR-8 Space (off-off-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(off-off-off)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (off-off-on)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(off-off-on)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (off-on-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(off-on-off)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (off-on-on)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(off-on-on)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (on-off-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(on-off-off)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (on-off-on)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(on-off-on)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (on-on-off)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(on-on-off)) by Reference Audio Analyzer
+- [Tansio Mirai TSMR-8 Space (on-on-on)](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-8%20Space%20(on-on-on)) by Reference Audio Analyzer
 - [Taobao 3 driver](./crinacle/harman_in-ear_2019v2/Taobao%203%20driver) by Crinacle
 - [Taobao 6 driver](./crinacle/harman_in-ear_2019v2/Taobao%206%20driver) by Crinacle
 - [TaoTronics SoundLiberty 79](./rtings/rtings_harman_in-ear_2019v2/TaoTronics%20SoundLiberty%2079) by Rtings
 - [TaoTronics SoundLiberty 92](./rtings/rtings_harman_in-ear_2019v2/TaoTronics%20SoundLiberty%2092) by Rtings
+- [TaoTronics SoundLiberty 95](./rtings/rtings_harman_in-ear_2019v2/TaoTronics%20SoundLiberty%2095) by Rtings
 - [TaoTronics TT-BH060](./rtings/rtings_harman_over-ear_2018/TaoTronics%20TT-BH060) by Rtings
 - [Tascam TH-02](./rtings/rtings_harman_over-ear_2018/Tascam%20TH-02) by Rtings
 - [TDK BA200](./innerfidelity/innerfidelity_harman_in-ear_2019v2/TDK%20BA200) by Innerfidelity
@@ -4396,6 +4496,7 @@ from the same source.
 - [Telefunken TH-120](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Telefunken%20TH-120) by Reference Audio Analyzer
 - [Telefunken TH-130](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Telefunken%20TH-130) by Reference Audio Analyzer
 - [Telefunken TH-140](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Telefunken%20TH-140) by Reference Audio Analyzer
+- [Teufel Real Z](./oratory1990/harman_over-ear_2018/Teufel%20Real%20Z) by oratory1990
 - [TFZ 1S](./crinacle/harman_in-ear_2019v2/TFZ%201S) by Crinacle
 - [TFZ 1S](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%201S) by Reference Audio Analyzer
 - [TFZ 2S](./crinacle/harman_in-ear_2019v2/TFZ%202S) by Crinacle
@@ -4407,6 +4508,7 @@ from the same source.
 - [TFZ Exclusive 1](./crinacle/harman_in-ear_2019v2/TFZ%20Exclusive%201) by Crinacle
 - [TFZ Exclusive 3](./crinacle/harman_in-ear_2019v2/TFZ%20Exclusive%203) by Crinacle
 - [TFZ Exclusive 5](./crinacle/harman_in-ear_2019v2/TFZ%20Exclusive%205) by Crinacle
+- [TFZ King II](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20King%20II) by Reference Audio Analyzer
 - [TFZ King Pro](./crinacle/harman_in-ear_2019v2/TFZ%20King%20Pro) by Crinacle
 - [TFZ Mylove 2](./crinacle/harman_in-ear_2019v2/TFZ%20Mylove%202) by Crinacle
 - [TFZ No.3](./crinacle/harman_in-ear_2019v2/TFZ%20No.3) by Crinacle
@@ -4418,7 +4520,9 @@ from the same source.
 - [TFZ Series 3S](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20Series%203S) by Reference Audio Analyzer
 - [TFZ Series 4](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20Series%204) by Reference Audio Analyzer
 - [TFZ Series 5S](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20Series%205S) by Reference Audio Analyzer
+- [TFZ Series 7](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20Series%207) by Reference Audio Analyzer
 - [TFZ T2 Galaxy](./oratory1990/harman_in-ear_2019v2/TFZ%20T2%20Galaxy) by oratory1990
+- [TFZ T2 Galaxy](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20T2%20Galaxy) by Reference Audio Analyzer
 - [TFZ Tequila 1](./crinacle/harman_in-ear_2019v2/TFZ%20Tequila%201) by Crinacle
 - [TFZ Ti Galaxy](./crinacle/harman_in-ear_2019v2/TFZ%20Ti%20Galaxy) by Crinacle
 - [TFZ X1](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TFZ%20X1) by Reference Audio Analyzer
@@ -4512,6 +4616,7 @@ from the same source.
 - [TREBLAB Z2](./rtings/rtings_harman_over-ear_2018/TREBLAB%20Z2) by Rtings
 - [TRI i3](./crinacle/harman_in-ear_2019v2/TRI%20i3) by Crinacle
 - [Trinity Audio ICARUS III](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/Trinity%20Audio%20ICARUS%20III) by Reference Audio Analyzer
+- [Tripowin TC-01](./crinacle/harman_in-ear_2019v2/Tripowin%20TC-01) by Crinacle
 - [Tripowin TP10](./crinacle/harman_in-ear_2019v2/Tripowin%20TP10) by Crinacle
 - [TRN BA5](./crinacle/harman_in-ear_2019v2/TRN%20BA5) by Crinacle
 - [Turtle Beach Battle Buds](./rtings/rtings_harman_in-ear_2019v2/Turtle%20Beach%20Battle%20Buds) by Rtings
@@ -4525,7 +4630,9 @@ from the same source.
 - [Turtle Beach Stealth 300](./rtings/rtings_harman_over-ear_2018/Turtle%20Beach%20Stealth%20300) by Rtings
 - [Turtle Beach Stealth 600 Gen 2](./rtings/rtings_harman_over-ear_2018/Turtle%20Beach%20Stealth%20600%20Gen%202) by Rtings
 - [Turtle Beach Stealth 600](./rtings/rtings_harman_over-ear_2018/Turtle%20Beach%20Stealth%20600) by Rtings
+- [Turtle Beach Stealth 700 Gen 2](./rtings/rtings_harman_over-ear_2018/Turtle%20Beach%20Stealth%20700%20Gen%202) by Rtings
 - [Turtle Beach Stealth 700](./rtings/rtings_harman_over-ear_2018/Turtle%20Beach%20Stealth%20700) by Rtings
+- [TY Hi-Z G3](./referenceaudioanalyzer/referenceaudioanalyzer_siec_harman_in-ear_2019v2/TY%20Hi-Z%20G3) by Reference Audio Analyzer
 - [UBSound Fighter](./innerfidelity/innerfidelity_harman_in-ear_2019v2/UBSound%20Fighter) by Innerfidelity
 - [Ultimate Ears Live (sample 2)](./crinacle/harman_in-ear_2019v2/Ultimate%20Ears%20Live%20(sample%202)) by Crinacle
 - [Ultimate Ears Reference Monitors](./crinacle/harman_in-ear_2019v2/Ultimate%20Ears%20Reference%20Monitors) by Crinacle

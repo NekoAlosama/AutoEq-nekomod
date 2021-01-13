@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-11.70 dB**.
 
 | Type    | Fc        |      Q | Gain     |
 |:--------|:----------|:-------|:---------|
-| Peaking | 21.5 Hz   | 1.4656 | 10.27 dB |
-| Peaking | 106.1 Hz  | 0.1074 | -4.33 dB |
-| Peaking | 3081.8 Hz | 1.8516 | 4.33 dB  |
-| Peaking | 6203.5 Hz | 2.0273 | 10.69 dB |
-| Peaking | 9771.3 Hz | 2.5068 | 4.68 dB  |
-| Peaking | 180.1 Hz  | 1.3675 | -2.69 dB |
-| Peaking | 318.2 Hz  | 2.3334 | 4.96 dB  |
-| Peaking | 1449.5 Hz | 1.0297 | -1.80 dB |
-| Peaking | 2187.9 Hz | 1.6561 | 2.25 dB  |
-| Peaking | 2746.9 Hz | 5.4362 | -1.62 dB |
+| Peaking | 21.2 Hz   | 1.4754 | 10.40 dB |
+| Peaking | 109.3 Hz  | 0.1027 | -4.34 dB |
+| Peaking | 3097.6 Hz | 1.84   | 4.33 dB  |
+| Peaking | 6175.7 Hz | 2.0346 | 10.69 dB |
+| Peaking | 9772.8 Hz | 2.5126 | 4.69 dB  |
+| Peaking | 180.8 Hz  | 1.3496 | -2.69 dB |
+| Peaking | 318.3 Hz  | 2.289  | 5.01 dB  |
+| Peaking | 1463.7 Hz | 1.1634 | -1.63 dB |
+| Peaking | 2152.0 Hz | 1.813  | 2.17 dB  |
+| Peaking | 2769.3 Hz | 5.6886 | -1.41 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.69dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.83dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 3.24 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -3.75 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -5.41 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -1.86 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.53 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -3.38 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 0.64 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 5.22 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 8.93 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -4.41 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 3.20 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -3.69 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -5.47 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -1.84 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -1.46 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -3.44 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.76 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 4.99 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 9.10 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -4.44 dB |
 
 ### Graphs
 ![](./Audio-Technica%20ATH-PRO700.png)

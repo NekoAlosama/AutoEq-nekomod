@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-12.85dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.93dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-12.86 dB**.
+When using independent subset of filters, apply preamp of **-12.94 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 21.3 Hz    | 0.7822 | 12.04 dB  |
-| Peaking | 55.3 Hz    | 1.2441 | 5.09 dB   |
-| Peaking | 3605.6 Hz  | 0.9269 | 9.39 dB   |
-| Peaking | 5363.9 Hz  | 1.364  | -11.55 dB |
-| Peaking | 19683.7 Hz | 0.4264 | -10.59 dB |
-| Peaking | 295.0 Hz   | 0.9166 | -2.16 dB  |
-| Peaking | 1801.0 Hz  | 2.5649 | 1.80 dB   |
-| Peaking | 3140.7 Hz  | 1.6005 | -1.50 dB  |
-| Peaking | 3637.6 Hz  | 4.8605 | 2.30 dB   |
-| Peaking | 8196.3 Hz  | 7.683  | -1.29 dB  |
+| Peaking | 21.5 Hz    | 0.7853 | 12.10 dB  |
+| Peaking | 54.9 Hz    | 1.2418 | 5.08 dB   |
+| Peaking | 3633.5 Hz  | 0.9272 | 9.77 dB   |
+| Peaking | 5344.3 Hz  | 1.3447 | -11.93 dB |
+| Peaking | 19727.2 Hz | 0.4084 | -10.65 dB |
+| Peaking | 295.7 Hz   | 0.901  | -2.15 dB  |
+| Peaking | 1763.7 Hz  | 2.6644 | 1.72 dB   |
+| Peaking | 3018.4 Hz  | 1.9553 | -1.43 dB  |
+| Peaking | 3699.4 Hz  | 5.0273 | 1.92 dB   |
+| Peaking | 8189.7 Hz  | 8.1261 | -1.25 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.75dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.77dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 12.89 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 4.51 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 0.86 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | -2.50 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.59 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.70 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 4.89 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.06 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -5.20 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -7.71 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 12.90 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 4.56 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 0.83 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -2.46 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -0.62 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.68 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 4.86 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.09 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -5.17 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -7.69 dB |
 
 ### Graphs
 ![](./Sennheiser%20HD%20800.png)

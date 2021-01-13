@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-8.95 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 21.0 Hz    | 0.6381 | 6.48 dB  |
-| Peaking | 50.6 Hz    | 0.8731 | 3.73 dB  |
-| Peaking | 342.3 Hz   | 0.6545 | -6.30 dB |
-| Peaking | 3278.2 Hz  | 2.3336 | 5.53 dB  |
-| Peaking | 4915.0 Hz  | 1.5109 | 7.67 dB  |
-| Peaking | 628.7 Hz   | 1.8636 | -4.87 dB |
-| Peaking | 768.3 Hz   | 0.9299 | 3.56 dB  |
-| Peaking | 2453.6 Hz  | 4.4989 | -1.27 dB |
-| Peaking | 8132.5 Hz  | 6.5369 | -2.81 dB |
-| Peaking | 11494.8 Hz | 3.1171 | 3.45 dB  |
+| Peaking | 21.0 Hz    | 0.636  | 6.49 dB  |
+| Peaking | 50.4 Hz    | 0.8709 | 3.72 dB  |
+| Peaking | 342.3 Hz   | 0.6563 | -6.30 dB |
+| Peaking | 3282.0 Hz  | 2.322  | 5.57 dB  |
+| Peaking | 4922.2 Hz  | 1.5194 | 7.65 dB  |
+| Peaking | 624.7 Hz   | 1.9762 | -4.38 dB |
+| Peaking | 794.1 Hz   | 0.9231 | 3.10 dB  |
+| Peaking | 2462.5 Hz  | 4.3445 | -1.24 dB |
+| Peaking | 8299.7 Hz  | 5.8754 | -2.66 dB |
+| Peaking | 11495.1 Hz | 3.0683 | 3.45 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.16dB**
@@ -25,16 +25,16 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 8.40 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 3.58 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -0.88 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.25 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -6.12 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 8.27 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 3.61 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -0.85 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -4.28 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -6.13 dB |
 | Peaking | 1000.0 Hz  | 1.4142 | 1.20 dB  |
 | Peaking | 2000.0 Hz  | 1.4142 | -0.62 dB |
 | Peaking | 4000.0 Hz  | 1.4142 | 9.90 dB  |
 | Peaking | 8000.0 Hz  | 1.4142 | 1.54 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -3.94 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -3.93 dB |
 
 ### Graphs
 ![](./Logitech%20UE%20900.png)

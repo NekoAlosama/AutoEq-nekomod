@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-8.39 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 238.6 Hz   | 2.1158 | -4.23 dB |
-| Peaking | 448.8 Hz   | 1.2879 | -2.77 dB |
-| Peaking | 2116.6 Hz  | 2.2243 | 3.27 dB  |
-| Peaking | 4048.2 Hz  | 4.0617 | 5.01 dB  |
+| Peaking | 238.5 Hz   | 2.1159 | -4.23 dB |
+| Peaking | 449.0 Hz   | 1.2873 | -2.77 dB |
+| Peaking | 2116.6 Hz  | 2.2237 | 3.27 dB  |
+| Peaking | 4048.4 Hz  | 4.0647 | 5.01 dB  |
 | Peaking | 13645.2 Hz | 0.7325 | 8.17 dB  |
-| Peaking | 25.6 Hz    | 0.5906 | 1.85 dB  |
-| Peaking | 67.5 Hz    | 1.621  | 2.36 dB  |
-| Peaking | 4778.3 Hz  | 4.1063 | 3.04 dB  |
-| Peaking | 5965.2 Hz  | 2.984  | -5.75 dB |
-| Peaking | 9440.9 Hz  | 2.6132 | 2.56 dB  |
+| Peaking | 25.3 Hz    | 0.6005 | 1.88 dB  |
+| Peaking | 68.6 Hz    | 1.6241 | 2.37 dB  |
+| Peaking | 4760.8 Hz  | 3.9956 | 3.02 dB  |
+| Peaking | 5954.0 Hz  | 2.9941 | -5.79 dB |
+| Peaking | 9442.0 Hz  | 2.6232 | 2.56 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.27dB**
@@ -25,13 +25,13 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 1.71 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 2.69 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 0.30 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 1.75 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 2.75 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 0.32 dB  |
 | Peaking | 250.0 Hz   | 1.4142 | -4.75 dB |
 | Peaking | 500.0 Hz   | 1.4142 | -1.68 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -1.01 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.64 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -1.00 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 2.65 dB  |
 | Peaking | 4000.0 Hz  | 1.4142 | 2.63 dB  |
 | Peaking | 8000.0 Hz  | 1.4142 | 2.51 dB  |
 | Peaking | 16000.0 Hz | 1.4142 | 9.92 dB  |

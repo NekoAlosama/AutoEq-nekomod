@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-12.22dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.23dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-12.12 dB**.
+When using independent subset of filters, apply preamp of **-12.11 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 27.8 Hz    | 0.2895 | 7.63 dB  |
-| Peaking | 251.2 Hz   | 0.4423 | -5.60 dB |
-| Peaking | 2834.9 Hz  | 6.2737 | -6.02 dB |
-| Peaking | 4689.9 Hz  | 1.9043 | 11.82 dB |
-| Peaking | 11288.3 Hz | 2.1122 | 8.48 dB  |
-| Peaking | 1895.3 Hz  | 4.2797 | 2.14 dB  |
-| Peaking | 5905.6 Hz  | 4.2586 | 3.85 dB  |
-| Peaking | 7615.7 Hz  | 2.5109 | -6.49 dB |
-| Peaking | 8680.4 Hz  | 3.5365 | 2.12 dB  |
-| Peaking | 9514.3 Hz  | 4.38   | 3.08 dB  |
+| Peaking | 27.9 Hz    | 0.2884 | 7.63 dB  |
+| Peaking | 251.5 Hz   | 0.4428 | -5.60 dB |
+| Peaking | 2835.2 Hz  | 6.2379 | -6.00 dB |
+| Peaking | 4689.5 Hz  | 1.9032 | 11.82 dB |
+| Peaking | 11288.6 Hz | 2.1124 | 8.48 dB  |
+| Peaking | 1895.3 Hz  | 4.2118 | 2.11 dB  |
+| Peaking | 5907.9 Hz  | 4.2172 | 3.79 dB  |
+| Peaking | 7596.7 Hz  | 2.5485 | -6.42 dB |
+| Peaking | 8726.9 Hz  | 3.4234 | 1.94 dB  |
+| Peaking | 9492.2 Hz  | 4.2185 | 2.96 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.00dB**
@@ -27,14 +27,14 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 |:--------|:-----------|:-------|:---------|
 | Peaking | 31.3 Hz    | 1.4142 | 8.10 dB  |
 | Peaking | 62.5 Hz    | 1.4142 | 3.60 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -0.93 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.53 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -3.05 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.83 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.48 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 7.92 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 4.16 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 1.25 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -0.96 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -4.52 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.03 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.87 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.41 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 7.91 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 4.12 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 1.27 dB  |
 
 ### Graphs
 ![](./Astrotec%20AM90.png)

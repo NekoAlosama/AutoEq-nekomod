@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-7.88 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 28.6 Hz    | 0.3998 | 3.34 dB  |
-| Peaking | 189.2 Hz   | 0.6144 | -3.98 dB |
-| Peaking | 852.5 Hz   | 1.0793 | 3.07 dB  |
-| Peaking | 1993.1 Hz  | 2.8859 | 3.53 dB  |
-| Peaking | 13156.0 Hz | 1.4007 | 7.68 dB  |
-| Peaking | 4127.1 Hz  | 4.1939 | 1.93 dB  |
-| Peaking | 5552.4 Hz  | 2.57   | -3.43 dB |
-| Peaking | 6891.4 Hz  | 2.9749 | 1.90 dB  |
-| Peaking | 8133.9 Hz  | 3.0987 | -3.18 dB |
-| Peaking | 10154.4 Hz | 3.074  | 2.38 dB  |
+| Peaking | 28.6 Hz    | 0.3976 | 3.33 dB  |
+| Peaking | 189.1 Hz   | 0.6158 | -3.98 dB |
+| Peaking | 852.0 Hz   | 1.0795 | 3.07 dB  |
+| Peaking | 1992.5 Hz  | 2.8874 | 3.53 dB  |
+| Peaking | 13155.8 Hz | 1.4006 | 7.68 dB  |
+| Peaking | 4128.6 Hz  | 4.1968 | 1.92 dB  |
+| Peaking | 5544.1 Hz  | 2.5811 | -3.43 dB |
+| Peaking | 6869.4 Hz  | 2.9652 | 1.88 dB  |
+| Peaking | 8134.9 Hz  | 3.1081 | -3.17 dB |
+| Peaking | 10166.7 Hz | 3.0761 | 2.37 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.21dB**
@@ -25,12 +25,12 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 3.62 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 1.22 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -2.22 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.51 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 3.58 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 1.23 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -2.20 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.50 dB |
 | Peaking | 500.0 Hz   | 1.4142 | 0.52 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 2.26 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 2.25 dB  |
 | Peaking | 2000.0 Hz  | 1.4142 | 2.90 dB  |
 | Peaking | 4000.0 Hz  | 1.4142 | -0.89 dB |
 | Peaking | 8000.0 Hz  | 1.4142 | 0.81 dB  |
