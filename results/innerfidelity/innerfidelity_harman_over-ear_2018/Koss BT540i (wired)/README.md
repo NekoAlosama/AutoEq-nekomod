@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.49dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.53 dB**.
+When using independent subset of filters, apply preamp of **-7.0 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 20.7 Hz    | 1.484  | 6.27 dB   |
-| Peaking | 171.5 Hz   | 0.625  | -7.23 dB  |
-| Peaking | 3276.3 Hz  | 0.5561 | -22.23 dB |
-| Peaking | 4917.3 Hz  | 0.3881 | 36.44 dB  |
-| Peaking | 11468.0 Hz | 0.2305 | -15.84 dB |
-| Peaking | 266.0 Hz   | 2.5883 | -1.50 dB  |
-| Peaking | 527.3 Hz   | 1.5443 | 2.35 dB   |
-| Peaking | 928.2 Hz   | 1.1398 | -2.07 dB  |
-| Peaking | 2107.6 Hz  | 2.1205 | 1.54 dB   |
-| Peaking | 2773.6 Hz  | 3.0346 | -1.24 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 21 Hz    | 1.82 | 4.7 dB  |
+| Peaking | 88 Hz    | 0.83 | -5.1 dB |
+| Peaking | 199 Hz   | 2.05 | -5.1 dB |
+| Peaking | 3055 Hz  | 3.43 | -6.6 dB |
+| Peaking | 5222 Hz  | 1.75 | 7.2 dB  |
+| Peaking | 299 Hz   | 1.79 | -2.6 dB |
+| Peaking | 531 Hz   | 1.08 | 4.4 dB  |
+| Peaking | 1474 Hz  | 1.83 | 1.4 dB  |
+| Peaking | 7260 Hz  | 1.76 | 3.5 dB  |
+| Peaking | 15028 Hz | 0.28 | -3.9 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.82dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 4.28 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -2.68 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -4.16 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -5.45 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 4.31 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 2.10 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -2.26 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 2.86 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 2.55 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -6.46 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 2.2 dB  |
+| Peaking | 62 Hz    | 1.41 | -4.0 dB |
+| Peaking | 125 Hz   | 1.41 | -4.5 dB |
+| Peaking | 250 Hz   | 1.41 | -5.3 dB |
+| Peaking | 500 Hz   | 1.41 | 4.4 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.1 dB  |
+| Peaking | 2000 Hz  | 1.41 | -1.8 dB |
+| Peaking | 4000 Hz  | 1.41 | 1.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | 3.0 dB  |
+| Peaking | 16000 Hz | 1.41 | -6.0 dB |
 
 ### Graphs
 ![](./Koss%20BT540i%20(wired).png)

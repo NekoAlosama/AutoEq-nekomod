@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.39dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.70 dB**.
+When using independent subset of filters, apply preamp of **-5.0 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 40.9 Hz    | 1.4888 | 3.49 dB   |
-| Peaking | 296.4 Hz   | 0.6877 | 4.49 dB   |
-| Peaking | 410.4 Hz   | 0.073  | -2.56 dB  |
-| Peaking | 7343.4 Hz  | 1.785  | 9.68 dB   |
-| Peaking | 19324.0 Hz | 0.3103 | -14.93 dB |
-| Peaking | 2459.0 Hz  | 4.6716 | 2.42 dB   |
-| Peaking | 4901.0 Hz  | 5.0095 | -3.02 dB  |
-| Peaking | 6076.2 Hz  | 3.6907 | 2.65 dB   |
-| Peaking | 9230.9 Hz  | 0.8968 | -1.96 dB  |
-| Peaking | 10037.5 Hz | 2.7612 | 3.32 dB   |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 22 Hz    | 1.8  | -1.7 dB  |
+| Peaking | 82 Hz    | 2.08 | -3.3 dB  |
+| Peaking | 1430 Hz  | 1.26 | -2.6 dB  |
+| Peaking | 7874 Hz  | 1.74 | 6.9 dB   |
+| Peaking | 19457 Hz | 0.39 | -16.9 dB |
+| Peaking | 199 Hz   | 2.94 | 1.2 dB   |
+| Peaking | 340 Hz   | 2.16 | 2.3 dB   |
+| Peaking | 4917 Hz  | 3.05 | -3.9 dB  |
+| Peaking | 6709 Hz  | 1.99 | 3.2 dB   |
+| Peaking | 7669 Hz  | 4.61 | -3.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.88dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | 1.55 dB   |
-| Peaking | 62.5 Hz    | 1.4142 | -0.41 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.36 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | 2.23 dB   |
-| Peaking | 500.0 Hz   | 1.4142 | 0.73 dB   |
-| Peaking | 1000.0 Hz  | 1.4142 | -2.39 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -0.91 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | -1.82 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.41 dB   |
-| Peaking | 16000.0 Hz | 1.4142 | -17.84 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | -0.5 dB  |
+| Peaking | 62 Hz    | 1.41 | -1.7 dB  |
+| Peaking | 125 Hz   | 1.41 | -1.7 dB  |
+| Peaking | 250 Hz   | 1.41 | 2.4 dB   |
+| Peaking | 500 Hz   | 1.41 | 0.8 dB   |
+| Peaking | 1000 Hz  | 1.41 | -2.3 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.8 dB  |
+| Peaking | 4000 Hz  | 1.41 | -1.9 dB  |
+| Peaking | 8000 Hz  | 1.41 | 5.8 dB   |
+| Peaking | 16000 Hz | 1.41 | -16.6 dB |
 
 ### Graphs
 ![](./Audeze%20EL8%20Closed.png)

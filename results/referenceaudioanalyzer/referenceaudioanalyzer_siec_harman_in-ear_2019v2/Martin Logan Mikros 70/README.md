@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.91dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.86 dB**.
+When using independent subset of filters, apply preamp of **-6.9 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 13.1 Hz    | 0.4459 | 5.20 dB   |
-| Peaking | 210.9 Hz   | 0.48   | -5.99 dB  |
-| Peaking | 4708.2 Hz  | 0.61   | 12.08 dB  |
-| Peaking | 8054.2 Hz  | 1.1805 | -14.98 dB |
-| Peaking | 13312.4 Hz | 0.903  | 11.96 dB  |
-| Peaking | 3934.7 Hz  | 3.9826 | -1.03 dB  |
-| Peaking | 4665.1 Hz  | 3.6394 | 0.94 dB   |
-| Peaking | 9585.4 Hz  | 4.2865 | -0.52 dB  |
-| Peaking | 16844.4 Hz | 2.3031 | 1.23 dB   |
-| Peaking | 19917.1 Hz | 1.4532 | -3.00 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 18 Hz    | 1.25 | 2.4 dB  |
+| Peaking | 108 Hz   | 0.54 | -4.3 dB |
+| Peaking | 289 Hz   | 0.79 | -3.9 dB |
+| Peaking | 3115 Hz  | 0.77 | 6.5 dB  |
+| Peaking | 18013 Hz | 0.47 | 6.7 dB  |
+| Peaking | 3257 Hz  | 3.7  | -0.8 dB |
+| Peaking | 5539 Hz  | 2.46 | 3.9 dB  |
+| Peaking | 7429 Hz  | 1.96 | -5.4 dB |
+| Peaking | 10931 Hz | 1.48 | 2.0 dB  |
+| Peaking | 20333 Hz | 3.26 | 1.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.25dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 3.62 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -0.87 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.84 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -5.29 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -2.27 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.50 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.52 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 10.03 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | -3.56 dB |
-| Peaking | 16000.0 Hz | 1.4142 | 12.12 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.5 dB  |
+| Peaking | 62 Hz    | 1.41 | -2.8 dB |
+| Peaking | 125 Hz   | 1.41 | -4.4 dB |
+| Peaking | 250 Hz   | 1.41 | -5.0 dB |
+| Peaking | 500 Hz   | 1.41 | -2.1 dB |
+| Peaking | 1000 Hz  | 1.41 | 0.5 dB  |
+| Peaking | 2000 Hz  | 1.41 | 3.5 dB  |
+| Peaking | 4000 Hz  | 1.41 | 6.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | -0.7 dB |
+| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
 
 ### Graphs
 ![](./Martin%20Logan%20Mikros%2070.png)

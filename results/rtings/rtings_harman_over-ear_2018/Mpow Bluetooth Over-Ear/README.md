@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.98dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.1dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.86 dB**.
+When using independent subset of filters, apply preamp of **-6.6 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 257.8 Hz   | 0.3009 | -9.72 dB |
-| Peaking | 647.4 Hz   | 0.777  | 11.36 dB |
-| Peaking | 6516.2 Hz  | 4.2859 | 7.32 dB  |
-| Peaking | 9095.3 Hz  | 1.6652 | 15.12 dB |
-| Peaking | 13759.3 Hz | 0.4008 | -8.34 dB |
-| Peaking | 28.9 Hz    | 2.1873 | -1.39 dB |
-| Peaking | 590.8 Hz   | 6.4456 | -0.66 dB |
-| Peaking | 3466.3 Hz  | 3.499  | -3.23 dB |
-| Peaking | 4679.0 Hz  | 2.5002 | 4.25 dB  |
-| Peaking | 5412.3 Hz  | 6.0401 | -4.49 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 48 Hz    | 0.27 | -4.2 dB |
+| Peaking | 218 Hz   | 0.65 | -6.6 dB |
+| Peaking | 678 Hz   | 1.07 | 6.8 dB  |
+| Peaking | 7106 Hz  | 3.22 | 4.9 dB  |
+| Peaking | 8870 Hz  | 3.16 | 5.1 dB  |
+| Peaking | 316 Hz   | 5.04 | -0.4 dB |
+| Peaking | 2214 Hz  | 3.01 | 1.3 dB  |
+| Peaking | 3350 Hz  | 2.23 | -2.7 dB |
+| Peaking | 4577 Hz  | 5.02 | 3.9 dB  |
+| Peaking | 19138 Hz | 0.67 | -9.6 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.26dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -2.24 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -2.07 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -5.47 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -7.85 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 3.37 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 3.44 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -0.27 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -1.56 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 9.84 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -9.79 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -4.3 dB |
+| Peaking | 62 Hz    | 1.41 | -3.4 dB |
+| Peaking | 125 Hz   | 1.41 | -5.8 dB |
+| Peaking | 250 Hz   | 1.41 | -7.6 dB |
+| Peaking | 500 Hz   | 1.41 | 3.4 dB  |
+| Peaking | 1000 Hz  | 1.41 | 3.5 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.2 dB |
+| Peaking | 4000 Hz  | 1.41 | -1.1 dB |
+| Peaking | 8000 Hz  | 1.41 | 7.2 dB  |
+| Peaking | 16000 Hz | 1.41 | -7.0 dB |
 
 ### Graphs
 ![](./Mpow%20Bluetooth%20Over-Ear.png)

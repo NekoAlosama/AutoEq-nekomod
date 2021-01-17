@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.71dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.33 dB**.
+When using independent subset of filters, apply preamp of **-7.0 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 17.2 Hz    | 0.5154 | 8.69 dB  |
-| Peaking | 201.1 Hz   | 0.5374 | -6.54 dB |
-| Peaking | 1812.7 Hz  | 0.5957 | 2.71 dB  |
-| Peaking | 6961.5 Hz  | 1.6017 | 7.56 dB  |
-| Peaking | 22050.0 Hz | 2.5381 | 4.74 dB  |
-| Peaking | 4640.7 Hz  | 3.8346 | -5.22 dB |
-| Peaking | 5480.7 Hz  | 1.0211 | 3.08 dB  |
-| Peaking | 7907.2 Hz  | 4.2035 | -4.34 dB |
-| Peaking | 9448.1 Hz  | 3.0858 | 4.90 dB  |
-| Peaking | 18171.7 Hz | 0.2411 | -2.90 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 17 Hz    | 0.67 | 6.1 dB  |
+| Peaking | 121 Hz   | 0.58 | -4.7 dB |
+| Peaking | 279 Hz   | 1.01 | -3.9 dB |
+| Peaking | 2083 Hz  | 0.67 | 2.9 dB  |
+| Peaking | 7533 Hz  | 1.42 | 6.4 dB  |
+| Peaking | 691 Hz   | 4.42 | 0.8 dB  |
+| Peaking | 3599 Hz  | 3.84 | 1.9 dB  |
+| Peaking | 4528 Hz  | 3.22 | -2.9 dB |
+| Peaking | 5653 Hz  | 4.65 | 2.4 dB  |
+| Peaking | 19359 Hz | 0.71 | -4.9 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.74dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.2dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 7.58 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -0.30 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.81 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -6.03 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.24 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.81 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.69 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.28 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 7.48 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -3.99 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 4.6 dB  |
+| Peaking | 62 Hz    | 1.41 | -2.3 dB |
+| Peaking | 125 Hz   | 1.41 | -4.4 dB |
+| Peaking | 250 Hz   | 1.41 | -5.8 dB |
+| Peaking | 500 Hz   | 1.41 | -1.1 dB |
+| Peaking | 1000 Hz  | 1.41 | 0.9 dB  |
+| Peaking | 2000 Hz  | 1.41 | 2.9 dB  |
+| Peaking | 4000 Hz  | 1.41 | 1.3 dB  |
+| Peaking | 8000 Hz  | 1.41 | 6.8 dB  |
+| Peaking | 16000 Hz | 1.41 | -3.0 dB |
 
 ### Graphs
 ![](./1MORE%20Quad%20Driver.png)

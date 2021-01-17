@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.87dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.75 dB**.
+When using independent subset of filters, apply preamp of **-7.1 dB**.
 
-| Type    | Fc        |      Q | Gain      |
-|:--------|:----------|:-------|:----------|
-| Peaking | 15.3 Hz   | 0.8433 | -2.75 dB  |
-| Peaking | 107.8 Hz  | 0.8159 | -3.14 dB  |
-| Peaking | 229.0 Hz  | 1.7653 | -2.35 dB  |
-| Peaking | 4788.5 Hz | 1.4674 | 6.92 dB   |
-| Peaking | 7315.3 Hz | 5.7382 | -10.29 dB |
-| Peaking | 789.5 Hz  | 1.9645 | 1.71 dB   |
-| Peaking | 2029.2 Hz | 3.2996 | 1.29 dB   |
-| Peaking | 2588.8 Hz | 3.3692 | -3.86 dB  |
-| Peaking | 3516.0 Hz | 4.4506 | 2.07 dB   |
-| Peaking | 9295.9 Hz | 4.6867 | 1.86 dB   |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 16 Hz   | 0.92 | -4.7 dB |
+| Peaking | 106 Hz  | 0.3  | -4.6 dB |
+| Peaking | 766 Hz  | 0.69 | 3.0 dB  |
+| Peaking | 4501 Hz | 1.51 | 8.7 dB  |
+| Peaking | 9490 Hz | 0.09 | -2.0 dB |
+| Peaking | 1984 Hz | 2.56 | 3.8 dB  |
+| Peaking | 2886 Hz | 1.08 | -5.2 dB |
+| Peaking | 3321 Hz | 3.04 | 5.3 dB  |
+| Peaking | 6438 Hz | 1.9  | 3.3 dB  |
+| Peaking | 6805 Hz | 5.63 | -5.0 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.22dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.3dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -1.44 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -1.29 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.09 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.95 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 0.67 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.58 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.96 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 6.65 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -2.30 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -1.90 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -4.5 dB |
+| Peaking | 62 Hz    | 1.41 | -3.3 dB |
+| Peaking | 125 Hz   | 1.41 | -3.7 dB |
+| Peaking | 250 Hz   | 1.41 | -2.7 dB |
+| Peaking | 500 Hz   | 1.41 | 0.8 dB  |
+| Peaking | 1000 Hz  | 1.41 | 1.7 dB  |
+| Peaking | 2000 Hz  | 1.41 | -1.8 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.6 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.1 dB |
+| Peaking | 16000 Hz | 1.41 | -2.7 dB |
 
 ### Graphs
 ![](./JBL%20Reflect%20Mini%202.png)

@@ -2,39 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-19.30dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-19.30 dB**.
+In case of using parametric equalizer, apply preamp of **-6.3dB** and build filters manually
+with these parameters. The first 4 filters can be used independently.
+When using independent subset of filters, apply preamp of **-4.5 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 12.0 Hz    | 0.9186 | 18.81 dB  |
-| Peaking | 27.5 Hz    | 0.4139 | 10.39 dB  |
-| Peaking | 94.8 Hz    | 0.5943 | 3.37 dB   |
-| Peaking | 3118.3 Hz  | 0.6051 | -10.93 dB |
-| Peaking | 4735.8 Hz  | 0.8686 | 10.34 dB  |
-| Peaking | 621.2 Hz   | 2.233  | -2.43 dB  |
-| Peaking | 1376.2 Hz  | 2.678  | 1.77 dB   |
-| Peaking | 5752.8 Hz  | 4.284  | -4.60 dB  |
-| Peaking | 6960.7 Hz  | 1.6924 | 4.87 dB   |
-| Peaking | 14682.6 Hz | 0.5786 | -3.85 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 114 Hz   | 0.36 | 4.4 dB  |
+| Peaking | 609 Hz   | 1.1  | -3.6 dB |
+| Peaking | 2518 Hz  | 1.44 | -7.6 dB |
+| Peaking | 5608 Hz  | 1.1  | 3.7 dB  |
+| Peaking | 21 Hz    | 0.48 | 4.9 dB  |
+| Peaking | 83 Hz    | 1.4  | 0.8 dB  |
+| Peaking | 264 Hz   | 5.32 | 0.8 dB  |
+| Peaking | 7252 Hz  | 4.57 | 2.4 dB  |
+| Peaking | 18921 Hz | 0.34 | -3.6 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.90dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.5dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 19.45 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 5.75 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 3.67 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | 2.75 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | -2.71 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.28 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -6.30 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.05 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 3.49 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -5.31 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.2 dB  |
+| Peaking | 62 Hz    | 1.41 | 4.6 dB  |
+| Peaking | 125 Hz   | 1.41 | 4.2 dB  |
+| Peaking | 250 Hz   | 1.41 | 3.0 dB  |
+| Peaking | 500 Hz   | 1.41 | -2.6 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.2 dB |
+| Peaking | 2000 Hz  | 1.41 | -6.2 dB |
+| Peaking | 4000 Hz  | 1.41 | 0.1 dB  |
+| Peaking | 8000 Hz  | 1.41 | 3.2 dB  |
+| Peaking | 16000 Hz | 1.41 | -4.3 dB |
 
 ### Graphs
 ![](./Shure%20SRH750DJ.png)

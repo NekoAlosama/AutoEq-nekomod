@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-13.28dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.36 dB**.
+When using independent subset of filters, apply preamp of **-7.3 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 99.3 Hz    | 0.6632 | -5.75 dB |
-| Peaking | 191.0 Hz   | 1.5247 | -5.20 dB |
-| Peaking | 1480.2 Hz  | 1.2953 | 14.61 dB |
-| Peaking | 3724.2 Hz  | 1.1632 | -9.76 dB |
-| Peaking | 3729.3 Hz  | 5.2824 | 12.91 dB |
-| Peaking | 431.0 Hz   | 4.2673 | 4.76 dB  |
-| Peaking | 591.7 Hz   | 3.3384 | -3.59 dB |
-| Peaking | 6780.0 Hz  | 5.6967 | 6.29 dB  |
-| Peaking | 7083.5 Hz  | 1.5462 | -3.58 dB |
-| Peaking | 10804.2 Hz | 1.6029 | 3.10 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 76 Hz    | 0.34 | -3.0 dB |
+| Peaking | 257 Hz   | 0.27 | -6.6 dB |
+| Peaking | 407 Hz   | 2.2  | 8.5 dB  |
+| Peaking | 1208 Hz  | 0.87 | 9.6 dB  |
+| Peaking | 4868 Hz  | 2.2  | -6.0 dB |
+| Peaking | 1305 Hz  | 4.82 | -1.4 dB |
+| Peaking | 2074 Hz  | 2.8  | 3.7 dB  |
+| Peaking | 2899 Hz  | 2.55 | -5.4 dB |
+| Peaking | 3653 Hz  | 4.97 | 3.8 dB  |
+| Peaking | 10548 Hz | 3.02 | 1.8 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.55dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -0.52 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -3.06 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -7.39 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.26 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 0.02 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 7.24 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 7.44 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | -4.36 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | -0.36 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -1.23 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -2.5 dB |
+| Peaking | 62 Hz    | 1.41 | -4.4 dB |
+| Peaking | 125 Hz   | 1.41 | -7.7 dB |
+| Peaking | 250 Hz   | 1.41 | -4.2 dB |
+| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
+| Peaking | 1000 Hz  | 1.41 | 4.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | 5.4 dB  |
+| Peaking | 4000 Hz  | 1.41 | -5.1 dB |
+| Peaking | 8000 Hz  | 1.41 | 0.5 dB  |
+| Peaking | 16000 Hz | 1.41 | -2.1 dB |
 
 ### Graphs
 ![](./Corsair%20HS35.png)

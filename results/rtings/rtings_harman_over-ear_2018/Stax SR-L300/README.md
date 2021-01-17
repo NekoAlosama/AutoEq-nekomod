@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-21.04dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-21.12 dB**.
+When using independent subset of filters, apply preamp of **-6.7 dB**.
 
-| Type    | Fc        |      Q | Gain     |
-|:--------|:----------|:-------|:---------|
-| Peaking | 21.0 Hz   | 1.7003 | 18.84 dB |
-| Peaking | 32.5 Hz   | 1.4836 | 8.53 dB  |
-| Peaking | 3802.3 Hz | 2.8776 | 1.86 dB  |
-| Peaking | 5388.0 Hz | 0.7497 | 4.54 dB  |
-| Peaking | 5923.4 Hz | 2.5529 | -9.93 dB |
-| Peaking | 52.3 Hz   | 2.0244 | 2.00 dB  |
-| Peaking | 105.9 Hz  | 0.8043 | -2.76 dB |
-| Peaking | 1339.1 Hz | 2.4978 | -2.68 dB |
-| Peaking | 1961.9 Hz | 2.7884 | 3.33 dB  |
-| Peaking | 2629.2 Hz | 3.2592 | -1.33 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 39 Hz    | 0.45 | 8.3 dB  |
+| Peaking | 90 Hz    | 0.78 | -6.9 dB |
+| Peaking | 3887 Hz  | 2.76 | 2.1 dB  |
+| Peaking | 4112 Hz  | 0.68 | 2.5 dB  |
+| Peaking | 5888 Hz  | 3.26 | -7.4 dB |
+| Peaking | 664 Hz   | 1.21 | 1.2 dB  |
+| Peaking | 1488 Hz  | 1.01 | -3.2 dB |
+| Peaking | 1881 Hz  | 2.86 | 4.9 dB  |
+| Peaking | 11289 Hz | 1.66 | 1.9 dB  |
+| Peaking | 19626 Hz | 0.5  | -6.7 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.72dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.0dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 21.66 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -2.52 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.04 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -0.80 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 1.14 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | -1.87 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.23 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.54 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -0.64 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -2.95 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 7.9 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.7 dB  |
+| Peaking | 125 Hz   | 1.41 | -3.2 dB |
+| Peaking | 250 Hz   | 1.41 | -0.4 dB |
+| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
+| Peaking | 1000 Hz  | 1.41 | -1.8 dB |
+| Peaking | 2000 Hz  | 1.41 | 2.3 dB  |
+| Peaking | 4000 Hz  | 1.41 | 1.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.2 dB |
+| Peaking | 16000 Hz | 1.41 | -3.0 dB |
 
 ### Graphs
 ![](./Stax%20SR-L300.png)

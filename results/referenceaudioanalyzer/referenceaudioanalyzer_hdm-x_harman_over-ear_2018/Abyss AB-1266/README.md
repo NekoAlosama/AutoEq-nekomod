@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.17dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.4dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.91 dB**.
+When using independent subset of filters, apply preamp of **-6.6 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 43.3 Hz    | 0.521  | 4.69 dB   |
-| Peaking | 1095.7 Hz  | 1.3612 | -8.36 dB  |
-| Peaking | 1902.6 Hz  | 2.2622 | 4.05 dB   |
-| Peaking | 4200.4 Hz  | 1.2885 | 7.69 dB   |
-| Peaking | 19458.4 Hz | 0.3626 | -18.88 dB |
-| Peaking | 4776.5 Hz  | 5.7902 | -4.05 dB  |
-| Peaking | 5543.3 Hz  | 4.4072 | 5.10 dB   |
-| Peaking | 7594.3 Hz  | 1.5378 | -4.09 dB  |
-| Peaking | 9030.1 Hz  | 0.6711 | 2.30 dB   |
-| Peaking | 22049.2 Hz | 1.7598 | 0.13 dB   |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 49 Hz    | 0.59 | 2.8 dB   |
+| Peaking | 1122 Hz  | 1.35 | -8.7 dB  |
+| Peaking | 1554 Hz  | 2.17 | 1.3 dB   |
+| Peaking | 2019 Hz  | 1.98 | 4.3 dB   |
+| Peaking | 4000 Hz  | 2.03 | 6.4 dB   |
+| Peaking | 104 Hz   | 4.02 | 0.5 dB   |
+| Peaking | 130 Hz   | 2.29 | 0.2 dB   |
+| Peaking | 176 Hz   | 4.6  | -1.3 dB  |
+| Peaking | 5645 Hz  | 3.88 | 4.9 dB   |
+| Peaking | 19184 Hz | 0.34 | -16.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.27dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | 4.03 dB   |
-| Peaking | 62.5 Hz    | 1.4142 | 3.66 dB   |
-| Peaking | 125.0 Hz   | 1.4142 | 1.20 dB   |
-| Peaking | 250.0 Hz   | 1.4142 | -0.68 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | 0.66 dB   |
-| Peaking | 1000.0 Hz  | 1.4142 | -8.23 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.16 dB   |
-| Peaking | 4000.0 Hz  | 1.4142 | 7.51 dB   |
-| Peaking | 8000.0 Hz  | 1.4142 | -1.61 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -17.54 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | 2.0 dB   |
+| Peaking | 62 Hz    | 1.41 | 2.3 dB   |
+| Peaking | 125 Hz   | 1.41 | 0.8 dB   |
+| Peaking | 250 Hz   | 1.41 | -0.5 dB  |
+| Peaking | 500 Hz   | 1.41 | 0.7 dB   |
+| Peaking | 1000 Hz  | 1.41 | -8.2 dB  |
+| Peaking | 2000 Hz  | 1.41 | 2.6 dB   |
+| Peaking | 4000 Hz  | 1.41 | 6.4 dB   |
+| Peaking | 8000 Hz  | 1.41 | -0.4 dB  |
+| Peaking | 16000 Hz | 1.41 | -18.8 dB |
 
 ### Graphs
 ![](./Abyss%20AB-1266.png)

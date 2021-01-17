@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.74dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-15.43 dB**.
+When using independent subset of filters, apply preamp of **-6.6 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 49.9 Hz    | 0.5392 | -11.12 dB |
-| Peaking | 322.0 Hz   | 1.8748 | -3.52 dB  |
-| Peaking | 942.9 Hz   | 0.395  | 0.71 dB   |
-| Peaking | 4168.5 Hz  | 2.7875 | 3.87 dB   |
-| Peaking | 16083.1 Hz | 0.4855 | 15.22 dB  |
-| Peaking | 33.1 Hz    | 4.6001 | -2.33 dB  |
-| Peaking | 5552.1 Hz  | 3.2705 | 1.79 dB   |
-| Peaking | 7542.7 Hz  | 2.7751 | -7.12 dB  |
-| Peaking | 11612.1 Hz | 0.8889 | 3.36 dB   |
-| Peaking | 16162.2 Hz | 2.1191 | -2.90 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 43 Hz    | 0.61 | -12.4 dB |
+| Peaking | 163 Hz   | 0.19 | -2.6 dB  |
+| Peaking | 861 Hz   | 0.59 | 1.9 dB   |
+| Peaking | 4237 Hz  | 2.09 | 3.8 dB   |
+| Peaking | 16730 Hz | 0.2  | 6.4 dB   |
+| Peaking | 29 Hz    | 0.11 | 4.5 dB   |
+| Peaking | 30 Hz    | 1.8  | -5.5 dB  |
+| Peaking | 86 Hz    | 1.08 | -5.3 dB  |
+| Peaking | 315 Hz   | 1.91 | -3.0 dB  |
+| Peaking | 6848 Hz  | 6.71 | -2.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-24.19dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.6dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -8.48 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -9.10 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -2.77 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.89 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.57 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.65 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 0.18 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 4.22 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 0.73 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 23.94 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | -11.6 dB |
+| Peaking | 62 Hz    | 1.41 | -11.0 dB |
+| Peaking | 125 Hz   | 1.41 | -3.2 dB  |
+| Peaking | 250 Hz   | 1.41 | -2.6 dB  |
+| Peaking | 500 Hz   | 1.41 | -0.4 dB  |
+| Peaking | 1000 Hz  | 1.41 | 0.8 dB   |
+| Peaking | 2000 Hz  | 1.41 | 0.4 dB   |
+| Peaking | 4000 Hz  | 1.41 | 4.2 dB   |
+| Peaking | 8000 Hz  | 1.41 | 4.3 dB   |
+| Peaking | 16000 Hz | 1.41 | 9.1 dB   |
 
 ### Graphs
 ![](./Whizzer%20C3.png)

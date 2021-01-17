@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.64dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.62 dB**.
+When using independent subset of filters, apply preamp of **-6.7 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 19.2 Hz    | 0.4116 | 12.83 dB  |
-| Peaking | 78.6 Hz    | 0.3974 | -13.92 dB |
-| Peaking | 607.4 Hz   | 0.8775 | 12.19 dB  |
-| Peaking | 2971.7 Hz  | 2.1228 | -9.98 dB  |
-| Peaking | 9726.4 Hz  | 1.6404 | 5.89 dB   |
-| Peaking | 1854.8 Hz  | 3.2417 | 1.54 dB   |
-| Peaking | 2510.1 Hz  | 5.5995 | -1.18 dB  |
-| Peaking | 5619.1 Hz  | 5.6696 | -4.72 dB  |
-| Peaking | 6944.9 Hz  | 6.2076 | 5.29 dB   |
-| Peaking | 19587.6 Hz | 0.8825 | -10.13 dB |
+| Type    | Fc      |    Q | Gain     |
+|:--------|:--------|:-----|:---------|
+| Peaking | 19 Hz   | 0.41 | 12.0 dB  |
+| Peaking | 77 Hz   | 0.36 | -15.6 dB |
+| Peaking | 592 Hz  | 0.51 | 8.9 dB   |
+| Peaking | 2950 Hz | 1.9  | -10.2 dB |
+| Peaking | 9313 Hz | 1.72 | 6.0 dB   |
+| Peaking | 446 Hz  | 5.37 | 1.3 dB   |
+| Peaking | 1855 Hz | 4.91 | 1.2 dB   |
+| Peaking | 4495 Hz | 3.87 | 2.3 dB   |
+| Peaking | 5626 Hz | 3.04 | -5.4 dB  |
+| Peaking | 6737 Hz | 4.85 | 4.5 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.76dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.0dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 6.47 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -9.42 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -8.02 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.72 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 9.61 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 5.75 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -2.27 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -6.75 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.75 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -3.26 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | 4.4 dB   |
+| Peaking | 62 Hz    | 1.41 | -10.8 dB |
+| Peaking | 125 Hz   | 1.41 | -8.5 dB  |
+| Peaking | 250 Hz   | 1.41 | -2.3 dB  |
+| Peaking | 500 Hz   | 1.41 | 6.6 dB   |
+| Peaking | 1000 Hz  | 1.41 | 5.6 dB   |
+| Peaking | 2000 Hz  | 1.41 | -1.8 dB  |
+| Peaking | 4000 Hz  | 1.41 | -6.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | 6.8 dB   |
+| Peaking | 16000 Hz | 1.41 | -3.3 dB  |
 
 ### Graphs
 ![](./Monster%20Inspiration%20(ANC%20on).png)

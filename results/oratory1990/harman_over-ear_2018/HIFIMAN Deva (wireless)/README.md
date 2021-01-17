@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-21.31dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-22.71 dB**.
+When using independent subset of filters, apply preamp of **-6.8 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 21.0 Hz    | 1.1626 | 19.97 dB |
-| Peaking | 40.0 Hz    | 1.0226 | 6.06 dB  |
-| Peaking | 2008.7 Hz  | 3.545  | 2.90 dB  |
-| Peaking | 6313.8 Hz  | 4.2017 | 3.96 dB  |
-| Peaking | 9913.3 Hz  | 2.641  | 1.71 dB  |
-| Peaking | 20.5 Hz    | 1.7633 | -1.43 dB |
-| Peaking | 213.9 Hz   | 1.8634 | -2.47 dB |
-| Peaking | 367.9 Hz   | 2.1866 | -1.67 dB |
-| Peaking | 931.0 Hz   | 2.2047 | -2.49 dB |
-| Peaking | 19405.9 Hz | 0.973  | -3.55 dB |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 37 Hz   | 0.46 | 7.2 dB  |
+| Peaking | 375 Hz  | 0.16 | -2.3 dB |
+| Peaking | 1926 Hz | 1.88 | 4.3 dB  |
+| Peaking | 6542 Hz | 4.21 | 3.1 dB  |
+| Peaking | 9731 Hz | 1.87 | 2.0 dB  |
+| Peaking | 59 Hz   | 4.64 | 1.3 dB  |
+| Peaking | 302 Hz  | 3.51 | 1.0 dB  |
+| Peaking | 408 Hz  | 0.57 | -1.8 dB |
+| Peaking | 525 Hz  | 1.65 | 3.0 dB  |
+| Peaking | 3966 Hz | 4.01 | 0.5 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-21.70dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 20.78 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 1.58 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -0.28 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.69 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.29 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -2.63 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.95 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.63 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 2.71 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -1.21 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
+| Peaking | 62 Hz    | 1.41 | 4.4 dB  |
+| Peaking | 125 Hz   | 1.41 | -0.4 dB |
+| Peaking | 250 Hz   | 1.41 | -2.4 dB |
+| Peaking | 500 Hz   | 1.41 | -0.2 dB |
+| Peaking | 1000 Hz  | 1.41 | -2.6 dB |
+| Peaking | 2000 Hz  | 1.41 | 3.1 dB  |
+| Peaking | 4000 Hz  | 1.41 | -0.8 dB |
+| Peaking | 8000 Hz  | 1.41 | 3.0 dB  |
+| Peaking | 16000 Hz | 1.41 | -1.3 dB |
 
 ### Graphs
 ![](./HIFIMAN%20Deva%20(wireless).png)

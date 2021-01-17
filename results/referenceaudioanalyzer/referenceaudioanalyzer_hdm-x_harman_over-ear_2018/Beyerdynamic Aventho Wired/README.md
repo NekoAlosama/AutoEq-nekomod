@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.12dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.1dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.44 dB**.
+When using independent subset of filters, apply preamp of **-6.2 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 20.7 Hz    | 0.6512 | 5.76 dB  |
-| Peaking | 51.7 Hz    | 1.4619 | 5.45 dB  |
-| Peaking | 104.6 Hz   | 0.2596 | -4.78 dB |
-| Peaking | 4030.0 Hz  | 1.5342 | 8.28 dB  |
-| Peaking | 12076.1 Hz | 3.4303 | 1.08 dB  |
-| Peaking | 251.4 Hz   | 4.2276 | 1.29 dB  |
-| Peaking | 2009.2 Hz  | 4.5324 | 1.52 dB  |
-| Peaking | 6574.4 Hz  | 4.9323 | 5.40 dB  |
-| Peaking | 6649.3 Hz  | 1.5165 | -2.01 dB |
-| Peaking | 19519.4 Hz | 0.9067 | -9.39 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 46 Hz    | 0.36 | 3.4 dB  |
+| Peaking | 113 Hz   | 0.76 | -7.1 dB |
+| Peaking | 443 Hz   | 0.94 | -2.0 dB |
+| Peaking | 3851 Hz  | 1.19 | 5.9 dB  |
+| Peaking | 6507 Hz  | 3.84 | 2.4 dB  |
+| Peaking | 81 Hz    | 5.32 | -0.6 dB |
+| Peaking | 2061 Hz  | 3.33 | 1.3 dB  |
+| Peaking | 2761 Hz  | 5.42 | -1.3 dB |
+| Peaking | 10492 Hz | 2.09 | 1.8 dB  |
+| Peaking | 19714 Hz | 0.4  | -6.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.95dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.5dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 4.64 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 1.51 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -5.12 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -1.72 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -2.12 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.44 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 0.52 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 7.66 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 0.53 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -3.27 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 2.6 dB  |
+| Peaking | 62 Hz    | 1.41 | 0.2 dB  |
+| Peaking | 125 Hz   | 1.41 | -5.5 dB |
+| Peaking | 250 Hz   | 1.41 | -1.5 dB |
+| Peaking | 500 Hz   | 1.41 | -2.0 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.4 dB |
+| Peaking | 2000 Hz  | 1.41 | 1.2 dB  |
+| Peaking | 4000 Hz  | 1.41 | 5.9 dB  |
+| Peaking | 8000 Hz  | 1.41 | 1.8 dB  |
+| Peaking | 16000 Hz | 1.41 | -4.4 dB |
 
 ### Graphs
 ![](./Beyerdynamic%20Aventho%20Wired.png)

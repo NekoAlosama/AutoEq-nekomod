@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-17.97dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-17.50 dB**.
+When using independent subset of filters, apply preamp of **-6.7 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 23.0 Hz    | 1.1731 | 17.30 dB |
-| Peaking | 4068.8 Hz  | 2.124  | 7.54 dB  |
-| Peaking | 6778.8 Hz  | 1.3488 | -6.73 dB |
-| Peaking | 9645.5 Hz  | 2.2509 | 6.00 dB  |
-| Peaking | 18020.6 Hz | 0.2475 | 3.59 dB  |
-| Peaking | 40.1 Hz    | 1.742  | 3.35 dB  |
-| Peaking | 97.2 Hz    | 1.0133 | -3.24 dB |
-| Peaking | 344.5 Hz   | 0.3829 | -1.16 dB |
-| Peaking | 999.5 Hz   | 1.8375 | 2.55 dB  |
-| Peaking | 1682.0 Hz  | 2.6748 | -1.85 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 42 Hz    | 0.45 | 9.8 dB  |
+| Peaking | 89 Hz    | 0.59 | -7.7 dB |
+| Peaking | 3996 Hz  | 2.33 | 6.2 dB  |
+| Peaking | 6128 Hz  | 3.35 | -5.7 dB |
+| Peaking | 18152 Hz | 0.22 | 3.8 dB  |
+| Peaking | 23 Hz    | 1.65 | 0.1 dB  |
+| Peaking | 622 Hz   | 1.04 | -1.5 dB |
+| Peaking | 999 Hz   | 1.27 | 3.1 dB  |
+| Peaking | 1657 Hz  | 1.56 | -2.4 dB |
+| Peaking | 3226 Hz  | 4.99 | 0.9 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.79dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 17.72 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -2.26 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.18 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -0.83 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.16 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.89 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.92 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 4.84 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -1.05 dB |
-| Peaking | 16000.0 Hz | 1.4142 | 5.78 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 7.7 dB  |
+| Peaking | 62 Hz    | 1.41 | 1.3 dB  |
+| Peaking | 125 Hz   | 1.41 | -3.3 dB |
+| Peaking | 250 Hz   | 1.41 | -0.7 dB |
+| Peaking | 500 Hz   | 1.41 | -1.2 dB |
+| Peaking | 1000 Hz  | 1.41 | 1.9 dB  |
+| Peaking | 2000 Hz  | 1.41 | -2.0 dB |
+| Peaking | 4000 Hz  | 1.41 | 5.0 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.1 dB |
+| Peaking | 16000 Hz | 1.41 | 5.6 dB  |
 
 ### Graphs
 ![](./Apple%20EarPods.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.12dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.5dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.13 dB**.
+When using independent subset of filters, apply preamp of **-5.5 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 2074.5 Hz  | 2.9125 | 3.71 dB   |
-| Peaking | 4468.2 Hz  | 4.1819 | 3.87 dB   |
-| Peaking | 5609.2 Hz  | 3.5231 | -10.13 dB |
-| Peaking | 9636.2 Hz  | 0.8801 | 7.77 dB   |
-| Peaking | 19781.0 Hz | 0.465  | -13.80 dB |
-| Peaking | 67.6 Hz    | 1.3955 | 1.77 dB   |
-| Peaking | 103.3 Hz   | 2.3248 | -2.06 dB  |
-| Peaking | 292.2 Hz   | 1.2457 | -1.96 dB  |
-| Peaking | 961.9 Hz   | 1.2638 | -1.86 dB  |
-| Peaking | 1664.0 Hz  | 4.6874 | 1.86 dB   |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 2086 Hz | 2.72 | 4.0 dB  |
+| Peaking | 4295 Hz | 3.41 | 1.8 dB  |
+| Peaking | 4660 Hz | 3.38 | 2.7 dB  |
+| Peaking | 5522 Hz | 4.45 | -8.9 dB |
+| Peaking | 9635 Hz | 1.9  | 5.4 dB  |
+| Peaking | 23 Hz   | 0.89 | -2.1 dB |
+| Peaking | 107 Hz  | 2.82 | -2.2 dB |
+| Peaking | 296 Hz  | 1.16 | -1.9 dB |
+| Peaking | 906 Hz  | 2.14 | -1.8 dB |
+| Peaking | 7104 Hz | 5.2  | 1.1 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.31dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -0.10 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 1.39 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.09 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -1.55 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.67 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -2.44 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 4.24 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | -1.52 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 4.56 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -6.25 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -2.1 dB |
+| Peaking | 62 Hz    | 1.41 | 0.0 dB  |
+| Peaking | 125 Hz   | 1.41 | -1.5 dB |
+| Peaking | 250 Hz   | 1.41 | -1.4 dB |
+| Peaking | 500 Hz   | 1.41 | -0.6 dB |
+| Peaking | 1000 Hz  | 1.41 | -2.3 dB |
+| Peaking | 2000 Hz  | 1.41 | 4.3 dB  |
+| Peaking | 4000 Hz  | 1.41 | -1.1 dB |
+| Peaking | 8000 Hz  | 1.41 | 3.4 dB  |
+| Peaking | 16000 Hz | 1.41 | -5.7 dB |
 
 ### Graphs
 ![](./Dan%20Clark%20Audio%20Ether%20C%20Flow%201.1.png)

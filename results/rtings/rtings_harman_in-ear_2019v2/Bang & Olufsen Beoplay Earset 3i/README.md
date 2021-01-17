@@ -2,38 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-17.10dB** and build filters manually
-with these parameters. The first 4 filters can be used independently.
-When using independent subset of filters, apply preamp of **-17.10 dB**.
+In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+with these parameters. The first 5 filters can be used independently.
+When using independent subset of filters, apply preamp of **-6.9 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 22.3 Hz    | 0.6232 | 17.65 dB |
-| Peaking | 215.7 Hz   | 0.1847 | -4.12 dB |
-| Peaking | 2926.8 Hz  | 1.752  | 7.03 dB  |
-| Peaking | 13107.9 Hz | 0.5529 | 7.27 dB  |
-| Peaking | 441.0 Hz   | 3.9308 | 1.30 dB  |
-| Peaking | 4217.0 Hz  | 2.9945 | 3.18 dB  |
-| Peaking | 5761.4 Hz  | 1.5096 | -3.91 dB |
-| Peaking | 9000.9 Hz  | 2.0614 | 3.32 dB  |
-| Peaking | 13571.4 Hz | 2.713  | -1.52 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 42 Hz    | 0.41 | 8.7 dB  |
+| Peaking | 95 Hz    | 0.65 | -4.7 dB |
+| Peaking | 988 Hz   | 0.08 | -3.4 dB |
+| Peaking | 2908 Hz  | 1.21 | 9.0 dB  |
+| Peaking | 13185 Hz | 0.43 | 7.4 dB  |
+| Peaking | 53 Hz    | 5.22 | 0.7 dB  |
+| Peaking | 306 Hz   | 4.89 | -0.8 dB |
+| Peaking | 4203 Hz  | 4.16 | 2.0 dB  |
+| Peaking | 5620 Hz  | 3.42 | -2.9 dB |
+| Peaking | 8797 Hz  | 3.03 | 1.8 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.62dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.8dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 17.73 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -0.94 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -2.60 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.11 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.93 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -3.09 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.81 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 3.88 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 4.22 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 8.56 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 7.5 dB  |
+| Peaking | 62 Hz    | 1.41 | 2.6 dB  |
+| Peaking | 125 Hz   | 1.41 | -2.7 dB |
+| Peaking | 250 Hz   | 1.41 | -3.0 dB |
+| Peaking | 500 Hz   | 1.41 | -1.9 dB |
+| Peaking | 1000 Hz  | 1.41 | -3.1 dB |
+| Peaking | 2000 Hz  | 1.41 | 2.7 dB  |
+| Peaking | 4000 Hz  | 1.41 | 4.0 dB  |
+| Peaking | 8000 Hz  | 1.41 | 3.5 dB  |
+| Peaking | 16000 Hz | 1.41 | 8.4 dB  |
 
 ### Graphs
 ![](./Bang%20&%20Olufsen%20Beoplay%20Earset%203i.png)

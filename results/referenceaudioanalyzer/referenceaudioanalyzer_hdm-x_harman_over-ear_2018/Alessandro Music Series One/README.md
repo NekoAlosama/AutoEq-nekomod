@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-18.74dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-18.74 dB**.
+When using independent subset of filters, apply preamp of **-6.6 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 13.8 Hz    | 0.6938 | 17.67 dB  |
-| Peaking | 31.0 Hz    | 0.5    | 6.52 dB   |
-| Peaking | 1760.9 Hz  | 0.2134 | 3.58 dB   |
-| Peaking | 2272.6 Hz  | 1.693  | -11.77 dB |
-| Peaking | 7769.3 Hz  | 2.2886 | -6.83 dB  |
-| Peaking | 2789.8 Hz  | 3.7448 | -1.21 dB  |
-| Peaking | 3384.2 Hz  | 1.7192 | 1.45 dB   |
-| Peaking | 3910.9 Hz  | 6.0284 | -2.33 dB  |
-| Peaking | 13497.6 Hz | 2.0963 | 2.03 dB   |
-| Peaking | 19821.2 Hz | 0.6253 | -5.67 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 33 Hz    | 0.44 | 6.4 dB   |
+| Peaking | 1758 Hz  | 0.23 | 3.8 dB   |
+| Peaking | 2264 Hz  | 1.71 | -11.8 dB |
+| Peaking | 7815 Hz  | 2.03 | -3.7 dB  |
+| Peaking | 17343 Hz | 0.19 | -1.5 dB  |
+| Peaking | 31 Hz    | 2.69 | -0.2 dB  |
+| Peaking | 995 Hz   | 3.82 | -0.4 dB  |
+| Peaking | 3976 Hz  | 5.17 | -1.6 dB  |
+| Peaking | 5487 Hz  | 1.06 | 1.0 dB   |
+| Peaking | 6622 Hz  | 3.79 | -1.7 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-18.56dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.5dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 17.74 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 3.27 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 0.49 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | 0.71 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | 2.06 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 3.60 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -7.28 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.25 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -3.45 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -0.27 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
+| Peaking | 62 Hz    | 1.41 | 4.0 dB  |
+| Peaking | 125 Hz   | 1.41 | 0.8 dB  |
+| Peaking | 250 Hz   | 1.41 | 0.7 dB  |
+| Peaking | 500 Hz   | 1.41 | 2.1 dB  |
+| Peaking | 1000 Hz  | 1.41 | 3.9 dB  |
+| Peaking | 2000 Hz  | 1.41 | -7.3 dB |
+| Peaking | 4000 Hz  | 1.41 | 1.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | -2.5 dB |
+| Peaking | 16000 Hz | 1.41 | -1.6 dB |
 
 ### Graphs
 ![](./Alessandro%20Music%20Series%20One.png)

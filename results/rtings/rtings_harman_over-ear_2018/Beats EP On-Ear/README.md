@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-4.13dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-4.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-2.61 dB**.
+When using independent subset of filters, apply preamp of **-3.2 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 14.5 Hz    | 0.4991 | 2.86 dB  |
-| Peaking | 186.0 Hz   | 0.762  | -5.91 dB |
-| Peaking | 5305.4 Hz  | 0.0318 | 1.89 dB  |
-| Peaking | 9705.2 Hz  | 3.0636 | 1.30 dB  |
-| Peaking | 13217.9 Hz | 0.6222 | -1.18 dB |
-| Peaking | 1287.3 Hz  | 2.8643 | -1.20 dB |
-| Peaking | 4023.3 Hz  | 3.3929 | 2.79 dB  |
-| Peaking | 4925.0 Hz  | 4.0392 | -4.26 dB |
-| Peaking | 6414.4 Hz  | 1.8326 | 2.17 dB  |
-| Peaking | 7396.7 Hz  | 4.9243 | -2.73 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 180 Hz   | 0.53 | -5.4 dB |
+| Peaking | 565 Hz   | 0.68 | 2.8 dB  |
+| Peaking | 3300 Hz  | 1.3  | 2.7 dB  |
+| Peaking | 8175 Hz  | 1.43 | 1.4 dB  |
+| Peaking | 16850 Hz | 0.37 | 1.2 dB  |
+| Peaking | 1154 Hz  | 4.97 | -0.6 dB |
+| Peaking | 3251 Hz  | 3.98 | -2.1 dB |
+| Peaking | 4053 Hz  | 1.93 | 2.8 dB  |
+| Peaking | 4892 Hz  | 4.42 | -4.3 dB |
+| Peaking | 6039 Hz  | 5.38 | 1.2 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.79dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 2.12 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 0.02 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -3.51 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.03 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 1.56 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.69 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 1.20 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 2.14 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 1.47 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 1.34 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.0 dB  |
+| Peaking | 62 Hz    | 1.41 | -1.4 dB |
+| Peaking | 125 Hz   | 1.41 | -3.9 dB |
+| Peaking | 250 Hz   | 1.41 | -3.8 dB |
+| Peaking | 500 Hz   | 1.41 | 1.6 dB  |
+| Peaking | 1000 Hz  | 1.41 | 0.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | 1.3 dB  |
+| Peaking | 4000 Hz  | 1.41 | 2.2 dB  |
+| Peaking | 8000 Hz  | 1.41 | 1.7 dB  |
+| Peaking | 16000 Hz | 1.41 | 1.6 dB  |
 
 ### Graphs
 ![](./Beats%20EP%20On-Ear.png)

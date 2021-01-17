@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.51dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.62 dB**.
+When using independent subset of filters, apply preamp of **-7.0 dB**.
 
-| Type    | Fc        |      Q | Gain     |
-|:--------|:----------|:-------|:---------|
-| Peaking | 22.9 Hz   | 0.9432 | 3.28 dB  |
-| Peaking | 1628.2 Hz | 1.2827 | -3.97 dB |
-| Peaking | 3929.2 Hz | 3.5759 | 19.14 dB |
-| Peaking | 6582.0 Hz | 4.3933 | 9.46 dB  |
-| Peaking | 8176.0 Hz | 0.3924 | -3.96 dB |
-| Peaking | 190.6 Hz  | 1.4636 | -3.33 dB |
-| Peaking | 3025.1 Hz | 6.495  | 2.64 dB  |
-| Peaking | 5191.2 Hz | 5.0742 | -3.62 dB |
-| Peaking | 6062.5 Hz | 5.931  | 1.54 dB  |
-| Peaking | 7761.7 Hz | 3.8698 | 0.85 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 170 Hz   | 1.08 | -3.2 dB |
+| Peaking | 1845 Hz  | 1.19 | -4.6 dB |
+| Peaking | 3411 Hz  | 1.98 | 9.2 dB  |
+| Peaking | 6491 Hz  | 4.62 | 4.5 dB  |
+| Peaking | 12191 Hz | 0.18 | -1.9 dB |
+| Peaking | 19 Hz    | 1.83 | 1.5 dB  |
+| Peaking | 256 Hz   | 3.42 | -0.9 dB |
+| Peaking | 465 Hz   | 2.59 | 1.6 dB  |
+| Peaking | 4454 Hz  | 3.3  | 1.4 dB  |
+| Peaking | 4886 Hz  | 5.55 | -2.4 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.75dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.5dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 2.97 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 0.92 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.66 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.87 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 1.72 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | -1.73 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -6.00 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 12.06 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | -2.50 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -3.20 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.9 dB  |
+| Peaking | 62 Hz    | 1.41 | -0.4 dB |
+| Peaking | 125 Hz   | 1.41 | -2.1 dB |
+| Peaking | 250 Hz   | 1.41 | -2.7 dB |
+| Peaking | 500 Hz   | 1.41 | 1.9 dB  |
+| Peaking | 1000 Hz  | 1.41 | -1.9 dB |
+| Peaking | 2000 Hz  | 1.41 | -3.8 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.2 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.3 dB |
+| Peaking | 16000 Hz | 1.41 | -2.9 dB |
 
 ### Graphs
 ![](./Takstar%20Pro%2080.png)

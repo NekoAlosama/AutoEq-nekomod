@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.38dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.38 dB**.
+When using independent subset of filters, apply preamp of **-6.6 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 12.7 Hz    | 0.5515 | 14.82 dB  |
-| Peaking | 25.5 Hz    | 0.2365 | 5.22 dB   |
-| Peaking | 1877.6 Hz  | 1.5265 | -10.70 dB |
-| Peaking | 3919.2 Hz  | 3.7605 | 6.62 dB   |
-| Peaking | 6762.2 Hz  | 3.0402 | 10.48 dB  |
-| Peaking | 388.7 Hz   | 3.2026 | -4.29 dB  |
-| Peaking | 5279.5 Hz  | 5.9983 | -5.27 dB  |
-| Peaking | 5509.3 Hz  | 2.3439 | 2.53 dB   |
-| Peaking | 8332.7 Hz  | 5.7682 | 5.20 dB   |
-| Peaking | 11502.6 Hz | 1.5224 | -4.41 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 32 Hz    | 0.45 | 6.4 dB   |
+| Peaking | 171 Hz   | 2.71 | 2.8 dB   |
+| Peaking | 1878 Hz  | 1.59 | -10.7 dB |
+| Peaking | 3911 Hz  | 3.63 | 6.8 dB   |
+| Peaking | 7061 Hz  | 2.7  | 6.1 dB   |
+| Peaking | 268 Hz   | 1.27 | 1.8 dB   |
+| Peaking | 375 Hz   | 1.7  | -4.8 dB  |
+| Peaking | 828 Hz   | 2.12 | 1.6 dB   |
+| Peaking | 5259 Hz  | 6.5  | -1.3 dB  |
+| Peaking | 20509 Hz | 0.16 | 0.9 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-15.56dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | 14.97 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 3.06 dB   |
-| Peaking | 125.0 Hz   | 1.4142 | 2.53 dB   |
-| Peaking | 250.0 Hz   | 1.4142 | 1.03 dB   |
-| Peaking | 500.0 Hz   | 1.4142 | -3.00 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.59 dB   |
-| Peaking | 2000.0 Hz  | 1.4142 | -11.69 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 5.70 dB   |
-| Peaking | 8000.0 Hz  | 1.4142 | 5.38 dB   |
-| Peaking | 16000.0 Hz | 1.4142 | -2.45 dB  |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 31 Hz    | 1.41 | 6.9 dB   |
+| Peaking | 62 Hz    | 1.41 | 3.1 dB   |
+| Peaking | 125 Hz   | 1.41 | 2.7 dB   |
+| Peaking | 250 Hz   | 1.41 | 0.8 dB   |
+| Peaking | 500 Hz   | 1.41 | -2.7 dB  |
+| Peaking | 1000 Hz  | 1.41 | 1.6 dB   |
+| Peaking | 2000 Hz  | 1.41 | -11.7 dB |
+| Peaking | 4000 Hz  | 1.41 | 5.7 dB   |
+| Peaking | 8000 Hz  | 1.41 | 3.2 dB   |
+| Peaking | 16000 Hz | 1.41 | 0.3 dB   |
 
 ### Graphs
 ![](./Sennheiser%20MM%20550%20Travel%20Bluetooth%20NC.png)

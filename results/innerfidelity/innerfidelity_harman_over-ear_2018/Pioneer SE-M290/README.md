@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-13.54dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.16 dB**.
+When using independent subset of filters, apply preamp of **-6.7 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 16.9 Hz    | 0.6729 | 9.91 dB  |
-| Peaking | 244.3 Hz   | 0.2096 | -5.29 dB |
-| Peaking | 2183.5 Hz  | 1.0132 | 7.26 dB  |
-| Peaking | 4214.9 Hz  | 3.9735 | 10.69 dB |
-| Peaking | 13361.1 Hz | 0.914  | 5.37 dB  |
-| Peaking | 3326.8 Hz  | 6.436  | 3.12 dB  |
-| Peaking | 4621.0 Hz  | 8.1953 | 6.62 dB  |
-| Peaking | 5223.2 Hz  | 2.9671 | -5.29 dB |
-| Peaking | 7776.6 Hz  | 5.5008 | -2.90 dB |
-| Peaking | 9417.5 Hz  | 4.4146 | 3.63 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 22 Hz    | 1.63 | 6.4 dB  |
+| Peaking | 167 Hz   | 0.46 | -6.2 dB |
+| Peaking | 925 Hz   | 1.55 | -5.4 dB |
+| Peaking | 2270 Hz  | 0.64 | 7.0 dB  |
+| Peaking | 14770 Hz | 0.62 | 4.3 dB  |
+| Peaking | 51 Hz    | 3.55 | -1.1 dB |
+| Peaking | 2358 Hz  | 4.94 | -1.2 dB |
+| Peaking | 4626 Hz  | 2.71 | 5.0 dB  |
+| Peaking | 5433 Hz  | 2.99 | -5.9 dB |
+| Peaking | 10515 Hz | 3.9  | 1.4 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.57dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 5.82 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -1.90 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -4.32 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -5.18 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.42 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -3.76 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 5.57 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 8.45 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 0.01 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 6.09 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 3.8 dB  |
+| Peaking | 62 Hz    | 1.41 | -3.2 dB |
+| Peaking | 125 Hz   | 1.41 | -4.7 dB |
+| Peaking | 250 Hz   | 1.41 | -5.0 dB |
+| Peaking | 500 Hz   | 1.41 | -1.3 dB |
+| Peaking | 1000 Hz  | 1.41 | -3.9 dB |
+| Peaking | 2000 Hz  | 1.41 | 6.8 dB  |
+| Peaking | 4000 Hz  | 1.41 | 4.3 dB  |
+| Peaking | 8000 Hz  | 1.41 | 1.2 dB  |
+| Peaking | 16000 Hz | 1.41 | 5.6 dB  |
 
 ### Graphs
 ![](./Pioneer%20SE-M290.png)

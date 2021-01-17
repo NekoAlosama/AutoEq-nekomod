@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.58dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.3dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.58 dB**.
+When using independent subset of filters, apply preamp of **-6.3 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 20.2 Hz    | 0.9977 | 9.64 dB   |
-| Peaking | 109.9 Hz   | 1.0707 | -3.22 dB  |
-| Peaking | 4516.5 Hz  | 2.8445 | 9.08 dB   |
-| Peaking | 5536.7 Hz  | 5.1443 | -11.03 dB |
-| Peaking | 18009.9 Hz | 0.2833 | -6.21 dB  |
-| Peaking | 1255.9 Hz  | 0.5583 | 2.69 dB   |
-| Peaking | 2297.1 Hz  | 1.7563 | -3.31 dB  |
-| Peaking | 9429.5 Hz  | 4.8389 | 1.40 dB   |
-| Peaking | 11683.3 Hz | 1.0845 | -1.28 dB  |
-| Peaking | 14405.3 Hz | 0.5296 | 0.56 dB   |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 23 Hz    | 1.35 | 6.6 dB  |
+| Peaking | 100 Hz   | 0.93 | -3.8 dB |
+| Peaking | 4052 Hz  | 2.89 | 5.4 dB  |
+| Peaking | 5669 Hz  | 3.73 | -7.9 dB |
+| Peaking | 20097 Hz | 0.14 | -6.6 dB |
+| Peaking | 1174 Hz  | 0.56 | 2.7 dB  |
+| Peaking | 2302 Hz  | 1.81 | -2.9 dB |
+| Peaking | 7276 Hz  | 3    | 0.8 dB  |
+| Peaking | 8267 Hz  | 2.56 | -1.3 dB |
+| Peaking | 12900 Hz | 1.12 | 0.6 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.83dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.2dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 8.00 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -1.77 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -2.71 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -0.77 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 1.16 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 2.63 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.53 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 3.48 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -3.80 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -8.11 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 5.8 dB  |
+| Peaking | 62 Hz    | 1.41 | -3.0 dB |
+| Peaking | 125 Hz   | 1.41 | -3.0 dB |
+| Peaking | 250 Hz   | 1.41 | -0.6 dB |
+| Peaking | 500 Hz   | 1.41 | 1.3 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.6 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.8 dB |
+| Peaking | 4000 Hz  | 1.41 | 1.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | -4.8 dB |
+| Peaking | 16000 Hz | 1.41 | -7.2 dB |
 
 ### Graphs
 ![](./Superlux%20HD%20668B.png)

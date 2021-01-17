@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.52dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.57 dB**.
+When using independent subset of filters, apply preamp of **-6.6 dB**.
 
-| Type    | Fc        |      Q | Gain     |
-|:--------|:----------|:-------|:---------|
-| Peaking | 64.9 Hz   | 0.4549 | -1.86 dB |
-| Peaking | 124.2 Hz  | 0.6708 | -4.61 dB |
-| Peaking | 383.3 Hz  | 1.2961 | -4.74 dB |
-| Peaking | 620.1 Hz  | 1.0999 | 5.26 dB  |
-| Peaking | 4935.3 Hz | 1.8227 | 7.33 dB  |
-| Peaking | 1365.8 Hz | 5.6953 | 1.02 dB  |
-| Peaking | 1987.4 Hz | 4.2133 | 1.33 dB  |
-| Peaking | 2855.9 Hz | 2.1267 | -2.67 dB |
-| Peaking | 3418.0 Hz | 3.5287 | 2.31 dB  |
-| Peaking | 9554.7 Hz | 4.408  | 1.28 dB  |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 40 Hz   | 0.46 | -3.1 dB |
+| Peaking | 115 Hz  | 0.66 | -5.5 dB |
+| Peaking | 383 Hz  | 1.29 | -4.7 dB |
+| Peaking | 622 Hz  | 1.11 | 5.3 dB  |
+| Peaking | 5070 Hz | 1.42 | 6.4 dB  |
+| Peaking | 1106 Hz | 3.73 | -1.1 dB |
+| Peaking | 1302 Hz | 4.39 | 1.5 dB  |
+| Peaking | 1981 Hz | 4.37 | 1.1 dB  |
+| Peaking | 2848 Hz | 2.65 | -3.1 dB |
+| Peaking | 3383 Hz | 2.83 | 2.1 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.68dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -1.23 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -3.32 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -5.24 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.18 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 0.76 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 2.77 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.28 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 5.33 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 1.93 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -0.74 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -3.2 dB |
+| Peaking | 62 Hz    | 1.41 | -4.7 dB |
+| Peaking | 125 Hz   | 1.41 | -5.6 dB |
+| Peaking | 250 Hz   | 1.41 | -4.0 dB |
+| Peaking | 500 Hz   | 1.41 | 0.8 dB  |
+| Peaking | 1000 Hz  | 1.41 | 2.8 dB  |
+| Peaking | 2000 Hz  | 1.41 | -1.1 dB |
+| Peaking | 4000 Hz  | 1.41 | 4.9 dB  |
+| Peaking | 8000 Hz  | 1.41 | 2.5 dB  |
+| Peaking | 16000 Hz | 1.41 | -0.8 dB |
 
 ### Graphs
 ![](./Microsoft%20Surface%20Headphones.png)

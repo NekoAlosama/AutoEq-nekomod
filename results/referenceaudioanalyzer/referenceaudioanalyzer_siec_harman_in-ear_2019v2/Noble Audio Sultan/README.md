@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.80dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.41 dB**.
+When using independent subset of filters, apply preamp of **-7.0 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 18.0 Hz    | 1.3611 | -0.77 dB |
-| Peaking | 215.5 Hz   | 0.5923 | -3.46 dB |
-| Peaking | 3403.1 Hz  | 2.5158 | 8.43 dB  |
-| Peaking | 7050.0 Hz  | 2.2471 | -7.41 dB |
-| Peaking | 12286.3 Hz | 0.4872 | 7.48 dB  |
-| Peaking | 1598.4 Hz  | 2.3333 | -1.30 dB |
-| Peaking | 2783.1 Hz  | 4.2495 | 2.21 dB  |
-| Peaking | 3532.7 Hz  | 1.603  | -1.71 dB |
-| Peaking | 3942.2 Hz  | 5.6881 | 2.47 dB  |
-| Peaking | 9398.0 Hz  | 5.6    | 1.13 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 15 Hz    | 0.17 | -3.5 dB |
+| Peaking | 213 Hz   | 0.56 | -3.0 dB |
+| Peaking | 3349 Hz  | 1.95 | 6.1 dB  |
+| Peaking | 6601 Hz  | 2.7  | -4.5 dB |
+| Peaking | 15567 Hz | 0.26 | 5.4 dB  |
+| Peaking | 976 Hz   | 1.58 | 0.8 dB  |
+| Peaking | 1318 Hz  | 2.42 | -1.2 dB |
+| Peaking | 1924 Hz  | 1.81 | -1.2 dB |
+| Peaking | 2829 Hz  | 2.88 | 2.0 dB  |
+| Peaking | 3242 Hz  | 5.99 | -1.7 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.31dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.4dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -0.47 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -0.17 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -1.93 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.34 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.81 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.50 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 0.12 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 6.53 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -0.45 dB |
-| Peaking | 16000.0 Hz | 1.4142 | 9.07 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | -3.5 dB |
+| Peaking | 62 Hz    | 1.41 | -2.1 dB |
+| Peaking | 125 Hz   | 1.41 | -2.5 dB |
+| Peaking | 250 Hz   | 1.41 | -3.1 dB |
+| Peaking | 500 Hz   | 1.41 | -0.7 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.4 dB |
+| Peaking | 2000 Hz  | 1.41 | 0.4 dB  |
+| Peaking | 4000 Hz  | 1.41 | 5.3 dB  |
+| Peaking | 8000 Hz  | 1.41 | 0.5 dB  |
+| Peaking | 16000 Hz | 1.41 | 8.2 dB  |
 
 ### Graphs
 ![](./Noble%20Audio%20Sultan.png)

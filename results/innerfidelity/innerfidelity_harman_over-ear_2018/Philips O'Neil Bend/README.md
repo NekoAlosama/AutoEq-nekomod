@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-13.57dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.41 dB**.
+When using independent subset of filters, apply preamp of **-6.9 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 18.4 Hz    | 1.0647 | 4.15 dB  |
-| Peaking | 156.1 Hz   | 0.5706 | -6.45 dB |
-| Peaking | 965.9 Hz   | 1.3602 | -3.35 dB |
-| Peaking | 2679.7 Hz  | 1.0449 | 6.52 dB  |
-| Peaking | 11268.9 Hz | 1.1416 | 12.99 dB |
-| Peaking | 3650.1 Hz  | 4.3732 | 0.91 dB  |
-| Peaking | 5435.0 Hz  | 3.4166 | -1.38 dB |
-| Peaking | 8977.5 Hz  | 3.1447 | 1.01 dB  |
-| Peaking | 14897.5 Hz | 2.0339 | 3.11 dB  |
-| Peaking | 19928.3 Hz | 0.7479 | -9.37 dB |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 82 Hz    | 0.91 | -3.8 dB |
+| Peaking | 187 Hz   | 0.85 | -5.6 dB |
+| Peaking | 985 Hz   | 1.05 | -3.8 dB |
+| Peaking | 2564 Hz  | 0.88 | 6.4 dB  |
+| Peaking | 11021 Hz | 0.71 | 6.4 dB  |
+| Peaking | 19 Hz    | 2.33 | 2.0 dB  |
+| Peaking | 3764 Hz  | 3.73 | 1.5 dB  |
+| Peaking | 5575 Hz  | 2.05 | -0.6 dB |
+| Peaking | 6451 Hz  | 0.99 | -1.5 dB |
+| Peaking | 7253 Hz  | 2.74 | 2.9 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.92dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 2.44 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -2.02 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -5.30 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.56 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.57 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -4.03 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 5.48 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 2.54 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 8.88 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 6.47 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 0.4 dB  |
+| Peaking | 62 Hz    | 1.41 | -3.4 dB |
+| Peaking | 125 Hz   | 1.41 | -5.7 dB |
+| Peaking | 250 Hz   | 1.41 | -4.4 dB |
+| Peaking | 500 Hz   | 1.41 | -0.5 dB |
+| Peaking | 1000 Hz  | 1.41 | -3.9 dB |
+| Peaking | 2000 Hz  | 1.41 | 5.3 dB  |
+| Peaking | 4000 Hz  | 1.41 | 3.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | 6.1 dB  |
+| Peaking | 16000 Hz | 1.41 | 4.4 dB  |
 
 ### Graphs
 ![](./Philips%20O'Neil%20Bend.png)

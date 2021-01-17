@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-13.98dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.88 dB**.
+When using independent subset of filters, apply preamp of **-7.2 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 21.1 Hz    | 1.2914 | 6.52 dB  |
-| Peaking | 107.0 Hz   | 0.4899 | -5.49 dB |
-| Peaking | 3836.0 Hz  | 4.7808 | 5.89 dB  |
-| Peaking | 9143.2 Hz  | 4.0119 | 10.67 dB |
-| Peaking | 13540.5 Hz | 1.041  | 8.62 dB  |
-| Peaking | 730.1 Hz   | 2.7957 | 3.40 dB  |
-| Peaking | 4332.5 Hz  | 2.4925 | 6.16 dB  |
-| Peaking | 5455.7 Hz  | 1.4182 | -7.40 dB |
-| Peaking | 8145.2 Hz  | 5.3823 | 4.25 dB  |
-| Peaking | 11017.0 Hz | 4.5291 | 2.81 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 20 Hz    | 1.15 | 5.3 dB  |
+| Peaking | 69 Hz    | 0.64 | -6.0 dB |
+| Peaking | 184 Hz   | 1.27 | -3.4 dB |
+| Peaking | 3694 Hz  | 5.06 | 5.1 dB  |
+| Peaking | 13689 Hz | 0.65 | 7.0 dB  |
+| Peaking | 753 Hz   | 2.38 | 3.2 dB  |
+| Peaking | 1686 Hz  | 2.51 | -2.3 dB |
+| Peaking | 4294 Hz  | 1.48 | 2.2 dB  |
+| Peaking | 5623 Hz  | 2.45 | -6.8 dB |
+| Peaking | 8335 Hz  | 2.72 | 3.7 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.38dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.9dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 3.88 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -4.56 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -4.15 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.42 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 0.83 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.54 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.95 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.85 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.20 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 9.84 dB  |
+| Type    | Fc       |    Q | Gain    |
+|:--------|:---------|:-----|:--------|
+| Peaking | 31 Hz    | 1.41 | 1.9 dB  |
+| Peaking | 62 Hz    | 1.41 | -6.0 dB |
+| Peaking | 125 Hz   | 1.41 | -4.5 dB |
+| Peaking | 250 Hz   | 1.41 | -3.2 dB |
+| Peaking | 500 Hz   | 1.41 | 0.9 dB  |
+| Peaking | 1000 Hz  | 1.41 | 1.6 dB  |
+| Peaking | 2000 Hz  | 1.41 | -1.7 dB |
+| Peaking | 4000 Hz  | 1.41 | 2.0 dB  |
+| Peaking | 8000 Hz  | 1.41 | 3.4 dB  |
+| Peaking | 16000 Hz | 1.41 | 8.5 dB  |
 
 ### Graphs
 ![](./Bloc%20Roc%20Galvanize%20S2.png)
