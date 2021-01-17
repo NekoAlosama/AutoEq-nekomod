@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.61dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.36dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.61 dB**.
+When using independent subset of filters, apply preamp of **-9.37 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 18.0 Hz    | 1.1374 | 10.25 dB |
-| Peaking | 55.5 Hz    | 0.5777 | 3.40 dB  |
-| Peaking | 5602.9 Hz  | 2.1863 | -6.04 dB |
-| Peaking | 13720.5 Hz | 1.4663 | -4.11 dB |
-| Peaking | 18787.8 Hz | 0.4932 | -7.38 dB |
-| Peaking | 525.6 Hz   | 2.1377 | 3.01 dB  |
-| Peaking | 1594.5 Hz  | 1.4473 | 0.72 dB  |
-| Peaking | 6311.4 Hz  | 5.5539 | 3.65 dB  |
-| Peaking | 7281.5 Hz  | 2.1377 | -3.75 dB |
-| Peaking | 8961.4 Hz  | 4.2565 | 4.04 dB  |
+| Peaking | 16.5 Hz    | 1.1649 | 9.21 dB  |
+| Peaking | 56.1 Hz    | 0.0148 | 2.00 dB  |
+| Peaking | 5534.0 Hz  | 2.1647 | -5.77 dB |
+| Peaking | 13771.8 Hz | 1.6351 | -4.29 dB |
+| Peaking | 18625.3 Hz | 0.5031 | -7.32 dB |
+| Peaking | 196.9 Hz   | 1.6823 | -2.11 dB |
+| Peaking | 2166.3 Hz  | 0.5432 | -1.18 dB |
+| Peaking | 7421.3 Hz  | 5.6924 | -3.37 dB |
+| Peaking | 9295.3 Hz  | 3.4294 | 3.42 dB  |
+| Peaking | 10662.0 Hz | 2.9342 | -1.72 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.22dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.97dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | 7.56 dB   |
-| Peaking | 62.5 Hz    | 1.4142 | 2.70 dB   |
-| Peaking | 125.0 Hz   | 1.4142 | 0.95 dB   |
-| Peaking | 250.0 Hz   | 1.4142 | -0.61 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | 2.87 dB   |
+| Peaking | 31.3 Hz    | 1.4142 | 6.31 dB   |
+| Peaking | 62.5 Hz    | 1.4142 | 1.96 dB   |
+| Peaking | 125.0 Hz   | 1.4142 | 0.65 dB   |
+| Peaking | 250.0 Hz   | 1.4142 | -0.45 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | 2.91 dB   |
 | Peaking | 1000.0 Hz  | 1.4142 | -0.00 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 1.14 dB   |
-| Peaking | 4000.0 Hz  | 1.4142 | -2.90 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -3.20 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -10.53 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.23 dB   |
+| Peaking | 4000.0 Hz  | 1.4142 | -2.85 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -3.22 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -10.30 dB |
 
 ### Graphs
 ![](./Denon%20AH-D5000%20(JMoney%20earpads).png)

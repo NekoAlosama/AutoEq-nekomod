@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.50dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.30dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.90 dB**.
+When using independent subset of filters, apply preamp of **-9.94 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 198.5 Hz   | 1.0396 | -4.06 dB |
-| Peaking | 362.3 Hz   | 3.0513 | 4.20 dB  |
-| Peaking | 1465.2 Hz  | 2.6376 | -3.73 dB |
-| Peaking | 4399.2 Hz  | 3.8131 | 9.75 dB  |
-| Peaking | 19643.5 Hz | 0.7585 | 4.62 dB  |
-| Peaking | 68.8 Hz    | 2.3978 | 1.08 dB  |
-| Peaking | 4699.5 Hz  | 7.7883 | 2.46 dB  |
-| Peaking | 5255.7 Hz  | 5.6811 | -4.85 dB |
-| Peaking | 7121.1 Hz  | 3.1378 | 4.25 dB  |
-| Peaking | 11795.7 Hz | 2.3682 | -1.42 dB |
+| Peaking | 216.8 Hz   | 0.6334 | -4.50 dB |
+| Peaking | 365.7 Hz   | 2.0544 | 5.61 dB  |
+| Peaking | 1477.8 Hz  | 2.9789 | -3.63 dB |
+| Peaking | 4398.5 Hz  | 3.7515 | 9.78 dB  |
+| Peaking | 19681.8 Hz | 0.7158 | 4.68 dB  |
+| Peaking | 27.4 Hz    | 1.5882 | -1.12 dB |
+| Peaking | 4792.6 Hz  | 7.3355 | 2.35 dB  |
+| Peaking | 5303.4 Hz  | 5.7965 | -4.93 dB |
+| Peaking | 7134.0 Hz  | 3.1371 | 4.27 dB  |
+| Peaking | 11813.2 Hz | 2.3842 | -1.38 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.76dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.83dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -0.36 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 1.43 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -2.94 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.12 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 2.11 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | -1.98 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -2.49 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 5.85 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 1.15 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 1.25 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | -1.55 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 0.62 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -3.22 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -2.02 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 2.16 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -1.93 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -2.44 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 5.90 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 1.22 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 1.34 dB  |
 
 ### Graphs
 ![](./AKG%20K267%20Tiesto%20(stage).png)

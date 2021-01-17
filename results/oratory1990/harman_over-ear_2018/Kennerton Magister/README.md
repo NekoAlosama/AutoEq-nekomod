@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.15dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.23dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.96 dB**.
+When using independent subset of filters, apply preamp of **-9.05 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 12.4 Hz    | 0.3459 | 6.77 dB   |
-| Peaking | 153.1 Hz   | 1.7387 | -7.31 dB  |
-| Peaking | 5492.9 Hz  | 4.0519 | -11.42 dB |
-| Peaking | 7044.7 Hz  | 3.0408 | 9.35 dB   |
-| Peaking | 9373.7 Hz  | 3.7893 | 7.51 dB   |
-| Peaking | 221.0 Hz   | 3.7991 | -3.57 dB  |
-| Peaking | 336.7 Hz   | 3.8418 | 7.84 dB   |
-| Peaking | 1963.5 Hz  | 2.6673 | 3.78 dB   |
-| Peaking | 3697.3 Hz  | 8.2279 | 3.40 dB   |
-| Peaking | 19215.1 Hz | 0.6463 | -11.73 dB |
+| Peaking | 173.6 Hz   | 1.3034 | -7.33 dB  |
+| Peaking | 336.6 Hz   | 3.5184 | 8.63 dB   |
+| Peaking | 5494.9 Hz  | 4.0894 | -11.43 dB |
+| Peaking | 7044.9 Hz  | 3.0154 | 9.38 dB   |
+| Peaking | 9379.0 Hz  | 3.781  | 7.56 dB   |
+| Peaking | 20.7 Hz    | 0.9546 | 4.80 dB   |
+| Peaking | 71.4 Hz    | 7.1002 | 1.82 dB   |
+| Peaking | 1958.0 Hz  | 2.5721 | 3.84 dB   |
+| Peaking | 3708.4 Hz  | 8.574  | 3.53 dB   |
+| Peaking | 19251.8 Hz | 0.646  | -11.62 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.34dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.42dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 5.00 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 2.43 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -6.63 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -0.46 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 2.05 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | -2.07 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 4.70 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | -4.83 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 8.25 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -9.10 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 3.69 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 1.62 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -6.92 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -0.36 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 2.09 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -2.01 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 4.76 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | -4.80 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 8.32 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -9.00 dB |
 
 ### Graphs
 ![](./Kennerton%20Magister.png)

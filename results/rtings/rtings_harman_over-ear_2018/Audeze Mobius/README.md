@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.87dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.63dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.14 dB**.
+When using independent subset of filters, apply preamp of **-6.56 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 28.0 Hz    | 1.0237 | 2.31 dB   |
-| Peaking | 69.5 Hz    | 2.2119 | 1.97 dB   |
-| Peaking | 4299.9 Hz  | 5.6565 | 6.53 dB   |
-| Peaking | 6595.4 Hz  | 2.1483 | 3.50 dB   |
-| Peaking | 19393.1 Hz | 0.635  | -15.85 dB |
-| Peaking | 208.5 Hz   | 2.1756 | -2.14 dB  |
-| Peaking | 1095.6 Hz  | 1.6241 | -1.42 dB  |
-| Peaking | 2992.8 Hz  | 4.2503 | -3.28 dB  |
-| Peaking | 11035.2 Hz | 2.2206 | 2.07 dB   |
-| Peaking | 16590.2 Hz | 1.8955 | -1.65 dB  |
+| Peaking | 210.1 Hz   | 2.3046 | -2.13 dB  |
+| Peaking | 3265.2 Hz  | 1.9213 | -5.67 dB  |
+| Peaking | 4152.0 Hz  | 2.5935 | 8.36 dB   |
+| Peaking | 10498.8 Hz | 0.5088 | 3.92 dB   |
+| Peaking | 19700.5 Hz | 0.332  | -15.75 dB |
+| Peaking | 27.3 Hz    | 1.3322 | 1.16 dB   |
+| Peaking | 75.1 Hz    | 2.0595 | 1.29 dB   |
+| Peaking | 1077.0 Hz  | 1.9253 | -1.35 dB  |
+| Peaking | 7019.6 Hz  | 3.2633 | 2.09 dB   |
+| Peaking | 8051.9 Hz  | 5.4203 | -3.13 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.22dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.29dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | 2.13 dB   |
-| Peaking | 62.5 Hz    | 1.4142 | 1.99 dB   |
-| Peaking | 125.0 Hz   | 1.4142 | -0.13 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | -1.72 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | 0.73 dB   |
-| Peaking | 1000.0 Hz  | 1.4142 | -1.14 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.80 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 3.15 dB   |
-| Peaking | 8000.0 Hz  | 1.4142 | 2.28 dB   |
-| Peaking | 16000.0 Hz | 1.4142 | -11.05 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 0.94 dB   |
+| Peaking | 62.5 Hz    | 1.4142 | 1.19 dB   |
+| Peaking | 125.0 Hz   | 1.4142 | -0.41 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -1.64 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | 0.78 dB   |
+| Peaking | 1000.0 Hz  | 1.4142 | -1.09 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.75 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 3.20 dB   |
+| Peaking | 8000.0 Hz  | 1.4142 | 2.34 dB   |
+| Peaking | 16000.0 Hz | 1.4142 | -10.95 dB |
 
 ### Graphs
 ![](./Audeze%20Mobius.png)

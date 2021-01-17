@@ -15,16 +15,16 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **n
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | 38.91 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 16.11 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 4.02 dB   |
-| Peaking | 250.0 Hz   | 1.4142 | -1.46 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | 2.42 dB   |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.58 dB   |
-| Peaking | 2000.0 Hz  | 1.4142 | -12.80 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 0.94 dB   |
-| Peaking | 8000.0 Hz  | 1.4142 | -1.74 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -1.71 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 38.98 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 14.65 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 3.53 dB   |
+| Peaking | 250.0 Hz   | 1.4142 | -1.25 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | 2.53 dB   |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.59 dB   |
+| Peaking | 2000.0 Hz  | 1.4142 | -12.72 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 0.98 dB   |
+| Peaking | 8000.0 Hz  | 1.4142 | -1.67 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -1.62 dB  |
 
 ### Graphs
 ![](./Audio-Technica%20ATH-ES3.png)

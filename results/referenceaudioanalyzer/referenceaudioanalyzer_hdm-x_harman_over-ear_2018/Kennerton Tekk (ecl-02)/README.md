@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-10.80dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.96dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.80 dB**.
+When using independent subset of filters, apply preamp of **-9.96 dB**.
 
-| Type    | Fc         |      Q | Gain     |
-|:--------|:-----------|:-------|:---------|
-| Peaking | 21.1 Hz    | 0.5058 | 10.75 dB |
-| Peaking | 270.0 Hz   | 0.5143 | -5.89 dB |
-| Peaking | 823.7 Hz   | 3.6413 | -5.99 dB |
-| Peaking | 2198.2 Hz  | 1.0748 | 4.69 dB  |
-| Peaking | 5105.1 Hz  | 1.2377 | 7.04 dB  |
-| Peaking | 433.1 Hz   | 4.6215 | -3.10 dB |
-| Peaking | 552.4 Hz   | 6.4122 | 4.30 dB  |
-| Peaking | 6321.2 Hz  | 8.0781 | 2.77 dB  |
-| Peaking | 12435.5 Hz | 2.0569 | 1.71 dB  |
-| Peaking | 19729.8 Hz | 0.4315 | -7.57 dB |
+| Type    | Fc        |      Q | Gain     |
+|:--------|:----------|:-------|:---------|
+| Peaking | 17.1 Hz   | 0.3458 | 10.29 dB |
+| Peaking | 406.7 Hz  | 0.1885 | -5.79 dB |
+| Peaking | 2058.7 Hz | 0.9534 | 8.05 dB  |
+| Peaking | 4240.9 Hz | 2.4756 | 6.25 dB  |
+| Peaking | 6173.9 Hz | 3.3323 | 6.71 dB  |
+| Peaking | 436.0 Hz  | 3.7141 | -3.40 dB |
+| Peaking | 555.8 Hz  | 3.0454 | 6.88 dB  |
+| Peaking | 836.4 Hz  | 1.6978 | -4.83 dB |
+| Peaking | 1022.1 Hz | 5.1989 | 4.07 dB  |
+| Peaking | 1493.5 Hz | 6.7287 | 2.49 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.15dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.84dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 11.24 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 0.92 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.90 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -5.12 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -3.30 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -3.85 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 4.79 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 6.86 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 2.88 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -4.45 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 9.85 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 0.22 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -2.13 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -5.03 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.28 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -3.80 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 4.84 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 6.91 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 2.94 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -4.36 dB |
 
 ### Graphs
 ![](./Kennerton%20Tekk%20(ecl-02).png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.59dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.64dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.60 dB**.
+When using independent subset of filters, apply preamp of **-7.68 dB**.
 
-| Type    | Fc         |      Q | Gain      |
-|:--------|:-----------|:-------|:----------|
-| Peaking | 38.5 Hz    | 0.48   | 4.03 dB   |
-| Peaking | 273.1 Hz   | 0.2021 | -2.62 dB  |
-| Peaking | 2079.1 Hz  | 2.0497 | 3.93 dB   |
-| Peaking | 4179.7 Hz  | 2.0959 | 7.63 dB   |
-| Peaking | 6772.0 Hz  | 3.1894 | -4.73 dB  |
-| Peaking | 209.2 Hz   | 2.3733 | -1.26 dB  |
-| Peaking | 800.2 Hz   | 1.1568 | 2.94 dB   |
-| Peaking | 962.8 Hz   | 2.6437 | -4.69 dB  |
-| Peaking | 11025.2 Hz | 1.4902 | 3.59 dB   |
-| Peaking | 19686.1 Hz | 0.4643 | -12.93 dB |
+| Type    | Fc         |      Q | Gain     |
+|:--------|:-----------|:-------|:---------|
+| Peaking | 242.5 Hz   | 1.0494 | -3.22 dB |
+| Peaking | 988.4 Hz   | 3.0702 | -3.70 dB |
+| Peaking | 2098.4 Hz  | 1.9806 | 3.31 dB  |
+| Peaking | 4186.5 Hz  | 2.1688 | 7.51 dB  |
+| Peaking | 6780.7 Hz  | 3.306  | -4.68 dB |
+| Peaking | 31.4 Hz    | 0.7841 | 2.19 dB  |
+| Peaking | 432.2 Hz   | 5.6998 | -0.83 dB |
+| Peaking | 10959.6 Hz | 1.554  | 3.45 dB  |
+| Peaking | 19608.0 Hz | 0.3838 | -7.37 dB |
+| Peaking | 19926.8 Hz | 0.5996 | -6.03 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.03dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.11dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 3.47 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 1.65 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -0.75 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.28 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.13 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -3.02 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.69 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 5.77 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -1.64 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -7.22 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 2.25 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 0.84 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -1.04 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.19 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -0.08 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -2.96 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 2.74 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 5.82 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -1.58 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -7.13 dB |
 
 ### Graphs
 ![](./QUAD%20Era-1%20(hybrid%20earpads).png)

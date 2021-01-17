@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.00dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-15.21dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.00 dB**.
+When using independent subset of filters, apply preamp of **-15.22 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 15.5 Hz    | 0.871  | 15.14 dB |
-| Peaking | 37.0 Hz    | 0.5169 | 5.59 dB  |
-| Peaking | 2867.4 Hz  | 5.0351 | -4.81 dB |
-| Peaking | 7456.6 Hz  | 2.163  | -8.69 dB |
-| Peaking | 12580.8 Hz | 1.2978 | 5.90 dB  |
-| Peaking | 545.3 Hz   | 1.2815 | 2.92 dB  |
-| Peaking | 1794.9 Hz  | 2.1224 | 2.29 dB  |
-| Peaking | 2709.8 Hz  | 1.1676 | -1.54 dB |
-| Peaking | 4323.8 Hz  | 3.6408 | 5.00 dB  |
-| Peaking | 4972.4 Hz  | 5.7305 | -4.41 dB |
+| Peaking | 15.2 Hz    | 0.781  | 13.95 dB |
+| Peaking | 33.9 Hz    | 0.4759 | 4.78 dB  |
+| Peaking | 2868.6 Hz  | 5.1012 | -4.75 dB |
+| Peaking | 7460.3 Hz  | 2.1805 | -8.66 dB |
+| Peaking | 12590.8 Hz | 1.2833 | 5.95 dB  |
+| Peaking | 177.2 Hz   | 1.154  | -1.51 dB |
+| Peaking | 496.8 Hz   | 0.9049 | 3.02 dB  |
+| Peaking | 1672.3 Hz  | 3.9946 | 1.65 dB  |
+| Peaking | 4373.0 Hz  | 5.196  | 5.80 dB  |
+| Peaking | 4901.7 Hz  | 4.1722 | -4.19 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-15.18dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.90dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 14.87 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 3.03 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 0.07 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | -0.34 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 3.09 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.86 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -0.36 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.82 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | -4.81 dB |
-| Peaking | 16000.0 Hz | 1.4142 | 4.55 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 12.95 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 2.98 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -0.60 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -0.22 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 3.33 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 1.02 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | -0.76 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | -0.75 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | -4.67 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 4.64 dB  |
 
 ### Graphs
 ![](./Philips%20SBC%20HP910.png)

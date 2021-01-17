@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.16dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.92dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.22 dB**.
+When using independent subset of filters, apply preamp of **-9.66 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 101.2 Hz   | 0.37   | -3.94 dB |
-| Peaking | 2230.6 Hz  | 1.0627 | 4.78 dB  |
-| Peaking | 3948.6 Hz  | 2.8805 | 3.83 dB  |
-| Peaking | 6247.3 Hz  | 0.7509 | -5.62 dB |
-| Peaking | 10321.3 Hz | 1.401  | 11.52 dB |
-| Peaking | 5357.1 Hz  | 5.9242 | -1.28 dB |
-| Peaking | 6186.2 Hz  | 6.7638 | 1.78 dB  |
-| Peaking | 13704.6 Hz | 2.6261 | 1.65 dB  |
-| Peaking | 15519.5 Hz | 2.0317 | 1.27 dB  |
-| Peaking | 19970.7 Hz | 0.6143 | -7.20 dB |
+| Peaking | 48.8 Hz    | 0.5    | -3.73 dB |
+| Peaking | 139.1 Hz   | 0.5521 | -2.78 dB |
+| Peaking | 2042.7 Hz  | 1.5513 | 4.28 dB  |
+| Peaking | 3483.6 Hz  | 3.612  | 1.86 dB  |
+| Peaking | 10829.4 Hz | 2.1883 | 9.41 dB  |
+| Peaking | 4342.3 Hz  | 2.7003 | 2.06 dB  |
+| Peaking | 5215.8 Hz  | 3.6704 | -4.50 dB |
+| Peaking | 7528.3 Hz  | 3.8833 | -3.53 dB |
+| Peaking | 9077.7 Hz  | 4.3337 | 3.59 dB  |
+| Peaking | 19591.1 Hz | 1.4191 | -7.36 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.59dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.71dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -1.20 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -3.06 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.41 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -1.57 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -0.88 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.04 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 4.40 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.31 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 2.94 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 2.24 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | -2.99 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -4.18 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -3.85 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -1.43 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -0.80 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.12 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 4.49 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | -0.23 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.05 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 2.39 dB  |
 
 ### Graphs
 ![](./V-MODA%20BassFit%20Wireless.png)

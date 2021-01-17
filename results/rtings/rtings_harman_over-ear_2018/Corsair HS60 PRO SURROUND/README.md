@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.48dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.52dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.49 dB**.
+When using independent subset of filters, apply preamp of **-7.55 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 106.4 Hz   | 0.7839 | -4.25 dB |
-| Peaking | 226.8 Hz   | 0.6175 | -7.39 dB |
-| Peaking | 545.4 Hz   | 0.6165 | 4.17 dB  |
-| Peaking | 1996.8 Hz  | 1.1106 | 6.78 dB  |
-| Peaking | 12088.6 Hz | 2.1674 | 4.69 dB  |
-| Peaking | 21.6 Hz    | 2.1048 | 1.36 dB  |
-| Peaking | 3919.2 Hz  | 7.1999 | 4.45 dB  |
-| Peaking | 4346.7 Hz  | 4.7081 | -2.93 dB |
-| Peaking | 7671.7 Hz  | 5.1466 | -3.31 dB |
-| Peaking | 9666.8 Hz  | 4.5507 | 1.87 dB  |
+| Peaking | 104.3 Hz   | 0.5355 | -4.96 dB |
+| Peaking | 230.2 Hz   | 0.5633 | -6.39 dB |
+| Peaking | 539.6 Hz   | 0.6299 | 4.49 dB  |
+| Peaking | 1991.7 Hz  | 1.0922 | 6.85 dB  |
+| Peaking | 12091.5 Hz | 2.1295 | 4.75 dB  |
+| Peaking | 3882.8 Hz  | 7.8337 | 4.77 dB  |
+| Peaking | 4341.9 Hz  | 3.8142 | -2.54 dB |
+| Peaking | 6677.9 Hz  | 3.7891 | 2.44 dB  |
+| Peaking | 7385.1 Hz  | 3.0227 | -4.29 dB |
+| Peaking | 9542.4 Hz  | 4.3557 | 2.34 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.92dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.98dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 0.47 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -2.91 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -7.36 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -6.27 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 1.81 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 2.28 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 7.18 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 0.69 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 0.36 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 1.10 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | -0.65 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -3.72 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -7.64 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -6.15 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 1.86 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 2.32 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 7.23 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 0.74 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 0.42 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 1.19 dB  |
 
 ### Graphs
 ![](./Corsair%20HS60%20PRO%20SURROUND.png)

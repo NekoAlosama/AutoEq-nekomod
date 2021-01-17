@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.70dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.72dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.70 dB**.
+When using independent subset of filters, apply preamp of **-8.72 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 72.0 Hz    | 1.0925 | 3.57 dB  |
-| Peaking | 167.3 Hz   | 0.6825 | -5.88 dB |
-| Peaking | 1055.4 Hz  | 0.5309 | 4.27 dB  |
-| Peaking | 7652.8 Hz  | 2.2388 | -6.08 dB |
-| Peaking | 19407.2 Hz | 0.3707 | 8.51 dB  |
-| Peaking | 15.0 Hz    | 1.39   | -0.79 dB |
-| Peaking | 2678.4 Hz  | 4.1132 | -2.14 dB |
-| Peaking | 3922.9 Hz  | 2.3746 | 2.57 dB  |
-| Peaking | 4980.5 Hz  | 2.9434 | -2.35 dB |
-| Peaking | 5949.9 Hz  | 0.8669 | 0.47 dB  |
+| Peaking | 22.7 Hz    | 2.0888 | -1.61 dB |
+| Peaking | 183.8 Hz   | 1.0941 | -5.61 dB |
+| Peaking | 1134.8 Hz  | 0.6088 | 4.24 dB  |
+| Peaking | 7628.3 Hz  | 2.3293 | -6.06 dB |
+| Peaking | 19062.5 Hz | 0.3653 | 8.54 dB  |
+| Peaking | 68.8 Hz    | 2.9521 | 1.56 dB  |
+| Peaking | 2697.9 Hz  | 3.6317 | -2.36 dB |
+| Peaking | 3966.3 Hz  | 1.6684 | 2.87 dB  |
+| Peaking | 5004.3 Hz  | 3.2478 | -2.68 dB |
+| Peaking | 11055.9 Hz | 3.8338 | -1.17 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.95dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.06dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -0.32 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 2.76 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -3.74 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.80 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 1.27 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 4.09 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 1.74 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.46 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -4.37 dB |
-| Peaking | 16000.0 Hz | 1.4142 | 8.96 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | -1.51 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 1.99 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -3.99 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.71 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 1.31 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 4.15 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.79 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.51 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -4.32 dB |
+| Peaking | 16000.0 Hz | 1.4142 | 9.06 dB  |
 
 ### Graphs
 ![](./NAD%20Viso%20HP50.png)

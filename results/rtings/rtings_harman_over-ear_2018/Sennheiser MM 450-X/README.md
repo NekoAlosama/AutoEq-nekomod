@@ -2,38 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.48dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-13.22dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-14.57 dB**.
+When using independent subset of filters, apply preamp of **-13.37 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 21.3 Hz    | 1.6573 | 13.70 dB |
-| Peaking | 2293.8 Hz  | 2.1276 | -5.54 dB |
-| Peaking | 3874.3 Hz  | 3.4539 | 6.54 dB  |
-| Peaking | 8870.8 Hz  | 1.7873 | 6.18 dB  |
-| Peaking | 11125.7 Hz | 2.2877 | 4.37 dB  |
-| Peaking | 188.0 Hz   | 0.6953 | -3.38 dB |
-| Peaking | 704.1 Hz   | 0.9051 | 1.52 dB  |
-| Peaking | 6362.7 Hz  | 2.5897 | -1.84 dB |
-| Peaking | 6857.3 Hz  | 5.3266 | 2.87 dB  |
+| Peaking | 21.5 Hz    | 2.0534 | 12.85 dB |
+| Peaking | 2294.8 Hz  | 2.1729 | -5.50 dB |
+| Peaking | 3876.1 Hz  | 3.4546 | 6.56 dB  |
+| Peaking | 8863.0 Hz  | 1.7709 | 6.20 dB  |
+| Peaking | 11130.3 Hz | 2.2586 | 4.41 dB  |
+| Peaking | 175.2 Hz   | 0.5823 | -3.46 dB |
+| Peaking | 667.8 Hz   | 0.8593 | 1.69 dB  |
+| Peaking | 6402.9 Hz  | 2.5094 | -1.85 dB |
+| Peaking | 6833.2 Hz  | 5.3812 | 2.95 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.06dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.54dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 9.22 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -1.66 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -2.14 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.84 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 0.58 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 2.20 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -5.51 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 3.06 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.80 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -0.59 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 7.90 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -2.37 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -2.42 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -2.75 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 0.60 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 2.25 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | -5.46 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 3.10 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 6.86 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -0.51 dB |
 
 ### Graphs
 ![](./Sennheiser%20MM%20450-X.png)

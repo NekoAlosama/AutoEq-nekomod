@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.37dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.42dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-15.26 dB**.
+When using independent subset of filters, apply preamp of **-14.85 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 16.7 Hz    | 0.4709 | 13.15 dB |
-| Peaking | 51.0 Hz    | 0.6241 | 3.29 dB  |
-| Peaking | 200.8 Hz   | 0.3685 | -8.26 dB |
-| Peaking | 989.3 Hz   | 1.0262 | 4.32 dB  |
-| Peaking | 16747.5 Hz | 0.2355 | 15.06 dB |
-| Peaking | 3592.4 Hz  | 3.3422 | 4.83 dB  |
-| Peaking | 5197.7 Hz  | 2.6893 | -7.23 dB |
-| Peaking | 6420.1 Hz  | 4.7237 | 2.31 dB  |
-| Peaking | 9726.5 Hz  | 2.3234 | 3.10 dB  |
-| Peaking | 16417.6 Hz | 1.8082 | -1.41 dB |
+| Peaking | 16.0 Hz    | 0.2651 | 12.56 dB |
+| Peaking | 220.7 Hz   | 0.2947 | -9.37 dB |
+| Peaking | 964.3 Hz   | 0.5147 | 5.50 dB  |
+| Peaking | 10162.3 Hz | 1.2952 | 6.17 dB  |
+| Peaking | 18206.4 Hz | 0.2642 | 14.37 dB |
+| Peaking | 2383.2 Hz  | 2.0476 | -2.13 dB |
+| Peaking | 3546.7 Hz  | 2.1762 | 5.52 dB  |
+| Peaking | 5150.1 Hz  | 2.9524 | -6.62 dB |
+| Peaking | 6651.4 Hz  | 4.0255 | 2.84 dB  |
+| Peaking | 18058.6 Hz | 3.7286 | -0.85 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-23.83dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-24.24dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 13.53 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 1.51 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -4.68 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -6.77 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -3.25 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 3.29 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 1.14 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.33 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 8.09 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 23.19 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 11.44 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 0.64 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -5.09 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -6.62 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.17 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 3.40 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.21 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.42 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 8.06 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 23.60 dB |
 
 ### Graphs
 ![](./Whizzer%20TP1s%20(closed%20vent).png)

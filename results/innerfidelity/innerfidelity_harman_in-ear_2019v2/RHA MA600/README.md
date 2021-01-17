@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.08dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.89dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.25 dB**.
+When using independent subset of filters, apply preamp of **-7.48 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 179.0 Hz   | 0.5362 | -7.74 dB  |
-| Peaking | 1611.4 Hz  | 1.0048 | 8.42 dB   |
-| Peaking | 7185.2 Hz  | 5.3918 | 4.96 dB   |
-| Peaking | 9717.8 Hz  | 2.2925 | 8.22 dB   |
-| Peaking | 19680.8 Hz | 0.3463 | -13.80 dB |
-| Peaking | 872.1 Hz   | 2.3155 | 1.59 dB   |
-| Peaking | 1350.5 Hz  | 4.2114 | -1.85 dB  |
-| Peaking | 2558.9 Hz  | 2.9911 | 2.25 dB   |
-| Peaking | 5051.9 Hz  | 2.3815 | -7.70 dB  |
-| Peaking | 6106.7 Hz  | 2.4454 | 4.41 dB   |
+| Peaking | 160.3 Hz   | 0.364  | -7.70 dB  |
+| Peaking | 1759.9 Hz  | 0.6478 | 10.96 dB  |
+| Peaking | 7938.9 Hz  | 1.5934 | 8.91 dB   |
+| Peaking | 10978.0 Hz | 1.1118 | 10.47 dB  |
+| Peaking | 19157.9 Hz | 0.0396 | -11.02 dB |
+| Peaking | 818.0 Hz   | 3.5857 | 0.92 dB   |
+| Peaking | 2702.8 Hz  | 2.3553 | 2.54 dB   |
+| Peaking | 5077.1 Hz  | 3.6431 | -3.88 dB  |
+| Peaking | 6360.6 Hz  | 3.6401 | 4.37 dB   |
+| Peaking | 14859.6 Hz | 3.6455 | 0.71 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.11dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.23dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 31.3 Hz    | 1.4142 | -0.26 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -1.83 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -5.66 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | -6.49 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | -1.63 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 3.52 dB   |
-| Peaking | 2000.0 Hz  | 1.4142 | 9.02 dB   |
-| Peaking | 4000.0 Hz  | 1.4142 | -4.77 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 7.20 dB   |
-| Peaking | 16000.0 Hz | 1.4142 | -11.15 dB |
+| Peaking | 31.3 Hz    | 1.4142 | -2.04 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -2.91 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -6.09 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | -6.34 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -1.55 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 3.61 dB   |
+| Peaking | 2000.0 Hz  | 1.4142 | 9.10 dB   |
+| Peaking | 4000.0 Hz  | 1.4142 | -4.70 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 7.29 dB   |
+| Peaking | 16000.0 Hz | 1.4142 | -11.00 dB |
 
 ### Graphs
 ![](./RHA%20MA600.png)

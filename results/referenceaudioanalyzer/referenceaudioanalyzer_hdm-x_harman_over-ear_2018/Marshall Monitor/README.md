@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.61dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.57dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.61 dB**.
+When using independent subset of filters, apply preamp of **-5.57 dB**.
 
 | Type    | Fc        |      Q | Gain     |
 |:--------|:----------|:-------|:---------|
-| Peaking | 19.4 Hz   | 0.97   | 6.18 dB  |
-| Peaking | 99.6 Hz   | 0.5877 | 3.12 dB  |
-| Peaking | 3253.2 Hz | 1.4565 | -7.56 dB |
-| Peaking | 6137.2 Hz | 2.0506 | 5.35 dB  |
-| Peaking | 9133.1 Hz | 2.8192 | 3.02 dB  |
-| Peaking | 324.5 Hz  | 2.6497 | 1.34 dB  |
-| Peaking | 444.5 Hz  | 2.5382 | 0.98 dB  |
-| Peaking | 769.7 Hz  | 1.3829 | -3.34 dB |
-| Peaking | 1442.6 Hz | 1.5787 | 2.25 dB  |
-| Peaking | 2445.0 Hz | 3.1051 | -0.87 dB |
+| Peaking | 20.0 Hz   | 1.1708 | 5.12 dB  |
+| Peaking | 112.7 Hz  | 0.5785 | 2.61 dB  |
+| Peaking | 3253.2 Hz | 1.4844 | -7.48 dB |
+| Peaking | 6158.9 Hz | 2.1296 | 5.29 dB  |
+| Peaking | 9086.3 Hz | 2.529  | 3.07 dB  |
+| Peaking | 359.3 Hz  | 2.0013 | 1.58 dB  |
+| Peaking | 772.4 Hz  | 1.6193 | -3.28 dB |
+| Peaking | 1487.1 Hz | 1.6031 | 2.28 dB  |
+| Peaking | 2659.0 Hz | 1.4568 | -1.14 dB |
+| Peaking | 3236.1 Hz | 4.765  | 1.15 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.72dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.39dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 5.05 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 1.75 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 2.50 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | 1.63 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | -0.55 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.98 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.38 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -5.43 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.07 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -2.38 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 3.85 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 0.99 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 2.24 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | 1.74 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -0.50 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.94 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.33 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | -5.38 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 6.13 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -2.30 dB |
 
 ### Graphs
 ![](./Marshall%20Monitor.png)

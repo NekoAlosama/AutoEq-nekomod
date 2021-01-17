@@ -168,6 +168,8 @@ These headphones are placed in ['bad headphones' folder.](./measurements/bad%20h
 - Beats Studio (Innerfidelity On-ear)
 - Koss KPH7 (Innerfidelity On-ear)
 - Stax SR-3 (Innerfidelity On-ear)
+- Soul by Ludacris SL300 (Innerfidelity On-ear)
+- Stax SR-40 Electret SR4 Adapter (Innerfidelity On-ear)
 - Apple iPod Ear Buds (sample B) (Innerfidelity Earbud)
 - Yuin PK2 (Innerfidelity Earbud)
 - Jabra Elite Active 45e (Rtings In-ear)

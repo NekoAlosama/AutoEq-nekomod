@@ -26,7 +26,7 @@ DEFAULT_F_RES = 10
 DEFAULT_BASS_BOOST_GAIN = 0.0
 DEFAULT_BASS_BOOST_FC = 105.5
 # DEFAULT_BASS_BOOST_Q = 0.71 # Original
-DEFAULT_BASS_BOOST_Q = (2.0 ** 0.5) / 2.0 # Experiment, means sqrt(2)/2, can be reduced to 0.5 ** 0.5
+DEFAULT_BASS_BOOST_Q = pow(2, 0.5)/2 # Experiment, means sqrt(2)/2, can be reduced to 0.5 ** 0.5
 
 DEFAULT_GRAPHIC_EQ_STEP = 1.0563 # Produces 127 samples with greatest frequency of 19871
 

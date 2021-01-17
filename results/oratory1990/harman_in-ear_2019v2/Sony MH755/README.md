@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-5.48dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.64dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.31 dB**.
+When using independent subset of filters, apply preamp of **-5.41 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 19.5 Hz    | 0.9275 | -3.88 dB |
-| Peaking | 196.8 Hz   | 1.1623 | -2.07 dB |
-| Peaking | 3139.1 Hz  | 3.9455 | -1.97 dB |
-| Peaking | 5533.6 Hz  | 2.7468 | 2.52 dB  |
-| Peaking | 10336.1 Hz | 2.2101 | 5.01 dB  |
-| Peaking | 812.5 Hz   | 2.2202 | 1.55 dB  |
-| Peaking | 7814.4 Hz  | 5.6928 | -3.25 dB |
-| Peaking | 8077.2 Hz  | 2.2518 | 1.72 dB  |
-| Peaking | 13519.5 Hz | 2.0088 | 2.27 dB  |
-| Peaking | 19753.6 Hz | 0.5559 | -8.49 dB |
+| Peaking | 12.7 Hz    | 0.3645 | -6.27 dB |
+| Peaking | 173.3 Hz   | 0.9886 | -2.02 dB |
+| Peaking | 3145.6 Hz  | 4.1642 | -1.89 dB |
+| Peaking | 5522.5 Hz  | 2.6447 | 2.58 dB  |
+| Peaking | 10351.9 Hz | 2.1551 | 5.10 dB  |
+| Peaking | 809.4 Hz   | 2.0223 | 1.65 dB  |
+| Peaking | 7748.8 Hz  | 5.6301 | -3.21 dB |
+| Peaking | 8137.0 Hz  | 2.2632 | 1.72 dB  |
+| Peaking | 13555.2 Hz | 2.0443 | 2.22 dB  |
+| Peaking | 19785.0 Hz | 0.5777 | -8.34 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.88dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.97dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -3.16 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 0.47 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.10 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -1.99 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 0.49 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.08 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -0.68 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.31 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 3.84 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | -1.97 dB |
+| Peaking | 31.3 Hz    | 1.4142 | -5.01 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -0.65 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -1.54 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -1.84 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 0.57 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 1.16 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | -0.59 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | -0.22 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.90 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | -1.82 dB |
 
 ### Graphs
 ![](./Sony%20MH755.png)

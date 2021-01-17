@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-11.15dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.99dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-10.95 dB**.
+When using independent subset of filters, apply preamp of **-10.98 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 13.9 Hz    | 0.3555 | 10.09 dB |
-| Peaking | 200.8 Hz   | 1.123  | -6.10 dB |
-| Peaking | 558.9 Hz   | 1.9782 | -4.28 dB |
-| Peaking | 4976.2 Hz  | 1.7138 | 10.69 dB |
-| Peaking | 19480.3 Hz | 0.682  | 7.21 dB  |
-| Peaking | 1837.1 Hz  | 1.4029 | 5.29 dB  |
-| Peaking | 3136.1 Hz  | 4.4134 | -1.95 dB |
-| Peaking | 3422.1 Hz  | 0.3726 | -3.07 dB |
-| Peaking | 4384.9 Hz  | 3.5171 | 3.68 dB  |
-| Peaking | 7032.2 Hz  | 3.1615 | 3.75 dB  |
+| Peaking | 15.0 Hz    | 0.4612 | 9.03 dB  |
+| Peaking | 198.5 Hz   | 1.1053 | -5.98 dB |
+| Peaking | 558.5 Hz   | 2.0261 | -4.21 dB |
+| Peaking | 4978.6 Hz  | 1.6885 | 10.72 dB |
+| Peaking | 19482.7 Hz | 0.6724 | 7.26 dB  |
+| Peaking | 1825.1 Hz  | 1.4224 | 5.01 dB  |
+| Peaking | 3125.3 Hz  | 3.8476 | -2.23 dB |
+| Peaking | 3382.0 Hz  | 0.3421 | -2.53 dB |
+| Peaking | 4339.1 Hz  | 3.6301 | 3.29 dB  |
+| Peaking | 7112.2 Hz  | 3.435  | 3.48 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.18dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.55dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 8.64 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 1.75 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -2.15 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.51 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -3.49 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.35 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 0.95 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 6.63 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 3.16 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 3.50 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 7.18 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 1.06 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -2.42 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -4.41 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -3.44 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.30 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.00 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 6.68 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.22 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 3.59 dB  |
 
 ### Graphs
 ![](./Koss%20Tony%20Bennett.png)

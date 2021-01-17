@@ -1,11 +1,11 @@
-Preamp: -18.03 dB
-Filter 1: ON PK Fc 214.2 Hz Gain -4.47 dB Q 1.0166
-Filter 2: ON PK Fc 871.2 Hz Gain -9.75 dB Q 1.2579
-Filter 3: ON PK Fc 4143.1 Hz Gain 15.87 dB Q 1.9118
-Filter 4: ON PK Fc 10506.7 Hz Gain 7.69 dB Q 2.0592
-Filter 5: ON PK Fc 14364.5 Hz Gain 10.21 dB Q 0.9200
-Filter 6: ON PK Fc 21.7 Hz Gain 4.45 dB Q 1.0796
-Filter 7: ON PK Fc 5331.9 Hz Gain -9.80 dB Q 8.3585
-Filter 8: ON PK Fc 6907.0 Hz Gain -11.16 dB Q 3.8871
-Filter 9: ON PK Fc 7317.6 Hz Gain 6.79 dB Q 0.9059
-Filter 10: ON PK Fc 10313.7 Hz Gain -3.87 dB Q 2.7103
+Preamp: -18.16 dB
+Filter 1: ON PK Fc 206.8 Hz Gain -4.31 dB Q 0.7293
+Filter 2: ON PK Fc 883.8 Hz Gain -9.58 dB Q 1.3360
+Filter 3: ON PK Fc 4148.2 Hz Gain 15.98 dB Q 1.9312
+Filter 4: ON PK Fc 10489.7 Hz Gain 7.61 dB Q 2.0661
+Filter 5: ON PK Fc 14346.9 Hz Gain 10.32 dB Q 0.9122
+Filter 6: ON PK Fc 20.9 Hz Gain 3.37 dB Q 1.6582
+Filter 7: ON PK Fc 5344.1 Hz Gain -9.71 dB Q 8.1781
+Filter 8: ON PK Fc 6894.0 Hz Gain -10.97 dB Q 3.9396
+Filter 9: ON PK Fc 7375.2 Hz Gain 6.73 dB Q 0.8919
+Filter 10: ON PK Fc 10327.6 Hz Gain -3.88 dB Q 2.5530

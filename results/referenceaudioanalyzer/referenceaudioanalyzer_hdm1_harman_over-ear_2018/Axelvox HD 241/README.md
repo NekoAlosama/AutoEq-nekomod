@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-18.32dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-16.77dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-18.34 dB**.
+When using independent subset of filters, apply preamp of **-16.79 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 19.8 Hz    | 0.7421 | 16.43 dB |
-| Peaking | 89.9 Hz    | 0.1332 | 2.46 dB  |
-| Peaking | 5541.6 Hz  | 3.4121 | -6.21 dB |
-| Peaking | 14138.1 Hz | 1.9506 | -1.31 dB |
-| Peaking | 19351.4 Hz | 0.1561 | -6.47 dB |
-| Peaking | 615.1 Hz   | 0.71   | 4.98 dB  |
-| Peaking | 907.2 Hz   | 0.2656 | -3.51 dB |
-| Peaking | 2450.7 Hz  | 2.6011 | -1.91 dB |
-| Peaking | 3821.3 Hz  | 4.161  | 5.04 dB  |
-| Peaking | 9696.7 Hz  | 4.7969 | 1.83 dB  |
+| Peaking | 20.5 Hz    | 0.8357 | 15.26 dB |
+| Peaking | 105.8 Hz   | 0.1465 | 2.43 dB  |
+| Peaking | 5524.0 Hz  | 3.2198 | -6.17 dB |
+| Peaking | 14107.2 Hz | 1.7474 | -1.56 dB |
+| Peaking | 19368.9 Hz | 0.1638 | -6.36 dB |
+| Peaking | 600.4 Hz   | 0.6716 | 5.11 dB  |
+| Peaking | 864.7 Hz   | 0.2517 | -3.62 dB |
+| Peaking | 2453.1 Hz  | 2.6923 | -1.91 dB |
+| Peaking | 3857.3 Hz  | 4.0361 | 5.11 dB  |
+| Peaking | 9418.2 Hz  | 4.4931 | 1.68 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.52dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-16.16dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 17.70 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 1.37 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 2.22 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | 0.80 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | 3.22 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.72 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | -3.26 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | -0.69 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | -4.47 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -9.58 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 15.79 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 0.99 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 2.02 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | 0.92 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | 3.27 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.78 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | -3.21 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | -0.64 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | -4.41 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -9.49 dB |
 
 ### Graphs
 ![](./Axelvox%20HD%20241.png)

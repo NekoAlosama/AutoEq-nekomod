@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-11.11dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.16dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-11.11 dB**.
+When using independent subset of filters, apply preamp of **-10.16 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 19.1 Hz    | 0.5711 | 10.08 dB |
-| Peaking | 51.8 Hz    | 0.586  | 3.19 dB  |
-| Peaking | 221.8 Hz   | 0.3212 | -3.93 dB |
-| Peaking | 1148.4 Hz  | 0.6696 | 3.35 dB  |
-| Peaking | 3311.9 Hz  | 4.7428 | 6.74 dB  |
-| Peaking | 400.0 Hz   | 6.2443 | -1.27 dB |
-| Peaking | 2297.4 Hz  | 4.2335 | 2.25 dB  |
-| Peaking | 3589.7 Hz  | 6.0924 | 1.95 dB  |
-| Peaking | 8074.7 Hz  | 0.5028 | -2.30 dB |
-| Peaking | 22050.0 Hz | 1.9839 | -0.94 dB |
+| Peaking | 17.1 Hz    | 0.3465 | 10.32 dB |
+| Peaking | 257.8 Hz   | 0.3289 | -4.22 dB |
+| Peaking | 1455.4 Hz  | 0.3693 | 4.00 dB  |
+| Peaking | 3365.9 Hz  | 4.0011 | 7.00 dB  |
+| Peaking | 6431.7 Hz  | 0.4495 | -3.06 dB |
+| Peaking | 399.8 Hz   | 5.7547 | -1.31 dB |
+| Peaking | 4419.9 Hz  | 3.2556 | -1.72 dB |
+| Peaking | 6135.1 Hz  | 1.2262 | 2.01 dB  |
+| Peaking | 7113.0 Hz  | 3.8608 | -2.99 dB |
+| Peaking | 19539.9 Hz | 1.4856 | 2.17 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.73dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.96dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 11.26 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 2.12 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.85 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -2.78 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.61 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.77 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.66 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 2.86 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -3.70 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -0.79 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 9.85 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 1.46 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -2.11 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -2.67 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -1.56 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 1.82 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 2.73 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 2.87 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -3.62 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -0.70 dB |
 
 ### Graphs
 ![](./Beyerdynamic%20Amiron%20Wireless.png)

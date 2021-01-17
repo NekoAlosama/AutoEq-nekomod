@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.06dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-15.14dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.53 dB**.
+When using independent subset of filters, apply preamp of **-13.56 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 202.9 Hz   | 1.0675 | -5.69 dB |
-| Peaking | 1230.8 Hz  | 1.7604 | -8.37 dB |
-| Peaking | 3910.0 Hz  | 2.0202 | 12.89 dB |
-| Peaking | 7043.1 Hz  | 3.3877 | 7.01 dB  |
-| Peaking | 14455.2 Hz | 0.4356 | 3.22 dB  |
-| Peaking | 22.9 Hz    | 0.6326 | 2.41 dB  |
-| Peaking | 564.7 Hz   | 2.83   | 5.61 dB  |
-| Peaking | 606.2 Hz   | 0.8847 | -2.85 dB |
-| Peaking | 3018.0 Hz  | 0.4541 | 0.96 dB  |
-| Peaking | 5067.4 Hz  | 7.1097 | -4.74 dB |
+| Peaking | 191.5 Hz   | 0.909  | -5.62 dB |
+| Peaking | 1234.9 Hz  | 1.7999 | -8.32 dB |
+| Peaking | 3909.7 Hz  | 2.005  | 12.89 dB |
+| Peaking | 7036.8 Hz  | 3.4916 | 7.03 dB  |
+| Peaking | 14432.4 Hz | 0.4228 | 3.28 dB  |
+| Peaking | 562.6 Hz   | 4.1915 | 3.99 dB  |
+| Peaking | 1030.2 Hz  | 0.3027 | -0.91 dB |
+| Peaking | 2377.5 Hz  | 2.951  | 2.68 dB  |
+| Peaking | 4318.5 Hz  | 8.6146 | 4.54 dB  |
+| Peaking | 4946.3 Hz  | 6.4206 | -4.56 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.14dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.21dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 2.34 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 0.92 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -3.13 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -5.55 dB |
-| Peaking | 500.0 Hz   | 1.4142 | 2.60 dB  |
-| Peaking | 1000.0 Hz  | 1.4142 | -7.66 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -1.60 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 11.69 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | 5.03 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 3.53 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 1.09 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 0.11 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -3.39 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -5.44 dB |
+| Peaking | 500.0 Hz   | 1.4142 | 2.64 dB  |
+| Peaking | 1000.0 Hz  | 1.4142 | -7.61 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -1.56 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 11.74 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | 5.10 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 3.62 dB  |
 
 ### Graphs
 ![](./Meze%2088%20Classics.png)

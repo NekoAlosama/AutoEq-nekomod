@@ -2,38 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.78dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.29dB** and build filters manually
 with these parameters. The first 4 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.64 dB**.
+When using independent subset of filters, apply preamp of **-8.80 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 16.8 Hz    | 0.748  | -1.86 dB |
-| Peaking | 201.8 Hz   | 0.3174 | -4.04 dB |
-| Peaking | 3299.8 Hz  | 0.8872 | 9.77 dB  |
-| Peaking | 20168.7 Hz | 0.0679 | -6.23 dB |
-| Peaking | 1290.9 Hz  | 2.9191 | -0.67 dB |
-| Peaking | 2056.0 Hz  | 4.0552 | 0.98 dB  |
-| Peaking | 4552.4 Hz  | 4.1518 | 1.06 dB  |
-| Peaking | 7963.1 Hz  | 3.7927 | -2.33 dB |
-| Peaking | 12821.5 Hz | 2.0218 | 2.56 dB  |
+| Peaking | 13.9 Hz    | 0.5609 | -3.51 dB |
+| Peaking | 157.1 Hz   | 0.2712 | -4.29 dB |
+| Peaking | 3247.9 Hz  | 0.9145 | 9.61 dB  |
+| Peaking | 19381.5 Hz | 0.1138 | -6.19 dB |
+| Peaking | 2134.0 Hz  | 2.0262 | 2.45 dB  |
+| Peaking | 2613.6 Hz  | 0.8285 | -1.81 dB |
+| Peaking | 4463.0 Hz  | 2.401  | 1.89 dB  |
+| Peaking | 7972.9 Hz  | 3.7769 | -2.45 dB |
+| Peaking | 12894.7 Hz | 2.018  | 2.52 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.66dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.77dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | -1.75 dB |
-| Peaking | 62.5 Hz    | 1.4142 | -1.43 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -3.19 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -3.57 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.64 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -1.33 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 4.45 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 8.44 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -4.55 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -7.38 dB |
+| Peaking | 31.3 Hz    | 1.4142 | -3.61 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -2.55 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -3.62 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.43 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -1.55 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -1.25 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 4.53 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 8.52 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | -4.45 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -7.23 dB |
 
 ### Graphs
 ![](./Noble%20Audio%20Tux%205.png)

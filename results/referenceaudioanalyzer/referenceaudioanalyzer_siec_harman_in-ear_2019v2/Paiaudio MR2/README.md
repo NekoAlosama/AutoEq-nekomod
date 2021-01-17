@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-17.70dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-18.74dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-19.74 dB**.
+When using independent subset of filters, apply preamp of **-19.84 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 19.3 Hz    | 0.6087 | 2.68 dB   |
-| Peaking | 205.0 Hz   | 0.548  | -7.32 dB  |
-| Peaking | 2924.0 Hz  | 1.2651 | 7.26 dB   |
-| Peaking | 5706.5 Hz  | 4.323  | 9.55 dB   |
-| Peaking | 14084.8 Hz | 1.2484 | 19.39 dB  |
-| Peaking | 6516.3 Hz  | 3.8014 | 4.97 dB   |
-| Peaking | 8339.4 Hz  | 2.6009 | -10.06 dB |
-| Peaking | 11814.4 Hz | 2.5383 | 6.91 dB   |
-| Peaking | 13962.3 Hz | 3.777  | -4.45 dB  |
-| Peaking | 16784.8 Hz | 1.7757 | 3.40 dB   |
+| Peaking | 114.2 Hz   | 0.7541 | -4.09 dB  |
+| Peaking | 265.5 Hz   | 0.8118 | -5.73 dB  |
+| Peaking | 2936.2 Hz  | 1.2944 | 7.36 dB   |
+| Peaking | 5706.9 Hz  | 4.3593 | 9.71 dB   |
+| Peaking | 14089.4 Hz | 1.2368 | 19.49 dB  |
+| Peaking | 6537.9 Hz  | 3.869  | 5.02 dB   |
+| Peaking | 8343.7 Hz  | 2.5917 | -10.03 dB |
+| Peaking | 11864.6 Hz | 2.5074 | 6.91 dB   |
+| Peaking | 14337.6 Hz | 3.7752 | -4.51 dB  |
+| Peaking | 16918.2 Hz | 1.7593 | 3.37 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-23.33dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-23.51dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 2.41 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -1.02 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -4.54 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -6.61 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -2.37 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 0.34 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.46 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 8.60 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 0.55 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 23.03 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 0.52 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | -2.12 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -4.96 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -6.46 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -2.29 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 0.41 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 2.54 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 8.68 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 0.61 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 23.20 dB |
 
 ### Graphs
 ![](./Paiaudio%20MR2.png)

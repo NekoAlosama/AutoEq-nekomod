@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-9.58dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.34dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-9.58 dB**.
+When using independent subset of filters, apply preamp of **-9.25 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 16.5 Hz    | 0.211  | 9.70 dB  |
-| Peaking | 574.2 Hz   | 0.1633 | -5.50 dB |
-| Peaking | 3492.6 Hz  | 0.8599 | 11.31 dB |
-| Peaking | 12512.9 Hz | 0.7904 | 4.86 dB  |
-| Peaking | 22049.9 Hz | 1.9622 | 4.28 dB  |
-| Peaking | 1337.6 Hz  | 3.3518 | -2.97 dB |
-| Peaking | 2189.2 Hz  | 3.2109 | 3.12 dB  |
-| Peaking | 4464.6 Hz  | 3.2133 | 4.05 dB  |
-| Peaking | 4706.8 Hz  | 1.0879 | -2.99 dB |
-| Peaking | 6982.1 Hz  | 4.8245 | 2.66 dB  |
+| Peaking | 17.2 Hz    | 0.2841 | 7.93 dB  |
+| Peaking | 643.0 Hz   | 0.183  | -5.30 dB |
+| Peaking | 3494.7 Hz  | 0.8611 | 11.30 dB |
+| Peaking | 12517.9 Hz | 0.7729 | 4.95 dB  |
+| Peaking | 22049.4 Hz | 1.943  | 4.41 dB  |
+| Peaking | 1337.8 Hz  | 3.3587 | -2.98 dB |
+| Peaking | 2186.0 Hz  | 3.2003 | 3.11 dB  |
+| Peaking | 4492.2 Hz  | 3.2006 | 4.10 dB  |
+| Peaking | 4693.2 Hz  | 1.0996 | -3.03 dB |
+| Peaking | 6953.2 Hz  | 4.8469 | 2.67 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.39dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.84dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 9.84 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 3.11 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -0.88 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.09 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -2.36 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -5.99 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 1.90 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 8.82 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 3.90 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 4.53 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | 7.91 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 2.11 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -1.34 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -3.94 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -2.27 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -5.85 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 1.97 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 8.90 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 3.97 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 4.66 dB  |
 
 ### Graphs
 ![](./NVX%20EX10S.png)

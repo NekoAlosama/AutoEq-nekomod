@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-20.56dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-19.91dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-20.56 dB**.
+When using independent subset of filters, apply preamp of **-19.91 dB**.
 
 | Type    | Fc         |      Q | Gain      |
 |:--------|:-----------|:-------|:----------|
-| Peaking | 13.3 Hz    | 0.8775 | 20.67 dB  |
-| Peaking | 35.3 Hz    | 0.3489 | 9.51 dB   |
-| Peaking | 1706.7 Hz  | 0.8306 | -9.83 dB  |
-| Peaking | 4602.0 Hz  | 1.4818 | 23.49 dB  |
-| Peaking | 5819.7 Hz  | 1.5311 | -15.45 dB |
-| Peaking | 488.2 Hz   | 6.1656 | -1.38 dB  |
-| Peaking | 6665.0 Hz  | 4.813  | 2.29 dB   |
-| Peaking | 7904.7 Hz  | 2.7044 | -4.00 dB  |
-| Peaking | 9046.8 Hz  | 4.1956 | 3.35 dB   |
-| Peaking | 11924.1 Hz | 3.9307 | 2.19 dB   |
+| Peaking | 12.2 Hz    | 0.7982 | 19.57 dB  |
+| Peaking | 29.7 Hz    | 0.2933 | 9.17 dB   |
+| Peaking | 1712.5 Hz  | 0.848  | -9.78 dB  |
+| Peaking | 4613.9 Hz  | 1.4892 | 23.30 dB  |
+| Peaking | 5804.5 Hz  | 1.5537 | -15.34 dB |
+| Peaking | 308.1 Hz   | 4.3202 | 0.84 dB   |
+| Peaking | 491.8 Hz   | 6.3354 | -1.50 dB  |
+| Peaking | 7941.0 Hz  | 5.6228 | -4.36 dB  |
+| Peaking | 8817.7 Hz  | 2.5827 | 2.14 dB   |
+| Peaking | 12059.4 Hz | 4.3696 | 1.90 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-22.81dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-20.11dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 21.68 dB |
-| Peaking | 62.5 Hz    | 1.4142 | 4.39 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | 2.97 dB  |
-| Peaking | 250.0 Hz   | 1.4142 | 0.68 dB  |
-| Peaking | 500.0 Hz   | 1.4142 | -0.52 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -3.46 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | -8.48 dB |
-| Peaking | 4000.0 Hz  | 1.4142 | 10.75 dB |
-| Peaking | 8000.0 Hz  | 1.4142 | -3.39 dB |
-| Peaking | 16000.0 Hz | 1.4142 | -1.33 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 19.46 dB |
+| Peaking | 62.5 Hz    | 1.4142 | 4.26 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | 2.86 dB  |
+| Peaking | 250.0 Hz   | 1.4142 | 0.81 dB  |
+| Peaking | 500.0 Hz   | 1.4142 | -0.46 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -3.42 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | -8.43 dB |
+| Peaking | 4000.0 Hz  | 1.4142 | 10.80 dB |
+| Peaking | 8000.0 Hz  | 1.4142 | -3.33 dB |
+| Peaking | 16000.0 Hz | 1.4142 | -1.24 dB |
 
 ### Graphs
 ![](./Yamaha%20PRO%20300.png)

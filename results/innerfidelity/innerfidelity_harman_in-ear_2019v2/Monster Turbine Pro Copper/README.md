@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.28dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.31dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.27 dB**.
+When using independent subset of filters, apply preamp of **-6.55 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 232.2 Hz   | 0.5869 | -4.91 dB |
-| Peaking | 1098.8 Hz  | 0.5232 | 1.51 dB  |
-| Peaking | 3830.1 Hz  | 2.6762 | 2.12 dB  |
-| Peaking | 6695.0 Hz  | 2.2921 | 3.95 dB  |
-| Peaking | 9590.2 Hz  | 1.2086 | 4.12 dB  |
-| Peaking | 39.6 Hz    | 1.9301 | 0.77 dB  |
-| Peaking | 2421.0 Hz  | 4.4197 | 1.40 dB  |
-| Peaking | 2730.8 Hz  | 4.1509 | -1.45 dB |
-| Peaking | 3487.7 Hz  | 3.9064 | 0.32 dB  |
-| Peaking | 14397.3 Hz | 3.2654 | 0.51 dB  |
+| Peaking | 241.5 Hz   | 0.2828 | -4.97 dB |
+| Peaking | 864.5 Hz   | 0.5802 | 3.34 dB  |
+| Peaking | 3812.5 Hz  | 2.089  | 2.09 dB  |
+| Peaking | 6691.8 Hz  | 2.2541 | 3.63 dB  |
+| Peaking | 9222.7 Hz  | 1.0696 | 4.16 dB  |
+| Peaking | 22.8 Hz    | 1.7846 | -1.06 dB |
+| Peaking | 2118.4 Hz  | 2.521  | 1.92 dB  |
+| Peaking | 2220.9 Hz  | 1.1784 | -1.16 dB |
+| Peaking | 7699.7 Hz  | 3.0215 | -0.35 dB |
+| Peaking | 14219.4 Hz | 1.8576 | 0.53 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.74dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.87dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 0.40 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | -0.09 dB |
-| Peaking | 125.0 Hz   | 1.4142 | -2.82 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -4.34 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -1.32 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | 1.25 dB  |
-| Peaking | 2000.0 Hz  | 1.4142 | 0.66 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 1.87 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | 6.21 dB  |
-| Peaking | 16000.0 Hz | 1.4142 | 0.85 dB  |
+| Peaking | 31.3 Hz    | 1.4142 | -1.39 dB |
+| Peaking | 62.5 Hz    | 1.4142 | -1.22 dB |
+| Peaking | 125.0 Hz   | 1.4142 | -3.26 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -4.20 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -1.24 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | 1.34 dB  |
+| Peaking | 2000.0 Hz  | 1.4142 | 0.74 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 1.95 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 6.31 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 0.99 dB  |
 
 ### Graphs
 ![](./Monster%20Turbine%20Pro%20Copper.png)

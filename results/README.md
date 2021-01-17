@@ -7,7 +7,7 @@ Recommendation priority is: oratory1990 > Crinacle > Innerfidelity > Rtings > He
 Reference Audio Analyzer. This means if there are measurements from multiple sources for the same headphone
 model only the highest priority result will be shown in this list.
 
-This list has 3166 headphone models covered but if your headphone is missing you can create settings for
+This list has 3164 headphone models covered but if your headphone is missing you can create settings for
 it yourself by following this guide:
 [Equalizing Headphones the Easy Way](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 
@@ -3037,7 +3037,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Soranik SP3 SE](./crinacle/harman_in-ear_2019v2/Soranik%20SP3%20SE)
 - [Soul by Ludacris SL100](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20by%20Ludacris%20SL100)
 - [Soul by Ludacris SL150](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20by%20Ludacris%20SL150)
-- [Soul by Ludacris SL300](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20by%20Ludacris%20SL300)
 - [Soul Combat](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20Combat)
 - [Soul Jet Pro ANC Off](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20Jet%20Pro%20ANC%20Off)
 - [Soul Jet Pro ANC On](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20Jet%20Pro%20ANC%20On)
@@ -3096,7 +3095,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Stax SR-207 (EP-507 leather earpads)](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207%20(EP-507%20leather%20earpads))
 - [Stax SR-3](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-3)
 - [Stax SR-40](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-40)
-- [Stax SR-40 Electret SR4 Adapter](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-40%20Electret%20SR4%20Adapter)
 - [Stax SR-404](./oratory1990/harman_over-ear_2018/Stax%20SR-404)
 - [Stax SR-404 (with perfect seal)](./oratory1990/harman_over-ear_2018/Stax%20SR-404%20(with%20perfect%20seal))
 - [Stax SR-404 Limited](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-404%20Limited)

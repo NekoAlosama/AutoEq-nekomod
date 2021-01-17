@@ -4255,7 +4255,6 @@ from the same source.
 - [Soranik SP3](./crinacle/harman_in-ear_2019v2/Soranik%20SP3) by Crinacle
 - [Soul by Ludacris SL100](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20by%20Ludacris%20SL100) by Innerfidelity
 - [Soul by Ludacris SL150](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20by%20Ludacris%20SL150) by Innerfidelity
-- [Soul by Ludacris SL300](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20by%20Ludacris%20SL300) by Innerfidelity
 - [Soul Combat](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20Combat) by Innerfidelity
 - [Soul Jet Pro ANC Off](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20Jet%20Pro%20ANC%20Off) by Innerfidelity
 - [Soul Jet Pro ANC On](./innerfidelity/innerfidelity_harman_over-ear_2018/Soul%20Jet%20Pro%20ANC%20On) by Innerfidelity
@@ -4327,7 +4326,6 @@ from the same source.
 - [Stax SR-207 (EP-507 leather earpads)](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207%20(EP-507%20leather%20earpads)) by Innerfidelity
 - [Stax SR-207](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-207) by Innerfidelity
 - [Stax SR-3](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-3) by Crinacle, GRAS 43AG-7
-- [Stax SR-40 Electret SR4 Adapter](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-40%20Electret%20SR4%20Adapter) by Innerfidelity
 - [Stax SR-404 (with perfect seal)](./oratory1990/harman_over-ear_2018/Stax%20SR-404%20(with%20perfect%20seal)) by oratory1990
 - [Stax SR-404 Limited](./crinacle/gras_43ag-7_harman_over-ear_2018/Stax%20SR-404%20Limited) by Crinacle, GRAS 43AG-7
 - [Stax SR-404 Ltd SSL-0670](./innerfidelity/innerfidelity_harman_over-ear_2018/Stax%20SR-404%20Ltd%20SSL-0670) by Innerfidelity

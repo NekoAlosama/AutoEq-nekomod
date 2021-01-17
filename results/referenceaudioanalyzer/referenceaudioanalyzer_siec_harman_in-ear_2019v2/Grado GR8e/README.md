@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-12.95dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-13.42dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-12.88 dB**.
+When using independent subset of filters, apply preamp of **-12.99 dB**.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 24.9 Hz    | 0.342  | 5.46 dB  |
-| Peaking | 254.5 Hz   | 0.5955 | -5.45 dB |
-| Peaking | 3202.1 Hz  | 2.0852 | 9.33 dB  |
-| Peaking | 13131.5 Hz | 1.9143 | 8.15 dB  |
-| Peaking | 16686.9 Hz | 0.7372 | 8.36 dB  |
-| Peaking | 1947.7 Hz  | 3.4251 | 1.71 dB  |
-| Peaking | 2483.7 Hz  | 4.5144 | -2.34 dB |
-| Peaking | 4216.7 Hz  | 4.0991 | -6.31 dB |
-| Peaking | 6044.7 Hz  | 1.816  | 9.14 dB  |
-| Peaking | 7970.6 Hz  | 3.287  | -9.50 dB |
+| Peaking | 24.8 Hz    | 0.4139 | 3.77 dB  |
+| Peaking | 254.3 Hz   | 0.5983 | -5.21 dB |
+| Peaking | 3202.9 Hz  | 1.9756 | 9.26 dB  |
+| Peaking | 13134.6 Hz | 1.8991 | 8.19 dB  |
+| Peaking | 16706.7 Hz | 0.7291 | 8.42 dB  |
+| Peaking | 4023.5 Hz  | 6.6381 | -3.53 dB |
+| Peaking | 4497.7 Hz  | 4.1616 | -4.01 dB |
+| Peaking | 6011.8 Hz  | 2.1124 | 9.10 dB  |
+| Peaking | 7997.3 Hz  | 2.7727 | -9.94 dB |
+| Peaking | 9020.6 Hz  | 0.8504 | 1.44 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-16.86dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.04dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc         |      Q | Gain     |
 |:--------|:-----------|:-------|:---------|
-| Peaking | 31.3 Hz    | 1.4142 | 5.79 dB  |
-| Peaking | 62.5 Hz    | 1.4142 | 2.35 dB  |
-| Peaking | 125.0 Hz   | 1.4142 | -1.30 dB |
-| Peaking | 250.0 Hz   | 1.4142 | -5.02 dB |
-| Peaking | 500.0 Hz   | 1.4142 | -2.46 dB |
-| Peaking | 1000.0 Hz  | 1.4142 | -0.69 dB |
-| Peaking | 2000.0 Hz  | 1.4142 | 2.23 dB  |
-| Peaking | 4000.0 Hz  | 1.4142 | 6.21 dB  |
-| Peaking | 8000.0 Hz  | 1.4142 | -0.07 dB |
-| Peaking | 16000.0 Hz | 1.4142 | 16.61 dB |
+| Peaking | 31.3 Hz    | 1.4142 | 4.05 dB  |
+| Peaking | 62.5 Hz    | 1.4142 | 1.23 dB  |
+| Peaking | 125.0 Hz   | 1.4142 | -1.75 dB |
+| Peaking | 250.0 Hz   | 1.4142 | -4.89 dB |
+| Peaking | 500.0 Hz   | 1.4142 | -2.37 dB |
+| Peaking | 1000.0 Hz  | 1.4142 | -0.60 dB |
+| Peaking | 2000.0 Hz  | 1.4142 | 2.31 dB  |
+| Peaking | 4000.0 Hz  | 1.4142 | 6.29 dB  |
+| Peaking | 8000.0 Hz  | 1.4142 | 0.01 dB  |
+| Peaking | 16000.0 Hz | 1.4142 | 16.78 dB |
 
 ### Graphs
 ![](./Grado%20GR8e.png)
