@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.97dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.0 dB**.
+When using independent subset of filters, apply preamp of **-5.97 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 181 Hz   | 1.07 | -3.6 dB |
-| Peaking | 478 Hz   | 1.92 | 3.8 dB  |
-| Peaking | 10702 Hz | 1.23 | 2.4 dB  |
-| Peaking | 14439 Hz | 1.67 | 1.0 dB  |
-| Peaking | 19229 Hz | 0.26 | 5.7 dB  |
-| Peaking | 27 Hz    | 1.46 | -1.4 dB |
-| Peaking | 1093 Hz  | 3    | -2.7 dB |
-| Peaking | 3233 Hz  | 3.55 | -3.2 dB |
-| Peaking | 4815 Hz  | 3.2  | 4.4 dB  |
-| Peaking | 5759 Hz  | 4.8  | -3.0 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 192.49 Hz   | 1.73 | -3.76 dB |
+| Peaking | 493.50 Hz   | 2.22 | 3.51 dB  |
+| Peaking | 10681.09 Hz | 1.31 | 2.42 dB  |
+| Peaking | 14289.73 Hz | 1.71 | 1.11 dB  |
+| Peaking | 19072.74 Hz | 0.29 | 5.63 dB  |
+| Peaking | 57.06 Hz    | 1.27 | 1.77 dB  |
+| Peaking | 1096.14 Hz  | 2.85 | -2.71 dB |
+| Peaking | 3226.14 Hz  | 3.51 | -3.20 dB |
+| Peaking | 4800.58 Hz  | 3.31 | 4.26 dB  |
+| Peaking | 5778.81 Hz  | 5.12 | -2.87 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.80dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.6 dB |
-| Peaking | 62 Hz    | 1.41 | 0.8 dB  |
-| Peaking | 125 Hz   | 1.41 | -2.3 dB |
-| Peaking | 250 Hz   | 1.41 | -2.9 dB |
-| Peaking | 500 Hz   | 1.41 | 4.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | -2.5 dB |
-| Peaking | 2000 Hz  | 1.41 | -0.1 dB |
-| Peaking | 4000 Hz  | 1.41 | 0.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.0 dB  |
-| Peaking | 16000 Hz | 1.41 | 8.6 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 0.32 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 2.24 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -1.96 dB |
+| Peaking | 250.00 Hz   | 1.41 | -3.05 dB |
+| Peaking | 500.00 Hz   | 1.41 | 4.63 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -2.58 dB |
+| Peaking | 2000.00 Hz  | 1.41 | -0.20 dB |
+| Peaking | 4000.00 Hz  | 1.41 | -0.06 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 2.90 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 8.46 dB  |
 
 ### Graphs
 ![](./Bose%20SoundTrue%20Around-Ear%20II.png)

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.34dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2 dB**.
+When using independent subset of filters, apply preamp of **-12.34 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 38 Hz    | 0.26 | 6.5 dB  |
-| Peaking | 467 Hz   | 0.84 | 4.8 dB  |
-| Peaking | 562 Hz   | 0.24 | -4.9 dB |
-| Peaking | 1989 Hz  | 1.48 | -5.8 dB |
-| Peaking | 8630 Hz  | 0.89 | 7.3 dB  |
-| Peaking | 3594 Hz  | 3.42 | 1.7 dB  |
-| Peaking | 5255 Hz  | 2.54 | -4.0 dB |
-| Peaking | 5984 Hz  | 4.89 | 5.3 dB  |
-| Peaking | 12727 Hz | 2.1  | 2.9 dB  |
-| Peaking | 19856 Hz | 0.56 | -8.4 dB |
+| Type    | Fc         |    Q | Gain     |
+|:--------|:-----------|:-----|:---------|
+| Peaking | 20.27 Hz   | 0.72 | 11.03 dB |
+| Peaking | 58.46 Hz   | 0.73 | 4.72 dB  |
+| Peaking | 1822.74 Hz | 0.94 | -7.93 dB |
+| Peaking | 7096.41 Hz | 2.38 | 8.51 dB  |
+| Peaking | 9901.27 Hz | 1.51 | 7.55 dB  |
+| Peaking | 214.34 Hz  | 4.04 | -1.36 dB |
+| Peaking | 3760.62 Hz | 2.32 | 3.73 dB  |
+| Peaking | 5217.27 Hz | 1.24 | -4.28 dB |
+| Peaking | 5989.02 Hz | 6.42 | 5.47 dB  |
+| Peaking | 8427.62 Hz | 3.25 | 1.70 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.57dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.6 dB  |
-| Peaking | 62 Hz    | 1.41 | 4.3 dB  |
-| Peaking | 125 Hz   | 1.41 | 1.4 dB  |
-| Peaking | 250 Hz   | 1.41 | -0.9 dB |
-| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | -2.8 dB |
-| Peaking | 2000 Hz  | 1.41 | -7.8 dB |
-| Peaking | 4000 Hz  | 1.41 | -0.2 dB |
-| Peaking | 8000 Hz  | 1.41 | 8.5 dB  |
-| Peaking | 16000 Hz | 1.41 | -1.2 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 12.06 dB |
+| Peaking | 62.50 Hz    | 1.41 | 4.48 dB  |
+| Peaking | 125.00 Hz   | 1.41 | 1.88 dB  |
+| Peaking | 250.00 Hz   | 1.41 | -1.10 dB |
+| Peaking | 500.00 Hz   | 1.41 | 1.15 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -2.94 dB |
+| Peaking | 2000.00 Hz  | 1.41 | -7.83 dB |
+| Peaking | 4000.00 Hz  | 1.41 | -1.48 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 12.69 dB |
+| Peaking | 16000.01 Hz | 1.41 | -2.05 dB |
 
 ### Graphs
 ![](./Sony%20DR-Z7.png)

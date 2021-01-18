@@ -2,36 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.42dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.3 dB**.
+When using independent subset of filters, apply preamp of **-14.31 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 34 Hz    | 0.53 | -0.7 dB  |
-| Peaking | 119 Hz   | 0.35 | -4.2 dB  |
-| Peaking | 320 Hz   | 0.36 | -12.7 dB |
-| Peaking | 1276 Hz  | 0.91 | 6.5 dB   |
-| Peaking | 12541 Hz | 0.06 | 6.1 dB   |
-| Peaking | 2013 Hz  | 4.49 | -0.8 dB  |
-| Peaking | 2323 Hz  | 1.55 | 0.5 dB   |
+| Type    | Fc         |    Q | Gain      |
+|:--------|:-----------|:-----|:----------|
+| Peaking | 133.08 Hz  | 0.68 | -5.18 dB  |
+| Peaking | 308.72 Hz  | 0.54 | -13.04 dB |
+| Peaking | 1406.78 Hz | 2.07 | 7.42 dB   |
+| Peaking | 3369.15 Hz | 2.02 | 4.84 dB   |
+| Peaking | 9644.54 Hz | 0.24 | 13.99 dB  |
+| Peaking | 19.08 Hz   | 1.73 | 1.51 dB   |
+| Peaking | 908.92 Hz  | 4.43 | 1.36 dB   |
+| Peaking | 2090.63 Hz | 6.19 | -2.52 dB  |
+| Peaking | 2668.84 Hz | 4    | 1.15 dB   |
+| Peaking | 6279.42 Hz | 4.19 | 0.96 dB   |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-18.14dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | -2.3 dB  |
-| Peaking | 62 Hz    | 1.41 | -5.0 dB  |
-| Peaking | 125 Hz   | 1.41 | -9.0 dB  |
-| Peaking | 250 Hz   | 1.41 | -13.1 dB |
-| Peaking | 500 Hz   | 1.41 | -9.1 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.6 dB   |
-| Peaking | 2000 Hz  | 1.41 | 5.9 dB   |
-| Peaking | 4000 Hz  | 1.41 | 4.5 dB   |
-| Peaking | 8000 Hz  | 1.41 | 6.1 dB   |
-| Peaking | 16000 Hz | 1.41 | 8.6 dB   |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 31.25 Hz    | 1.41 | 0.69 dB   |
+| Peaking | 62.50 Hz    | 1.41 | -3.00 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -8.31 dB  |
+| Peaking | 250.00 Hz   | 1.41 | -13.38 dB |
+| Peaking | 500.00 Hz   | 1.41 | -9.34 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 3.34 dB   |
+| Peaking | 2000.00 Hz  | 1.41 | 6.18 dB   |
+| Peaking | 4000.00 Hz  | 1.41 | 10.64 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 15.00 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 14.48 dB  |
 
 ### Graphs
 ![](./SENSO%20ActivBuds%20S-250.png)

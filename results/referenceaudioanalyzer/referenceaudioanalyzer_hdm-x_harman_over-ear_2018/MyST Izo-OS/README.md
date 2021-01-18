@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.91dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.1 dB**.
+When using independent subset of filters, apply preamp of **-7.91 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 19 Hz    | 0.92 | 6.3 dB  |
-| Peaking | 112 Hz   | 0.45 | -1.9 dB |
-| Peaking | 2998 Hz  | 2.56 | 3.4 dB  |
-| Peaking | 5397 Hz  | 4.41 | 4.9 dB  |
-| Peaking | 19230 Hz | 0.42 | -9.1 dB |
-| Peaking | 707 Hz   | 1.48 | 0.9 dB  |
-| Peaking | 1350 Hz  | 2.32 | -2.2 dB |
-| Peaking | 1887 Hz  | 3.46 | 1.4 dB  |
-| Peaking | 9707 Hz  | 1.71 | 1.8 dB  |
-| Peaking | 9943 Hz  | 0.7  | -0.8 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 18.35 Hz    | 0.78 | 7.86 dB  |
+| Peaking | 186.10 Hz   | 0.88 | -1.77 dB |
+| Peaking | 3007.09 Hz  | 2.72 | 3.30 dB  |
+| Peaking | 5338.28 Hz  | 4.34 | 4.80 dB  |
+| Peaking | 19067.78 Hz | 0.44 | -9.16 dB |
+| Peaking | 1267.21 Hz  | 0.79 | 1.56 dB  |
+| Peaking | 1304.06 Hz  | 2.25 | -3.61 dB |
+| Peaking | 4430.38 Hz  | 3.8  | -1.13 dB |
+| Peaking | 6907.58 Hz  | 4.88 | -1.95 dB |
+| Peaking | 7545.51 Hz  | 1.23 | 1.20 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.26dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 4.0 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.7 dB |
-| Peaking | 125 Hz   | 1.41 | -1.2 dB |
-| Peaking | 250 Hz   | 1.41 | -1.6 dB |
-| Peaking | 500 Hz   | 1.41 | 0.9 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.0 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.6 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.9 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.2 dB  |
-| Peaking | 16000 Hz | 1.41 | -8.5 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 6.10 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -0.39 dB |
+| Peaking | 125.00 Hz   | 1.41 | -0.77 dB |
+| Peaking | 250.00 Hz   | 1.41 | -1.80 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.85 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -1.07 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 0.55 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 2.83 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 0.11 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -8.63 dB |
 
 ### Graphs
 ![](./MyST%20Izo-OS.png)

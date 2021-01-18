@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.25dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9 dB**.
+When using independent subset of filters, apply preamp of **-4.39 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 266 Hz   | 0.75 | -4.2 dB  |
-| Peaking | 1433 Hz  | 1.45 | -12.1 dB |
-| Peaking | 1765 Hz  | 0.38 | 9.1 dB   |
-| Peaking | 5341 Hz  | 2.21 | -13.6 dB |
-| Peaking | 9875 Hz  | 3.48 | 6.7 dB   |
-| Peaking | 28 Hz    | 1.49 | 2.2 dB   |
-| Peaking | 758 Hz   | 6.96 | 1.1 dB   |
-| Peaking | 3731 Hz  | 6.43 | 2.2 dB   |
-| Peaking | 11699 Hz | 1.48 | 3.4 dB   |
-| Peaking | 20046 Hz | 0.33 | -12.1 dB |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 36.93 Hz    | 0.36 | 5.68 dB   |
+| Peaking | 1465.39 Hz  | 1.79 | -11.67 dB |
+| Peaking | 1888.96 Hz  | 0.14 | 30.53 dB  |
+| Peaking | 5743.81 Hz  | 0.12 | -57.60 dB |
+| Peaking | 8675.24 Hz  | 0.23 | 32.39 dB  |
+| Peaking | 729.53 Hz   | 3.28 | 2.54 dB   |
+| Peaking | 3618.99 Hz  | 4.1  | 3.74 dB   |
+| Peaking | 8487.03 Hz  | 2.83 | -1.38 dB  |
+| Peaking | 10183.05 Hz | 2.57 | 3.53 dB   |
+| Peaking | 17009.31 Hz | 0    | -0.82 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-2.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.59dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 2.3 dB  |
-| Peaking | 62 Hz    | 1.41 | -0.4 dB |
-| Peaking | 125 Hz   | 1.41 | -1.1 dB |
-| Peaking | 250 Hz   | 1.41 | -3.7 dB |
-| Peaking | 500 Hz   | 1.41 | 1.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | -0.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 2.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | -2.0 dB |
-| Peaking | 8000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 16000 Hz | 1.41 | -6.3 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 4.32 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.90 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -0.70 dB |
+| Peaking | 250.00 Hz   | 1.41 | -3.85 dB |
+| Peaking | 500.00 Hz   | 1.41 | 1.59 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -0.82 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 2.17 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -2.05 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 0.77 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -6.40 dB |
 
 ### Graphs
 ![](./Ferrari%20Cavallino%20T350.png)

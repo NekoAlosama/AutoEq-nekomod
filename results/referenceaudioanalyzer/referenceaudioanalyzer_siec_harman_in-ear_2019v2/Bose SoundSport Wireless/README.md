@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.92dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.3 dB**.
+When using independent subset of filters, apply preamp of **-7.92 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 20 Hz    | 1.5  | 2.7 dB  |
-| Peaking | 217 Hz   | 0.03 | -1.2 dB |
-| Peaking | 4820 Hz  | 1.86 | 5.9 dB  |
-| Peaking | 17681 Hz | 0.47 | 5.7 dB  |
-| Peaking | 19988 Hz | 1.48 | 2.3 dB  |
-| Peaking | 468 Hz   | 1.64 | 1.7 dB  |
-| Peaking | 989 Hz   | 1.24 | -1.3 dB |
-| Peaking | 1718 Hz  | 3.76 | 2.0 dB  |
-| Peaking | 2069 Hz  | 3.02 | -1.7 dB |
-| Peaking | 2306 Hz  | 1.26 | 0.5 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 20.69 Hz    | 0.74 | 4.34 dB  |
+| Peaking | 962.74 Hz   | 1.46 | -2.41 dB |
+| Peaking | 2264.37 Hz  | 2.9  | -1.39 dB |
+| Peaking | 4830.20 Hz  | 2.12 | 5.18 dB  |
+| Peaking | 19681.07 Hz | 0.32 | 7.72 dB  |
+| Peaking | 205.38 Hz   | 1.04 | -1.43 dB |
+| Peaking | 479.64 Hz   | 1.23 | 0.78 dB  |
+| Peaking | 704.23 Hz   | 2.31 | -0.35 dB |
+| Peaking | 7399.74 Hz  | 3.88 | 1.84 dB  |
+| Peaking | 8040.44 Hz  | 1.68 | -1.03 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.21dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 0.8 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.5 dB |
-| Peaking | 125 Hz   | 1.41 | -1.3 dB |
-| Peaking | 250 Hz   | 1.41 | -0.8 dB |
-| Peaking | 500 Hz   | 1.41 | 0.6 dB  |
-| Peaking | 1000 Hz  | 1.41 | -2.1 dB |
-| Peaking | 2000 Hz  | 1.41 | -1.4 dB |
-| Peaking | 4000 Hz  | 1.41 | 3.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | 1.7 dB  |
-| Peaking | 16000 Hz | 1.41 | 6.9 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 3.83 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.42 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -0.68 dB |
+| Peaking | 250.00 Hz   | 1.41 | -1.08 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.53 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -2.19 dB |
+| Peaking | 2000.00 Hz  | 1.41 | -1.47 dB |
+| Peaking | 4000.00 Hz  | 1.41 | 3.60 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 1.50 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 6.91 dB  |
 
 ### Graphs
 ![](./Bose%20SoundSport%20Wireless.png)

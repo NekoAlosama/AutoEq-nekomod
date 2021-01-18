@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.20dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.3 dB**.
+When using independent subset of filters, apply preamp of **-7.20 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 21 Hz   | 1.24 | 5.0 dB  |
-| Peaking | 145 Hz  | 0.53 | -1.7 dB |
-| Peaking | 1191 Hz | 4.04 | -2.1 dB |
-| Peaking | 5147 Hz | 6.73 | -2.9 dB |
-| Peaking | 9597 Hz | 1.36 | 6.2 dB  |
-| Peaking | 213 Hz  | 2.61 | -0.3 dB |
-| Peaking | 1959 Hz | 2.63 | 0.4 dB  |
-| Peaking | 1985 Hz | 2.5  | 0.5 dB  |
-| Peaking | 6778 Hz | 2.39 | 0.5 dB  |
-| Peaking | 8471 Hz | 2.46 | -0.4 dB |
+| Type    | Fc         |    Q | Gain     |
+|:--------|:-----------|:-----|:---------|
+| Peaking | 18.94 Hz   | 0.76 | 6.97 dB  |
+| Peaking | 201.56 Hz  | 1.13 | -2.00 dB |
+| Peaking | 1182.96 Hz | 3.53 | -2.18 dB |
+| Peaking | 5145.42 Hz | 7.11 | -3.06 dB |
+| Peaking | 9615.42 Hz | 1.4  | 6.09 dB  |
+| Peaking | 1497.26 Hz | 2.27 | -0.72 dB |
+| Peaking | 1832.75 Hz | 2.67 | 1.32 dB  |
+| Peaking | 4244.71 Hz | 2.93 | 0.24 dB  |
+| Peaking | 6976.90 Hz | 2.56 | 0.52 dB  |
+| Peaking | 8529.48 Hz | 2.43 | -0.45 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.26dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.9 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.7 dB |
-| Peaking | 125 Hz   | 1.41 | -0.9 dB |
-| Peaking | 250 Hz   | 1.41 | -1.6 dB |
-| Peaking | 500 Hz   | 1.41 | 0.6 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 1.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | -1.5 dB |
-| Peaking | 8000 Hz  | 1.41 | 5.8 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.6 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 6.06 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -0.27 dB |
+| Peaking | 125.00 Hz   | 1.41 | -0.62 dB |
+| Peaking | 250.00 Hz   | 1.41 | -1.74 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.48 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -1.69 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 1.12 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -1.48 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 5.68 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -2.66 dB |
 
 ### Graphs
 ![](./Sennheiser%20PC38X%20(velour%20earpads).png)

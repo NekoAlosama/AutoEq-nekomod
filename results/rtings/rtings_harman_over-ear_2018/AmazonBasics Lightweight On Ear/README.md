@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.66dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.8 dB**.
+When using independent subset of filters, apply preamp of **-7.52 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 58 Hz    | 0.51 | -6.8 dB |
-| Peaking | 748 Hz   | 1.35 | -4.0 dB |
-| Peaking | 2171 Hz  | 1.99 | 5.1 dB  |
-| Peaking | 4230 Hz  | 3.43 | 6.0 dB  |
-| Peaking | 11186 Hz | 1.81 | 3.9 dB  |
-| Peaking | 135 Hz   | 1.64 | -1.0 dB |
-| Peaking | 309 Hz   | 2.04 | 2.7 dB  |
-| Peaking | 521 Hz   | 3.56 | -1.7 dB |
-| Peaking | 6461 Hz  | 3.33 | -4.6 dB |
-| Peaking | 6831 Hz  | 1.19 | 1.8 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 67.63 Hz    | 0.57 | -5.16 dB |
+| Peaking | 745.21 Hz   | 1.29 | -4.13 dB |
+| Peaking | 2172.47 Hz  | 1.98 | 5.04 dB  |
+| Peaking | 4257.02 Hz  | 3.83 | 6.75 dB  |
+| Peaking | 11166.74 Hz | 1.87 | 3.84 dB  |
+| Peaking | 149.64 Hz   | 1.91 | -1.02 dB |
+| Peaking | 310.78 Hz   | 2.16 | 2.56 dB  |
+| Peaking | 520.47 Hz   | 3.7  | -1.66 dB |
+| Peaking | 6345.57 Hz  | 3.36 | -4.50 dB |
+| Peaking | 6996.71 Hz  | 1.15 | 1.65 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.85dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -4.3 dB |
-| Peaking | 62 Hz    | 1.41 | -5.5 dB |
-| Peaking | 125 Hz   | 1.41 | -4.5 dB |
-| Peaking | 250 Hz   | 1.41 | 1.9 dB  |
-| Peaking | 500 Hz   | 1.41 | -2.5 dB |
-| Peaking | 1000 Hz  | 1.41 | -3.6 dB |
-| Peaking | 2000 Hz  | 1.41 | 4.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 3.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 16000 Hz | 1.41 | 1.2 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | -2.28 dB |
+| Peaking | 62.50 Hz    | 1.41 | -4.10 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.12 dB |
+| Peaking | 250.00 Hz   | 1.41 | 1.74 dB  |
+| Peaking | 500.00 Hz   | 1.41 | -2.57 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -3.63 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 4.00 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 3.98 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 0.66 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 1.11 dB  |
 
 ### Graphs
 ![](./AmazonBasics%20Lightweight%20On%20Ear.png)

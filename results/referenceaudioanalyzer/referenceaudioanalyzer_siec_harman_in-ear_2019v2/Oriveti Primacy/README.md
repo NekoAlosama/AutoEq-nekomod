@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.31dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1 dB**.
+When using independent subset of filters, apply preamp of **-11.07 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 65 Hz    | 0.18 | -1.8 dB |
-| Peaking | 192 Hz   | 0.43 | -5.0 dB |
-| Peaking | 2267 Hz  | 1.26 | 5.2 dB  |
-| Peaking | 4161 Hz  | 1.32 | 4.6 dB  |
-| Peaking | 18076 Hz | 0.58 | 6.9 dB  |
-| Peaking | 5349 Hz  | 5.12 | -1.6 dB |
-| Peaking | 6169 Hz  | 3.97 | 4.3 dB  |
-| Peaking | 8099 Hz  | 1.43 | -2.3 dB |
-| Peaking | 14875 Hz | 2.2  | 1.8 dB  |
-| Peaking | 17966 Hz | 2.7  | -1.2 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 35.65 Hz    | 0.29 | 1.38 dB  |
+| Peaking | 84.17 Hz    | 1.63 | -0.92 dB |
+| Peaking | 206.33 Hz   | 0.46 | -6.63 dB |
+| Peaking | 3038.58 Hz  | 0.97 | 8.30 dB  |
+| Peaking | 3526.30 Hz  | 1.62 | 3.10 dB  |
+| Peaking | 1262.13 Hz  | 3.19 | -0.92 dB |
+| Peaking | 1358.84 Hz  | 1.52 | 0.27 dB  |
+| Peaking | 7901.32 Hz  | 5.01 | -1.73 dB |
+| Peaking | 10205.33 Hz | 1.63 | -2.46 dB |
+| Peaking | 19491.34 Hz | 0.38 | 12.13 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-10.51dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.7 dB |
-| Peaking | 62 Hz    | 1.41 | -2.9 dB |
-| Peaking | 125 Hz   | 1.41 | -4.9 dB |
-| Peaking | 250 Hz   | 1.41 | -5.5 dB |
-| Peaking | 500 Hz   | 1.41 | -2.0 dB |
-| Peaking | 1000 Hz  | 1.41 | -0.8 dB |
-| Peaking | 2000 Hz  | 1.41 | 4.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 6.1 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.4 dB |
-| Peaking | 16000 Hz | 1.41 | 7.9 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 1.20 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -0.93 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.24 dB |
+| Peaking | 250.00 Hz   | 1.41 | -5.79 dB |
+| Peaking | 500.00 Hz   | 1.41 | -2.09 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -1.26 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 4.88 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 9.68 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -2.07 dB |
+| Peaking | 16000.01 Hz | 1.41 | 10.06 dB |
 
 ### Graphs
 ![](./Oriveti%20Primacy.png)

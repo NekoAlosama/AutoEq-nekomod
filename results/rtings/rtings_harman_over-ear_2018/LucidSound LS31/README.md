@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.22dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.7 dB**.
+When using independent subset of filters, apply preamp of **-9.22 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 1.42 | 7.1 dB  |
-| Peaking | 132 Hz   | 0.46 | -7.4 dB |
-| Peaking | 2496 Hz  | 1.2  | 6.3 dB  |
-| Peaking | 4140 Hz  | 3.19 | 3.7 dB  |
-| Peaking | 11496 Hz | 1.44 | 1.7 dB  |
-| Peaking | 300 Hz   | 2.06 | -1.6 dB |
-| Peaking | 608 Hz   | 2.34 | 2.7 dB  |
-| Peaking | 4697 Hz  | 4.81 | 1.5 dB  |
-| Peaking | 5797 Hz  | 4.25 | -4.1 dB |
-| Peaking | 6805 Hz  | 4.97 | 2.8 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 19.76 Hz    | 1.02 | 9.66 dB  |
+| Peaking | 112.75 Hz   | 0.62 | -5.53 dB |
+| Peaking | 249.48 Hz   | 1.33 | -4.27 dB |
+| Peaking | 2593.74 Hz  | 1.31 | 5.91 dB  |
+| Peaking | 3493.35 Hz  | 1.59 | 3.75 dB  |
+| Peaking | 646.11 Hz   | 3.45 | 2.08 dB  |
+| Peaking | 4619.89 Hz  | 5.36 | 3.07 dB  |
+| Peaking | 5908.85 Hz  | 2.62 | -4.50 dB |
+| Peaking | 6716.88 Hz  | 4.78 | 3.85 dB  |
+| Peaking | 11482.96 Hz | 1.44 | 1.59 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.60dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 4.6 dB  |
-| Peaking | 62 Hz    | 1.41 | -5.1 dB |
-| Peaking | 125 Hz   | 1.41 | -5.3 dB |
-| Peaking | 250 Hz   | 1.41 | -6.3 dB |
-| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | -1.0 dB |
-| Peaking | 2000 Hz  | 1.41 | 4.7 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 0.2 dB  |
-| Peaking | 16000 Hz | 1.41 | 0.9 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 6.63 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -3.60 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.95 dB |
+| Peaking | 250.00 Hz   | 1.41 | -6.50 dB |
+| Peaking | 500.00 Hz   | 1.41 | 1.22 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -1.39 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 5.24 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 5.49 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -0.08 dB |
+| Peaking | 16000.01 Hz | 1.41 | 0.77 dB  |
 
 ### Graphs
 ![](./LucidSound%20LS31.png)

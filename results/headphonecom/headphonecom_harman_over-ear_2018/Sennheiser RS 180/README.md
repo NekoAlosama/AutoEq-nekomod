@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.43dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.1 dB**.
+When using independent subset of filters, apply preamp of **-8.26 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 23 Hz   | 1.59 | 6.0 dB  |
-| Peaking | 1314 Hz | 1.15 | 4.3 dB  |
-| Peaking | 2129 Hz | 2.47 | -5.3 dB |
-| Peaking | 3893 Hz | 4.04 | 4.8 dB  |
-| Peaking | 5108 Hz | 2.63 | -3.5 dB |
-| Peaking | 157 Hz  | 0.51 | -4.6 dB |
-| Peaking | 608 Hz  | 0.05 | 1.9 dB  |
-| Peaking | 1131 Hz | 4.28 | -1.4 dB |
-| Peaking | 5370 Hz | 0.21 | -1.9 dB |
-| Peaking | 6920 Hz | 7.26 | 1.6 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 22.52 Hz    | 1.03 | 8.01 dB  |
+| Peaking | 1319.98 Hz  | 1.18 | 4.27 dB  |
+| Peaking | 2128.06 Hz  | 2.46 | -5.31 dB |
+| Peaking | 3901.64 Hz  | 3.98 | 5.01 dB  |
+| Peaking | 5074.29 Hz  | 2.32 | -3.56 dB |
+| Peaking | 179.70 Hz   | 0.74 | -4.20 dB |
+| Peaking | 634.67 Hz   | 0.07 | 1.51 dB  |
+| Peaking | 3448.52 Hz  | 0.21 | -1.39 dB |
+| Peaking | 6893.97 Hz  | 6.45 | 1.53 dB  |
+| Peaking | 20167.24 Hz | 0.28 | -0.65 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.58dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 5.2 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.3 dB |
-| Peaking | 125 Hz   | 1.41 | -2.1 dB |
-| Peaking | 250 Hz   | 1.41 | -2.0 dB |
-| Peaking | 500 Hz   | 1.41 | 0.5 dB  |
-| Peaking | 1000 Hz  | 1.41 | 4.2 dB  |
-| Peaking | 2000 Hz  | 1.41 | -2.3 dB |
-| Peaking | 4000 Hz  | 1.41 | 1.2 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.4 dB |
-| Peaking | 16000 Hz | 1.41 | -0.7 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 7.49 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -0.03 dB |
+| Peaking | 125.00 Hz   | 1.41 | -1.80 dB |
+| Peaking | 250.00 Hz   | 1.41 | -2.19 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.41 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 4.08 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | -2.35 dB |
+| Peaking | 4000.00 Hz  | 1.41 | 1.18 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -1.52 dB |
+| Peaking | 16000.01 Hz | 1.41 | -0.79 dB |
 
 ### Graphs
 ![](./Sennheiser%20RS%20180.png)

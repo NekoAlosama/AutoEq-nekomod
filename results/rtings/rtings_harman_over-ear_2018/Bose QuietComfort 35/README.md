@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-3.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-3.19dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-4.0 dB**.
+When using independent subset of filters, apply preamp of **-3.16 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 15 Hz   | 1.33 | -3.0 dB |
-| Peaking | 57 Hz   | 0.66 | -3.1 dB |
-| Peaking | 175 Hz  | 1.5  | -2.2 dB |
-| Peaking | 6345 Hz | 4.87 | -6.4 dB |
-| Peaking | 9696 Hz | 2.3  | 4.0 dB  |
-| Peaking | 1091 Hz | 0.89 | 3.8 dB  |
-| Peaking | 1833 Hz | 3.08 | -2.2 dB |
-| Peaking | 1843 Hz | 3.33 | -0.4 dB |
-| Peaking | 2462 Hz | 0.69 | -2.2 dB |
-| Peaking | 4873 Hz | 4.01 | 3.0 dB  |
+| Type    | Fc         |    Q | Gain     |
+|:--------|:-----------|:-----|:---------|
+| Peaking | 124.26 Hz  | 0.67 | -2.43 dB |
+| Peaking | 2668.09 Hz | 2.39 | -2.99 dB |
+| Peaking | 6245.44 Hz | 5.38 | -7.61 dB |
+| Peaking | 7184.02 Hz | 3.49 | -4.95 dB |
+| Peaking | 7943.63 Hz | 1.12 | 4.93 dB  |
+| Peaking | 11.81 Hz   | 0.29 | -0.48 dB |
+| Peaking | 237.71 Hz  | 2.28 | -1.23 dB |
+| Peaking | 1077.15 Hz | 0.75 | 3.26 dB  |
+| Peaking | 1910.52 Hz | 2.02 | -4.31 dB |
+| Peaking | 2336.71 Hz | 5.7  | 2.25 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.17dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -2.4 dB |
-| Peaking | 62 Hz    | 1.41 | -2.5 dB |
-| Peaking | 125 Hz   | 1.41 | -2.2 dB |
-| Peaking | 250 Hz   | 1.41 | -1.9 dB |
-| Peaking | 500 Hz   | 1.41 | 0.9 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.5 dB  |
-| Peaking | 2000 Hz  | 1.41 | -2.8 dB |
-| Peaking | 4000 Hz  | 1.41 | -0.5 dB |
-| Peaking | 8000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.6 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | -0.37 dB |
+| Peaking | 62.50 Hz    | 1.41 | -1.14 dB |
+| Peaking | 125.00 Hz   | 1.41 | -1.86 dB |
+| Peaking | 250.00 Hz   | 1.41 | -2.04 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.85 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 3.43 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | -2.92 dB |
+| Peaking | 4000.00 Hz  | 1.41 | -0.56 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 0.68 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -2.69 dB |
 
 ### Graphs
 ![](./Bose%20QuietComfort%2035.png)

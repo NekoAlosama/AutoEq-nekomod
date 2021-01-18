@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.29dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2 dB**.
+When using independent subset of filters, apply preamp of **-12.03 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 14 Hz    | 0.11 | 4.1 dB   |
-| Peaking | 812 Hz   | 0.41 | -6.3 dB  |
-| Peaking | 2434 Hz  | 1.66 | 7.0 dB   |
-| Peaking | 3577 Hz  | 3.32 | -6.6 dB  |
-| Peaking | 6736 Hz  | 1.05 | 7.4 dB   |
-| Peaking | 164 Hz   | 5    | 1.3 dB   |
-| Peaking | 308 Hz   | 2.81 | -0.7 dB  |
-| Peaking | 7219 Hz  | 2.97 | -2.4 dB  |
-| Peaking | 9443 Hz  | 1.09 | 3.4 dB   |
-| Peaking | 19563 Hz | 0.42 | -10.0 dB |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 31.59 Hz    | 0.08 | 7.32 dB   |
+| Peaking | 533.28 Hz   | 0.23 | -8.21 dB  |
+| Peaking | 2426.03 Hz  | 1.54 | 7.88 dB   |
+| Peaking | 3589.26 Hz  | 3.15 | -6.45 dB  |
+| Peaking | 6901.03 Hz  | 1.52 | 12.42 dB  |
+| Peaking | 168.15 Hz   | 2.3  | 1.94 dB   |
+| Peaking | 176.68 Hz   | 0.65 | -0.95 dB  |
+| Peaking | 495.72 Hz   | 3.2  | 0.62 dB   |
+| Peaking | 9945.49 Hz  | 1.52 | 2.47 dB   |
+| Peaking | 19585.26 Hz | 0.45 | -10.03 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-11.95dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 4.6 dB  |
-| Peaking | 62 Hz    | 1.41 | 1.7 dB  |
-| Peaking | 125 Hz   | 1.41 | 1.8 dB  |
-| Peaking | 250 Hz   | 1.41 | -1.5 dB |
-| Peaking | 500 Hz   | 1.41 | -4.1 dB |
-| Peaking | 1000 Hz  | 1.41 | -6.4 dB |
-| Peaking | 2000 Hz  | 1.41 | 2.9 dB  |
-| Peaking | 4000 Hz  | 1.41 | -1.1 dB |
-| Peaking | 8000 Hz  | 1.41 | 8.7 dB  |
-| Peaking | 16000 Hz | 1.41 | -7.1 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 7.92 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 3.62 dB  |
+| Peaking | 125.00 Hz   | 1.41 | 2.38 dB  |
+| Peaking | 250.00 Hz   | 1.41 | -1.79 dB |
+| Peaking | 500.00 Hz   | 1.41 | -4.25 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -6.52 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 2.74 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -1.85 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 12.47 dB |
+| Peaking | 16000.01 Hz | 1.41 | -8.35 dB |
 
 ### Graphs
 ![](./Xiaomi%20Mi%20ANC.png)

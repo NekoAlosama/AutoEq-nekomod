@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.1dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-34.61dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0 dB**.
+When using independent subset of filters, apply preamp of **-34.61 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 80 Hz    | 0.19 | 7.5 dB   |
-| Peaking | 388 Hz   | 0.85 | -12.6 dB |
-| Peaking | 2312 Hz  | 3.4  | 6.9 dB   |
-| Peaking | 4583 Hz  | 4.07 | 3.8 dB   |
-| Peaking | 10039 Hz | 2.74 | 3.4 dB   |
-| Peaking | 21 Hz    | 2.14 | 0.9 dB   |
-| Peaking | 153 Hz   | 3.51 | 2.5 dB   |
-| Peaking | 249 Hz   | 3.29 | -1.3 dB  |
-| Peaking | 1240 Hz  | 3.24 | -1.1 dB  |
-| Peaking | 19338 Hz | 0.87 | -7.8 dB  |
+| Type    | Fc         |    Q | Gain      |
+|:--------|:-----------|:-----|:----------|
+| Peaking | 11.79 Hz   | 1.03 | 34.69 dB  |
+| Peaking | 28.25 Hz   | 0.21 | 18.89 dB  |
+| Peaking | 361.60 Hz  | 0.73 | -11.42 dB |
+| Peaking | 2329.36 Hz | 2.74 | 7.08 dB   |
+| Peaking | 9927.36 Hz | 2.21 | 3.32 dB   |
+| Peaking | 616.15 Hz  | 7.33 | 1.16 dB   |
+| Peaking | 1315.26 Hz | 2.78 | -1.05 dB  |
+| Peaking | 3243.85 Hz | 4.55 | -2.42 dB  |
+| Peaking | 4659.27 Hz | 1.92 | 3.77 dB   |
+| Peaking | 6417.56 Hz | 5.2  | -4.38 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-40.79dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 6.5 dB  |
-| Peaking | 62 Hz    | 1.41 | 3.8 dB  |
-| Peaking | 125 Hz   | 1.41 | 7.4 dB  |
-| Peaking | 250 Hz   | 1.41 | -3.6 dB |
-| Peaking | 500 Hz   | 1.41 | -7.3 dB |
-| Peaking | 1000 Hz  | 1.41 | -2.1 dB |
-| Peaking | 2000 Hz  | 1.41 | 3.8 dB  |
-| Peaking | 4000 Hz  | 1.41 | 1.6 dB  |
-| Peaking | 8000 Hz  | 1.41 | 1.6 dB  |
-| Peaking | 16000 Hz | 1.41 | -3.0 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 38.83 dB |
+| Peaking | 62.50 Hz    | 1.41 | 8.66 dB  |
+| Peaking | 125.00 Hz   | 1.41 | 3.06 dB  |
+| Peaking | 250.00 Hz   | 1.41 | -5.52 dB |
+| Peaking | 500.00 Hz   | 1.41 | -7.45 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -2.23 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 3.94 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 1.57 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 1.63 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -2.96 dB |
 
 ### Graphs
 ![](./Walmart%20Three%20DOllar%20Buds.png)

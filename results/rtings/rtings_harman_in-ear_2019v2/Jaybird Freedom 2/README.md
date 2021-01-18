@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-9.36dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2 dB**.
+When using independent subset of filters, apply preamp of **-9.30 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 12 Hz    | 0.25 | -5.3 dB |
-| Peaking | 103 Hz   | 0.29 | -8.2 dB |
-| Peaking | 772 Hz   | 0.66 | 4.9 dB  |
-| Peaking | 4760 Hz  | 1.31 | 10.7 dB |
-| Peaking | 6944 Hz  | 0.88 | -6.5 dB |
-| Peaking | 2657 Hz  | 3.94 | -5.7 dB |
-| Peaking | 2843 Hz  | 1.44 | 3.4 dB  |
-| Peaking | 8324 Hz  | 3.92 | 3.3 dB  |
-| Peaking | 10415 Hz | 0.48 | -2.1 dB |
-| Peaking | 19855 Hz | 0.47 | 5.3 dB  |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 29.70 Hz    | 0.31 | -4.87 dB  |
+| Peaking | 98.81 Hz    | 0.67 | -4.33 dB  |
+| Peaking | 215.82 Hz   | 1.16 | -4.36 dB  |
+| Peaking | 4947.45 Hz  | 0.55 | 33.11 dB  |
+| Peaking | 6058.04 Hz  | 0.44 | -27.16 dB |
+| Peaking | 800.44 Hz   | 2.53 | 1.95 dB   |
+| Peaking | 2640.05 Hz  | 3.1  | -5.43 dB  |
+| Peaking | 3853.77 Hz  | 1.86 | 3.64 dB   |
+| Peaking | 4727.52 Hz  | 4.49 | -2.61 dB  |
+| Peaking | 10883.40 Hz | 3.22 | -1.85 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.0dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.07dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -8.6 dB |
-| Peaking | 62 Hz    | 1.41 | -7.4 dB |
-| Peaking | 125 Hz   | 1.41 | -6.8 dB |
-| Peaking | 250 Hz   | 1.41 | -4.6 dB |
-| Peaking | 500 Hz   | 1.41 | 1.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.9 dB  |
-| Peaking | 2000 Hz  | 1.41 | -0.2 dB |
-| Peaking | 4000 Hz  | 1.41 | 7.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | -4.0 dB |
-| Peaking | 16000 Hz | 1.41 | 1.0 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | -5.54 dB |
+| Peaking | 62.50 Hz    | 1.41 | -5.51 dB |
+| Peaking | 125.00 Hz   | 1.41 | -6.26 dB |
+| Peaking | 250.00 Hz   | 1.41 | -4.89 dB |
+| Peaking | 500.00 Hz   | 1.41 | 1.10 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 3.92 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | -1.13 dB |
+| Peaking | 4000.00 Hz  | 1.41 | 9.62 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -4.75 dB |
+| Peaking | 16000.01 Hz | 1.41 | 0.81 dB  |
 
 ### Graphs
 ![](./Jaybird%20Freedom%202.png)

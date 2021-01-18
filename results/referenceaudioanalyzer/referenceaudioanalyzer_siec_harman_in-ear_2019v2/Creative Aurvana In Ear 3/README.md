@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.86dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.8 dB**.
+When using independent subset of filters, apply preamp of **-13.47 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 17 Hz    | 0.66 | 5.4 dB  |
-| Peaking | 105 Hz   | 0.78 | -2.9 dB |
-| Peaking | 271 Hz   | 0.98 | -5.2 dB |
-| Peaking | 3262 Hz  | 1.32 | 5.8 dB  |
-| Peaking | 16656 Hz | 0.26 | 6.6 dB  |
-| Peaking | 936 Hz   | 3.86 | 1.2 dB  |
-| Peaking | 4839 Hz  | 3.76 | 1.7 dB  |
-| Peaking | 6778 Hz  | 3.8  | -6.0 dB |
-| Peaking | 7884 Hz  | 3.32 | 3.4 dB  |
-| Peaking | 9861 Hz  | 2.98 | 1.0 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 19.38 Hz    | 0.84 | 7.66 dB  |
+| Peaking | 42.06 Hz    | 1.5  | 1.74 dB  |
+| Peaking | 240.64 Hz   | 0.72 | -5.93 dB |
+| Peaking | 3172.75 Hz  | 1.91 | 6.45 dB  |
+| Peaking | 14673.12 Hz | 0.47 | 13.23 dB |
+| Peaking | 926.87 Hz   | 3.26 | 1.31 dB  |
+| Peaking | 4601.98 Hz  | 3.42 | 1.60 dB  |
+| Peaking | 6729.44 Hz  | 3.39 | -7.79 dB |
+| Peaking | 9510.56 Hz  | 1.3  | 3.67 dB  |
+| Peaking | 14922.46 Hz | 2.24 | -2.20 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-19.98dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 4.1 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.5 dB |
-| Peaking | 125 Hz   | 1.41 | -2.9 dB |
-| Peaking | 250 Hz   | 1.41 | -5.5 dB |
-| Peaking | 500 Hz   | 1.41 | -1.8 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.7 dB  |
-| Peaking | 2000 Hz  | 1.41 | 1.5 dB  |
-| Peaking | 4000 Hz  | 1.41 | 5.7 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.4 dB  |
-| Peaking | 16000 Hz | 1.41 | 9.3 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 7.09 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.36 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -2.34 dB |
+| Peaking | 250.00 Hz   | 1.41 | -5.74 dB |
+| Peaking | 500.00 Hz   | 1.41 | -1.93 dB |
+| Peaking | 1000.00 Hz  | 1.41 | 0.53 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 1.44 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 5.41 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 4.35 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 19.51 dB |
 
 ### Graphs
 ![](./Creative%20Aurvana%20In%20Ear%203.png)

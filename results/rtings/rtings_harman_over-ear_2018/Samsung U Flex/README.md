@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-4.7dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.78dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-4.7 dB**.
+When using independent subset of filters, apply preamp of **-6.79 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 24 Hz    | 0.88 | 4.5 dB   |
-| Peaking | 789 Hz   | 1.68 | 3.7 dB   |
-| Peaking | 4922 Hz  | 0.71 | -4.1 dB  |
-| Peaking | 7974 Hz  | 1.3  | 6.3 dB   |
-| Peaking | 19552 Hz | 0.36 | -14.1 dB |
-| Peaking | 181 Hz   | 1.07 | -1.9 dB  |
-| Peaking | 2079 Hz  | 2.84 | 1.5 dB   |
-| Peaking | 2900 Hz  | 2.99 | -2.2 dB  |
-| Peaking | 4813 Hz  | 1.82 | 1.8 dB   |
-| Peaking | 5549 Hz  | 4.93 | -2.8 dB  |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 22.32 Hz    | 1.02 | 6.07 dB   |
+| Peaking | 46.28 Hz    | 1.47 | 2.80 dB   |
+| Peaking | 775.26 Hz   | 1.87 | 3.52 dB   |
+| Peaking | 3141.73 Hz  | 2.23 | -3.82 dB  |
+| Peaking | 5390.81 Hz  | 4.56 | -2.92 dB  |
+| Peaking | 142.41 Hz   | 3.17 | -1.13 dB  |
+| Peaking | 238.13 Hz   | 1.66 | -1.81 dB  |
+| Peaking | 517.00 Hz   | 3.18 | 0.92 dB   |
+| Peaking | 8288.03 Hz  | 1.62 | 4.16 dB   |
+| Peaking | 19497.05 Hz | 0.34 | -14.16 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.27dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 31 Hz    | 1.41 | 4.5 dB   |
-| Peaking | 62 Hz    | 1.41 | 0.6 dB   |
-| Peaking | 125 Hz   | 1.41 | -1.3 dB  |
-| Peaking | 250 Hz   | 1.41 | -1.9 dB  |
-| Peaking | 500 Hz   | 1.41 | 2.0 dB   |
-| Peaking | 1000 Hz  | 1.41 | 2.3 dB   |
-| Peaking | 2000 Hz  | 1.41 | -0.5 dB  |
-| Peaking | 4000 Hz  | 1.41 | -3.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.9 dB   |
-| Peaking | 16000 Hz | 1.41 | -13.4 dB |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 31.25 Hz    | 1.41 | 6.64 dB   |
+| Peaking | 62.50 Hz    | 1.41 | 2.03 dB   |
+| Peaking | 125.00 Hz   | 1.41 | -0.92 dB  |
+| Peaking | 250.00 Hz   | 1.41 | -2.10 dB  |
+| Peaking | 500.00 Hz   | 1.41 | 1.89 dB   |
+| Peaking | 1000.00 Hz  | 1.41 | 2.25 dB   |
+| Peaking | 2000.00 Hz  | 1.41 | -0.60 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -3.84 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 2.78 dB   |
+| Peaking | 16000.01 Hz | 1.41 | -13.56 dB |
 
 ### Graphs
 ![](./Samsung%20U%20Flex.png)

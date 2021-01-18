@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-11.85dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9 dB**.
+When using independent subset of filters, apply preamp of **-11.83 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 19 Hz    | 1.24 | 2.6 dB  |
-| Peaking | 99 Hz    | 0.6  | -4.3 dB |
-| Peaking | 253 Hz   | 0.8  | -4.8 dB |
-| Peaking | 1774 Hz  | 1.77 | -9.8 dB |
-| Peaking | 5492 Hz  | 0.49 | 7.1 dB  |
-| Peaking | 887 Hz   | 4.06 | 1.1 dB  |
-| Peaking | 3042 Hz  | 6.32 | -4.5 dB |
-| Peaking | 3298 Hz  | 5.51 | 4.1 dB  |
-| Peaking | 10681 Hz | 2.3  | 2.5 dB  |
-| Peaking | 19794 Hz | 0.47 | -5.8 dB |
+| Type    | Fc         |    Q | Gain      |
+|:--------|:-----------|:-----|:----------|
+| Peaking | 211.31 Hz  | 0.7  | -6.96 dB  |
+| Peaking | 1675.17 Hz | 1.88 | 2.39 dB   |
+| Peaking | 1728.53 Hz | 2.07 | -11.16 dB |
+| Peaking | 4587.17 Hz | 1.55 | 9.07 dB   |
+| Peaking | 7885.02 Hz | 1.54 | 9.80 dB   |
+| Peaking | 22.30 Hz   | 1.09 | 4.56 dB   |
+| Peaking | 884.69 Hz  | 4.11 | 1.23 dB   |
+| Peaking | 3040.02 Hz | 6.96 | -4.27 dB  |
+| Peaking | 3376.61 Hz | 4.49 | 4.36 dB   |
+| Peaking | 3923.42 Hz | 7.27 | -2.64 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.28dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 0.9 dB  |
-| Peaking | 62 Hz    | 1.41 | -3.1 dB |
-| Peaking | 125 Hz   | 1.41 | -5.0 dB |
-| Peaking | 250 Hz   | 1.41 | -5.7 dB |
-| Peaking | 500 Hz   | 1.41 | -1.5 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.2 dB  |
-| Peaking | 2000 Hz  | 1.41 | -7.4 dB |
-| Peaking | 4000 Hz  | 1.41 | 7.4 dB  |
-| Peaking | 8000 Hz  | 1.41 | 6.7 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.1 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 3.90 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -1.09 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.42 dB |
+| Peaking | 250.00 Hz   | 1.41 | -6.01 dB |
+| Peaking | 500.00 Hz   | 1.41 | -1.64 dB |
+| Peaking | 1000.00 Hz  | 1.41 | 0.25 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | -8.60 dB |
+| Peaking | 4000.00 Hz  | 1.41 | 9.35 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 11.00 dB |
+| Peaking | 16000.01 Hz | 1.41 | -3.32 dB |
 
 ### Graphs
 ![](./Spiral%20Ear%20SE%205-Way%20Ultimate.png)

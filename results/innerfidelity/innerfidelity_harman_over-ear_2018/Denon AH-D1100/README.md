@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.6dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.89dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.4 dB**.
+When using independent subset of filters, apply preamp of **-7.00 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 85 Hz   | 0.43 | -8.8 dB |
-| Peaking | 236 Hz  | 0.93 | -7.7 dB |
-| Peaking | 442 Hz  | 2.35 | 7.2 dB  |
-| Peaking | 618 Hz  | 0.17 | 2.9 dB  |
-| Peaking | 4227 Hz | 2.75 | 5.0 dB  |
-| Peaking | 853 Hz  | 2    | -2.7 dB |
-| Peaking | 1256 Hz | 0.52 | 1.3 dB  |
-| Peaking | 2014 Hz | 2.45 | 2.1 dB  |
-| Peaking | 2298 Hz | 3.94 | -4.3 dB |
-| Peaking | 9562 Hz | 2.91 | -1.7 dB |
+| Type    | Fc         |    Q | Gain      |
+|:--------|:-----------|:-----|:----------|
+| Peaking | 85.57 Hz   | 0.58 | -5.74 dB  |
+| Peaking | 247.15 Hz  | 0.64 | -16.79 dB |
+| Peaking | 485.10 Hz  | 0.6  | 22.61 dB  |
+| Peaking | 653.85 Hz  | 0.9  | -10.50 dB |
+| Peaking | 4230.04 Hz | 3.34 | 5.73 dB   |
+| Peaking | 16.84 Hz   | 2.22 | 1.37 dB   |
+| Peaking | 1923.57 Hz | 2.68 | 2.90 dB   |
+| Peaking | 2353.64 Hz | 2.58 | -3.90 dB  |
+| Peaking | 3014.27 Hz | 6.42 | 2.73 dB   |
+| Peaking | 9688.02 Hz | 3.34 | -1.62 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.3dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.36dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -3.2 dB |
-| Peaking | 62 Hz    | 1.41 | -6.6 dB |
-| Peaking | 125 Hz   | 1.41 | -7.5 dB |
-| Peaking | 250 Hz   | 1.41 | -8.1 dB |
-| Peaking | 500 Hz   | 1.41 | 6.6 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 2000 Hz  | 1.41 | 2.0 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.1 dB |
-| Peaking | 16000 Hz | 1.41 | 2.4 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | -1.20 dB |
+| Peaking | 62.50 Hz    | 1.41 | -5.27 dB |
+| Peaking | 125.00 Hz   | 1.41 | -7.13 dB |
+| Peaking | 250.00 Hz   | 1.41 | -8.34 dB |
+| Peaking | 500.00 Hz   | 1.41 | 6.57 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 0.31 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 1.90 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 4.93 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -1.26 dB |
+| Peaking | 16000.01 Hz | 1.41 | 2.23 dB  |
 
 ### Graphs
 ![](./Denon%20AH-D1100.png)

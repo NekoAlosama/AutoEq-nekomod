@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-10.32dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.2 dB**.
+When using independent subset of filters, apply preamp of **-10.34 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 17 Hz    | 0.44 | 4.1 dB   |
-| Peaking | 163 Hz   | 0.48 | -0.8 dB  |
-| Peaking | 292 Hz   | 0.29 | -6.1 dB  |
-| Peaking | 2949 Hz  | 0.62 | 7.2 dB   |
-| Peaking | 10078 Hz | 1.76 | 5.9 dB   |
-| Peaking | 1383 Hz  | 4.05 | -1.8 dB  |
-| Peaking | 1949 Hz  | 5.53 | 2.2 dB   |
-| Peaking | 8112 Hz  | 4.66 | 1.6 dB   |
-| Peaking | 13045 Hz | 1.73 | 4.9 dB   |
-| Peaking | 19875 Hz | 0.49 | -15.5 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 15.63 Hz    | 0.29 | 6.80 dB  |
+| Peaking | 259.42 Hz   | 0.38 | -7.03 dB |
+| Peaking | 2371.11 Hz  | 2.01 | 9.19 dB  |
+| Peaking | 4059.93 Hz  | 1.76 | 6.83 dB  |
+| Peaking | 9768.59 Hz  | 1.94 | 8.86 dB  |
+| Peaking | 844.02 Hz   | 4.07 | 0.42 dB  |
+| Peaking | 12673.02 Hz | 1.52 | 3.22 dB  |
+| Peaking | 13727.84 Hz | 1.2  | 1.27 dB  |
+| Peaking | 19367.63 Hz | 0.44 | -7.19 dB |
+| Peaking | 19907.51 Hz | 0.7  | -8.37 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.45dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.3 dB  |
-| Peaking | 62 Hz    | 1.41 | -1.4 dB |
-| Peaking | 125 Hz   | 1.41 | -3.9 dB |
-| Peaking | 250 Hz   | 1.41 | -6.0 dB |
-| Peaking | 500 Hz   | 1.41 | -4.0 dB |
-| Peaking | 1000 Hz  | 1.41 | -2.2 dB |
-| Peaking | 2000 Hz  | 1.41 | 5.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 4.8 dB  |
-| Peaking | 8000 Hz  | 1.41 | 6.3 dB  |
-| Peaking | 16000 Hz | 1.41 | -5.3 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 6.55 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.48 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -3.31 dB |
+| Peaking | 250.00 Hz   | 1.41 | -6.27 dB |
+| Peaking | 500.00 Hz   | 1.41 | -4.04 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -2.99 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 6.64 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 6.23 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 6.73 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -5.40 dB |
 
 ### Graphs
 ![](./Astell%20&%20Kern%20AKR03%20Roxanne%20(min).png)

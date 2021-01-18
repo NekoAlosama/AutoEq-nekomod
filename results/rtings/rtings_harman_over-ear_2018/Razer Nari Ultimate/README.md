@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.25dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.4 dB**.
+When using independent subset of filters, apply preamp of **-6.37 dB**.
 
-| Type    | Fc      |    Q | Gain    |
-|:--------|:--------|:-----|:--------|
-| Peaking | 90 Hz   | 0.96 | -3.7 dB |
-| Peaking | 189 Hz  | 0.69 | -6.9 dB |
-| Peaking | 1006 Hz | 0.43 | 3.5 dB  |
-| Peaking | 7033 Hz | 2.61 | 4.2 dB  |
-| Peaking | 9868 Hz | 1.56 | 5.0 dB  |
-| Peaking | 19 Hz   | 2.04 | 1.4 dB  |
-| Peaking | 3244 Hz | 4.04 | 2.6 dB  |
-| Peaking | 3254 Hz | 1.67 | -1.1 dB |
-| Peaking | 3991 Hz | 4.33 | -3.1 dB |
-| Peaking | 4521 Hz | 5.93 | 3.2 dB  |
+| Type    | Fc         |    Q | Gain     |
+|:--------|:-----------|:-----|:---------|
+| Peaking | 15.08 Hz   | 0.36 | 3.64 dB  |
+| Peaking | 169.30 Hz  | 0.47 | -8.89 dB |
+| Peaking | 771.91 Hz  | 0.36 | 4.15 dB  |
+| Peaking | 7044.82 Hz | 2.64 | 4.19 dB  |
+| Peaking | 9868.11 Hz | 1.6  | 4.93 dB  |
+| Peaking | 1562.15 Hz | 2.26 | 2.11 dB  |
+| Peaking | 2053.35 Hz | 0.68 | -1.33 dB |
+| Peaking | 3233.60 Hz | 3.67 | 2.01 dB  |
+| Peaking | 4006.53 Hz | 6.01 | -3.13 dB |
+| Peaking | 4568.72 Hz | 5.87 | 2.61 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.34dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 0.7 dB  |
-| Peaking | 62 Hz    | 1.41 | -3.3 dB |
-| Peaking | 125 Hz   | 1.41 | -7.1 dB |
-| Peaking | 250 Hz   | 1.41 | -5.2 dB |
-| Peaking | 500 Hz   | 1.41 | 1.4 dB  |
-| Peaking | 1000 Hz  | 1.41 | 2.6 dB  |
-| Peaking | 2000 Hz  | 1.41 | 2.3 dB  |
-| Peaking | 4000 Hz  | 1.41 | -0.3 dB |
-| Peaking | 8000 Hz  | 1.41 | 7.3 dB  |
-| Peaking | 16000 Hz | 1.41 | -1.6 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 2.67 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -1.92 dB |
+| Peaking | 125.00 Hz   | 1.41 | -6.67 dB |
+| Peaking | 250.00 Hz   | 1.41 | -5.38 dB |
+| Peaking | 500.00 Hz   | 1.41 | 1.32 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 2.57 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 2.25 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -0.36 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 7.20 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -1.68 dB |
 
 ### Graphs
 ![](./Razer%20Nari%20Ultimate.png)

@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*
 
 import os
+from sys import float_info
 
 DEFAULT_F_MIN = 20
 DEFAULT_F_MAX = 20000
 DEFAULT_STEP = 1.01
 
-DEFAULT_MAX_GAIN = float('nan')
+DEFAULT_MAX_GAIN = float_info.max
 DEFAULT_TREBLE_F_LOWER = 6000.0
 DEFAULT_TREBLE_F_UPPER = 8000.0
 DEFAULT_TREBLE_MAX_GAIN = 6.0
@@ -24,9 +25,8 @@ DEFAULT_BIT_DEPTH = 16
 DEFAULT_PHASE = 'minimum'
 DEFAULT_F_RES = 10
 DEFAULT_BASS_BOOST_GAIN = 0.0
-DEFAULT_BASS_BOOST_FC = 105.5
-# DEFAULT_BASS_BOOST_Q = 0.71 # Original
-DEFAULT_BASS_BOOST_Q = pow(2, 0.5)/2 # Experiment, means sqrt(2)/2, can be reduced to 0.5 ** 0.5
+DEFAULT_BASS_BOOST_FC = 316/3 # or 105.33...
+DEFAULT_BASS_BOOST_Q = pow(2, 0.5)/2
 
 DEFAULT_GRAPHIC_EQ_STEP = 1.0563 # Produces 127 samples with greatest frequency of 19871
 

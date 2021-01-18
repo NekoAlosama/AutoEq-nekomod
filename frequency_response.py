@@ -6,6 +6,13 @@ import matplotlib.ticker as ticker
 import math
 import pandas as pd
 from io import StringIO
+from constants import DEFAULT_F_MIN, DEFAULT_F_MAX, DEFAULT_STEP, DEFAULT_MAX_GAIN, DEFAULT_TREBLE_F_LOWER, \
+    DEFAULT_TREBLE_F_UPPER, DEFAULT_TREBLE_MAX_GAIN, DEFAULT_TREBLE_GAIN_K, DEFAULT_SMOOTHING_WINDOW_SIZE, \
+    DEFAULT_SMOOTHING_ITERATIONS, DEFAULT_TREBLE_SMOOTHING_F_LOWER, DEFAULT_TREBLE_SMOOTHING_F_UPPER, \
+    DEFAULT_TREBLE_SMOOTHING_WINDOW_SIZE, DEFAULT_TREBLE_SMOOTHING_ITERATIONS, DEFAULT_TILT, DEFAULT_FS, \
+    DEFAULT_F_RES, DEFAULT_BASS_BOOST_GAIN, DEFAULT_BASS_BOOST_FC, \
+    DEFAULT_BASS_BOOST_Q, DEFAULT_GRAPHIC_EQ_STEP, HARMAN_INEAR_PREFENCE_FREQUENCIES, \
+    HARMAN_ONEAR_PREFERENCE_FREQUENCIES, PREAMP_HEADROOM
 from scipy.interpolate import InterpolatedUnivariateSpline
 from scipy.signal import savgol_filter, find_peaks, minimum_phase, firwin2
 from scipy.special import expit
@@ -19,13 +26,6 @@ from PIL import Image
 import re
 import warnings
 import biquad
-from constants import DEFAULT_F_MIN, DEFAULT_F_MAX, DEFAULT_STEP, DEFAULT_MAX_GAIN, DEFAULT_TREBLE_F_LOWER, \
-    DEFAULT_TREBLE_F_UPPER, DEFAULT_TREBLE_MAX_GAIN, DEFAULT_TREBLE_GAIN_K, DEFAULT_SMOOTHING_WINDOW_SIZE, \
-    DEFAULT_SMOOTHING_ITERATIONS, DEFAULT_TREBLE_SMOOTHING_F_LOWER, DEFAULT_TREBLE_SMOOTHING_F_UPPER, \
-    DEFAULT_TREBLE_SMOOTHING_WINDOW_SIZE, DEFAULT_TREBLE_SMOOTHING_ITERATIONS, DEFAULT_TILT, DEFAULT_FS, \
-    DEFAULT_F_RES, DEFAULT_BASS_BOOST_GAIN, DEFAULT_BASS_BOOST_FC, \
-    DEFAULT_BASS_BOOST_Q, DEFAULT_GRAPHIC_EQ_STEP, HARMAN_INEAR_PREFENCE_FREQUENCIES, \
-    HARMAN_ONEAR_PREFERENCE_FREQUENCIES, PREAMP_HEADROOM
 
 
 class FrequencyResponse:
@@ -248,7 +248,7 @@ class FrequencyResponse:
         fr = self.__class__(name='hack', frequency=self.frequency, raw=self.equalization)
         n = np.ceil(np.log(20000 / 20) / np.log(f_step))
         f = 20 * f_step**np.arange(n)
-        f = np.sort(np.unique(f.astype('int')))
+        f = np.sort(np.unique(f))
         fr.interpolate(f=f)
         if normalize:
             fr.raw -= np.max(fr.raw) + PREAMP_HEADROOM
@@ -260,7 +260,7 @@ class FrequencyResponse:
         while np.abs(fr.raw[-1]) < 0.1 and np.abs(fr.raw[-2]) < 0.1:  # Last two are zeros
             fr.raw = fr.raw[:-1]
 
-        s = '; '.join(['{f} {a:.4f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
+        s = '; '.join(['{f:.2f} {a:.2f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
         s = 'GraphicEQ: ' + s
         return s
 
@@ -681,7 +681,7 @@ class FrequencyResponse:
         with open(file_path, 'w', encoding='utf-8') as f:
             s = f'Preamp: {preamp:.2f} dB\n'
             for i, filt in enumerate(filters):
-                s += f'Filter {i+1}: ON PK Fc {filt[0]:.1f} Hz Gain {filt[2]:.2f} dB Q {filt[1]:.4f}\n'
+                s += f'Filter {i+1}: ON PK Fc {filt[0]:.2f} Hz Gain {filt[2]:.2f} dB Q {filt[1]:.2f}\n'
             f.write(s)
 
     def write_rockbox_10_band_fixed_eq(self, file_path, filters, preamp=None):

@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.40dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.8 dB**.
+When using independent subset of filters, apply preamp of **-7.38 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 56 Hz    | 0.11 | -9.2 dB |
-| Peaking | 860 Hz   | 0.69 | 5.1 dB  |
-| Peaking | 2223 Hz  | 0.94 | 4.9 dB  |
-| Peaking | 5749 Hz  | 5.02 | -9.1 dB |
-| Peaking | 10203 Hz | 0.96 | 6.6 dB  |
-| Peaking | 2692 Hz  | 3.35 | 0.4 dB  |
-| Peaking | 3386 Hz  | 3.2  | -1.1 dB |
-| Peaking | 4203 Hz  | 3.53 | 1.0 dB  |
-| Peaking | 14010 Hz | 1.89 | 1.8 dB  |
-| Peaking | 19952 Hz | 0.68 | -6.4 dB |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 13.74 Hz    | 0.12 | -5.37 dB |
+| Peaking | 249.09 Hz   | 0.38 | -7.59 dB |
+| Peaking | 1254.08 Hz  | 0.32 | 6.87 dB  |
+| Peaking | 5730.60 Hz  | 4.2  | -9.67 dB |
+| Peaking | 10331.04 Hz | 1.14 | 6.79 dB  |
+| Peaking | 931.69 Hz   | 5.35 | 1.50 dB  |
+| Peaking | 1439.94 Hz  | 0.96 | -1.81 dB |
+| Peaking | 1505.55 Hz  | 2.24 | -0.65 dB |
+| Peaking | 2016.87 Hz  | 1.09 | 2.55 dB  |
+| Peaking | 3341.90 Hz  | 3.59 | -1.96 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.1dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.29dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -9.2 dB |
-| Peaking | 62 Hz    | 1.41 | -6.3 dB |
-| Peaking | 125 Hz   | 1.41 | -7.2 dB |
-| Peaking | 250 Hz   | 1.41 | -5.6 dB |
-| Peaking | 500 Hz   | 1.41 | -0.8 dB |
-| Peaking | 1000 Hz  | 1.41 | 3.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | 6.3 dB  |
-| Peaking | 4000 Hz  | 1.41 | -0.5 dB |
-| Peaking | 8000 Hz  | 1.41 | 4.3 dB  |
-| Peaking | 16000 Hz | 1.41 | 1.9 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | -6.10 dB |
+| Peaking | 62.50 Hz    | 1.41 | -4.42 dB |
+| Peaking | 125.00 Hz   | 1.41 | -6.65 dB |
+| Peaking | 250.00 Hz   | 1.41 | -5.90 dB |
+| Peaking | 500.00 Hz   | 1.41 | -0.86 dB |
+| Peaking | 1000.00 Hz  | 1.41 | 3.57 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 6.53 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -0.79 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 4.43 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 1.73 dB  |
 
 ### Graphs
 ![](./HiSoundAudio%20Wooduo.png)

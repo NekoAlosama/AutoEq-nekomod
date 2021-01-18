@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.0dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.14dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.6 dB**.
+When using independent subset of filters, apply preamp of **-5.72 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 86 Hz    | 1.16 | -3.8 dB |
-| Peaking | 175 Hz   | 1.11 | -4.2 dB |
-| Peaking | 338 Hz   | 2.22 | -2.4 dB |
-| Peaking | 3568 Hz  | 4.46 | 3.7 dB  |
-| Peaking | 14470 Hz | 0.07 | 2.1 dB  |
-| Peaking | 19 Hz    | 2.35 | 2.4 dB  |
-| Peaking | 4032 Hz  | 3.6  | 0.9 dB  |
-| Peaking | 4190 Hz  | 2.53 | 0.3 dB  |
-| Peaking | 5101 Hz  | 3.51 | -5.7 dB |
-| Peaking | 6465 Hz  | 1.77 | 2.7 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 16.27 Hz    | 0.75 | 4.73 dB  |
+| Peaking | 145.09 Hz   | 0.59 | -5.01 dB |
+| Peaking | 336.83 Hz   | 2.72 | -1.69 dB |
+| Peaking | 3588.56 Hz  | 4.93 | 3.82 dB  |
+| Peaking | 15270.81 Hz | 0.05 | 2.00 dB  |
+| Peaking | 1640.73 Hz  | 0.51 | 0.37 dB  |
+| Peaking | 1875.89 Hz  | 2.49 | -0.94 dB |
+| Peaking | 4152.28 Hz  | 2.5  | 0.89 dB  |
+| Peaking | 5090.82 Hz  | 3.86 | -5.62 dB |
+| Peaking | 6578.72 Hz  | 1.77 | 2.36 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-3.42dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 1.1 dB  |
-| Peaking | 62 Hz    | 1.41 | -3.0 dB |
-| Peaking | 125 Hz   | 1.41 | -4.5 dB |
-| Peaking | 250 Hz   | 1.41 | -3.7 dB |
-| Peaking | 500 Hz   | 1.41 | -0.7 dB |
-| Peaking | 1000 Hz  | 1.41 | 0.8 dB  |
-| Peaking | 2000 Hz  | 1.41 | 0.9 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | 2.8 dB  |
-| Peaking | 16000 Hz | 1.41 | 2.7 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 3.10 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -1.56 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.13 dB |
+| Peaking | 250.00 Hz   | 1.41 | -3.84 dB |
+| Peaking | 500.00 Hz   | 1.41 | -0.72 dB |
+| Peaking | 1000.00 Hz  | 1.41 | 0.75 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 0.81 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 2.48 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 2.70 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 2.56 dB  |
 
 ### Graphs
 ![](./Sennheiser%20Urbanite%20XL.png)

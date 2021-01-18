@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.2dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-13.04dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.1 dB**.
+When using independent subset of filters, apply preamp of **-13.05 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 28 Hz    | 0.71 | 6.6 dB  |
-| Peaking | 158 Hz   | 1.02 | -5.8 dB |
-| Peaking | 3331 Hz  | 2.87 | 7.3 dB  |
-| Peaking | 5576 Hz  | 3.06 | -7.2 dB |
-| Peaking | 11632 Hz | 1.11 | 5.2 dB  |
-| Peaking | 291 Hz   | 1.86 | -2.1 dB |
-| Peaking | 621 Hz   | 1.18 | 7.2 dB  |
-| Peaking | 1056 Hz  | 0.85 | -5.6 dB |
-| Peaking | 2455 Hz  | 2.15 | 1.7 dB  |
-| Peaking | 4067 Hz  | 3.5  | 0.5 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 17.87 Hz    | 0.5  | 13.09 dB |
+| Peaking | 164.52 Hz   | 1.07 | -6.05 dB |
+| Peaking | 3301.14 Hz  | 3.39 | 8.45 dB  |
+| Peaking | 5584.04 Hz  | 3.09 | -7.14 dB |
+| Peaking | 11620.00 Hz | 1.14 | 5.16 dB  |
+| Peaking | 92.80 Hz    | 4.51 | -1.00 dB |
+| Peaking | 299.83 Hz   | 2.02 | -2.18 dB |
+| Peaking | 606.38 Hz   | 1.21 | 5.53 dB  |
+| Peaking | 1097.46 Hz  | 1.34 | -5.09 dB |
+| Peaking | 14948.26 Hz | 3.37 | 0.58 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.53dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 7.6 dB  |
-| Peaking | 62 Hz    | 1.41 | 1.1 dB  |
-| Peaking | 125 Hz   | 1.41 | -4.1 dB |
-| Peaking | 250 Hz   | 1.41 | -5.1 dB |
-| Peaking | 500 Hz   | 1.41 | 5.3 dB  |
-| Peaking | 1000 Hz  | 1.41 | -3.6 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.6 dB  |
-| Peaking | 4000 Hz  | 1.41 | 2.2 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.0 dB |
-| Peaking | 16000 Hz | 1.41 | 3.7 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 12.05 dB |
+| Peaking | 62.50 Hz    | 1.41 | 1.39 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -3.63 dB |
+| Peaking | 250.00 Hz   | 1.41 | -5.35 dB |
+| Peaking | 500.00 Hz   | 1.41 | 5.27 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -3.64 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 0.53 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 2.46 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -0.22 dB |
+| Peaking | 16000.01 Hz | 1.41 | 3.58 dB  |
 
 ### Graphs
 ![](./BlueAnt%20Embrace.png)

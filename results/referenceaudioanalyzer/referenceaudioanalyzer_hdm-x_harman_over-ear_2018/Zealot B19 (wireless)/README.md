@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.9dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-25.02dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.9 dB**.
+When using independent subset of filters, apply preamp of **-25.02 dB**.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 40 Hz    | 0.55 | 13.3 dB  |
-| Peaking | 86 Hz    | 0.58 | -14.6 dB |
-| Peaking | 1115 Hz  | 0.41 | -7.1 dB  |
-| Peaking | 2402 Hz  | 0.7  | 5.2 dB   |
-| Peaking | 15010 Hz | 0.09 | 6.2 dB   |
-| Peaking | 308 Hz   | 3.29 | 1.2 dB   |
-| Peaking | 526 Hz   | 2.38 | -2.6 dB  |
-| Peaking | 678 Hz   | 1.94 | 2.4 dB   |
-| Peaking | 1246 Hz  | 2.93 | -1.7 dB  |
-| Peaking | 1581 Hz  | 3.18 | 1.2 dB   |
+| Type    | Fc          |    Q | Gain      |
+|:--------|:------------|:-----|:----------|
+| Peaking | 18.96 Hz    | 0.29 | 30.05 dB  |
+| Peaking | 84.78 Hz    | 0.69 | -13.13 dB |
+| Peaking | 195.36 Hz   | 0.13 | -7.09 dB  |
+| Peaking | 11223.54 Hz | 1.39 | 5.17 dB   |
+| Peaking | 16305.27 Hz | 0.16 | 18.48 dB  |
+| Peaking | 1194.30 Hz  | 2.61 | -3.12 dB  |
+| Peaking | 3500.42 Hz  | 2.59 | -4.07 dB  |
+| Peaking | 3601.28 Hz  | 0.47 | 2.92 dB   |
+| Peaking | 4450.20 Hz  | 3.79 | 2.65 dB   |
+| Peaking | 5975.55 Hz  | 1.71 | -4.17 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-35.40dB**
 (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 9.2 dB  |
-| Peaking | 62 Hz    | 1.41 | -2.5 dB |
-| Peaking | 125 Hz   | 1.41 | -8.8 dB |
-| Peaking | 250 Hz   | 1.41 | -2.3 dB |
-| Peaking | 500 Hz   | 1.41 | -4.5 dB |
-| Peaking | 1000 Hz  | 1.41 | -4.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 2.4 dB  |
-| Peaking | 4000 Hz  | 1.41 | 5.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 6.1 dB  |
-| Peaking | 16000 Hz | 1.41 | 8.7 dB  |
+| Type    | Fc          |    Q | Gain     |
+|:--------|:------------|:-----|:---------|
+| Peaking | 31.25 Hz    | 1.41 | 24.63 dB |
+| Peaking | 62.50 Hz    | 1.41 | -7.18 dB |
+| Peaking | 125.00 Hz   | 1.41 | -8.63 dB |
+| Peaking | 250.00 Hz   | 1.41 | -2.71 dB |
+| Peaking | 500.00 Hz   | 1.41 | -4.62 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -4.77 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 1.68 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 3.86 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 11.64 dB |
+| Peaking | 16000.01 Hz | 1.41 | 34.51 dB |
 
 ### Graphs
 ![](./Zealot%20B19%20(wireless).png)
