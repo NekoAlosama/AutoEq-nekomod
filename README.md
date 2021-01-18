@@ -30,7 +30,7 @@ Crinacle results aren't changed because the source measurements are paywalled be
 ## Problems caused
 Default results for headphones in ['Problems caused'](#problems-caused) or ['Error-causing-headphones'](#error-causing-headphones) are found on the [source repo.](https://github.com/jaakkopasanen/AutoEq/tree/master/results)
 Warnings, errors, and additional effects documented below. Errors usually caused by a very high output value.
-Ordered by provider recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer). Asterisks (`*`) after any name means that they are listed as the recommended verison in [results/README.md](./results/README.md). 
+Ordered by provider recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer).
 
 
 - Jabra Elite Active 45e (rtings\inear)
