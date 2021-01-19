@@ -25,13 +25,13 @@ Crinacle results aren't changed because the source measurements are paywalled be
 ## Example with Sennheiser HD 800
 ### Graph difference (for equalization differences)
 | jaakkopasanen/AutoEq | NekoAlosama/AutoEQ-NekoMod |
-| -------------------: | :------------------------- |
+| :------------------: | :------------------------: |
 | ![jaakkopasanen/AutoEq](https://gitcdn.xyz/repo/jaakkopasanen/AutoEq/master/results/oratory1990/harman_over-ear_2018/Sennheiser%20HD%20800/Sennheiser%20HD%20800.png) | ![NekoAlosama/AutoEQ-NekoMod](https://gitcdn.xyz/repo/NekoAlosama/AutoEQ-NekoMod/master/results/oratory1990/harman_over-ear_2018/Sennheiser%20HD%20800/Sennheiser%20HD%20800.png) |
 
 ### Fixed Band EQ result difference (for equalization display)
 
 | Type    | Fc       |    Q | Gain JP | Gain NA  |
-|:--------|:---------|:-----|--------:|---------:|
+|--------:|---------:|-----:|--------:|---------:|
 | Preamp  |          |      | -5.8 dB | -8.01 dB |
 | Peaking | 31 Hz    | 1.41 | 5.2 dB  | 7.38 dB  |
 | Peaking | 62 Hz    | 1.41 | 2.0 dB  | 3.33 dB  |
