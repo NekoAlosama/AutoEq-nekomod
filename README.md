@@ -1,11 +1,9 @@
 # AutoEQ (NekoAlosama's mod)
 First name was "AutoEq-optimized".
 
-
 Changed results are found [here.](./results)
 Default results for headphones in ['Problems caused'](#problems-caused) or ['Error-causing-headphones'](#error-causing-headphones) are found on the [source repo.](https://github.com/jaakkopasanen/AutoEq/tree/master/results)
 If the source repo updates and it affects the results, I will commit the results of the source into this repo before generating and commiting my version.
-
 
 Differences from souce:
 - Recalculated most headphones with changes below.
@@ -20,18 +18,36 @@ Differences from souce:
   - Default uses 127 samples from 20 to 19871.
   - Removed for compatibility with Wavelet (since last checked).
 
-
 Use an amplifier or adjust output values when neccessary because of `--max_gain` and bass changes.
-
 
 Crinacle results aren't changed because the source measurements are paywalled behind [Crinacle's Patreon.](https://www.patreon.com/crinacle)
 
+## Example with Sennheiser HD 800
+### Graph difference (for equalization differences)
+| jaakkopasanen/AutoEq | NekoAlosama/AutoEQ-NekoMod |
+| -------------------: | :------------------------- |
+| ![jaakkopasanen/AutoEq](https://gitcdn.xyz/repo/jaakkopasanen/AutoEq/master/results/oratory1990/harman_over-ear_2018/Sennheiser%20HD%20800/Sennheiser%20HD%20800.png) | ![NekoAlosama/AutoEQ-NekoMod](https://gitcdn.xyz/repo/NekoAlosama/AutoEQ-NekoMod/master/results/oratory1990/harman_over-ear_2018/Sennheiser%20HD%20800/Sennheiser%20HD%20800.png) |
+
+### Fixed Band EQ result difference (for equalization display)
+
+| Type    | Fc       |    Q | Gain JP | Gain NA  |
+|:--------|:---------|:-----|--------:|---------:|
+| Preamp  |          |      | -5.8 dB | -8.01 dB |
+| Peaking | 31 Hz    | 1.41 | 5.2 dB  | 7.38 dB  |
+| Peaking | 62 Hz    | 1.41 | 2.0 dB  | 3.33 dB  |
+| Peaking | 125 Hz   | 1.41 | -0.9 dB | -0.60 dB |
+| Peaking | 250 Hz   | 1.41 | -2.2 dB | -2.40 dB |
+| Peaking | 500 Hz   | 1.41 | -0.3 dB | -0.38 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.2 dB | -0.23 dB |
+| Peaking | 2000 Hz  | 1.41 | 5.1 dB  | 5.05 dB  |
+| Peaking | 4000 Hz  | 1.41 | -1.6 dB | -1.67 dB |
+| Peaking | 8000 Hz  | 1.41 | -1.7 dB | -1.80 dB |
+| Peaking | 16000 Hz | 1.41 | -5.7 dB | -5.84 dB |
 
 ## Problems caused
 Default results for headphones in ['Problems caused'](#problems-caused) or ['Error-causing-headphones'](#error-causing-headphones) are found on the [source repo.](https://github.com/jaakkopasanen/AutoEq/tree/master/results)
 Warnings, errors, and additional effects documented below. Errors usually caused by a very high output value.
 Ordered by provider recommendation priority (oratory1990 > Crinacle > Innerfidelity > Rtings > Headphone.com > Reference Audio Analyzer).
-
 
 - Jabra Elite Active 45e (rtings\inear)
 - AfterShokz Aeropex (rtings\earbud)
@@ -46,15 +62,16 @@ Ordered by provider recommendation priority (oratory1990 > Crinacle > Innerfidel
 - Effects:
   - `.csv` contains empty boxes in the `fixed_band_eq` category, only around the 31.25Hz band.
   - `.png` has the 'Fixed Band EQ' line broken due to above.
+  
 ```
 [repo]\biquad.py:128: RuntimeWarning: invalid value encountered in log10
   ) - 10 * np.log10(
 ```
 
-
 ### Error-causing headphones 
 Default results for headphones in ['Problems caused'](#problems-caused) or ['Error-causing-headphones'](#error-causing-headphones) are found on the [source repo.](https://github.com/jaakkopasanen/AutoEq/tree/master/results)
 These headphones are placed in ['error_causers' folder.](./measurements/error_causers)
+
 - Koss KPH7 (error_causers\innerfidelity\onear)
 - Stax SR-3 (error_causers\innerfidelity\onear)
 - Apple iPod Ear Buds (sample A) (error_causers\innerfidelity\earbud)
@@ -64,6 +81,7 @@ These headphones are placed in ['error_causers' folder.](./measurements/error_ca
 - Sennheiser RS 130 (error_causers\headphonecom\onear)
 - JVC HA-SR500 (error_causers\referenceaudioanalyzer\onear\HDM1)
 - Effects: No output for these headphones.
+
 ```
 [repo]\biquad.py:128: RuntimeWarning: invalid value encountered in log10
   ) - 10 * np.log10(
@@ -86,7 +104,6 @@ Traceback (most recent call last):
     raise ValueError('None values present, cannot smoothen!')
 ValueError: None values present, cannot smoothen!
 ```
-
 
 ## Original README.md
 ...is seen [here.](https://github.com/jaakkopasanen/AutoEq/blob/master/README.md)
