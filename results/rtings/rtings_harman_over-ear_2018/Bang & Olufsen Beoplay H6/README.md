@@ -7,7 +7,7 @@ with these parameters. The first 5 filters can be used independently.
 When using independent subset of filters, apply preamp of **-6.06 dB**.
 
 | Type    | Fc         |    Q | Gain     |
-|:--------|:-----------|:-----|:---------|
+|--------:|-----------:|-----:|---------:|
 | Peaking | 33.33 Hz   | 1.73 | -0.99 dB |
 | Peaking | 203.01 Hz  | 0.12 | -3.28 dB |
 | Peaking | 267.92 Hz  | 1.31 | 6.21 dB  |
@@ -24,7 +24,7 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
-|:--------|:------------|:-----|:---------|
+|--------:|------------:|-----:|---------:|
 | Peaking | 31.25 Hz    | 1.41 | -2.91 dB |
 | Peaking | 62.50 Hz    | 1.41 | -1.53 dB |
 | Peaking | 125.00 Hz   | 1.41 | -3.87 dB |
