@@ -7,7 +7,7 @@ Recommendation priority is: oratory1990 > Crinacle > Innerfidelity > Rtings > He
 Reference Audio Analyzer. This means if there are measurements from multiple sources for the same headphone
 model only the highest priority result will be shown in this list.
 
-This list has 3248 headphone models covered but if your headphone is missing you can create settings for
+This list has 3243 headphone models covered but if your headphone is missing you can create settings for
 it yourself by following this guide:
 [Equalizing Headphones the Easy Way](https://medium.com/@jaakkopasanen/make-your-headphones-sound-supreme-1cbd567832a9)
 
@@ -153,7 +153,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Advanced S2000](./crinacle/harman_in-ear_2019v2/Advanced%20S2000)
 - [Aedle VK1](./innerfidelity/innerfidelity_harman_over-ear_2018/Aedle%20VK1)
 - [AfterShokz Aeropex](./rtings/rtings_harman_in-ear_2019v2/AfterShokz%20Aeropex)
-- [AfterShokz Trekz Air](./rtings/rtings_harman_in-ear_2019v2/AfterShokz%20Trekz%20Air)
 - [Aiaiai TMA-1](./innerfidelity/innerfidelity_harman_over-ear_2018/Aiaiai%20TMA-1)
 - [Aiaiai TMA-1 Studio](./innerfidelity/innerfidelity_harman_over-ear_2018/Aiaiai%20TMA-1%20Studio)
 - [Aiaiai TMA-2 HD Wireless](./oratory1990/harman_over-ear_2018/Aiaiai%20TMA-2%20HD%20Wireless)
@@ -316,7 +315,7 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Apple AirPods Pro](./crinacle/harman_in-ear_2019v2/Apple%20AirPods%20Pro)
 - [Apple EarPods](./oratory1990/harman_in-ear_2019v2/Apple%20EarPods)
 - [Apple In-Ear 2013](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20In-Ear%202013)
-- [Apple iPod Ear Buds](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20iPod%20Ear%20Buds)
+- [Apple iPod Ear Buds](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Apple%20iPod%20Ear%20Buds%20(sample%20B))
 - [Apple ME186 In-Ear Headphones](./oratory1990/harman_in-ear_2019v2/Apple%20ME186%20In-Ear%20Headphones)
 - [ARC Mira](./crinacle/harman_in-ear_2019v2/ARC%20Mira)
 - [ARC Oculus](./crinacle/harman_in-ear_2019v2/ARC%20Oculus)
@@ -1861,7 +1860,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [JVC HA-RX900](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-RX900)
 - [JVC HA-S500-Z](./innerfidelity/innerfidelity_harman_over-ear_2018/JVC%20HA-S500-Z)
 - [JVC HA-SR44X](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR44X)
-- [JVC HA-SR500](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR500)
 - [JVC HA-SR75S](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR75S)
 - [JVC HA-SR85](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SR85)
 - [JVC HA-SZ2000](./referenceaudioanalyzer/referenceaudioanalyzer_hdm1_harman_over-ear_2018/JVC%20HA-SZ2000)
@@ -1939,7 +1937,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Koss ESP950](./oratory1990/harman_over-ear_2018/Koss%20ESP950)
 - [Koss ESP95X](./oratory1990/harman_over-ear_2018/Koss%20ESP95X)
 - [Koss KDE250](./headphonecom/headphonecom_harman_over-ear_2018/Koss%20KDE250)
-- [Koss KPH7](./innerfidelity/innerfidelity_harman_over-ear_2018/Koss%20KPH7)
 - [Koss KSC75](./oratory1990/harman_over-ear_2018/Koss%20KSC75)
 - [Koss Porta Pro](./oratory1990/harman_over-ear_2018/Koss%20Porta%20Pro)
 - [Koss Porta Pro (Yaxi earpads)](./oratory1990/harman_over-ear_2018/Koss%20Porta%20Pro%20(Yaxi%20earpads))
@@ -2762,7 +2759,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Sennheiser HD 800 S](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20800%20S)
 - [Sennheiser HD 800 S (Dekoni fenestrated sheepskin earpads)](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20800%20S%20(Dekoni%20fenestrated%20sheepskin%20earpads))
 - [Sennheiser HD 820](./oratory1990/harman_over-ear_2018/Sennheiser%20HD%20820)
-- [Sennheiser HD R 130](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20HD%20R%20130)
 - [Sennheiser HD1 In-Ear Wireless](./rtings/rtings_harman_in-ear_2019v2/Sennheiser%20HD1%20In-Ear%20Wireless)
 - [Sennheiser HE 1 Orpheus 2](./oratory1990/harman_over-ear_2018/Sennheiser%20HE%201%20Orpheus%202)
 - [Sennheiser HE 60](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20HE%2060)
@@ -2840,7 +2836,6 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Sennheiser PXC 550 Wireless (wireless)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Sennheiser%20PXC%20550%20Wireless%20(wireless))
 - [Sennheiser PXC 550 Wireless (wireless, ANC on)](./innerfidelity/innerfidelity_harman_over-ear_2018/Sennheiser%20PXC%20550%20Wireless%20(wireless,%20ANC%20on))
 - [Sennheiser PXC 550-II Wireless](./oratory1990/harman_over-ear_2018/Sennheiser%20PXC%20550-II%20Wireless)
-- [Sennheiser RS 130](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20RS%20130)
 - [Sennheiser RS 160](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20RS%20160)
 - [Sennheiser RS 165](./rtings/rtings_harman_over-ear_2018/Sennheiser%20RS%20165)
 - [Sennheiser RS 170](./headphonecom/headphonecom_harman_over-ear_2018/Sennheiser%20RS%20170)
@@ -3658,7 +3653,7 @@ Headphone ranking based on Harman listener preference scores can be found in the
 - [Yuin G1A](./headphonecom/headphonecom_harman_over-ear_2018/Yuin%20G1A)
 - [Yuin G2A](./headphonecom/headphonecom_harman_over-ear_2018/Yuin%20G2A)
 - [Yuin PK1](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Yuin%20PK1)
-- [Yuin PK2](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Yuin%20PK2)
+- [Yuin PK2](./headphonecom/headphonecom_harman_in-ear_2019v2/Yuin%20PK2)
 - [Yutai BAS02](./innerfidelity/innerfidelity_harman_in-ear_2019v2/Yutai%20BAS02)
 - [Zealot B19 (wired)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Zealot%20B19%20(wired))
 - [Zealot B19 (wireless)](./referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Zealot%20B19%20(wireless))
