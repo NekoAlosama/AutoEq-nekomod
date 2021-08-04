@@ -20,7 +20,7 @@ Differences from souce:
 
 Use an amplifier or adjust output values when neccessary because of `--max_gain` and bass changes.
 
-Crinacle results aren't changed because the source measurements are paywalled behind [Crinacle's Patreon.](https://www.patreon.com/crinacle)
+Crinacle results aren't changed (or are missing) because the source measurements are paywalled behind [Crinacle's Patreon.](https://www.patreon.com/crinacle)
 
 ## Example with Sennheiser HD 800
 ### Graph difference (for equalization differences)

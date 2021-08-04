@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.97dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.82dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.97 dB**.
+When using independent subset of filters, apply preamp of **-7.82 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 16.84 Hz    | 0.56 | 7.98 dB  |
-| Peaking | 45.36 Hz    | 0.95 | 0.97 dB  |
-| Peaking | 228.96 Hz   | 0.5  | -3.86 dB |
-| Peaking | 3145.08 Hz  | 1.26 | 7.07 dB  |
-| Peaking | 10644.95 Hz | 1.17 | -4.53 dB |
-| Peaking | 1514.78 Hz  | 3.21 | -0.79 dB |
-| Peaking | 2150.42 Hz  | 3.62 | 0.72 dB  |
-| Peaking | 4356.70 Hz  | 4.4  | 1.70 dB  |
-| Peaking | 5820.24 Hz  | 2.78 | -2.99 dB |
-| Peaking | 6739.42 Hz  | 4.48 | 2.65 dB  |
+| Peaking | 16.48 Hz    | 0.54 | 7.91 dB  |
+| Peaking | 45.16 Hz    | 0.87 | 0.82 dB  |
+| Peaking | 221.45 Hz   | 0.48 | -3.89 dB |
+| Peaking | 3142.73 Hz  | 1.26 | 7.07 dB  |
+| Peaking | 10652.12 Hz | 1.17 | -4.53 dB |
+| Peaking | 1520.52 Hz  | 3.22 | -0.78 dB |
+| Peaking | 2142.58 Hz  | 3.46 | 0.71 dB  |
+| Peaking | 4357.83 Hz  | 4.41 | 1.71 dB  |
+| Peaking | 5824.08 Hz  | 2.79 | -2.97 dB |
+| Peaking | 6706.91 Hz  | 4.5  | 2.63 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.19dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.32dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 6.99 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 0.48 dB  |
+| Peaking | 31.25 Hz    | 1.41 | 7.10 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.37 dB  |
 | Peaking | 125.00 Hz   | 1.41 | -2.13 dB |
-| Peaking | 250.00 Hz   | 1.41 | -3.49 dB |
-| Peaking | 500.00 Hz   | 1.41 | -1.54 dB |
-| Peaking | 1000.00 Hz  | 1.41 | -0.64 dB |
-| Peaking | 2000.00 Hz  | 1.41 | 2.64 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 6.17 dB  |
-| Peaking | 8000.00 Hz  | 1.41 | -4.29 dB |
-| Peaking | 16000.01 Hz | 1.41 | -0.81 dB |
+| Peaking | 250.00 Hz   | 1.41 | -3.54 dB |
+| Peaking | 500.00 Hz   | 1.41 | -1.56 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -0.66 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 2.72 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 6.07 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -4.13 dB |
+| Peaking | 16000.01 Hz | 1.41 | -0.96 dB |
 
 ### Graphs
 ![](./Sennheiser%20IE%2040%20PRO.png)

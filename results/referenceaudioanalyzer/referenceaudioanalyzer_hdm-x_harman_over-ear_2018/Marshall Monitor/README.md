@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-5.45 dB**.
 
 | Type    | Fc         |    Q | Gain     |
 |--------:|-----------:|-----:|---------:|
-| Peaking | 20.22 Hz   | 1.37 | 4.77 dB  |
-| Peaking | 381.62 Hz  | 0.09 | 2.45 dB  |
-| Peaking | 741.16 Hz  | 1.5  | -5.03 dB |
-| Peaking | 3274.16 Hz | 1.24 | -9.65 dB |
-| Peaking | 6592.68 Hz | 1.09 | 5.71 dB  |
-| Peaking | 104.92 Hz  | 2.86 | 0.86 dB  |
-| Peaking | 194.83 Hz  | 3    | -0.99 dB |
-| Peaking | 1544.29 Hz | 3.46 | 1.13 dB  |
-| Peaking | 2882.70 Hz | 1.45 | -1.09 dB |
-| Peaking | 3260.29 Hz | 4.2  | 1.47 dB  |
+| Peaking | 20.11 Hz   | 1.39 | 4.78 dB  |
+| Peaking | 396.22 Hz  | 0.09 | 2.45 dB  |
+| Peaking | 734.25 Hz  | 1.51 | -5.03 dB |
+| Peaking | 3242.83 Hz | 1.24 | -9.67 dB |
+| Peaking | 6647.25 Hz | 1.09 | 5.70 dB  |
+| Peaking | 102.60 Hz  | 2.7  | 0.89 dB  |
+| Peaking | 191.46 Hz  | 3.18 | -0.99 dB |
+| Peaking | 1568.28 Hz | 2.4  | 1.60 dB  |
+| Peaking | 2239.22 Hz | 0.68 | -0.91 dB |
+| Peaking | 3252.85 Hz | 5.1  | 1.07 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.60dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.57dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 3.87 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 0.99 dB  |
-| Peaking | 125.00 Hz   | 1.41 | 2.23 dB  |
-| Peaking | 250.00 Hz   | 1.41 | 1.74 dB  |
+| Peaking | 31.25 Hz    | 1.41 | 3.82 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.96 dB  |
+| Peaking | 125.00 Hz   | 1.41 | 2.24 dB  |
+| Peaking | 250.00 Hz   | 1.41 | 1.73 dB  |
 | Peaking | 500.00 Hz   | 1.41 | -0.49 dB |
-| Peaking | 1000.00 Hz  | 1.41 | -0.94 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -0.93 dB |
 | Peaking | 2000.00 Hz  | 1.41 | -1.32 dB |
-| Peaking | 4000.00 Hz  | 1.41 | -5.44 dB |
-| Peaking | 8000.00 Hz  | 1.41 | 6.34 dB  |
-| Peaking | 16000.01 Hz | 1.41 | -2.16 dB |
+| Peaking | 4000.00 Hz  | 1.41 | -5.43 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 6.32 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -2.15 dB |
 
 ### Graphs
 ![](./Marshall%20Monitor.png)

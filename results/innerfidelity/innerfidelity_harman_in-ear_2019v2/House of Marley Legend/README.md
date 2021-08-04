@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-13.31dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-13.28dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-13.30 dB**.
+When using independent subset of filters, apply preamp of **-13.29 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 21.85 Hz    | 0.35 | 4.34 dB  |
-| Peaking | 236.21 Hz   | 0.49 | -6.42 dB |
-| Peaking | 3529.37 Hz  | 0.47 | -4.00 dB |
-| Peaking | 3884.00 Hz  | 2.2  | 7.21 dB  |
-| Peaking | 16979.29 Hz | 0.12 | 13.24 dB |
-| Peaking | 1411.80 Hz  | 0.88 | 1.14 dB  |
-| Peaking | 1427.68 Hz  | 2.14 | -2.09 dB |
-| Peaking | 6004.96 Hz  | 5.36 | -3.64 dB |
-| Peaking | 7662.24 Hz  | 3.27 | 1.07 dB  |
-| Peaking | 7672.08 Hz  | 3.37 | 0.99 dB  |
+| Peaking | 21.89 Hz    | 0.36 | 4.34 dB  |
+| Peaking | 236.03 Hz   | 0.49 | -6.42 dB |
+| Peaking | 3525.13 Hz  | 0.49 | -4.01 dB |
+| Peaking | 3874.49 Hz  | 2.2  | 7.23 dB  |
+| Peaking | 16511.67 Hz | 0.13 | 13.24 dB |
+| Peaking | 1395.13 Hz  | 4.55 | -0.93 dB |
+| Peaking | 1613.49 Hz  | 3.12 | -0.23 dB |
+| Peaking | 4781.63 Hz  | 5.35 | 2.48 dB  |
+| Peaking | 5909.13 Hz  | 2.64 | -3.89 dB |
+| Peaking | 7523.16 Hz  | 3.58 | 2.74 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-21.10dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-21.09dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 4.51 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 0.75 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -3.06 dB |
-| Peaking | 250.00 Hz   | 1.41 | -5.84 dB |
+| Peaking | 31.25 Hz    | 1.41 | 4.53 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.80 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -3.05 dB |
+| Peaking | 250.00 Hz   | 1.41 | -5.85 dB |
 | Peaking | 500.00 Hz   | 1.41 | -3.10 dB |
 | Peaking | 1000.00 Hz  | 1.41 | -0.72 dB |
 | Peaking | 2000.00 Hz  | 1.41 | -1.64 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 6.84 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | 8.02 dB  |
-| Peaking | 16000.01 Hz | 1.41 | 20.41 dB |
+| Peaking | 16000.01 Hz | 1.41 | 20.40 dB |
 
 ### Graphs
 ![](./House%20of%20Marley%20Legend.png)

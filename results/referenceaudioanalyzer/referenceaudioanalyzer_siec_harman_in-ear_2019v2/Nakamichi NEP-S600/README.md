@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-12.08 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 60.22 Hz    | 0.39 | -2.67 dB |
-| Peaking | 187.04 Hz   | 0.39 | -6.31 dB |
-| Peaking | 738.83 Hz   | 1.43 | 3.07 dB  |
-| Peaking | 3033.43 Hz  | 1.48 | 9.15 dB  |
-| Peaking | 14729.99 Hz | 0.51 | 11.80 dB |
-| Peaking | 1435.01 Hz  | 5.03 | -1.22 dB |
-| Peaking | 4732.41 Hz  | 2.73 | 2.64 dB  |
-| Peaking | 7199.77 Hz  | 1.59 | -4.86 dB |
-| Peaking | 10230.61 Hz | 1.89 | 4.52 dB  |
-| Peaking | 15091.04 Hz | 2.63 | -1.90 dB |
+| Peaking | 60.27 Hz    | 0.39 | -2.66 dB |
+| Peaking | 186.96 Hz   | 0.39 | -6.31 dB |
+| Peaking | 738.73 Hz   | 1.43 | 3.07 dB  |
+| Peaking | 3033.40 Hz  | 1.48 | 9.15 dB  |
+| Peaking | 14729.78 Hz | 0.51 | 11.80 dB |
+| Peaking | 1435.75 Hz  | 5.59 | -1.28 dB |
+| Peaking | 4736.80 Hz  | 2.68 | 2.70 dB  |
+| Peaking | 7232.55 Hz  | 1.54 | -5.02 dB |
+| Peaking | 10193.62 Hz | 1.8  | 4.65 dB  |
+| Peaking | 15066.70 Hz | 2.56 | -1.92 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-17.74dB**
@@ -25,16 +25,16 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | -2.44 dB |
-| Peaking | 62.50 Hz    | 1.41 | -4.36 dB |
-| Peaking | 125.00 Hz   | 1.41 | -6.40 dB |
+| Peaking | 31.25 Hz    | 1.41 | -2.42 dB |
+| Peaking | 62.50 Hz    | 1.41 | -4.34 dB |
+| Peaking | 125.00 Hz   | 1.41 | -6.39 dB |
 | Peaking | 250.00 Hz   | 1.41 | -6.05 dB |
-| Peaking | 500.00 Hz   | 1.41 | -0.70 dB |
-| Peaking | 1000.00 Hz  | 1.41 | 0.55 dB  |
+| Peaking | 500.00 Hz   | 1.41 | -0.71 dB |
+| Peaking | 1000.00 Hz  | 1.41 | 0.54 dB  |
 | Peaking | 2000.00 Hz  | 1.41 | 3.49 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 7.38 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 7.39 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | 2.64 dB  |
-| Peaking | 16000.01 Hz | 1.41 | 17.33 dB |
+| Peaking | 16000.01 Hz | 1.41 | 17.34 dB |
 
 ### Graphs
 ![](./Nakamichi%20NEP-S600.png)

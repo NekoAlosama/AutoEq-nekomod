@@ -373,7 +373,7 @@ def main():
     write_headphonecom_index()
     write_rtings_index()
     write_innerfidelity_index()
-    write_crinacle_index()
+    #write_crinacle_index()
     write_oratory1990_index()
     write_hesuvi_zip()
 

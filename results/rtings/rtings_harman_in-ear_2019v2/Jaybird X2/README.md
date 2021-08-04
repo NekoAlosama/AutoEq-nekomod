@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-5.83dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-5.84dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
 When using independent subset of filters, apply preamp of **-5.78 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 192.30 Hz   | 0.67 | -4.04 dB |
-| Peaking | 665.83 Hz   | 2.13 | 1.61 dB  |
-| Peaking | 4559.59 Hz  | 1    | 6.65 dB  |
-| Peaking | 6155.41 Hz  | 2.46 | 3.23 dB  |
-| Peaking | 17265.87 Hz | 0.18 | -6.31 dB |
-| Peaking | 42.55 Hz    | 0.37 | 1.15 dB  |
-| Peaking | 79.47 Hz    | 0.98 | -1.31 dB |
-| Peaking | 1386.75 Hz  | 2.12 | -0.95 dB |
-| Peaking | 2216.57 Hz  | 1.67 | 1.30 dB  |
-| Peaking | 2762.38 Hz  | 3.76 | -1.41 dB |
+| Peaking | 192.18 Hz   | 0.67 | -4.04 dB |
+| Peaking | 665.80 Hz   | 2.13 | 1.61 dB  |
+| Peaking | 4560.15 Hz  | 1    | 6.65 dB  |
+| Peaking | 6155.13 Hz  | 2.46 | 3.23 dB  |
+| Peaking | 17262.51 Hz | 0.18 | -6.31 dB |
+| Peaking | 42.76 Hz    | 0.37 | 1.15 dB  |
+| Peaking | 78.23 Hz    | 0.99 | -1.29 dB |
+| Peaking | 1397.78 Hz  | 2.13 | -0.94 dB |
+| Peaking | 2247.54 Hz  | 1.68 | 1.29 dB  |
+| Peaking | 2713.03 Hz  | 3.78 | -1.40 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.37dB**
@@ -25,9 +25,9 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 1.06 dB  |
-| Peaking | 62.50 Hz    | 1.41 | -0.56 dB |
-| Peaking | 125.00 Hz   | 1.41 | -2.74 dB |
+| Peaking | 31.25 Hz    | 1.41 | 1.00 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -0.54 dB |
+| Peaking | 125.00 Hz   | 1.41 | -2.76 dB |
 | Peaking | 250.00 Hz   | 1.41 | -3.71 dB |
 | Peaking | 500.00 Hz   | 1.41 | 0.56 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | 0.13 dB  |

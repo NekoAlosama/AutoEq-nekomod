@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-8.47 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 26.73 Hz    | 0.35 | 6.12 dB  |
-| Peaking | 240.73 Hz   | 0.56 | -4.13 dB |
-| Peaking | 1440.39 Hz  | 2.42 | -1.42 dB |
-| Peaking | 3471.51 Hz  | 1.06 | 8.82 dB  |
-| Peaking | 7728.20 Hz  | 1.78 | -5.84 dB |
-| Peaking | 6271.73 Hz  | 4.62 | -0.74 dB |
-| Peaking | 9431.57 Hz  | 3.4  | -1.05 dB |
-| Peaking | 12138.37 Hz | 1.98 | -1.25 dB |
-| Peaking | 15766.12 Hz | 1.37 | -0.42 dB |
-| Peaking | 19652.20 Hz | 0.4  | 7.00 dB  |
+| Peaking | 26.81 Hz    | 0.35 | 6.13 dB  |
+| Peaking | 240.89 Hz   | 0.56 | -4.13 dB |
+| Peaking | 1441.38 Hz  | 2.42 | -1.42 dB |
+| Peaking | 3470.27 Hz  | 1.06 | 8.82 dB  |
+| Peaking | 7729.67 Hz  | 1.78 | -5.84 dB |
+| Peaking | 6277.01 Hz  | 4.55 | -0.69 dB |
+| Peaking | 9440.55 Hz  | 3.57 | -0.99 dB |
+| Peaking | 12066.44 Hz | 1.86 | -1.00 dB |
+| Peaking | 12928.85 Hz | 1.79 | -0.24 dB |
+| Peaking | 19869.78 Hz | 0.38 | 7.02 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.50dB**
@@ -25,16 +25,16 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 6.64 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 2.74 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -0.91 dB |
-| Peaking | 250.00 Hz   | 1.41 | -3.66 dB |
-| Peaking | 500.00 Hz   | 1.41 | -1.60 dB |
-| Peaking | 1000.00 Hz  | 1.41 | -0.67 dB |
-| Peaking | 2000.00 Hz  | 1.41 | 1.77 dB  |
+| Peaking | 31.25 Hz    | 1.41 | 6.63 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 2.78 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -0.90 dB |
+| Peaking | 250.00 Hz   | 1.41 | -3.73 dB |
+| Peaking | 500.00 Hz   | 1.41 | -1.57 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -0.66 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 1.78 dB  |
 | Peaking | 4000.00 Hz  | 1.41 | 8.86 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | -5.99 dB |
-| Peaking | 16000.01 Hz | 1.41 | 4.92 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 4.91 dB  |
 
 ### Graphs
 ![](./Phiaton%20PS%20200.png)

@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-11.76 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.46 Hz    | 0.28 | 4.78 dB  |
-| Peaking | 238.22 Hz   | 0.34 | -5.63 dB |
-| Peaking | 3537.34 Hz  | 2.15 | 7.43 dB  |
-| Peaking | 5573.44 Hz  | 1.74 | 10.42 dB |
-| Peaking | 19224.54 Hz | 0.5  | -6.30 dB |
-| Peaking | 861.72 Hz   | 3.08 | 0.58 dB  |
-| Peaking | 1502.41 Hz  | 2.08 | -0.68 dB |
-| Peaking | 7718.46 Hz  | 3.98 | -1.37 dB |
-| Peaking | 9890.64 Hz  | 1.52 | 1.29 dB  |
-| Peaking | 14627.74 Hz | 1.6  | -0.71 dB |
+| Peaking | 31.45 Hz    | 0.28 | 4.78 dB  |
+| Peaking | 238.13 Hz   | 0.34 | -5.63 dB |
+| Peaking | 3537.70 Hz  | 2.15 | 7.44 dB  |
+| Peaking | 5574.23 Hz  | 1.74 | 10.42 dB |
+| Peaking | 19218.35 Hz | 0.5  | -6.30 dB |
+| Peaking | 861.33 Hz   | 3.06 | 0.58 dB  |
+| Peaking | 1502.88 Hz  | 2.08 | -0.68 dB |
+| Peaking | 7718.05 Hz  | 3.97 | -1.38 dB |
+| Peaking | 9887.19 Hz  | 1.51 | 1.29 dB  |
+| Peaking | 14611.58 Hz | 1.61 | -0.71 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.25dB**
@@ -25,15 +25,15 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 4.74 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 1.65 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -1.97 dB |
+| Peaking | 31.25 Hz    | 1.41 | 4.76 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 1.66 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -1.95 dB |
 | Peaking | 250.00 Hz   | 1.41 | -4.55 dB |
-| Peaking | 500.00 Hz   | 1.41 | -3.28 dB |
+| Peaking | 500.00 Hz   | 1.41 | -3.29 dB |
 | Peaking | 1000.00 Hz  | 1.41 | -1.17 dB |
 | Peaking | 2000.00 Hz  | 1.41 | -1.70 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 12.00 dB |
-| Peaking | 8000.00 Hz  | 1.41 | 3.18 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 3.17 dB  |
 | Peaking | 16000.01 Hz | 1.41 | -5.68 dB |
 
 ### Graphs
