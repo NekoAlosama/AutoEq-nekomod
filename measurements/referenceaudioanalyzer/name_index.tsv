@@ -314,6 +314,7 @@ BGVP DMG	BGVP DMG	inear
 BGVP DMS	BGVP DMS	inear
 BGVP DS1 Pro	BGVP DS1 Pro	inear
 BGVP HIFI ArtMagic VG4	BGVP VG4	inear
+BGVP NS9	BGVP NS9	inear
 BGVP Q2	BGVP Q2	inear
 BGVP Q2 (bluetooth)	BGVP Q2 (wireless)	inear
 BGVP Q2 (wire connection)	BGVP Q2 (wired)	inear
@@ -410,6 +411,7 @@ Campfire Audio Solaris	Campfire Audio Solaris	inear
 Campfire Audio Solaris 2020	Campfire Audio Solaris 2020	inear
 Campfire Audio Solaris Limited	Campfire Audio Solaris SE	inear
 Cardas EM5813	Cardas EM5813	inear
+CCA A10	CCA A10	inear
 Coloud Colors C22M	Coloud Colors C22M	onear
 Coloud NHL Chicago Blackhawks	Coloud NHL Chicago Blackhawks	onear
 Cowon CK11 Pro	COWON CK11 Pro	inear
@@ -529,6 +531,7 @@ FiiO F9	FiiO F9	inear
 FiiO F9 PRO	FiiO F9 Pro	inear
 FiiO FA7	FiiO FA7	inear
 FiiO FB1	FiiO FB1	inear
+FiiO FD5	FiiO FD5	inear
 FiiO FH1s	FiiO FH1s	inear
 FiiO FH5	FiiO FH5	inear
 FiiO Jade Audio EW1	Jade Audio EW1	inear
@@ -606,6 +609,7 @@ Flares Gold	Flare Audio Flares Gold	inear
 FLC 8d	FLC Technology 8D	inear
 FLC 8D	FLC Technology 8D	inear
 FLC 8N	FLC Technology 8N	inear
+FLC 8P	FLC Technology 8P	inear
 FLC 8S	FLC Technology 8S	inear
 FLC Technology 8D (black)	FLC Technology 8D (black)	inear
 FLC Technology 8D (blue)	FLC Technology 8D (blue)	inear
@@ -644,6 +648,7 @@ Fostex T50RP mod		ignore
 Fostex T60RP	Fostex T60RP	onear
 Fostex T7	Fostex T7	onear
 Fostex TH 900	Fostex TH900	onear
+Fostex TH-900 MK2	Fostex TH900mk2	onear
 Fostex TH-900 MK2 Sapphire Blue	Fostex TH900mk2	onear
 Fostex TH-X00	Fostex TH-X00	onear
 Fostex TH610	Fostex TH610	onear
@@ -654,16 +659,18 @@ Fostex TM2 (wire connection)	Fostex TM2 (wired)	inear
 Fostex TM2 Bluetooth Receiver		ignore
 Fostex TR-70	Fostex TR-70	onear
 GAL MP10	GAL MP10	inear
+Geekfly GF8S	Geekfly GF8S	inear
 Gerkules HDP DJ-Adv G501	Gerkules HDP DJ-Adv G501	onear
 Gerkules HDP DJ-M40.1	Gerkules HDP DJ-M40.1	onear
 Gerkules HDP DJ-PRO M1001	Gerkules HDP DJ-PRO M1001	onear
 German Maestro GMP 240	German Maestro GMP 240	onear
 German Maestro GMP 250	German Maestro GMP 250	onear
 German Maestro GMP 400	German Maestro GMP 400	onear
-German Maestro GMP 450 PRO	German Maestro GMP 450 PRO	onear
 German Maestro GMP 450 pro	German Maestro GMP 450 PRO	onear
+German Maestro GMP 450 PRO	German Maestro GMP 450 PRO	onear
 German Maestro GMP 8.300 D	German Maestro GMP 8.300 D	onear
 German Maestro GMP 8.35 D	German Maestro GMP 8.35 D	onear
+Gold Planar GL20	Gold Planar GL20	inear
 Grado eGrado	Grado eGrado	onear
 Grado GH3 Limited Edition	Grado GH3 Limited Edition	onear
 Grado GH4 Limited Edition	Grado GH4 Limited Edition	onear
@@ -703,6 +710,7 @@ Grado SR 80i	Grado SR80i	onear
 Grado SR325i (g-cush)	Grado SR325i (G earpads)	onear
 Grado SR325i (l-cush)	Grado SR325i (L earpads)	onear
 Grado SR325i (s-cush)	Grado SR325i (S earpads)	onear
+HAAFEE HD7	HAAFEE HD7	onear
 Haylou GT2 TWS	Xiaomi Haylou GT2	inear
 Haylou GT3	Haylou GT3	inear
 HEDD HEDDphone ONE	HEDD phone	onear
@@ -734,6 +742,7 @@ iBasso AM05	iBasso AM05	inear
 iBasso IT00	iBasso IT00	inear
 iBasso IT01	iBasso IT01	inear
 iBasso IT01s	iBasso IT01S	inear
+iBasso IT01x	iBasso IT01X	inear
 iBasso IT03	iBasso IT03	inear
 iBasso IT04	iBasso IT04	inear
 iBasso IT07	iBasso IT07	inear
@@ -858,9 +867,11 @@ KZ AS16	KZ AS16	inear
 KZ ATR	KZ ATR	inear
 KZ BA10	KZ BA10	inear
 KZ ED12	KZ ED12	inear
+KZ EDX	KZ EDX	inear
 KZ S1D	KZ S1D	inear
 KZ Z1	KZ Z1	inear
 KZ ZAX	KZ ZAX	inear
+KZ ZEX	KZ ZEX	inear
 KZ ZS10 Pro	KZ ZS10 Pro	inear
 KZ ZS6	KZ ZS6	ignore
 KZ ZS6 (close)	KZ ZS6 (closed vent)	ignore
@@ -960,8 +971,8 @@ MyST Gatling AT Aineri Mode		ignore
 MyST Izo-OS	MyST Izo-OS	onear
 MyST IzoEM-1		ignore
 MyST IzoPhones Jr-C	MyST IzoPhones Jr-C	onear
-MyST IzoPhones-30	MyST IzoPhones-30	onear
 MyST Izophones-30		ignore
+MyST IzoPhones-30	MyST IzoPhones-30	onear
 MyST Izophones-30s	MyST Izophones-30s	onear
 MyST IzoPhones-60	MyST IzoPhones-60	onear
 MyST IzoPhones-7	MyST IzoPhones-7	onear
@@ -977,6 +988,7 @@ Nakamichi NEP-S600	Nakamichi NEP-S600	inear
 Nakamichi NEP-S660	Nakamichi NEP-S660	inear
 Nakamichi NEP-S800	Nakamichi NEP-S800	inear
 Neumann NDH 20	Neumann NDH20	onear
+NICEHCK HC5	NiceHCK HC5	inear
 NICEHCK Vido	NiceHCK Vido	earbud
 Noble Audio Dulce Bass	Noble Audio Dulce Bass	inear
 Noble Audio EDC Bell	Noble Audio EDC Bell	inear
@@ -1126,6 +1138,7 @@ Sennheiser HD 515	Sennheiser HD 515	onear
 Sennheiser HD 518	Sennheiser HD 518	onear
 Sennheiser HD 555	Sennheiser HD 555	onear
 Sennheiser HD 558	Sennheiser HD 558	onear
+Sennheiser HD 560s	Sennheiser HD 560S	onear
 Sennheiser HD 569	Sennheiser HD 569	onear
 Sennheiser HD 579	Sennheiser HD 579	onear
 Sennheiser HD 580	Sennheiser HD 580	onear
@@ -1140,6 +1153,7 @@ Sennheiser HD 800	Sennheiser HD 800	onear
 Sennheiser HD 800 (american cushions)		ignore
 Sennheiser HD 800s	Sennheiser HD 800 S	onear
 Sennheiser HD7 DJ	Sennheiser HD 7 DJ	onear
+Sennheiser IE 300	Sennheiser IE 300	inear
 Sennheiser IE 400 Pro	Sennheiser IE 400 Pro	inear
 Sennheiser ie 80	Sennheiser IE 80	inear
 Sennheiser ie 800	Sennheiser IE 800	inear
@@ -1170,6 +1184,7 @@ Shozy Hibiki Mk.2	Shozy Hibiki MK2	inear
 Shozy V33	Shozy V33	inear
 Shozy V33 Pro	Shozy V33 Pro	inear
 Shozy Zero	Shozy Zero	inear
+Shuoer Tape Pro	Shuoer Tape Pro	inear
 Shure SE 102	Shure SE102	inear
 Shure SE 215	Shure SE215	inear
 Shure SE 315	Shure SE315	inear
@@ -1205,7 +1220,10 @@ Sivga Audio P-II	Sivga Audio P-II	onear
 Sivga Audio Phoenix	Sivga Audio Phoenix	onear
 Sivga Audio Phoenix (cushions 1)	Sivga Audio Phoenix (perforated leather earpads)	onear
 Sivga Audio Phoenix (cushions 2)	Sivga Audio Phoenix (hybrid earpads)	onear
+Sivga Audio Sivga SV021 Robin	Sivga Audio Robin	onear
 Skullcandy SK Pro	Skullcandy SK Pro	onear
+Smabat ST 10s	Smabat ST 10s	inear
+Smabat X1	Smabat X1	inear
 Snorry NM-1	Snorry NM-1	onear
 Snowy88 Hybrid 5	Snowy88 Hybrid 5	inear
 Snowy88 А6	Snowy88 А6	inear
@@ -1301,6 +1319,7 @@ Takstar HF 580	Takstar HF 580	onear
 Takstar Pro 80	Takstar Pro 80	onear
 Takstar PRO 82	Takstar Pro 80	onear
 Takstar TS-660	Takstar TS-660	onear
+Takstar TS-662	Takstar TS-662	onear
 TANCHJIM Blues	Tanchjim Blues	inear
 TANCHJIM Oxygen	Tanchjim Oxygen	inear
 Tansio Mirai TSMR-4 Pro	Tansio Mirai TSMR-4 Pro	inear
@@ -1354,6 +1373,7 @@ Tin HiFi T2	Tin HiFi T2	inear
 Tin HiFi T2 Pro	Tin HiFi T2 Pro	inear
 Tin HiFi T3	Tin HiFi T3	inear
 Tin HiFi T4	Tin HiFi T4	inear
+Tin HiFi T5	Tin HiFi T5	inear
 Trinity Audio ICARUS III	Trinity Audio ICARUS III	inear
 TRN ST1	TRN ST1	inear
 TRN VX	TRN VX	inear
@@ -1382,6 +1402,7 @@ Ultrasone Signature DJ	Ultrasone Signature DJ	onear
 Ultrasone TIO	Ultrasone TIO	inear
 Ultrasone Zino	Ultrasone Zino	onear
 Unique Melody 3D Terminator	Unique Melody 3D Terminator	inear
+Urbanears Plattan 2	Urbanears Plattan 2	onear
 Urbanears Plattan 2 Bluetooth	Urbanears Plattan 2 Bluetooth	onear
 V-Moda LP	V-MODA Crossfade LP	onear
 V-Moda M 80	V-MODA Crossfade M-80	onear
@@ -1424,8 +1445,8 @@ Whizzer C3	Whizzer C3	inear
 Whizzer HE03	Whizzer A-HE03 Kylin	inear
 Whizzer HE03 (vector)	Whizzer A-HE03 (vector)	inear
 Whizzer HE03 (vector)	Whizzer A-HE03 Kylin (vector)	inear
-Whizzer HE03 (vent sealed)	Whizzer A-HE03 (vent sealed)	inear
 Whizzer HE03 (vent sealed)	Whizzer A-HE03 Kylin (vent sealed)	inear
+Whizzer HE03 (vent sealed)	Whizzer A-HE03 (vent sealed)	inear
 Whizzer TP1	Whizzer TP1	inear
 Whizzer TP1 (closed vent)	Whizzer TP1 (closed vent)	inear
 Whizzer TP1s	Whizzer TP1s	inear
