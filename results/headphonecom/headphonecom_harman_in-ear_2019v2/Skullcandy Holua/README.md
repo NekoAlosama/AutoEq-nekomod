@@ -4,23 +4,23 @@ See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more
 ### Parametric EQs
 In case of using parametric equalizer, apply preamp of **-16.90dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.81 dB**.
+When using independent subset of filters, apply preamp of **-16.80 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 86.76 Hz    | 0.29 | -5.29 dB |
-| Peaking | 2324.22 Hz  | 4.08 | -5.78 dB |
-| Peaking | 3470.33 Hz  | 2.65 | 5.57 dB  |
-| Peaking | 11005.75 Hz | 1.43 | 8.60 dB  |
-| Peaking | 14839.04 Hz | 0.55 | 11.51 dB |
-| Peaking | 24.05 Hz    | 2.2  | -1.44 dB |
-| Peaking | 221.29 Hz   | 1.64 | -1.41 dB |
-| Peaking | 812.43 Hz   | 1.55 | 2.59 dB  |
-| Peaking | 5412.40 Hz  | 5.27 | -5.53 dB |
-| Peaking | 5643.31 Hz  | 1.72 | 1.87 dB  |
+| Peaking | 86.69 Hz    | 0.29 | -5.29 dB |
+| Peaking | 2324.25 Hz  | 4.07 | -5.78 dB |
+| Peaking | 3469.82 Hz  | 2.65 | 5.57 dB  |
+| Peaking | 11000.86 Hz | 1.44 | 8.55 dB  |
+| Peaking | 14822.48 Hz | 0.55 | 11.56 dB |
+| Peaking | 20.04 Hz    | 2.67 | -1.58 dB |
+| Peaking | 221.72 Hz   | 1.66 | -1.39 dB |
+| Peaking | 812.68 Hz   | 1.56 | 2.58 dB  |
+| Peaking | 5436.59 Hz  | 5.14 | -5.35 dB |
+| Peaking | 5653.65 Hz  | 1.66 | 1.79 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-21.54dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-21.55dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
@@ -33,8 +33,8 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Peaking | 1000.00 Hz  | 1.41 | 2.82 dB  |
 | Peaking | 2000.00 Hz  | 1.41 | -3.55 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 3.18 dB  |
-| Peaking | 8000.00 Hz  | 1.41 | 8.42 dB  |
-| Peaking | 16000.01 Hz | 1.41 | 20.86 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 8.41 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 20.87 dB |
 
 ### Graphs
 ![](./Skullcandy%20Holua.png)

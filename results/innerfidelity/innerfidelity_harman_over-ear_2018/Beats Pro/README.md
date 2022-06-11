@@ -2,39 +2,39 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.03dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-6.95dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.03 dB**.
+When using independent subset of filters, apply preamp of **-6.95 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 19.78 Hz    | 1.05 | 6.94 dB  |
-| Peaking | 170.89 Hz   | 0.78 | -3.57 dB |
-| Peaking | 1652.16 Hz  | 0.71 | 4.47 dB  |
-| Peaking | 2628.10 Hz  | 2.45 | -8.52 dB |
-| Peaking | 6355.47 Hz  | 2.18 | 2.73 dB  |
-| Peaking | 3171.59 Hz  | 5.48 | -1.26 dB |
-| Peaking | 3939.00 Hz  | 4.08 | 2.59 dB  |
-| Peaking | 4744.15 Hz  | 5.29 | -2.46 dB |
-| Peaking | 10925.95 Hz | 2.24 | -0.91 dB |
-| Peaking | 19899.91 Hz | 0.41 | 4.51 dB  |
+| Peaking | 20.13 Hz    | 1.05 | 7.00 dB  |
+| Peaking | 173.24 Hz   | 0.8  | -3.56 dB |
+| Peaking | 1699.96 Hz  | 0.69 | 4.58 dB  |
+| Peaking | 2627.59 Hz  | 2.39 | -8.76 dB |
+| Peaking | 6351.75 Hz  | 2.27 | 2.71 dB  |
+| Peaking | 3202.72 Hz  | 5.03 | -1.37 dB |
+| Peaking | 3945.33 Hz  | 3.64 | 2.67 dB  |
+| Peaking | 4703.34 Hz  | 5.05 | -2.63 dB |
+| Peaking | 10952.86 Hz | 2.2  | -0.87 dB |
+| Peaking | 19700.77 Hz | 0.45 | 4.51 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.26dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.24dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 5.31 dB  |
-| Peaking | 62.50 Hz    | 1.41 | -0.82 dB |
-| Peaking | 125.00 Hz   | 1.41 | -2.35 dB |
-| Peaking | 250.00 Hz   | 1.41 | -2.66 dB |
-| Peaking | 500.00 Hz   | 1.41 | 0.08 dB  |
-| Peaking | 1000.00 Hz  | 1.41 | 3.47 dB  |
-| Peaking | 2000.00 Hz  | 1.41 | -0.73 dB |
-| Peaking | 4000.00 Hz  | 1.41 | -0.66 dB |
-| Peaking | 8000.00 Hz  | 1.41 | 1.90 dB  |
-| Peaking | 16000.01 Hz | 1.41 | 2.64 dB  |
+| Peaking | 31.25 Hz    | 1.41 | 5.36 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -0.93 dB |
+| Peaking | 125.00 Hz   | 1.41 | -2.32 dB |
+| Peaking | 250.00 Hz   | 1.41 | -2.65 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.10 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 3.50 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | -0.78 dB |
+| Peaking | 4000.00 Hz  | 1.41 | -0.67 dB |
+| Peaking | 8000.00 Hz  | 1.41 | 1.96 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 2.62 dB  |
 
 ### Graphs
 ![](./Beats%20Pro.png)

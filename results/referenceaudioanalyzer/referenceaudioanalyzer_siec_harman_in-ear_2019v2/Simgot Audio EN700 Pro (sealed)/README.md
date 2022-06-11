@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-6.23 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 18.30 Hz    | 0.54 | -7.89 dB |
-| Peaking | 122.68 Hz   | 0.37 | -3.97 dB |
-| Peaking | 774.16 Hz   | 0.81 | 3.40 dB  |
-| Peaking | 4895.79 Hz  | 1.82 | -6.05 dB |
-| Peaking | 13267.01 Hz | 0.29 | 6.17 dB  |
-| Peaking | 2030.36 Hz  | 3.7  | 0.90 dB  |
-| Peaking | 2979.57 Hz  | 2.2  | -1.62 dB |
-| Peaking | 4234.38 Hz  | 2.95 | 1.57 dB  |
-| Peaking | 5477.87 Hz  | 3.17 | -1.94 dB |
-| Peaking | 6373.21 Hz  | 3.59 | 1.91 dB  |
+| Peaking | 18.01 Hz    | 0.56 | -7.85 dB |
+| Peaking | 122.51 Hz   | 0.37 | -3.98 dB |
+| Peaking | 765.58 Hz   | 0.81 | 3.42 dB  |
+| Peaking | 4895.75 Hz  | 1.82 | -6.06 dB |
+| Peaking | 13259.37 Hz | 0.29 | 6.17 dB  |
+| Peaking | 2034.07 Hz  | 3.69 | 0.93 dB  |
+| Peaking | 2988.75 Hz  | 2.09 | -1.67 dB |
+| Peaking | 4243.79 Hz  | 2.71 | 1.60 dB  |
+| Peaking | 5532.54 Hz  | 3.26 | -1.98 dB |
+| Peaking | 6325.38 Hz  | 3.66 | 1.88 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.34dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.32dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | -8.14 dB |
+| Peaking | 31.25 Hz    | 1.41 | -8.16 dB |
 | Peaking | 62.50 Hz    | 1.41 | -2.98 dB |
 | Peaking | 125.00 Hz   | 1.41 | -3.59 dB |
 | Peaking | 250.00 Hz   | 1.41 | -2.58 dB |
-| Peaking | 500.00 Hz   | 1.41 | 1.42 dB  |
-| Peaking | 1000.00 Hz  | 1.41 | 2.68 dB  |
-| Peaking | 2000.00 Hz  | 1.41 | 1.26 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | -3.34 dB |
+| Peaking | 500.00 Hz   | 1.41 | 1.43 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 2.67 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 1.27 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | -3.33 dB |
 | Peaking | 8000.00 Hz  | 1.41 | 4.96 dB  |
-| Peaking | 16000.01 Hz | 1.41 | 7.92 dB  |
+| Peaking | 16000.01 Hz | 1.41 | 7.89 dB  |
 
 ### Graphs
 ![](./Simgot%20Audio%20EN700%20Pro%20(sealed).png)

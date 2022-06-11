@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.01dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-14.02dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-14.11 dB**.
+When using independent subset of filters, apply preamp of **-14.12 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 13.93 Hz    | 0.33 | -5.42 dB |
-| Peaking | 136.96 Hz   | 0.38 | -6.82 dB |
-| Peaking | 784.99 Hz   | 1.04 | 3.36 dB  |
-| Peaking | 8595.54 Hz  | 1.57 | 7.96 dB  |
-| Peaking | 10756.54 Hz | 1.25 | 8.88 dB  |
-| Peaking | 2261.68 Hz  | 3.62 | -3.09 dB |
-| Peaking | 3311.68 Hz  | 2.86 | 5.82 dB  |
-| Peaking | 4933.56 Hz  | 2.73 | -6.51 dB |
-| Peaking | 6331.77 Hz  | 3.71 | 5.07 dB  |
-| Peaking | 7664.60 Hz  | 4.62 | -1.44 dB |
+| Peaking | 14.00 Hz    | 0.34 | -5.37 dB |
+| Peaking | 138.14 Hz   | 0.39 | -6.81 dB |
+| Peaking | 784.61 Hz   | 1.04 | 3.36 dB  |
+| Peaking | 8597.17 Hz  | 1.57 | 7.93 dB  |
+| Peaking | 10746.76 Hz | 1.24 | 8.88 dB  |
+| Peaking | 2261.56 Hz  | 3.6  | -3.08 dB |
+| Peaking | 3306.09 Hz  | 2.87 | 5.82 dB  |
+| Peaking | 4878.21 Hz  | 2.75 | -6.51 dB |
+| Peaking | 6241.11 Hz  | 3.72 | 5.08 dB  |
+| Peaking | 7569.66 Hz  | 4.59 | -1.45 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-14.54dB**
@@ -25,7 +25,7 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | -5.96 dB |
+| Peaking | 31.25 Hz    | 1.41 | -5.97 dB |
 | Peaking | 62.50 Hz    | 1.41 | -4.45 dB |
 | Peaking | 125.00 Hz   | 1.41 | -6.16 dB |
 | Peaking | 250.00 Hz   | 1.41 | -4.75 dB |

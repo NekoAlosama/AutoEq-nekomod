@@ -4,20 +4,20 @@ See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more
 ### Parametric EQs
 In case of using parametric equalizer, apply preamp of **-11.07dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-11.07 dB**.
+When using independent subset of filters, apply preamp of **-11.08 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 147.71 Hz   | 0.29 | -4.80 dB |
-| Peaking | 2742.51 Hz  | 3.47 | 3.57 dB  |
-| Peaking | 4347.76 Hz  | 2.71 | 8.97 dB  |
-| Peaking | 8103.43 Hz  | 1.01 | 3.77 dB  |
-| Peaking | 14233.03 Hz | 0.49 | 3.65 dB  |
-| Peaking | 21.26 Hz    | 2.29 | -0.86 dB |
-| Peaking | 649.28 Hz   | 1.24 | 1.11 dB  |
-| Peaking | 1255.78 Hz  | 3.58 | -1.32 dB |
-| Peaking | 1619.95 Hz  | 2.16 | -3.46 dB |
-| Peaking | 2172.76 Hz  | 2.52 | 1.88 dB  |
+| Peaking | 147.70 Hz   | 0.29 | -4.80 dB |
+| Peaking | 2742.46 Hz  | 3.48 | 3.57 dB  |
+| Peaking | 4347.71 Hz  | 2.71 | 8.97 dB  |
+| Peaking | 8104.42 Hz  | 1    | 3.77 dB  |
+| Peaking | 14235.63 Hz | 0.49 | 3.65 dB  |
+| Peaking | 20.18 Hz    | 1.76 | -0.82 dB |
+| Peaking | 649.11 Hz   | 1.24 | 1.11 dB  |
+| Peaking | 1257.44 Hz  | 3.57 | -1.33 dB |
+| Peaking | 1620.57 Hz  | 2.16 | -3.45 dB |
+| Peaking | 2173.80 Hz  | 2.53 | 1.87 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.61dB**
@@ -26,8 +26,8 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
 | Peaking | 31.25 Hz    | 1.41 | -1.93 dB |
-| Peaking | 62.50 Hz    | 1.41 | -1.99 dB |
-| Peaking | 125.00 Hz   | 1.41 | -4.37 dB |
+| Peaking | 62.50 Hz    | 1.41 | -1.97 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.36 dB |
 | Peaking | 250.00 Hz   | 1.41 | -4.20 dB |
 | Peaking | 500.00 Hz   | 1.41 | -0.38 dB |
 | Peaking | 1000.00 Hz  | 1.41 | -1.83 dB |

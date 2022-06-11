@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.89dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-8.82dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.90 dB**.
+When using independent subset of filters, apply preamp of **-8.82 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 20.56 Hz    | 0.8  | 8.64 dB  |
-| Peaking | 1127.21 Hz  | 0.91 | -3.91 dB |
-| Peaking | 2336.80 Hz  | 0.91 | 2.70 dB  |
-| Peaking | 8792.46 Hz  | 2.11 | 3.88 dB  |
-| Peaking | 11268.29 Hz | 1.96 | 5.28 dB  |
-| Peaking | 199.99 Hz   | 1.78 | -1.93 dB |
-| Peaking | 3393.49 Hz  | 7.71 | 2.08 dB  |
-| Peaking | 4708.27 Hz  | 4.64 | 2.03 dB  |
-| Peaking | 5506.52 Hz  | 3.45 | -5.51 dB |
-| Peaking | 6375.49 Hz  | 5.22 | 4.53 dB  |
+| Peaking | 19.96 Hz    | 0.81 | 8.65 dB  |
+| Peaking | 1154.62 Hz  | 0.86 | -4.14 dB |
+| Peaking | 2245.48 Hz  | 0.87 | 3.00 dB  |
+| Peaking | 8860.08 Hz  | 2.07 | 4.09 dB  |
+| Peaking | 11340.67 Hz | 2    | 5.11 dB  |
+| Peaking | 201.33 Hz   | 1.95 | -1.95 dB |
+| Peaking | 3432.97 Hz  | 7.86 | 2.14 dB  |
+| Peaking | 4692.93 Hz  | 4.62 | 2.09 dB  |
+| Peaking | 5535.47 Hz  | 3.39 | -5.54 dB |
+| Peaking | 6431.97 Hz  | 5.18 | 4.59 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.55dB**
@@ -25,16 +25,16 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 7.55 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 0.17 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -0.44 dB |
-| Peaking | 250.00 Hz   | 1.41 | -1.59 dB |
-| Peaking | 500.00 Hz   | 1.41 | 0.49 dB  |
-| Peaking | 1000.00 Hz  | 1.41 | -3.91 dB |
-| Peaking | 2000.00 Hz  | 1.41 | 1.54 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 0.05 dB  |
-| Peaking | 8000.00 Hz  | 1.41 | 5.68 dB  |
-| Peaking | 16000.01 Hz | 1.41 | -0.30 dB |
+| Peaking | 31.25 Hz    | 1.41 | 7.58 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.15 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -0.48 dB |
+| Peaking | 250.00 Hz   | 1.41 | -1.60 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.55 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | -3.95 dB |
+| Peaking | 2000.00 Hz  | 1.41 | 1.55 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 0.04 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | 5.72 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -0.36 dB |
 
 ### Graphs
 ![](./Aurorus%20Borealis.png)

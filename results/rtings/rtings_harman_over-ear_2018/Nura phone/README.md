@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-5.09 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 88.51 Hz    | 1.43 | -7.36 dB |
-| Peaking | 228.90 Hz   | 5.22 | 3.93 dB  |
-| Peaking | 689.25 Hz   | 0.67 | 6.63 dB  |
-| Peaking | 1805.10 Hz  | 0.61 | -5.20 dB |
-| Peaking | 19001.95 Hz | 0.39 | -8.06 dB |
-| Peaking | 18.82 Hz    | 0.95 | 2.47 dB  |
-| Peaking | 51.73 Hz    | 3.23 | 3.19 dB  |
-| Peaking | 63.74 Hz    | 4.28 | -4.07 dB |
-| Peaking | 5197.52 Hz  | 2.67 | -3.40 dB |
-| Peaking | 6571.48 Hz  | 2.19 | 3.51 dB  |
+| Peaking | 88.57 Hz    | 1.42 | -7.35 dB |
+| Peaking | 228.98 Hz   | 5.02 | 3.88 dB  |
+| Peaking | 686.66 Hz   | 0.67 | 6.57 dB  |
+| Peaking | 1813.80 Hz  | 0.61 | -5.13 dB |
+| Peaking | 18929.75 Hz | 0.39 | -8.05 dB |
+| Peaking | 18.98 Hz    | 0.96 | 2.46 dB  |
+| Peaking | 52.32 Hz    | 3.31 | 3.08 dB  |
+| Peaking | 63.47 Hz    | 4.2  | -4.17 dB |
+| Peaking | 5198.26 Hz  | 2.64 | -3.48 dB |
+| Peaking | 6569.97 Hz  | 2.11 | 3.56 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.11dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.09dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 3.03 dB  |
-| Peaking | 62.50 Hz    | 1.41 | -4.71 dB |
-| Peaking | 125.00 Hz   | 1.41 | -4.99 dB |
-| Peaking | 250.00 Hz   | 1.41 | 3.59 dB  |
-| Peaking | 500.00 Hz   | 1.41 | 4.19 dB  |
-| Peaking | 1000.00 Hz  | 1.41 | 2.32 dB  |
-| Peaking | 2000.00 Hz  | 1.41 | -4.02 dB |
+| Peaking | 31.25 Hz    | 1.41 | 3.00 dB  |
+| Peaking | 62.50 Hz    | 1.41 | -4.66 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.97 dB |
+| Peaking | 250.00 Hz   | 1.41 | 3.61 dB  |
+| Peaking | 500.00 Hz   | 1.41 | 4.18 dB  |
+| Peaking | 1000.00 Hz  | 1.41 | 2.31 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | -4.00 dB |
 | Peaking | 4000.00 Hz  | 1.41 | -2.65 dB |
 | Peaking | 8000.00 Hz  | 1.41 | 0.67 dB  |
-| Peaking | 16000.01 Hz | 1.41 | -9.15 dB |
+| Peaking | 16000.01 Hz | 1.41 | -9.19 dB |
 
 ### Graphs
 ![](./Nura%20phone.png)

@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-5.50 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 19.76 Hz    | 0.71 | -4.95 dB |
-| Peaking | 36.03 Hz    | 0.89 | -1.43 dB |
-| Peaking | 205.00 Hz   | 0.79 | -4.82 dB |
-| Peaking | 635.67 Hz   | 0.82 | 6.16 dB  |
-| Peaking | 20018.37 Hz | 0.12 | -7.36 dB |
-| Peaking | 1614.32 Hz  | 3.64 | -4.08 dB |
-| Peaking | 2385.47 Hz  | 0.87 | 2.46 dB  |
-| Peaking | 3118.29 Hz  | 2.66 | -3.54 dB |
-| Peaking | 5654.66 Hz  | 0.72 | 1.64 dB  |
-| Peaking | 6108.29 Hz  | 4.75 | -5.80 dB |
+| Peaking | 19.74 Hz    | 0.73 | -4.96 dB |
+| Peaking | 35.67 Hz    | 0.91 | -1.41 dB |
+| Peaking | 204.05 Hz   | 0.78 | -4.82 dB |
+| Peaking | 636.61 Hz   | 0.83 | 6.16 dB  |
+| Peaking | 19983.50 Hz | 0.12 | -7.35 dB |
+| Peaking | 1596.60 Hz  | 3.7  | -4.03 dB |
+| Peaking | 2461.95 Hz  | 0.84 | 2.47 dB  |
+| Peaking | 3114.70 Hz  | 2.73 | -3.58 dB |
+| Peaking | 5773.14 Hz  | 0.71 | 1.55 dB  |
+| Peaking | 6181.21 Hz  | 4.7  | -5.74 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.93dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.92dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | -5.92 dB |
-| Peaking | 62.50 Hz    | 1.41 | -0.50 dB |
-| Peaking | 125.00 Hz   | 1.41 | -2.58 dB |
-| Peaking | 250.00 Hz   | 1.41 | -4.10 dB |
-| Peaking | 500.00 Hz   | 1.41 | 4.88 dB  |
+| Peaking | 31.25 Hz    | 1.41 | -5.89 dB |
+| Peaking | 62.50 Hz    | 1.41 | -0.49 dB |
+| Peaking | 125.00 Hz   | 1.41 | -2.56 dB |
+| Peaking | 250.00 Hz   | 1.41 | -4.07 dB |
+| Peaking | 500.00 Hz   | 1.41 | 4.86 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | 3.46 dB  |
 | Peaking | 2000.00 Hz  | 1.41 | -0.15 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 0.07 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | -3.34 dB |
-| Peaking | 16000.01 Hz | 1.41 | -9.35 dB |
+| Peaking | 16000.01 Hz | 1.41 | -9.34 dB |
 
 ### Graphs
 ![](./Skullcandy%20Venue.png)

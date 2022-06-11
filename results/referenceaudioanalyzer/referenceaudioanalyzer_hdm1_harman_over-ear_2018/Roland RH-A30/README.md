@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.34dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.43dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.40 dB**.
+When using independent subset of filters, apply preamp of **-7.41 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 21.55 Hz    | 1.06 | 5.35 dB  |
-| Peaking | 48.16 Hz    | 1.46 | 1.57 dB  |
-| Peaking | 1702.46 Hz  | 1.39 | -3.22 dB |
-| Peaking | 3710.66 Hz  | 2.95 | 0.72 dB  |
-| Peaking | 7095.63 Hz  | 1.87 | 7.26 dB  |
-| Peaking | 221.28 Hz   | 1.14 | -1.80 dB |
-| Peaking | 4771.64 Hz  | 5.06 | -0.62 dB |
-| Peaking | 9564.35 Hz  | 2.6  | 2.20 dB  |
-| Peaking | 11946.52 Hz | 1.88 | 1.43 dB  |
-| Peaking | 19690.50 Hz | 0.4  | -9.98 dB |
+| Peaking | 22.13 Hz    | 1.03 | 5.36 dB  |
+| Peaking | 47.50 Hz    | 1.47 | 1.60 dB  |
+| Peaking | 1702.92 Hz  | 1.38 | -3.21 dB |
+| Peaking | 3714.41 Hz  | 3.09 | 0.76 dB  |
+| Peaking | 7095.62 Hz  | 1.87 | 7.26 dB  |
+| Peaking | 219.58 Hz   | 1.12 | -1.79 dB |
+| Peaking | 4778.12 Hz  | 4.75 | -0.64 dB |
+| Peaking | 9825.20 Hz  | 2.02 | 2.37 dB  |
+| Peaking | 12383.97 Hz | 1.84 | 1.01 dB  |
+| Peaking | 19683.64 Hz | 0.4  | -9.85 dB |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.88dB**
@@ -26,15 +26,15 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
 | Peaking | 31.25 Hz    | 1.41 | 5.17 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 1.26 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -0.75 dB |
+| Peaking | 62.50 Hz    | 1.41 | 1.27 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -0.72 dB |
 | Peaking | 250.00 Hz   | 1.41 | -1.82 dB |
 | Peaking | 500.00 Hz   | 1.41 | 0.32 dB  |
-| Peaking | 1000.00 Hz  | 1.41 | -0.58 dB |
-| Peaking | 2000.00 Hz  | 1.41 | -2.98 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -0.60 dB |
+| Peaking | 2000.00 Hz  | 1.41 | -2.99 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 0.97 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | 7.04 dB  |
-| Peaking | 16000.01 Hz | 1.41 | -7.57 dB |
+| Peaking | 16000.01 Hz | 1.41 | -7.58 dB |
 
 ### Graphs
 ![](./Roland%20RH-A30.png)

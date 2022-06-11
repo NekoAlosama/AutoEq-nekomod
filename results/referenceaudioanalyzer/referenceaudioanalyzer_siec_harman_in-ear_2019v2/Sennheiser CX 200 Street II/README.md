@@ -2,22 +2,22 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.95dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.21dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.20 dB**.
+When using independent subset of filters, apply preamp of **-7.19 dB**.
 
 | Type    | Fc          |    Q | Gain      |
 |--------:|------------:|-----:|----------:|
-| Peaking | 16.44 Hz    | 0.63 | -5.08 dB  |
-| Peaking | 86.31 Hz    | 0.3  | -3.16 dB  |
-| Peaking | 889.05 Hz   | 0.79 | 4.54 dB   |
-| Peaking | 6591.04 Hz  | 2.95 | -10.98 dB |
-| Peaking | 13310.17 Hz | 0.63 | 7.25 dB   |
-| Peaking | 2070.49 Hz  | 2    | 3.08 dB   |
-| Peaking | 3032.01 Hz  | 2.76 | -5.11 dB  |
-| Peaking | 4567.98 Hz  | 2.61 | 3.82 dB   |
-| Peaking | 4814.67 Hz  | 0.34 | -1.05 dB  |
-| Peaking | 10540.29 Hz | 4.45 | 2.10 dB   |
+| Peaking | 16.34 Hz    | 0.64 | -5.01 dB  |
+| Peaking | 86.18 Hz    | 0.31 | -3.18 dB  |
+| Peaking | 894.18 Hz   | 0.79 | 4.54 dB   |
+| Peaking | 6590.66 Hz  | 2.98 | -11.01 dB |
+| Peaking | 13290.12 Hz | 0.63 | 7.25 dB   |
+| Peaking | 2084.07 Hz  | 2.49 | 2.63 dB   |
+| Peaking | 3045.18 Hz  | 2.61 | -5.52 dB  |
+| Peaking | 4667.95 Hz  | 2.44 | 4.07 dB   |
+| Peaking | 5614.90 Hz  | 1.56 | -1.55 dB  |
+| Peaking | 10412.58 Hz | 6.04 | 1.46 dB   |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.44dB**
@@ -26,9 +26,9 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
 | Peaking | 31.25 Hz    | 1.41 | -5.72 dB |
-| Peaking | 62.50 Hz    | 1.41 | -2.56 dB |
+| Peaking | 62.50 Hz    | 1.41 | -2.54 dB |
 | Peaking | 125.00 Hz   | 1.41 | -2.55 dB |
-| Peaking | 250.00 Hz   | 1.41 | -1.63 dB |
+| Peaking | 250.00 Hz   | 1.41 | -1.65 dB |
 | Peaking | 500.00 Hz   | 1.41 | 1.64 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | 4.06 dB  |
 | Peaking | 2000.00 Hz  | 1.41 | 1.65 dB  |

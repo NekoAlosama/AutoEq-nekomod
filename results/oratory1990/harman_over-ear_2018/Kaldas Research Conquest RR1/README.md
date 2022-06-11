@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-9.64 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 17.86 Hz    | 0.4  | 9.81 dB  |
-| Peaking | 147.04 Hz   | 0.42 | -3.13 dB |
-| Peaking | 1408.49 Hz  | 2.24 | -7.15 dB |
-| Peaking | 2293.30 Hz  | 2.04 | 6.47 dB  |
-| Peaking | 3950.83 Hz  | 4.61 | 6.52 dB  |
-| Peaking | 645.94 Hz   | 4.96 | 1.21 dB  |
-| Peaking | 2605.56 Hz  | 2.69 | 0.11 dB  |
-| Peaking | 4546.99 Hz  | 5.83 | 2.94 dB  |
-| Peaking | 5066.50 Hz  | 3.56 | -3.11 dB |
-| Peaking | 13167.85 Hz | 0.99 | 1.33 dB  |
+| Peaking | 17.71 Hz    | 0.4  | 9.80 dB  |
+| Peaking | 145.89 Hz   | 0.42 | -3.15 dB |
+| Peaking | 1409.02 Hz  | 2.23 | -7.17 dB |
+| Peaking | 2292.88 Hz  | 2.02 | 6.48 dB  |
+| Peaking | 3958.83 Hz  | 4.7  | 6.56 dB  |
+| Peaking | 647.85 Hz   | 4.67 | 1.20 dB  |
+| Peaking | 2705.37 Hz  | 1.8  | 0.52 dB  |
+| Peaking | 4281.26 Hz  | 3.35 | 1.65 dB  |
+| Peaking | 5268.92 Hz  | 0.92 | -1.91 dB |
+| Peaking | 11968.27 Hz | 0.64 | 1.52 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.70dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-9.73dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
 | Peaking | 31.25 Hz    | 1.41 | 9.23 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 0.41 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -1.87 dB |
-| Peaking | 250.00 Hz   | 1.41 | -2.55 dB |
-| Peaking | 500.00 Hz   | 1.41 | 0.50 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.43 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -1.85 dB |
+| Peaking | 250.00 Hz   | 1.41 | -2.52 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.49 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | -4.13 dB |
-| Peaking | 2000.00 Hz  | 1.41 | 1.53 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 4.80 dB  |
-| Peaking | 8000.00 Hz  | 1.41 | -1.16 dB |
-| Peaking | 16000.01 Hz | 1.41 | 1.52 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 1.56 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 4.83 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -1.12 dB |
+| Peaking | 16000.01 Hz | 1.41 | 1.51 dB  |
 
 ### Graphs
 ![](./Kaldas%20Research%20Conquest%20RR1.png)

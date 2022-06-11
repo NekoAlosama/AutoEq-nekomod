@@ -79,6 +79,7 @@ These headphones are placed in ['error_causers' folder.](./measurements/error_ca
 - AfterShokz Trekz Air (error_causers\rtings\earbud)
 - Sennheiser HD R 130 (error_causers\headphonecom\onear)
 - Sennheiser RS 130 (error_causers\headphonecom\onear)
+- Sony MDR-7502 (error_causers\headphonecom\onear)
 - JVC HA-SR500 (error_causers\referenceaudioanalyzer\onear\HDM1)
 - Effects: No output for these headphones.
 

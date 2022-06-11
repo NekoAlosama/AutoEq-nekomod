@@ -8,30 +8,30 @@ When using independent subset of filters, apply preamp of **-5.73 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 16.94 Hz    | 0.16 | -2.51 dB |
-| Peaking | 189.94 Hz   | 0.55 | -6.49 dB |
-| Peaking | 705.74 Hz   | 1.12 | 1.22 dB  |
-| Peaking | 1020.16 Hz  | 0.85 | 3.46 dB  |
-| Peaking | 2829.49 Hz  | 1.3  | 4.91 dB  |
+| Peaking | 16.96 Hz    | 0.15 | -2.50 dB |
+| Peaking | 189.80 Hz   | 0.55 | -6.49 dB |
+| Peaking | 703.85 Hz   | 1.12 | 1.23 dB  |
+| Peaking | 1020.75 Hz  | 0.86 | 3.46 dB  |
+| Peaking | 2828.72 Hz  | 1.3  | 4.91 dB  |
 | Peaking | 5699.15 Hz  | 4.15 | -3.88 dB |
-| Peaking | 18737.44 Hz | 0.26 | 3.63 dB  |
+| Peaking | 18735.20 Hz | 0.26 | 3.63 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.12dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.13dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | -2.84 dB |
-| Peaking | 62.50 Hz    | 1.41 | -2.56 dB |
+| Peaking | 31.25 Hz    | 1.41 | -2.82 dB |
+| Peaking | 62.50 Hz    | 1.41 | -2.54 dB |
 | Peaking | 125.00 Hz   | 1.41 | -5.39 dB |
-| Peaking | 250.00 Hz   | 1.41 | -5.80 dB |
-| Peaking | 500.00 Hz   | 1.41 | 0.11 dB  |
+| Peaking | 250.00 Hz   | 1.41 | -5.74 dB |
+| Peaking | 500.00 Hz   | 1.41 | 0.10 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | 3.52 dB  |
-| Peaking | 2000.00 Hz  | 1.41 | 3.84 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 2.84 dB  |
-| Peaking | 8000.00 Hz  | 1.41 | -0.83 dB |
-| Peaking | 16000.01 Hz | 1.41 | 4.92 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 3.82 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 2.83 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -0.81 dB |
+| Peaking | 16000.01 Hz | 1.41 | 4.93 dB  |
 
 ### Graphs
 ![](./Campfire%20Audio%20Atlas.png)

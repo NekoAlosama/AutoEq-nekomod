@@ -8,30 +8,30 @@ When using independent subset of filters, apply preamp of **-14.18 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 20.35 Hz    | 0.8  | 14.31 dB |
-| Peaking | 369.32 Hz   | 0.23 | -3.60 dB |
-| Peaking | 411.52 Hz   | 1.65 | 7.81 dB  |
-| Peaking | 2939.13 Hz  | 0.87 | -5.89 dB |
-| Peaking | 6177.65 Hz  | 1.33 | 12.85 dB |
-| Peaking | 3090.99 Hz  | 4.95 | 1.21 dB  |
-| Peaking | 5056.98 Hz  | 4.99 | 3.43 dB  |
-| Peaking | 5219.07 Hz  | 1.2  | -2.13 dB |
-| Peaking | 8314.91 Hz  | 2.2  | 2.60 dB  |
-| Peaking | 19553.71 Hz | 0.34 | -4.53 dB |
+| Peaking | 20.08 Hz    | 0.79 | 14.36 dB |
+| Peaking | 356.68 Hz   | 0.23 | -3.52 dB |
+| Peaking | 411.71 Hz   | 1.68 | 7.73 dB  |
+| Peaking | 2936.53 Hz  | 0.85 | -5.99 dB |
+| Peaking | 6186.23 Hz  | 1.32 | 13.00 dB |
+| Peaking | 3084.31 Hz  | 5.07 | 1.15 dB  |
+| Peaking | 5073.75 Hz  | 5.01 | 3.44 dB  |
+| Peaking | 5248.36 Hz  | 1.22 | -2.10 dB |
+| Peaking | 8323.44 Hz  | 2.26 | 2.51 dB  |
+| Peaking | 19532.88 Hz | 0.37 | -4.56 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.56dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.53dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
 | Peaking | 31.25 Hz    | 1.41 | 12.81 dB |
-| Peaking | 62.50 Hz    | 1.41 | -1.40 dB |
-| Peaking | 125.00 Hz   | 1.41 | -1.80 dB |
-| Peaking | 250.00 Hz   | 1.41 | -1.09 dB |
+| Peaking | 62.50 Hz    | 1.41 | -1.45 dB |
+| Peaking | 125.00 Hz   | 1.41 | -1.79 dB |
+| Peaking | 250.00 Hz   | 1.41 | -1.10 dB |
 | Peaking | 500.00 Hz   | 1.41 | 3.24 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | -2.95 dB |
-| Peaking | 2000.00 Hz  | 1.41 | -5.34 dB |
+| Peaking | 2000.00 Hz  | 1.41 | -5.35 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 0.27 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | 10.27 dB |
 | Peaking | 16000.01 Hz | 1.41 | -4.76 dB |

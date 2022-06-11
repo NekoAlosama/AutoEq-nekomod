@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-6.13 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 15.57 Hz    | 0.48 | -3.00 dB |
-| Peaking | 156.02 Hz   | 0.42 | -4.83 dB |
-| Peaking | 778.07 Hz   | 0.9  | 2.55 dB  |
-| Peaking | 3096.02 Hz  | 1.73 | 5.60 dB  |
-| Peaking | 16859.62 Hz | 0.49 | 5.82 dB  |
-| Peaking | 4259.48 Hz  | 3.54 | 2.03 dB  |
-| Peaking | 5522.51 Hz  | 3.74 | -3.11 dB |
-| Peaking | 8336.87 Hz  | 2.38 | -2.75 dB |
-| Peaking | 10368.72 Hz | 1.8  | 2.57 dB  |
-| Peaking | 19953.20 Hz | 3.27 | 1.70 dB  |
+| Peaking | 15.53 Hz    | 0.48 | -3.00 dB |
+| Peaking | 157.08 Hz   | 0.43 | -4.83 dB |
+| Peaking | 777.23 Hz   | 0.89 | 2.55 dB  |
+| Peaking | 3095.84 Hz  | 1.73 | 5.60 dB  |
+| Peaking | 16857.08 Hz | 0.49 | 5.82 dB  |
+| Peaking | 4263.62 Hz  | 3.49 | 2.03 dB  |
+| Peaking | 5515.75 Hz  | 3.71 | -3.11 dB |
+| Peaking | 8347.07 Hz  | 2.33 | -2.75 dB |
+| Peaking | 10367.65 Hz | 1.81 | 2.61 dB  |
+| Peaking | 19602.96 Hz | 3.31 | 1.73 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.33dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.40dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | -2.90 dB |
-| Peaking | 62.50 Hz    | 1.41 | -2.20 dB |
-| Peaking | 125.00 Hz   | 1.41 | -4.10 dB |
+| Peaking | 31.25 Hz    | 1.41 | -2.95 dB |
+| Peaking | 62.50 Hz    | 1.41 | -2.21 dB |
+| Peaking | 125.00 Hz   | 1.41 | -4.09 dB |
 | Peaking | 250.00 Hz   | 1.41 | -3.70 dB |
-| Peaking | 500.00 Hz   | 1.41 | 0.37 dB  |
+| Peaking | 500.00 Hz   | 1.41 | 0.38 dB  |
 | Peaking | 1000.00 Hz  | 1.41 | 1.34 dB  |
-| Peaking | 2000.00 Hz  | 1.41 | 2.14 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 4.03 dB  |
-| Peaking | 8000.00 Hz  | 1.41 | -0.61 dB |
-| Peaking | 16000.01 Hz | 1.41 | 8.11 dB  |
+| Peaking | 2000.00 Hz  | 1.41 | 2.12 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 4.04 dB  |
+| Peaking | 8000.00 Hz  | 1.41 | -0.62 dB |
+| Peaking | 16000.01 Hz | 1.41 | 8.19 dB  |
 
 ### Graphs
 ![](./Philips%20TX1.png)

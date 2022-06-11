@@ -268,7 +268,6 @@
 - [Skullcandy Smokin Buds](./headphonecom_harman_in-ear_2019v2/Skullcandy%20Smokin%20Buds)
 - [Sleek SA1](./headphonecom_harman_in-ear_2019v2/Sleek%20SA1)
 - [Sleek SA6](./headphonecom_harman_in-ear_2019v2/Sleek%20SA6)
-- [Sony MDR-7502](./headphonecom_harman_over-ear_2018/Sony%20MDR-7502)
 - [Sony MDR-7505](./headphonecom_harman_over-ear_2018/Sony%20MDR-7505)
 - [Sony MDR-7506](./headphonecom_harman_over-ear_2018/Sony%20MDR-7506)
 - [Sony MDR-7509HD](./headphonecom_harman_over-ear_2018/Sony%20MDR-7509HD)

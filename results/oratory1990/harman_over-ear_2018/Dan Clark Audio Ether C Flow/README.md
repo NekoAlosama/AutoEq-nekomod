@@ -8,16 +8,16 @@ When using independent subset of filters, apply preamp of **-6.78 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 38.30 Hz    | 2.62 | 4.39 dB  |
-| Peaking | 263.82 Hz   | 1.45 | -3.39 dB |
-| Peaking | 788.06 Hz   | 2.92 | -3.62 dB |
-| Peaking | 1315.21 Hz  | 2.16 | -2.49 dB |
-| Peaking | 4167.24 Hz  | 1.44 | 6.66 dB  |
-| Peaking | 60.57 Hz    | 8.3  | 2.60 dB  |
-| Peaking | 97.57 Hz    | 2.11 | -1.18 dB |
-| Peaking | 6272.95 Hz  | 5.58 | -3.61 dB |
-| Peaking | 6760.71 Hz  | 2.12 | 1.23 dB  |
-| Peaking | 17986.66 Hz | 0.26 | 1.17 dB  |
+| Peaking | 38.24 Hz    | 2.6  | 4.42 dB  |
+| Peaking | 263.54 Hz   | 1.45 | -3.38 dB |
+| Peaking | 788.18 Hz   | 2.9  | -3.62 dB |
+| Peaking | 1315.81 Hz  | 2.17 | -2.49 dB |
+| Peaking | 4167.40 Hz  | 1.44 | 6.66 dB  |
+| Peaking | 60.07 Hz    | 6.02 | 4.17 dB  |
+| Peaking | 60.24 Hz    | 1.47 | -1.82 dB |
+| Peaking | 6290.42 Hz  | 5.72 | -3.70 dB |
+| Peaking | 6749.14 Hz  | 2.29 | 1.28 dB  |
+| Peaking | 17943.05 Hz | 0.26 | 1.17 dB  |
 
 ### Fixed Band EQs
 In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.55dB**
@@ -25,12 +25,12 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 31.25 Hz    | 1.41 | 2.73 dB  |
-| Peaking | 62.50 Hz    | 1.41 | 0.59 dB  |
-| Peaking | 125.00 Hz   | 1.41 | -0.52 dB |
-| Peaking | 250.00 Hz   | 1.41 | -3.04 dB |
-| Peaking | 500.00 Hz   | 1.41 | -0.16 dB |
-| Peaking | 1000.00 Hz  | 1.41 | -3.53 dB |
+| Peaking | 31.25 Hz    | 1.41 | 2.71 dB  |
+| Peaking | 62.50 Hz    | 1.41 | 0.58 dB  |
+| Peaking | 125.00 Hz   | 1.41 | -0.54 dB |
+| Peaking | 250.00 Hz   | 1.41 | -3.05 dB |
+| Peaking | 500.00 Hz   | 1.41 | -0.12 dB |
+| Peaking | 1000.00 Hz  | 1.41 | -3.52 dB |
 | Peaking | 2000.00 Hz  | 1.41 | -0.25 dB |
 | Peaking | 4000.00 Hz  | 1.41 | 6.42 dB  |
 | Peaking | 8000.00 Hz  | 1.41 | 0.60 dB  |

@@ -8,33 +8,32 @@ When using independent subset of filters, apply preamp of **-7.62 dB**.
 
 | Type    | Fc          |    Q | Gain     |
 |--------:|------------:|-----:|---------:|
-| Peaking | 17.63 Hz    | 0.63 | 6.30 dB  |
-| Peaking | 48.65 Hz    | 0.54 | 2.95 dB  |
-| Peaking | 206.99 Hz   | 1.32 | -2.85 dB |
-| Peaking | 4039.01 Hz  | 1.81 | 6.12 dB  |
-| Peaking | 18561.51 Hz | 0.16 | -7.77 dB |
-| Peaking | 899.74 Hz   | 1.72 | 1.45 dB  |
-| Peaking | 2264.04 Hz  | 2.16 | 1.91 dB  |
-| Peaking | 2667.75 Hz  | 3.14 | -1.99 dB |
-| Peaking | 6332.45 Hz  | 8.11 | 3.23 dB  |
-| Peaking | 6788.32 Hz  | 2.68 | -2.12 dB |
+| Peaking | 17.44 Hz    | 0.64 | 6.31 dB  |
+| Peaking | 49.45 Hz    | 0.56 | 2.95 dB  |
+| Peaking | 208.40 Hz   | 1.33 | -2.84 dB |
+| Peaking | 4103.74 Hz  | 1.73 | 6.21 dB  |
+| Peaking | 18860.92 Hz | 0.17 | -7.84 dB |
+| Peaking | 902.79 Hz   | 1.69 | 1.45 dB  |
+| Peaking | 2222.76 Hz  | 2.43 | 1.97 dB  |
+| Peaking | 2650.97 Hz  | 2.43 | -1.85 dB |
+| Peaking | 7375.45 Hz  | 1.14 | -1.49 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.99dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.02dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc          |    Q | Gain      |
 |--------:|------------:|-----:|----------:|
 | Peaking | 31.25 Hz    | 1.41 | 7.48 dB   |
-| Peaking | 62.50 Hz    | 1.41 | 2.66 dB   |
-| Peaking | 125.00 Hz   | 1.41 | 0.06 dB   |
-| Peaking | 250.00 Hz   | 1.41 | -2.63 dB  |
-| Peaking | 500.00 Hz   | 1.41 | 0.28 dB   |
-| Peaking | 1000.00 Hz  | 1.41 | 1.32 dB   |
-| Peaking | 2000.00 Hz  | 1.41 | -0.07 dB  |
-| Peaking | 4000.00 Hz  | 1.41 | 4.62 dB   |
-| Peaking | 8000.00 Hz  | 1.41 | -5.17 dB  |
-| Peaking | 16000.01 Hz | 1.41 | -10.86 dB |
+| Peaking | 62.50 Hz    | 1.41 | 2.65 dB   |
+| Peaking | 125.00 Hz   | 1.41 | 0.07 dB   |
+| Peaking | 250.00 Hz   | 1.41 | -2.62 dB  |
+| Peaking | 500.00 Hz   | 1.41 | 0.25 dB   |
+| Peaking | 1000.00 Hz  | 1.41 | 1.33 dB   |
+| Peaking | 2000.00 Hz  | 1.41 | -0.06 dB  |
+| Peaking | 4000.00 Hz  | 1.41 | 4.63 dB   |
+| Peaking | 8000.00 Hz  | 1.41 | -5.14 dB  |
+| Peaking | 16000.01 Hz | 1.41 | -10.94 dB |
 
 ### Graphs
 ![](./Beyerdynamic%20DT%201990%20(analytic%20earpads).png)
