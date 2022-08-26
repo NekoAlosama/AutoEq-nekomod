@@ -6,13 +6,6 @@ import matplotlib.ticker as ticker
 import math
 import pandas as pd
 from io import StringIO
-from constants import DEFAULT_F_MIN, DEFAULT_F_MAX, DEFAULT_STEP, DEFAULT_MAX_GAIN, DEFAULT_TREBLE_F_LOWER, \
-    DEFAULT_TREBLE_F_UPPER, DEFAULT_TREBLE_MAX_GAIN, DEFAULT_TREBLE_GAIN_K, DEFAULT_SMOOTHING_WINDOW_SIZE, \
-    DEFAULT_SMOOTHING_ITERATIONS, DEFAULT_TREBLE_SMOOTHING_F_LOWER, DEFAULT_TREBLE_SMOOTHING_F_UPPER, \
-    DEFAULT_TREBLE_SMOOTHING_WINDOW_SIZE, DEFAULT_TREBLE_SMOOTHING_ITERATIONS, DEFAULT_TILT, DEFAULT_FS, \
-    DEFAULT_F_RES, DEFAULT_BASS_BOOST_GAIN, DEFAULT_BASS_BOOST_FC, \
-    DEFAULT_BASS_BOOST_Q, DEFAULT_GRAPHIC_EQ_STEP, HARMAN_INEAR_PREFENCE_FREQUENCIES, \
-    HARMAN_ONEAR_PREFERENCE_FREQUENCIES, PREAMP_HEADROOM
 from scipy.interpolate import InterpolatedUnivariateSpline
 from scipy.signal import savgol_filter, find_peaks, minimum_phase, firwin2
 from scipy.special import expit
@@ -26,6 +19,13 @@ from PIL import Image
 import re
 import warnings
 import biquad
+from constants import DEFAULT_F_MIN, DEFAULT_F_MAX, DEFAULT_STEP, DEFAULT_MAX_GAIN, DEFAULT_TREBLE_F_LOWER, \
+    DEFAULT_TREBLE_F_UPPER, DEFAULT_TREBLE_GAIN_K, DEFAULT_SMOOTHING_WINDOW_SIZE, \
+    DEFAULT_SMOOTHING_ITERATIONS, DEFAULT_TREBLE_SMOOTHING_F_LOWER, DEFAULT_TREBLE_SMOOTHING_F_UPPER, \
+    DEFAULT_TREBLE_SMOOTHING_WINDOW_SIZE, DEFAULT_TREBLE_SMOOTHING_ITERATIONS, DEFAULT_TILT, DEFAULT_FS, \
+    DEFAULT_F_RES, DEFAULT_BASS_BOOST_GAIN, DEFAULT_BASS_BOOST_FC, \
+    DEFAULT_BASS_BOOST_Q, DEFAULT_GRAPHIC_EQ_STEP, HARMAN_INEAR_PREFENCE_FREQUENCIES, \
+    HARMAN_ONEAR_PREFERENCE_FREQUENCIES, PREAMP_HEADROOM
 
 
 class FrequencyResponse:
@@ -248,7 +248,7 @@ class FrequencyResponse:
         fr = self.__class__(name='hack', frequency=self.frequency, raw=self.equalization)
         n = np.ceil(np.log(20000 / 20) / np.log(f_step))
         f = 20 * f_step**np.arange(n)
-        f = np.sort(np.unique(f))
+        f = np.sort(np.unique(f.astype('int')))
         fr.interpolate(f=f)
         if normalize:
             fr.raw -= np.max(fr.raw) + PREAMP_HEADROOM
@@ -256,11 +256,7 @@ class FrequencyResponse:
                 # Prevent bass boost below lowest frequency
                 fr.raw[0] = 0.0
 
-        # Remove leading zeros
-        while np.abs(fr.raw[-1]) < 0.1 and np.abs(fr.raw[-2]) < 0.1:  # Last two are zeros
-            fr.raw = fr.raw[:-1]
-
-        s = '; '.join(['{f:.2f} {a:.2f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
+        s = '; '.join(['{f} {a:.1f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
         s = 'GraphicEQ: ' + s
         return s
 
@@ -679,9 +675,9 @@ class FrequencyResponse:
             preamp = np.min([0.0, -(np.max(fr) + PREAMP_HEADROOM)])
 
         with open(file_path, 'w', encoding='utf-8') as f:
-            s = f'Preamp: {preamp:.2f} dB\n'
+            s = f'Preamp: {preamp:.1f} dB\n'
             for i, filt in enumerate(filters):
-                s += f'Filter {i+1}: ON PK Fc {filt[0]:.2f} Hz Gain {filt[2]:.2f} dB Q {filt[1]:.2f}\n'
+                s += f'Filter {i+1}: ON PK Fc {filt[0]:.0f} Hz Gain {filt[2]:.1f} dB Q {filt[1]:.2f}\n'
             f.write(s)
 
     def write_rockbox_10_band_fixed_eq(self, file_path, filters, preamp=None):
@@ -834,7 +830,7 @@ class FrequencyResponse:
                 filters,
                 headers=['Type', 'Fc', 'Q', 'Gain'],
                 tablefmt='orgtbl'
-            ).replace('+', '|').replace('-|', ':|')
+            ).replace('+', '|').replace('|-', '|:')
 
             max_filters_str = ''
             if type(max_filters) == list and len(max_filters) > 1:
@@ -853,19 +849,19 @@ class FrequencyResponse:
             preamp_str = ''
             if type(max_gains) == list and len(max_gains) > 1:
                 if len(max_gains) > 3:
-                    strs = f', '.join([f'{-(x + PREAMP_HEADROOM):.2f} dB' for x in max_gains[:-2]]) + f' or -{max_gains[-2]:.2f} dB'
+                    strs = f', '.join([f'{-(x + PREAMP_HEADROOM):.1f} dB' for x in max_gains[:-2]]) + f' or -{max_gains[-2]:.1f} dB'
                     preamp_str = f'When using independent subset of filters, apply preamp of {strs}, respectively.'
                 elif len(max_gains) == 3:
                     preamp_str = f'When using independent subset of filters, apply preamp of ' \
-                                 f'{-(max_gains[0] + PREAMP_HEADROOM):.2f} dB ' \
-                                 f'or {-(max_gains[1] + PREAMP_HEADROOM):.2f} dB, respectively.'
+                                 f'{-(max_gains[0] + PREAMP_HEADROOM):.1f} dB ' \
+                                 f'or {-(max_gains[1] + PREAMP_HEADROOM):.1f} dB, respectively.'
                 elif len(max_gains) == 2:
                     preamp_str = f'When using independent subset of filters, apply preamp of ' \
-                                 f'**{-(max_gains[0] + PREAMP_HEADROOM):.2f} dB**.'
+                                 f'**{-(max_gains[0] + PREAMP_HEADROOM):.1f} dB**.'
 
             s += '''
             ### Parametric EQs
-            In case of using parametric equalizer, apply preamp of **{preamp:.2f}dB** and build filters manually
+            In case of using parametric equalizer, apply preamp of **{preamp:.1f}dB** and build filters manually
             with these parameters. {max_filters_str}
             {preamp_str}
 
@@ -907,11 +903,11 @@ class FrequencyResponse:
                 filters,
                 headers=['Type', 'Fc', 'Q', 'Gain'],
                 tablefmt='orgtbl'
-            ).replace('+', '|').replace('-|', ':|')
+            ).replace('+', '|').replace('|-', '|:')
 
             s += '''
             ### Fixed Band EQs
-            In case of using fixed band (also called graphic) equalizer, apply preamp of **{preamp:.2f}dB**
+            In case of using fixed band (also called graphic) equalizer, apply preamp of **{preamp:.1f}dB**
             (if available) and set gains manually with these parameters.
 
             {filters_table}
@@ -1247,63 +1243,6 @@ class FrequencyResponse:
             target=False
         )
 
-    def smoothen_heavy_light(self):
-        """Smoothens data by combining light and heavy smoothing and taking maximum.
-
-        Returns:
-            None
-        """
-        light = self.copy()
-        light.name = 'Light'
-        light.smoothen_fractional_octave(
-            window_size=1 / 6,
-            iterations=1,
-            treble_f_lower=100,
-            treble_f_upper=10000,
-            treble_window_size=1 / 3,
-            treble_iterations=1
-        )
-
-        heavy = self.copy()
-        heavy.name = 'Heavy'
-        heavy.smoothen_fractional_octave(
-            window_size=1 / 3,
-            iterations=1,
-            treble_f_lower=1000,
-            treble_f_upper=6000,
-            treble_window_size=1.3,
-            treble_iterations=1
-        )
-
-        combination = self.copy()
-        combination.name = 'Combination'
-        combination.error = np.max(np.vstack([light.error_smoothed, heavy.error_smoothed]), axis=0)
-        combination.smoothen_fractional_octave(
-            window_size=1 / 3,
-            iterations=1,
-            treble_f_lower=100,
-            treble_f_upper=10000,
-            treble_window_size=1 / 3,
-            treble_iterations=1
-        )
-
-        self.smoothed = combination.smoothed.copy()
-        self.error_smoothed = combination.error_smoothed.copy()
-
-        # Equalization is affected by smoothing, reset equalization results
-        self.reset(
-            raw=False,
-            smoothed=False,
-            error=False,
-            error_smoothed=False,
-            equalization=True,
-            parametric_eq=True,
-            fixed_band_eq=True,
-            equalized_raw=True,
-            equalized_smoothed=True,
-            target=False
-        )
-
     def equalize(self,
                  max_gain=DEFAULT_MAX_GAIN,
                  limit=18,
@@ -1392,8 +1331,6 @@ class FrequencyResponse:
             combined.raw = np.min(np.vstack([combined.raw, np.ones(combined.raw.shape) * max_gain]), axis=0)
             # Smoothen the curve to get rid of hard kinks
             combined.smoothen_fractional_octave(window_size=1 / 5, treble_window_size=1 / 5)
-
-            # TODO: Fix trend by comparing super heavy smoothed equalizer frequency responses: limited vs unlimited
 
             # Equalization curve
             self.equalization = combined.smoothed
@@ -1782,8 +1719,8 @@ class FrequencyResponse:
                 max_gain=DEFAULT_MAX_GAIN,
                 fs=DEFAULT_FS,
                 concha_interference=False,
-                window_size=1 / 12,
-                treble_window_size=2,
+                window_size=DEFAULT_SMOOTHING_WINDOW_SIZE,
+                treble_window_size=DEFAULT_TREBLE_SMOOTHING_WINDOW_SIZE,
                 treble_f_lower=DEFAULT_TREBLE_F_LOWER,
                 treble_f_upper=DEFAULT_TREBLE_F_UPPER,
                 treble_gain_k=DEFAULT_TREBLE_GAIN_K):
@@ -1874,8 +1811,8 @@ class FrequencyResponse:
 
         # Smooth data
         self.smoothen_fractional_octave(
-            window_size=1 / 12,
-            treble_window_size=2,
+            window_size=window_size,
+            treble_window_size=treble_window_size,
             treble_f_lower=treble_f_lower,
             treble_f_upper=treble_f_upper
         )
