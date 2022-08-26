@@ -8,33 +8,33 @@ When using independent subset of filters, apply preamp of **-6.3 dB**.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 22 Hz    | 1.95 | -3.2 dB |
-| Peaking | 126 Hz   | 1.11 | -6.1 dB |
-| Peaking | 2601 Hz  | 2.73 | -4.7 dB |
-| Peaking | 4420 Hz  | 2    | 6.1 dB  |
-| Peaking | 11339 Hz | 0.93 | 3.8 dB  |
-| Peaking | 44 Hz    | 4.11 | 1.2 dB  |
-| Peaking | 210 Hz   | 2.72 | -1.8 dB |
-| Peaking | 403 Hz   | 1.93 | 3.1 dB  |
-| Peaking | 1284 Hz  | 1.58 | 1.6 dB  |
-| Peaking | 1976 Hz  | 3.86 | -1.5 dB |
+| Peaking | 155 Hz   | 1.03 | -5.7 dB |
+| Peaking | 408 Hz   | 1.43 | 3.1 dB  |
+| Peaking | 2589 Hz  | 2.5  | -4.8 dB |
+| Peaking | 4415 Hz  | 2.04 | 6.1 dB  |
+| Peaking | 11302 Hz | 0.96 | 3.8 dB  |
+| Peaking | 19 Hz    | 0.89 | -1.9 dB |
+| Peaking | 44 Hz    | 1.57 | 3.2 dB  |
+| Peaking | 107 Hz   | 0.75 | -1.2 dB |
+| Peaking | 151 Hz   | 3.22 | 1.5 dB  |
+| Peaking | 1225 Hz  | 2.73 | 1.5 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.2dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.1dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.7 dB |
-| Peaking | 62 Hz    | 1.41 | -0.2 dB |
-| Peaking | 125 Hz   | 1.41 | -6.3 dB |
-| Peaking | 250 Hz   | 1.41 | -1.2 dB |
-| Peaking | 500 Hz   | 1.41 | 2.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | 1.6 dB  |
+| Peaking | 31 Hz    | 1.41 | 0.3 dB  |
+| Peaking | 62 Hz    | 1.41 | 1.2 dB  |
+| Peaking | 125 Hz   | 1.41 | -5.9 dB |
+| Peaking | 250 Hz   | 1.41 | -1.4 dB |
+| Peaking | 500 Hz   | 1.41 | 2.1 dB  |
+| Peaking | 1000 Hz  | 1.41 | 1.5 dB  |
 | Peaking | 2000 Hz  | 1.41 | -3.6 dB |
-| Peaking | 4000 Hz  | 1.41 | 4.0 dB  |
-| Peaking | 8000 Hz  | 1.41 | 3.2 dB  |
-| Peaking | 16000 Hz | 1.41 | 2.5 dB  |
+| Peaking | 4000 Hz  | 1.41 | 3.9 dB  |
+| Peaking | 8000 Hz  | 1.41 | 3.1 dB  |
+| Peaking | 16000 Hz | 1.41 | 2.4 dB  |
 
 ### Graphs
 ![](./Oppo%20PM3.png)

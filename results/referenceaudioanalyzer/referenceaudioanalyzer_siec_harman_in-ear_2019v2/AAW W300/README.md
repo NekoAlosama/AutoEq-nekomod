@@ -2,39 +2,37 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.8dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-7.3dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.0 dB**.
+When using independent subset of filters, apply preamp of **-7.4 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 77 Hz    | 0.25 | -1.5 dB |
-| Peaking | 1857 Hz  | 2.06 | -7.0 dB |
-| Peaking | 2642 Hz  | 2.19 | 5.6 dB  |
-| Peaking | 5500 Hz  | 2.45 | 6.3 dB  |
-| Peaking | 18528 Hz | 0.52 | 6.6 dB  |
-| Peaking | 670 Hz   | 2.37 | 1.0 dB  |
-| Peaking | 3995 Hz  | 6    | -2.5 dB |
-| Peaking | 4554 Hz  | 2.07 | 2.6 dB  |
-| Peaking | 5918 Hz  | 1.62 | -2.5 dB |
-| Peaking | 6315 Hz  | 5.97 | 2.8 dB  |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 45 Hz   | 0.44 | 2.3 dB  |
+| Peaking | 242 Hz  | 0.29 | -2.1 dB |
+| Peaking | 562 Hz  | 1.21 | 1.8 dB  |
+| Peaking | 1750 Hz | 3.44 | -5.9 dB |
+| Peaking | 5419 Hz | 1.59 | 7.3 dB  |
+| Peaking | 1288 Hz | 4.49 | -1.6 dB |
+| Peaking | 2807 Hz | 3.35 | 3.6 dB  |
+| Peaking | 3969 Hz | 5.17 | -2.7 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.9dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.0dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.2 dB |
-| Peaking | 62 Hz    | 1.41 | -0.8 dB |
-| Peaking | 125 Hz   | 1.41 | -1.3 dB |
-| Peaking | 250 Hz   | 1.41 | -1.5 dB |
-| Peaking | 500 Hz   | 1.41 | 0.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | -0.5 dB |
-| Peaking | 2000 Hz  | 1.41 | -3.8 dB |
-| Peaking | 4000 Hz  | 1.41 | 5.5 dB  |
+| Peaking | 31 Hz    | 1.41 | 1.9 dB  |
+| Peaking | 62 Hz    | 1.41 | 1.2 dB  |
+| Peaking | 125 Hz   | 1.41 | -0.8 dB |
+| Peaking | 250 Hz   | 1.41 | -1.7 dB |
+| Peaking | 500 Hz   | 1.41 | 0.6 dB  |
+| Peaking | 1000 Hz  | 1.41 | -0.6 dB |
+| Peaking | 2000 Hz  | 1.41 | -4.0 dB |
+| Peaking | 4000 Hz  | 1.41 | 5.7 dB  |
 | Peaking | 8000 Hz  | 1.41 | 1.5 dB  |
-| Peaking | 16000 Hz | 1.41 | 6.5 dB  |
+| Peaking | 16000 Hz | 1.41 | 6.7 dB  |
 
 ### Graphs
 ![](./AAW%20W300.png)

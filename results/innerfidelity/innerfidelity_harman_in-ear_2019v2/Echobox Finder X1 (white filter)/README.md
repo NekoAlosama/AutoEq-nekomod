@@ -8,32 +8,31 @@ When using independent subset of filters, apply preamp of **-4.5 dB**.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 24 Hz    | 0.1  | -5.3 dB |
-| Peaking | 856 Hz   | 0.73 | 4.7 dB  |
-| Peaking | 2247 Hz  | 1.5  | 5.4 dB  |
-| Peaking | 3387 Hz  | 3.47 | -1.0 dB |
-| Peaking | 15656 Hz | 0.05 | -3.0 dB |
-| Peaking | 15 Hz    | 1.27 | -0.5 dB |
-| Peaking | 4777 Hz  | 3.7  | 1.6 dB  |
-| Peaking | 6147 Hz  | 3.53 | -4.0 dB |
-| Peaking | 9956 Hz  | 0.91 | 1.2 dB  |
+| Peaking | 17 Hz    | 0.43 | -2.7 dB |
+| Peaking | 155 Hz   | 0.47 | -3.2 dB |
+| Peaking | 875 Hz   | 0.68 | 4.9 dB  |
+| Peaking | 2213 Hz  | 1.73 | 5.3 dB  |
+| Peaking | 14421 Hz | 0.05 | -3.2 dB |
+| Peaking | 4706 Hz  | 5.93 | 1.6 dB  |
+| Peaking | 6160 Hz  | 4.1  | -3.8 dB |
+| Peaking | 10300 Hz | 0.98 | 1.2 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-4.3dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -5.8 dB |
-| Peaking | 62 Hz    | 1.41 | -3.5 dB |
-| Peaking | 125 Hz   | 1.41 | -3.3 dB |
-| Peaking | 250 Hz   | 1.41 | -2.0 dB |
-| Peaking | 500 Hz   | 1.41 | 1.8 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 2000 Hz  | 1.41 | 4.0 dB  |
-| Peaking | 4000 Hz  | 1.41 | -2.0 dB |
-| Peaking | 8000 Hz  | 1.41 | -3.3 dB |
-| Peaking | 16000 Hz | 1.41 | -3.7 dB |
+| Peaking | 31 Hz    | 1.41 | -2.7 dB |
+| Peaking | 62 Hz    | 1.41 | -1.6 dB |
+| Peaking | 125 Hz   | 1.41 | -2.7 dB |
+| Peaking | 250 Hz   | 1.41 | -2.2 dB |
+| Peaking | 500 Hz   | 1.41 | 1.7 dB  |
+| Peaking | 1000 Hz  | 1.41 | 3.0 dB  |
+| Peaking | 2000 Hz  | 1.41 | 3.9 dB  |
+| Peaking | 4000 Hz  | 1.41 | -2.1 dB |
+| Peaking | 8000 Hz  | 1.41 | -3.5 dB |
+| Peaking | 16000 Hz | 1.41 | -3.9 dB |
 
 ### Graphs
 ![](./Echobox%20Finder%20X1%20(white%20filter).png)

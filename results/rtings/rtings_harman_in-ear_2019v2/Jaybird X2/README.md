@@ -8,33 +8,32 @@ When using independent subset of filters, apply preamp of **-6.2 dB**.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 68 Hz    | 0.37 | -3.2 dB |
-| Peaking | 203 Hz   | 1.04 | -2.6 dB |
-| Peaking | 4029 Hz  | 0.67 | 3.0 dB  |
-| Peaking | 5472 Hz  | 1.14 | 6.7 dB  |
-| Peaking | 16399 Hz | 0.17 | -6.3 dB |
-| Peaking | 21 Hz    | 2.18 | -0.6 dB |
-| Peaking | 726 Hz   | 2.13 | 1.7 dB  |
-| Peaking | 1333 Hz  | 1.38 | -1.0 dB |
-| Peaking | 2190 Hz  | 2.21 | 1.2 dB  |
-| Peaking | 2653 Hz  | 4.15 | -1.2 dB |
+| Peaking | 156 Hz   | 0.84 | -3.3 dB |
+| Peaking | 276 Hz   | 1.44 | -1.8 dB |
+| Peaking | 692 Hz   | 2.84 | 1.4 dB  |
+| Peaking | 5133 Hz  | 0.9  | 9.3 dB  |
+| Peaking | 16000 Hz | 0.18 | -6.6 dB |
+| Peaking | 34 Hz    | 0.4  | 1.0 dB  |
+| Peaking | 75 Hz    | 1.27 | -1.0 dB |
+| Peaking | 1307 Hz  | 2.67 | -0.8 dB |
+| Peaking | 2068 Hz  | 5.19 | 1.0 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.5dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-6.4dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -1.9 dB |
-| Peaking | 62 Hz    | 1.41 | -2.6 dB |
-| Peaking | 125 Hz   | 1.41 | -3.4 dB |
-| Peaking | 250 Hz   | 1.41 | -3.4 dB |
-| Peaking | 500 Hz   | 1.41 | 0.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.2 dB  |
-| Peaking | 2000 Hz  | 1.41 | -0.1 dB |
-| Peaking | 4000 Hz  | 1.41 | 6.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | -0.5 dB |
-| Peaking | 16000 Hz | 1.41 | -9.3 dB |
+| Peaking | 31 Hz    | 1.41 | 1.0 dB  |
+| Peaking | 62 Hz    | 1.41 | -0.6 dB |
+| Peaking | 125 Hz   | 1.41 | -2.7 dB |
+| Peaking | 250 Hz   | 1.41 | -3.7 dB |
+| Peaking | 500 Hz   | 1.41 | 0.6 dB  |
+| Peaking | 1000 Hz  | 1.41 | 0.1 dB  |
+| Peaking | 2000 Hz  | 1.41 | -0.2 dB |
+| Peaking | 4000 Hz  | 1.41 | 6.4 dB  |
+| Peaking | 8000 Hz  | 1.41 | -0.7 dB |
+| Peaking | 16000 Hz | 1.41 | -9.5 dB |
 
 ### Graphs
 ![](./Jaybird%20X2.png)

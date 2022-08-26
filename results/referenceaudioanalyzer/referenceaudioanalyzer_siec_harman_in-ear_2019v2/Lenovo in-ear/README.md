@@ -4,37 +4,35 @@ See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more
 ### Parametric EQs
 In case of using parametric equalizer, apply preamp of **-5.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-5.8 dB**.
+When using independent subset of filters, apply preamp of **-5.7 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 19 Hz    | 0.12 | -4.7 dB |
-| Peaking | 360 Hz   | 0.21 | -4.6 dB |
-| Peaking | 859 Hz   | 0.76 | 7.3 dB  |
-| Peaking | 3365 Hz  | 0.6  | 6.2 dB  |
-| Peaking | 6432 Hz  | 2.83 | -8.9 dB |
-| Peaking | 7741 Hz  | 2.14 | -1.3 dB |
-| Peaking | 10229 Hz | 1.59 | 5.0 dB  |
-| Peaking | 13093 Hz | 1.58 | 2.1 dB  |
-| Peaking | 19356 Hz | 0.38 | -9.3 dB |
-| Peaking | 20015 Hz | 0.58 | -8.1 dB |
+| Type    | Fc       |    Q | Gain     |
+|:--------|:---------|:-----|:---------|
+| Peaking | 20 Hz    | 0.1  | -1.8 dB  |
+| Peaking | 226 Hz   | 0.35 | -4.8 dB  |
+| Peaking | 846 Hz   | 0.82 | 5.5 dB   |
+| Peaking | 3406 Hz  | 0.71 | 5.5 dB   |
+| Peaking | 6443 Hz  | 2.96 | -8.4 dB  |
+| Peaking | 123 Hz   | 3.76 | -0.3 dB  |
+| Peaking | 11182 Hz | 1.41 | 6.1 dB   |
+| Peaking | 19761 Hz | 0.43 | -17.1 dB |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.4dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-5.2dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | -5.3 dB |
-| Peaking | 62 Hz    | 1.41 | -4.3 dB |
-| Peaking | 125 Hz   | 1.41 | -5.2 dB |
-| Peaking | 250 Hz   | 1.41 | -4.1 dB |
-| Peaking | 500 Hz   | 1.41 | -0.2 dB |
-| Peaking | 1000 Hz  | 1.41 | 4.4 dB  |
-| Peaking | 2000 Hz  | 1.41 | 3.8 dB  |
-| Peaking | 4000 Hz  | 1.41 | 3.9 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.3 dB |
-| Peaking | 16000 Hz | 1.41 | -8.8 dB |
+| Peaking | 31 Hz    | 1.41 | -2.2 dB |
+| Peaking | 62 Hz    | 1.41 | -2.4 dB |
+| Peaking | 125 Hz   | 1.41 | -4.6 dB |
+| Peaking | 250 Hz   | 1.41 | -4.4 dB |
+| Peaking | 500 Hz   | 1.41 | -0.3 dB |
+| Peaking | 1000 Hz  | 1.41 | 4.2 dB  |
+| Peaking | 2000 Hz  | 1.41 | 3.7 dB  |
+| Peaking | 4000 Hz  | 1.41 | 3.8 dB  |
+| Peaking | 8000 Hz  | 1.41 | -1.4 dB |
+| Peaking | 16000 Hz | 1.41 | -9.0 dB |
 
 ### Graphs
 ![](./Lenovo%20in-ear.png)

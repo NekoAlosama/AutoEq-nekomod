@@ -2,37 +2,38 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-6.4dB** and build filters manually
+In case of using parametric equalizer, apply preamp of **-12.7dB** and build filters manually
 with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-6.4 dB**.
+When using independent subset of filters, apply preamp of **-12.7 dB**.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 30 Hz    | 0.41 | 6.6 dB  |
-| Peaking | 160 Hz   | 0.48 | -3.3 dB |
-| Peaking | 3747 Hz  | 7.31 | 4.1 dB  |
-| Peaking | 9990 Hz  | 1.23 | 6.2 dB  |
-| Peaking | 19526 Hz | 0.67 | -8.6 dB |
-| Peaking | 1120 Hz  | 4.03 | -0.8 dB |
-| Peaking | 5515 Hz  | 3.61 | -3.5 dB |
-| Peaking | 6788 Hz  | 3.87 | 2.7 dB  |
+| Type    | Fc      |    Q | Gain    |
+|:--------|:--------|:-----|:--------|
+| Peaking | 18 Hz   | 0.65 | 11.0 dB |
+| Peaking | 55 Hz   | 0.45 | 3.9 dB  |
+| Peaking | 166 Hz  | 0.51 | -3.8 dB |
+| Peaking | 3739 Hz | 6.94 | 4.1 dB  |
+| Peaking | 9454 Hz | 1.67 | 5.8 dB  |
+| Peaking | 1112 Hz | 2.52 | -1.0 dB |
+| Peaking | 1270 Hz | 0.25 | 0.2 dB  |
+| Peaking | 5480 Hz | 3.36 | -3.2 dB |
+| Peaking | 6746 Hz | 4.74 | 2.9 dB  |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-7.7dB**
+In case of using fixed band (also called graphic) equalizer, apply preamp of **-12.8dB**
 (if available) and set gains manually with these parameters.
 
 | Type    | Fc       |    Q | Gain    |
 |:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 7.1 dB  |
-| Peaking | 62 Hz    | 1.41 | 2.2 dB  |
-| Peaking | 125 Hz   | 1.41 | -1.6 dB |
-| Peaking | 250 Hz   | 1.41 | -2.3 dB |
+| Peaking | 31 Hz    | 1.41 | 12.0 dB |
+| Peaking | 62 Hz    | 1.41 | 2.4 dB  |
+| Peaking | 125 Hz   | 1.41 | -1.2 dB |
+| Peaking | 250 Hz   | 1.41 | -2.4 dB |
 | Peaking | 500 Hz   | 1.41 | -0.3 dB |
-| Peaking | 1000 Hz  | 1.41 | -0.7 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 5.3 dB  |
-| Peaking | 16000 Hz | 1.41 | -2.5 dB |
+| Peaking | 1000 Hz  | 1.41 | -0.8 dB |
+| Peaking | 2000 Hz  | 1.41 | 0.0 dB  |
+| Peaking | 4000 Hz  | 1.41 | 0.2 dB  |
+| Peaking | 8000 Hz  | 1.41 | 5.2 dB  |
+| Peaking | 16000 Hz | 1.41 | -2.6 dB |
 
 ### Graphs
 ![](./Sennheiser%20GAME%20ONE.png)
