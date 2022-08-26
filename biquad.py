@@ -125,9 +125,9 @@ def digital_coeffs(f, fs, a0, a1, a2, b0, b1, b2):
 
     c = 10 * np.log10(
         (b0 + b1 + b2) ** 2 + (b0 * b2 * phi - (b1 * (b0 + b2) + 4 * b0 * b2)) * phi
-    ) - 10 * np.log10(
+    ) - 10 * np.nan_to_num(np.log10(
         (a0 + a1 + a2) ** 2 + (a0 * a2 * phi - (a1 * (a0 + a2) + 4 * a0 * a2)) * phi
-    )
+    ))
     return c
 
 
