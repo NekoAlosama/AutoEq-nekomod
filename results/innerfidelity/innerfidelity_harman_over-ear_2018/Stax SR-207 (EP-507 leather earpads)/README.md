@@ -2,38 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-8.5dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-8.5 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -4.2 dB or -4.2 dB, respectively.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 16 Hz    | 0.91 | 6.9 dB  |
-| Peaking | 48 Hz    | 0.5  | 4.4 dB  |
-| Peaking | 1480 Hz  | 1.86 | -4.3 dB |
-| Peaking | 2301 Hz  | 3.46 | 4.3 dB  |
-| Peaking | 5973 Hz  | 5.33 | -5.4 dB |
-| Peaking | 208 Hz   | 1.42 | -0.5 dB |
-| Peaking | 393 Hz   | 1.51 | 1.1 dB  |
-| Peaking | 4076 Hz  | 8.37 | 3.3 dB  |
-| Peaking | 10782 Hz | 4.19 | 2.0 dB  |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         4.1 |
+|   2 | Peaking   |       405 | 1.22 |         1.4 |
+|   3 | Peaking   |      1460 | 1.72 |        -4.3 |
+|   4 | Peaking   |      2293 | 3.53 |         4.5 |
+|   5 | Peaking   |      5951 | 5.07 |        -5   |
+|   6 | Peaking   |        78 | 2.02 |        -0.8 |
+|   7 | Peaking   |      4134 | 5.95 |         3.2 |
+|   8 | Peaking   |      5070 | 5.13 |        -0.8 |
+|   9 | Peaking   |      7809 | 6    |        -1   |
+|  10 | HighShelf |     10000 | 0.7  |        -0.6 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.2dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.5 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 7.1 dB  |
-| Peaking | 62 Hz    | 1.41 | 3.5 dB  |
-| Peaking | 125 Hz   | 1.41 | 1.2 dB  |
-| Peaking | 250 Hz   | 1.41 | -0.0 dB |
-| Peaking | 500 Hz   | 1.41 | 1.7 dB  |
-| Peaking | 1000 Hz  | 1.41 | -2.9 dB |
-| Peaking | 2000 Hz  | 1.41 | 0.2 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.6 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.4 dB |
-| Peaking | 16000 Hz | 1.41 | -1.7 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         5   |
+|   2 | Peaking |        62 | 1.41 |         1.9 |
+|   3 | Peaking |       125 | 1.41 |         1.3 |
+|   4 | Peaking |       250 | 1.41 |         0.1 |
+|   5 | Peaking |       500 | 1.41 |         1.7 |
+|   6 | Peaking |      1000 | 1.41 |        -3   |
+|   7 | Peaking |      2000 | 1.41 |         0.4 |
+|   8 | Peaking |      4000 | 1.41 |         0.8 |
+|   9 | Peaking |      8000 | 1.41 |        -2.3 |
+|  10 | Peaking |     16000 | 1.41 |         0.6 |
 
 ### Graphs
 ![](./Stax%20SR-207%20(EP-507%20leather%20earpads).png)

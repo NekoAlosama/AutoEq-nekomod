@@ -2,39 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-28.3dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-28.9 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.1 dB or -6.2 dB, respectively.
 
-| Type    | Fc      |    Q | Gain     |
-|:--------|:--------|:-----|:---------|
-| Peaking | 18 Hz   | 1.05 | 25.2 dB  |
-| Peaking | 34 Hz   | 0.83 | 9.7 dB   |
-| Peaking | 1781 Hz | 0.93 | 4.4 dB   |
-| Peaking | 2599 Hz | 1.94 | -13.7 dB |
-| Peaking | 4416 Hz | 3.64 | 6.8 dB   |
-| Peaking | 25 Hz   | 0.07 | -0.7 dB  |
-| Peaking | 54 Hz   | 2.2  | 1.3 dB   |
-| Peaking | 228 Hz  | 1.81 | -1.0 dB  |
-| Peaking | 456 Hz  | 0.99 | 1.0 dB   |
-| Peaking | 7727 Hz | 4.66 | -2.7 dB  |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         6   |
+|   2 | Peaking   |       786 | 0.98 |         1.5 |
+|   3 | Peaking   |      1708 | 2.59 |         3.3 |
+|   4 | Peaking   |      2631 | 2.23 |       -11.6 |
+|   5 | Peaking   |      4406 | 3.16 |         6.1 |
+|   6 | Peaking   |        65 | 3.01 |         1.4 |
+|   7 | Peaking   |        98 | 1.46 |        -1.2 |
+|   8 | Peaking   |       217 | 3.07 |        -0.7 |
+|   9 | Peaking   |      8082 | 2.53 |        -3.7 |
+|  10 | HighShelf |     10000 | 0.7  |         4.4 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-31.1dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.2 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 29.1 dB |
-| Peaking | 62 Hz    | 1.41 | 0.2 dB  |
-| Peaking | 125 Hz   | 1.41 | -1.3 dB |
-| Peaking | 250 Hz   | 1.41 | -1.0 dB |
-| Peaking | 500 Hz   | 1.41 | 0.6 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.0 dB  |
-| Peaking | 2000 Hz  | 1.41 | -5.5 dB |
-| Peaking | 4000 Hz  | 1.41 | 0.9 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.5 dB |
-| Peaking | 16000 Hz | 1.41 | 6.5 dB  |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         6.2 |
+|   2 | Peaking |        62 | 1.41 |         4.6 |
+|   3 | Peaking |       125 | 1.41 |         0.4 |
+|   4 | Peaking |       250 | 1.41 |         0   |
+|   5 | Peaking |       500 | 1.41 |         0.4 |
+|   6 | Peaking |      1000 | 1.41 |         3.3 |
+|   7 | Peaking |      2000 | 1.41 |        -5.7 |
+|   8 | Peaking |      4000 | 1.41 |         1.1 |
+|   9 | Peaking |      8000 | 1.41 |        -1.4 |
+|  10 | Peaking |     16000 | 1.41 |         6.8 |
 
 ### Graphs
 ![](./Fischer%20Audio%20Oldskool%2070.png)

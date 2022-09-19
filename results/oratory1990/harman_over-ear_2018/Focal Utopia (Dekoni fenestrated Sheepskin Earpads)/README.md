@@ -2,38 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-7.7dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-7.7 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -6.4 dB, respectively.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 14 Hz    | 0.49 | 4.0 dB   |
-| Peaking | 186 Hz   | 0.65 | -4.0 dB  |
-| Peaking | 1007 Hz  | 1.45 | -2.6 dB  |
-| Peaking | 1906 Hz  | 3.51 | 5.0 dB   |
-| Peaking | 8612 Hz  | 1.19 | 7.5 dB   |
-| Peaking | 2674 Hz  | 6.35 | -2.3 dB  |
-| Peaking | 3601 Hz  | 6.12 | 4.4 dB   |
-| Peaking | 12497 Hz | 1.65 | 2.8 dB   |
-| Peaking | 19793 Hz | 0.48 | -10.1 dB |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         3.4 |
+|   2 | Peaking   |        93 | 0.29 |        -5   |
+|   3 | Peaking   |      1032 | 1.69 |        -2.4 |
+|   4 | Peaking   |      1903 | 3.62 |         4.9 |
+|   5 | Peaking   |      8941 | 0.85 |         6.5 |
+|   6 | Peaking   |      2721 | 5.12 |        -2.4 |
+|   7 | Peaking   |      3614 | 4.78 |         3.9 |
+|   8 | Peaking   |      5623 | 5.94 |        -3.6 |
+|   9 | Peaking   |      6694 | 5    |         2.5 |
+|  10 | HighShelf |     10000 | 0.7  |        -3.1 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-8.2dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.8 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 3.1 dB  |
-| Peaking | 62 Hz    | 1.41 | -0.1 dB |
-| Peaking | 125 Hz   | 1.41 | -2.7 dB |
-| Peaking | 250 Hz   | 1.41 | -3.4 dB |
-| Peaking | 500 Hz   | 1.41 | -0.5 dB |
-| Peaking | 1000 Hz  | 1.41 | -3.1 dB |
-| Peaking | 2000 Hz  | 1.41 | 3.0 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | 8.0 dB  |
-| Peaking | 16000 Hz | 1.41 | -3.6 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         1   |
+|   2 | Peaking |        62 | 1.41 |        -1.5 |
+|   3 | Peaking |       125 | 1.41 |        -2.9 |
+|   4 | Peaking |       250 | 1.41 |        -3.5 |
+|   5 | Peaking |       500 | 1.41 |        -0.5 |
+|   6 | Peaking |      1000 | 1.41 |        -3   |
+|   7 | Peaking |      2000 | 1.41 |         3.1 |
+|   8 | Peaking |      4000 | 1.41 |         0.8 |
+|   9 | Peaking |      8000 | 1.41 |         6.7 |
+|  10 | Peaking |     16000 | 1.41 |        -3.5 |
 
 ### Graphs
 ![](./Focal%20Utopia%20(Dekoni%20fenestrated%20Sheepskin%20Earpads).png)

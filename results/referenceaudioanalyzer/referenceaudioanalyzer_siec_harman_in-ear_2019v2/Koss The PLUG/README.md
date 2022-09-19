@@ -2,39 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-14.4dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-14.1 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.7 dB, respectively.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 21 Hz    | 0.71 | 8.0 dB   |
-| Peaking | 53 Hz    | 1.07 | 3.5 dB   |
-| Peaking | 2613 Hz  | 0.82 | -11.4 dB |
-| Peaking | 3139 Hz  | 2.65 | 11.9 dB  |
-| Peaking | 11401 Hz | 0.64 | 14.5 dB  |
-| Peaking | 268 Hz   | 0.61 | -3.6 dB  |
-| Peaking | 750 Hz   | 0.12 | 2.5 dB   |
-| Peaking | 1922 Hz  | 1.97 | -3.9 dB  |
-| Peaking | 5230 Hz  | 4.45 | -6.8 dB  |
-| Peaking | 6379 Hz  | 7.24 | 3.5 dB   |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         7.3 |
+|   2 | Peaking   |        66 | 0.44 |        -3.8 |
+|   3 | Peaking   |      2064 | 1.2  |       -16   |
+|   4 | Peaking   |      4505 | 0.47 |        15.2 |
+|   5 | Peaking   |      5005 | 2.28 |       -15.4 |
+|   6 | Peaking   |       155 | 2.47 |         0.7 |
+|   7 | Peaking   |       264 | 1.23 |        -0.5 |
+|   8 | Peaking   |       780 | 2.82 |         0.5 |
+|   9 | Peaking   |      8944 | 2.56 |        -1.5 |
+|  10 | HighShelf |     10000 | 0.7  |         3.2 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-14.0dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-11.9 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 9.1 dB  |
-| Peaking | 62 Hz    | 1.41 | 3.4 dB  |
-| Peaking | 125 Hz   | 1.41 | 0.4 dB  |
-| Peaking | 250 Hz   | 1.41 | -1.7 dB |
-| Peaking | 500 Hz   | 1.41 | 0.1 dB  |
-| Peaking | 1000 Hz  | 1.41 | 0.4 dB  |
-| Peaking | 2000 Hz  | 1.41 | -7.7 dB |
-| Peaking | 4000 Hz  | 1.41 | 0.6 dB  |
-| Peaking | 8000 Hz  | 1.41 | 10.8 dB |
-| Peaking | 16000 Hz | 1.41 | 13.1 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         6   |
+|   2 | Peaking |        62 | 1.41 |         1.5 |
+|   3 | Peaking |       125 | 1.41 |        -0.3 |
+|   4 | Peaking |       250 | 1.41 |        -1.2 |
+|   5 | Peaking |       500 | 1.41 |         0.1 |
+|   6 | Peaking |      1000 | 1.41 |         0.7 |
+|   7 | Peaking |      2000 | 1.41 |        -8.1 |
+|   8 | Peaking |      4000 | 1.41 |         2.6 |
+|   9 | Peaking |      8000 | 1.41 |         4.9 |
+|  10 | Peaking |     16000 | 1.41 |        11.7 |
 
 ### Graphs
 ![](./Koss%20The%20PLUG.png)

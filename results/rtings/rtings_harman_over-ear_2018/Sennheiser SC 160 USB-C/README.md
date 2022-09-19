@@ -2,39 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-16.1dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-16.1 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -6.7 dB, respectively.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 20 Hz    | 0.56 | 16.6 dB |
-| Peaking | 59 Hz    | 1.33 | -3.1 dB |
-| Peaking | 105 Hz   | 0.74 | -8.4 dB |
-| Peaking | 1723 Hz  | 0.28 | 3.3 dB  |
-| Peaking | 6225 Hz  | 1.89 | -4.5 dB |
-| Peaking | 296 Hz   | 4.15 | 1.9 dB  |
-| Peaking | 338 Hz   | 4.71 | -2.7 dB |
-| Peaking | 642 Hz   | 2.83 | 0.5 dB  |
-| Peaking | 11203 Hz | 2.01 | 3.2 dB  |
-| Peaking | 19736 Hz | 0.52 | -9.6 dB |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         6.7 |
+|   2 | Peaking   |        34 | 1.87 |         4.3 |
+|   3 | Peaking   |        81 | 0.68 |       -12.4 |
+|   4 | Peaking   |       865 | 0.57 |         3.3 |
+|   5 | Peaking   |      2514 | 3.24 |         4   |
+|   6 | Peaking   |       282 | 3.47 |         1.7 |
+|   7 | Peaking   |       344 | 6    |        -1.9 |
+|   8 | Peaking   |      4649 | 5.17 |         2.9 |
+|   9 | Peaking   |      5903 | 2.2  |        -3.1 |
+|  10 | HighShelf |     10000 | 0.7  |        -1.9 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-13.6dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.8 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 14.9 dB |
-| Peaking | 62 Hz    | 1.41 | -5.5 dB |
-| Peaking | 125 Hz   | 1.41 | -6.7 dB |
-| Peaking | 250 Hz   | 1.41 | -0.6 dB |
-| Peaking | 500 Hz   | 1.41 | 1.2 dB  |
-| Peaking | 1000 Hz  | 1.41 | 2.5 dB  |
-| Peaking | 2000 Hz  | 1.41 | 3.1 dB  |
-| Peaking | 4000 Hz  | 1.41 | 0.5 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.0 dB |
-| Peaking | 16000 Hz | 1.41 | -4.3 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         8.9 |
+|   2 | Peaking |        62 | 1.41 |        -5.2 |
+|   3 | Peaking |       125 | 1.41 |        -7.2 |
+|   4 | Peaking |       250 | 1.41 |        -0.5 |
+|   5 | Peaking |       500 | 1.41 |         1.2 |
+|   6 | Peaking |      1000 | 1.41 |         2.7 |
+|   7 | Peaking |      2000 | 1.41 |         3   |
+|   8 | Peaking |      4000 | 1.41 |         1.1 |
+|   9 | Peaking |      8000 | 1.41 |        -2.2 |
+|  10 | Peaking |     16000 | 1.41 |        -2.7 |
 
 ### Graphs
 ![](./Sennheiser%20SC%20160%20USB-C.png)

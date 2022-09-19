@@ -2,39 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-27.6dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-27.6 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.2 dB or -6.2 dB, respectively.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 13 Hz    | 1.04 | 26.2 dB |
-| Peaking | 41 Hz    | 0.25 | 17.2 dB |
-| Peaking | 612 Hz   | 0.26 | -5.2 dB |
-| Peaking | 8681 Hz  | 1.62 | 2.8 dB  |
-| Peaking | 19662 Hz | 0.37 | -9.1 dB |
-| Peaking | 224 Hz   | 3.74 | 1.7 dB  |
-| Peaking | 260 Hz   | 2.28 | -1.4 dB |
-| Peaking | 1879 Hz  | 5.15 | 1.4 dB  |
-| Peaking | 5004 Hz  | 6.57 | -3.6 dB |
-| Peaking | 6421 Hz  | 8.09 | 2.4 dB  |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         5.8 |
+|   2 | Peaking   |       174 | 0.87 |         6   |
+|   3 | Peaking   |       312 | 1.38 |        -2   |
+|   4 | Peaking   |       847 | 0.66 |        -4.3 |
+|   5 | Peaking   |      2644 | 3.93 |        -3.3 |
+|   6 | Peaking   |      3761 | 6    |         1.1 |
+|   7 | Peaking   |      4976 | 5.44 |        -4.1 |
+|   8 | Peaking   |      6474 | 5.91 |         2.9 |
+|   9 | Peaking   |      8999 | 2.75 |         3.4 |
+|  10 | HighShelf |     10000 | 0.7  |        -4.8 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-33.7dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.5 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 29.2 dB |
-| Peaking | 62 Hz    | 1.41 | 11.3 dB |
-| Peaking | 125 Hz   | 1.41 | 4.9 dB  |
-| Peaking | 250 Hz   | 1.41 | 0.5 dB  |
-| Peaking | 500 Hz   | 1.41 | -3.1 dB |
-| Peaking | 1000 Hz  | 1.41 | -3.7 dB |
-| Peaking | 2000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 4000 Hz  | 1.41 | -1.9 dB |
-| Peaking | 8000 Hz  | 1.41 | 2.1 dB  |
-| Peaking | 16000 Hz | 1.41 | -7.8 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         6.4 |
+|   2 | Peaking |        62 | 1.41 |         4   |
+|   3 | Peaking |       125 | 1.41 |         6   |
+|   4 | Peaking |       250 | 1.41 |         1.9 |
+|   5 | Peaking |       500 | 1.41 |        -3.1 |
+|   6 | Peaking |      1000 | 1.41 |        -3.3 |
+|   7 | Peaking |      2000 | 1.41 |        -1.9 |
+|   8 | Peaking |      4000 | 1.41 |        -1.7 |
+|   9 | Peaking |      8000 | 1.41 |         2.4 |
+|  10 | Peaking |     16000 | 1.41 |        -8.9 |
 
 ### Graphs
 ![](./NAD%20RP18%20Bass%20Light%20Version.png)
