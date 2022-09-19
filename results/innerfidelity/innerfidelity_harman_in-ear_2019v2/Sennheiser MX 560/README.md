@@ -2,38 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-31.2dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-31.2 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.3 dB or -6.2 dB, respectively.
 
-| Type    | Fc      |    Q | Gain     |
-|:--------|:--------|:-----|:---------|
-| Peaking | 16 Hz   | 1.01 | 30.5 dB  |
-| Peaking | 29 Hz   | 0.58 | 11.9 dB  |
-| Peaking | 701 Hz  | 0.18 | 3.2 dB   |
-| Peaking | 2632 Hz | 1.36 | -10.1 dB |
-| Peaking | 6097 Hz | 2.39 | -7.9 dB  |
-| Peaking | 50 Hz   | 3.41 | 0.3 dB   |
-| Peaking | 169 Hz  | 3.33 | 0.5 dB   |
-| Peaking | 385 Hz  | 5.47 | -0.8 dB  |
-| Peaking | 977 Hz  | 4.59 | 0.6 dB   |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         5.7 |
+|   2 | Peaking   |       160 | 0.71 |         4   |
+|   3 | Peaking   |       811 | 0.56 |         3.1 |
+|   4 | Peaking   |      2633 | 1.47 |        -8.7 |
+|   5 | Peaking   |      6106 | 2.5  |        -7.6 |
+|   6 | Peaking   |        60 | 1.7  |        -0.2 |
+|   7 | Peaking   |       694 | 4.17 |        -0.3 |
+|   8 | Peaking   |      3179 | 5.45 |        -0.7 |
+|   9 | Peaking   |      4219 | 3.56 |         0.7 |
+|  10 | HighShelf |     10000 | 0.7  |        -0.6 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-34.1dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.6 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 34.9 dB |
-| Peaking | 62 Hz    | 1.41 | 0.3 dB  |
-| Peaking | 125 Hz   | 1.41 | 0.7 dB  |
-| Peaking | 250 Hz   | 1.41 | 2.0 dB  |
-| Peaking | 500 Hz   | 1.41 | 1.8 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.7 dB  |
-| Peaking | 2000 Hz  | 1.41 | -4.9 dB |
-| Peaking | 4000 Hz  | 1.41 | -5.2 dB |
-| Peaking | 8000 Hz  | 1.41 | -3.1 dB |
-| Peaking | 16000 Hz | 1.41 | -0.6 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         6.5 |
+|   2 | Peaking |        62 | 1.41 |         4   |
+|   3 | Peaking |       125 | 1.41 |         5.4 |
+|   4 | Peaking |       250 | 1.41 |         2.4 |
+|   5 | Peaking |       500 | 1.41 |         1.7 |
+|   6 | Peaking |      1000 | 1.41 |         3.8 |
+|   7 | Peaking |      2000 | 1.41 |        -4.8 |
+|   8 | Peaking |      4000 | 1.41 |        -5.3 |
+|   9 | Peaking |      8000 | 1.41 |        -3.2 |
+|  10 | Peaking |     16000 | 1.41 |        -1.2 |
 
 ### Graphs
 ![](./Sennheiser%20MX%20560.png)

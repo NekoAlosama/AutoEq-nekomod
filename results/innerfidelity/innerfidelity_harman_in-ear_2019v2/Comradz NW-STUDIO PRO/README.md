@@ -2,39 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-In case of using parametric equalizer, apply preamp of **-21.3dB** and build filters manually
-with these parameters. The first 5 filters can be used independently.
-When using independent subset of filters, apply preamp of **-21.1 dB**.
+You can use filters 1-5 or 1-10. Apply preamp of -6.9 dB or -6.9 dB, respectively.
 
-| Type    | Fc       |    Q | Gain     |
-|:--------|:---------|:-----|:---------|
-| Peaking | 20 Hz    | 0.97 | 10.8 dB  |
-| Peaking | 37 Hz    | 1.09 | 3.2 dB   |
-| Peaking | 884 Hz   | 1.98 | 9.2 dB   |
-| Peaking | 1516 Hz  | 2.03 | -13.3 dB |
-| Peaking | 18094 Hz | 0.34 | 20.9 dB  |
-| Peaking | 275 Hz   | 1.79 | -1.4 dB  |
-| Peaking | 617 Hz   | 3.08 | 0.8 dB   |
-| Peaking | 3601 Hz  | 1.5  | 6.1 dB   |
-| Peaking | 6472 Hz  | 0.63 | -7.3 dB  |
-| Peaking | 11159 Hz | 1.07 | 6.9 dB   |
+|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|-----------|-----------|------|-------------|
+|   1 | LowShelf  |       105 | 0.7  |         4.8 |
+|   2 | Peaking   |       895 | 1.99 |         8.8 |
+|   3 | Peaking   |      1325 | 2.46 |        -4.3 |
+|   4 | Peaking   |      1611 | 2.18 |       -11.3 |
+|   5 | Peaking   |      9812 | 0.18 |         3   |
+|   6 | Peaking   |        84 | 2.2  |        -2.2 |
+|   7 | Peaking   |       260 | 1.72 |        -1.3 |
+|   8 | Peaking   |      3540 | 2.71 |         2.2 |
+|   9 | Peaking   |      5629 | 2.9  |        -4   |
+|  10 | HighShelf |     10000 | 0.7  |         4.3 |
 
 ### Fixed Band EQs
-In case of using fixed band (also called graphic) equalizer, apply preamp of **-33.1dB**
-(if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-12.5 dB** (if available) and set gains manually with these parameters.
 
-| Type    | Fc       |    Q | Gain    |
-|:--------|:---------|:-----|:--------|
-| Peaking | 31 Hz    | 1.41 | 11.4 dB |
-| Peaking | 62 Hz    | 1.41 | 0.2 dB  |
-| Peaking | 125 Hz   | 1.41 | 0.6 dB  |
-| Peaking | 250 Hz   | 1.41 | -2.0 dB |
-| Peaking | 500 Hz   | 1.41 | 2.1 dB  |
-| Peaking | 1000 Hz  | 1.41 | 3.3 dB  |
-| Peaking | 2000 Hz  | 1.41 | -9.0 dB |
-| Peaking | 4000 Hz  | 1.41 | 3.3 dB  |
-| Peaking | 8000 Hz  | 1.41 | -1.7 dB |
-| Peaking | 16000 Hz | 1.41 | 33.0 dB |
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         7.2 |
+|   2 | Peaking |        62 | 1.41 |         1.2 |
+|   3 | Peaking |       125 | 1.41 |         0.4 |
+|   4 | Peaking |       250 | 1.41 |        -1.8 |
+|   5 | Peaking |       500 | 1.41 |         1.9 |
+|   6 | Peaking |      1000 | 1.41 |         4   |
+|   7 | Peaking |      2000 | 1.41 |        -9.3 |
+|   8 | Peaking |      4000 | 1.41 |         4.5 |
+|   9 | Peaking |      8000 | 1.41 |         1.5 |
+|  10 | Peaking |     16000 | 1.41 |        12.4 |
 
 ### Graphs
 ![](./Comradz%20NW-STUDIO%20PRO.png)
