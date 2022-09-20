@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.9 dB or -7.0 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.86 dB or -6.98 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -4.2 |
-|   2 | Peaking   |       183 | 0.62 |        -3.6 |
-|   3 | Peaking   |       714 | 0.97 |         2   |
-|   4 | Peaking   |      2609 | 4.31 |        -3.6 |
-|   5 | Peaking   |      4255 | 1.67 |         7   |
-|   6 | Peaking   |        45 | 1.8  |         0.6 |
-|   7 | Peaking   |        79 | 1.22 |        -0.3 |
-|   8 | Peaking   |      5691 | 4.74 |         2.2 |
-|   9 | Peaking   |      6906 | 5.96 |        -3   |
-|  10 | HighShelf |     10000 | 0.7  |        -2   |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -1.35 |
+|   2 | Peaking   |    184.72 | 0.6069 |       -3.64 |
+|   3 | Peaking   |    705.29 | 1.0313 |        1.95 |
+|   4 | Peaking   |   2604.23 | 4.3549 |       -3.54 |
+|   5 | Peaking   |   4261.67 | 1.7347 |        6.89 |
+|   6 | Peaking   |     44.63 | 1.8516 |        0.58 |
+|   7 | Peaking   |     73.81 | 1.2703 |       -0.3  |
+|   8 | Peaking   |   5694.4  | 4.7855 |        2.23 |
+|   9 | Peaking   |   6908.87 | 5.9424 |       -3.12 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.18 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.23 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -4.6 |
-|   2 | Peaking |        62 | 1.41 |        -3.3 |
-|   3 | Peaking |       125 | 1.41 |        -3.7 |
-|   4 | Peaking |       250 | 1.41 |        -2.4 |
-|   5 | Peaking |       500 | 1.41 |         0.8 |
-|   6 | Peaking |      1000 | 1.41 |         1.9 |
-|   7 | Peaking |      2000 | 1.41 |        -1.9 |
-|   8 | Peaking |      4000 | 1.41 |         6.3 |
-|   9 | Peaking |      8000 | 1.41 |        -0.4 |
-|  10 | Peaking |     16000 | 1.41 |        -4.7 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -1.66 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.08 |
+|   3 | Peaking |    125    | 1.4142 |       -3.16 |
+|   4 | Peaking |    250    | 1.4142 |       -2.94 |
+|   5 | Peaking |    500    | 1.4142 |        0.65 |
+|   6 | Peaking |   1000    | 1.4142 |        1.62 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.96 |
+|   8 | Peaking |   4000    | 1.4142 |        6.6  |
+|   9 | Peaking |   8000    | 1.4142 |       -0.95 |
+|  10 | Peaking |  16000    | 1.4142 |       -4.1  |
 
 ### Graphs
 ![](./JBL%20Reflect%20Mini%202.png)

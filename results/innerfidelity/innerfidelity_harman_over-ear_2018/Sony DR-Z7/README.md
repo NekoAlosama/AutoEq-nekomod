@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.4 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.37 dB or -9.95 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         6.1 |
-|   2 | Peaking   |      1105 | 1.77 |        -2.1 |
-|   3 | Peaking   |      2053 | 1.15 |        -8.9 |
-|   4 | Peaking   |      4894 | 3.7  |        -5.4 |
-|   5 | Peaking   |      7096 | 0.62 |         7.4 |
-|   6 | Peaking   |       224 | 2.69 |        -0.9 |
-|   7 | Peaking   |       419 | 1.38 |         0.9 |
-|   8 | Peaking   |       802 | 3.69 |        -0.6 |
-|   9 | Peaking   |      6076 | 6    |         1   |
-|  10 | HighShelf |     10000 | 0.7  |        -1.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        9.56 |
+|   2 | Peaking   |   1088.92 | 1.9779 |       -2.35 |
+|   3 | Peaking   |   2055.34 | 1.1542 |       -9.01 |
+|   4 | Peaking   |   4975.17 | 3.3327 |       -6.86 |
+|   5 | Peaking   |   7526.79 | 0.7762 |       11.36 |
+|   6 | Peaking   |     80.42 | 1.5836 |       -1.79 |
+|   7 | Peaking   |    105.16 | 4.4033 |        0.86 |
+|   8 | Peaking   |    215.44 | 2.7517 |       -0.88 |
+|   9 | Peaking   |    408.82 | 2.3914 |        0.93 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.02 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-13.52 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         6.7 |
-|   2 | Peaking |        62 | 1.41 |         4.3 |
-|   3 | Peaking |       125 | 1.41 |         1.5 |
-|   4 | Peaking |       250 | 1.41 |        -0.9 |
-|   5 | Peaking |       500 | 1.41 |         1.1 |
-|   6 | Peaking |      1000 | 1.41 |        -2.7 |
-|   7 | Peaking |      2000 | 1.41 |        -7.9 |
-|   8 | Peaking |      4000 | 1.41 |         0.1 |
-|   9 | Peaking |      8000 | 1.41 |         7.6 |
-|  10 | Peaking |     16000 | 1.41 |        -0.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       12.56 |
+|   2 | Peaking |     62.5  | 1.4142 |        4.27 |
+|   3 | Peaking |    125    | 1.4142 |        1.98 |
+|   4 | Peaking |    250    | 1.4142 |       -1.23 |
+|   5 | Peaking |    500    | 1.4142 |        1.26 |
+|   6 | Peaking |   1000    | 1.4142 |       -2.96 |
+|   7 | Peaking |   2000    | 1.4142 |       -7.8  |
+|   8 | Peaking |   4000    | 1.4142 |       -1.43 |
+|   9 | Peaking |   8000    | 1.4142 |       12.16 |
+|  10 | Peaking |  16000    | 1.4142 |       -1.81 |
 
 ### Graphs
 ![](./Sony%20DR-Z7.png)

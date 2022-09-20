@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -4.8 dB or -4.9 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -4.83 dB or -4.83 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3.4 |
-|   2 | Peaking   |       157 | 0.21 |        -2.2 |
-|   3 | Peaking   |      1105 | 1.47 |        -5.6 |
-|   4 | Peaking   |      2006 | 0.78 |         5.2 |
-|   5 | Peaking   |      6637 | 4.46 |         4.1 |
-|   6 | Peaking   |       421 | 3.75 |         0.7 |
-|   7 | Peaking   |      4119 | 5.82 |         2.1 |
-|   8 | Peaking   |      4959 | 6    |        -2.2 |
-|   9 | Peaking   |     10000 | 2.32 |         0.7 |
-|  10 | HighShelf |     10000 | 0.7  |         0.8 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.47 |
+|   2 | Peaking   |    149.49 | 0.1977 |       -2.29 |
+|   3 | Peaking   |   1104.05 | 1.475  |       -5.6  |
+|   4 | Peaking   |   1994.57 | 0.785  |        5.11 |
+|   5 | Peaking   |   6631.09 | 4.6076 |        4.02 |
+|   6 | Peaking   |    420.21 | 3.7734 |        0.66 |
+|   7 | Peaking   |   4118.04 | 5.8273 |        2.05 |
+|   8 | Peaking   |   4957.87 | 6      |       -2.24 |
+|   9 | Peaking   |  10000    | 2.3491 |        0.69 |
+|  10 | HighShelf |  10000    | 0.7071 |        0.74 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.44 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         2.9 |
-|   2 | Peaking |        62 | 1.41 |         0.7 |
-|   3 | Peaking |       125 | 1.41 |        -0.6 |
-|   4 | Peaking |       250 | 1.41 |        -2.4 |
-|   5 | Peaking |       500 | 1.41 |        -0.1 |
-|   6 | Peaking |      1000 | 1.41 |        -4.7 |
-|   7 | Peaking |      2000 | 1.41 |         4.3 |
-|   8 | Peaking |      4000 | 1.41 |         1.7 |
-|   9 | Peaking |      8000 | 1.41 |         2   |
-|  10 | Peaking |     16000 | 1.41 |         1.7 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        4.99 |
+|   2 | Peaking |     62.5  | 1.4142 |        2.02 |
+|   3 | Peaking |    125    | 1.4142 |       -0.17 |
+|   4 | Peaking |    250    | 1.4142 |       -2.53 |
+|   5 | Peaking |    500    | 1.4142 |       -0.41 |
+|   6 | Peaking |   1000    | 1.4142 |       -4.82 |
+|   7 | Peaking |   2000    | 1.4142 |        4.33 |
+|   8 | Peaking |   4000    | 1.4142 |        1.77 |
+|   9 | Peaking |   8000    | 1.4142 |        1.85 |
+|  10 | Peaking |  16000    | 1.4142 |        1.32 |
 
 ### Graphs
 ![](./Monoprice%20M1570%20(leather%20earpads).png)

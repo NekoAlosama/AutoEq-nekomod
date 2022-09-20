@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -17.33 dB or -17.27 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         6.2 |
-|   2 | Peaking   |       340 | 0.85 |        -3.7 |
-|   3 | Peaking   |      2334 | 1.22 |        -7.9 |
-|   4 | Peaking   |      4520 | 1.52 |         4.4 |
-|   5 | Peaking   |      7025 | 0.18 |         4   |
-|   6 | Peaking   |       157 | 2.57 |         0.6 |
-|   7 | Peaking   |       224 | 2.85 |        -0.5 |
-|   8 | Peaking   |      6300 | 6    |         1.2 |
-|   9 | Peaking   |      7560 | 4.31 |        -1.7 |
-|  10 | HighShelf |     10000 | 0.7  |         1.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       20    |
+|   2 | Peaking   |     75.77 | 0.3891 |       -7.64 |
+|   3 | Peaking   |   2335.28 | 1.3765 |       -5.5  |
+|   4 | Peaking   |   4166.75 | 3.0531 |        2.33 |
+|   5 | Peaking   |   5534.23 | 1.0976 |        7.66 |
+|   6 | Peaking   |     51.04 | 2.0452 |       -1.56 |
+|   7 | Peaking   |    146.46 | 1.4469 |        2.09 |
+|   8 | Peaking   |    357.75 | 1.1429 |       -2.05 |
+|   9 | Peaking   |   7296.69 | 5.0636 |       -2.2  |
+|  10 | HighShelf |  10000    | 0.7071 |        3.94 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-15.41 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         6.4 |
-|   2 | Peaking |        62 | 1.41 |         4.7 |
-|   3 | Peaking |       125 | 1.41 |         1.6 |
-|   4 | Peaking |       250 | 1.41 |        -3.5 |
-|   5 | Peaking |       500 | 1.41 |        -2.3 |
-|   6 | Peaking |      1000 | 1.41 |         1.8 |
-|   7 | Peaking |      2000 | 1.41 |        -5.8 |
-|   8 | Peaking |      4000 | 1.41 |         5.4 |
-|   9 | Peaking |      8000 | 1.41 |         3.7 |
-|  10 | Peaking |     16000 | 1.41 |         8.5 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       14.06 |
+|   2 | Peaking |     62.5  | 1.4142 |        6.4  |
+|   3 | Peaking |    125    | 1.4142 |        1.56 |
+|   4 | Peaking |    250    | 1.4142 |       -3.77 |
+|   5 | Peaking |    500    | 1.4142 |       -2.3  |
+|   6 | Peaking |   1000    | 1.4142 |        1.63 |
+|   7 | Peaking |   2000    | 1.4142 |       -6.28 |
+|   8 | Peaking |   4000    | 1.4142 |        6.24 |
+|   9 | Peaking |   8000    | 1.4142 |        3.79 |
+|  10 | Peaking |  16000    | 1.4142 |        7.65 |
 
 ### Graphs
 ![](./Apple%20AirPods%20Pro.png)

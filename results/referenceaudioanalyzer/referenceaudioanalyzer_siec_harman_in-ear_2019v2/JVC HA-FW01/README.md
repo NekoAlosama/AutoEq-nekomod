@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.7 dB or -6.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.61 dB or -6.07 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3   |
-|   2 | Peaking   |       137 | 0.25 |        -5.7 |
-|   3 | Peaking   |       990 | 0.9  |         3.4 |
-|   4 | Peaking   |      5121 | 2.81 |        -5.3 |
-|   5 | Peaking   |     10000 | 0.26 |         5.8 |
-|   6 | Peaking   |        75 | 1.92 |        -0.3 |
-|   7 | Peaking   |       136 | 1.92 |         0.3 |
-|   8 | Peaking   |      2948 | 4.23 |        -0.8 |
-|   9 | Peaking   |      3653 | 6    |         1.1 |
-|  10 | HighShelf |     10000 | 0.7  |         0.6 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.87 |
+|   2 | Peaking   |    136.86 | 0.2523 |       -5.78 |
+|   3 | Peaking   |    992.16 | 0.9148 |        3.33 |
+|   4 | Peaking   |   5120.32 | 2.824  |       -5.33 |
+|   5 | Peaking   |  10000    | 0.2673 |        5.67 |
+|   6 | Peaking   |     76.11 | 1.4518 |       -0.28 |
+|   7 | Peaking   |    151.43 | 1.9457 |        0.51 |
+|   8 | Peaking   |    243.6  | 2.1711 |       -0.35 |
+|   9 | Peaking   |   3718.32 | 6      |        0.85 |
+|  10 | HighShelf |  10000    | 0.7071 |        0.69 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-11.2 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-11.21 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         1.3 |
-|   2 | Peaking |        62 | 1.41 |        -1.9 |
-|   3 | Peaking |       125 | 1.41 |        -3.7 |
-|   4 | Peaking |       250 | 1.41 |        -4.6 |
-|   5 | Peaking |       500 | 1.41 |        -1.6 |
-|   6 | Peaking |      1000 | 1.41 |         2.7 |
-|   7 | Peaking |      2000 | 1.41 |         2.4 |
-|   8 | Peaking |      4000 | 1.41 |         0.7 |
-|   9 | Peaking |      8000 | 1.41 |         4   |
-|  10 | Peaking |     16000 | 1.41 |        10.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        4.15 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.17 |
+|   3 | Peaking |    125    | 1.4142 |       -3.11 |
+|   4 | Peaking |    250    | 1.4142 |       -4.92 |
+|   5 | Peaking |    500    | 1.4142 |       -1.64 |
+|   6 | Peaking |   1000    | 1.4142 |        2.79 |
+|   7 | Peaking |   2000    | 1.4142 |        2.03 |
+|   8 | Peaking |   4000    | 1.4142 |        0.8  |
+|   9 | Peaking |   8000    | 1.4142 |        3.85 |
+|  10 | Peaking |  16000    | 1.4142 |       10.99 |
 
 ### Graphs
 ![](./JVC%20HA-FW01.png)

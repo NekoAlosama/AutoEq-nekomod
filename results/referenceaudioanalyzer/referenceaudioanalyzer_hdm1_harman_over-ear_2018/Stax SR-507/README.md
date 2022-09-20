@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -8.3 dB or -7.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -17.11 dB or -17.03 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         7.9 |
-|   2 | Peaking   |        71 | 1.5  |       -14.1 |
-|   3 | Peaking   |      1791 | 0.65 |       -16.5 |
-|   4 | Peaking   |      4762 | 0.18 |        18   |
-|   5 | Peaking   |      6163 | 1.05 |       -17.4 |
-|   6 | Peaking   |        40 | 4.66 |         2.2 |
-|   7 | Peaking   |        54 | 3.42 |        -1.2 |
-|   8 | Peaking   |       262 | 1.46 |         0.6 |
-|   9 | Peaking   |       357 | 3.91 |        -1   |
-|  10 | HighShelf |     10000 | 0.7  |        -2.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       20    |
+|   2 | Peaking   |     67.83 | 1.0269 |      -20    |
+|   3 | Peaking   |    438.84 | 0.6257 |        2.11 |
+|   4 | Peaking   |   1672.14 | 1.7811 |       -5.13 |
+|   5 | Peaking   |   3490.52 | 2.7014 |        2.94 |
+|   6 | Peaking   |     49.99 | 3.2962 |       -3.08 |
+|   7 | Peaking   |     90.25 | 2.1521 |       -1.77 |
+|   8 | Peaking   |    195.57 | 1.5731 |        0.72 |
+|   9 | Peaking   |   6144.71 | 4.3865 |       -4.22 |
+|  10 | HighShelf |  10000    | 0.7071 |        7.66 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-10.5 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-13.15 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         9.6 |
-|   2 | Peaking |        62 | 1.41 |        -7.2 |
-|   3 | Peaking |       125 | 1.41 |        -0.7 |
-|   4 | Peaking |       250 | 1.41 |         0.8 |
-|   5 | Peaking |       500 | 1.41 |         1.4 |
-|   6 | Peaking |      1000 | 1.41 |        -0.2 |
-|   7 | Peaking |      2000 | 1.41 |        -4   |
-|   8 | Peaking |      4000 | 1.41 |         2.2 |
-|   9 | Peaking |      8000 | 1.41 |         0.9 |
-|  10 | Peaking |     16000 | 1.41 |        10.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       14.09 |
+|   2 | Peaking |     62.5  | 1.4142 |       -5.51 |
+|   3 | Peaking |    125    | 1.4142 |       -0.58 |
+|   4 | Peaking |    250    | 1.4142 |        0.68 |
+|   5 | Peaking |    500    | 1.4142 |        1.3  |
+|   6 | Peaking |   1000    | 1.4142 |       -0.62 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.84 |
+|   8 | Peaking |   4000    | 1.4142 |        1.09 |
+|   9 | Peaking |   8000    | 1.4142 |        2.36 |
+|  10 | Peaking |  16000    | 1.4142 |       11.55 |
 
 ### Graphs
 ![](./Stax%20SR-507.png)

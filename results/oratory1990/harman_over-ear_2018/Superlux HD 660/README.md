@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.4 dB or -5.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.38 dB or -6.38 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         6.9 |
-|   2 | Peaking   |        51 | 0.8  |        -9.5 |
-|   3 | Peaking   |        93 | 1.31 |         3.3 |
-|   4 | Peaking   |      3712 | 2.71 |         6.9 |
-|   5 | Peaking   |      7037 | 1.2  |        -6.7 |
-|   6 | Peaking   |       543 | 4.05 |         2.7 |
-|   7 | Peaking   |      2007 | 3.74 |        -2   |
-|   8 | Peaking   |      6586 | 6    |        -1.4 |
-|   9 | Peaking   |      7628 | 4.47 |         2.1 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.6 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        8.13 |
+|   2 | Peaking   |     48.02 | 0.9618 |       -8.08 |
+|   3 | Peaking   |     93.37 | 3.7238 |        2.54 |
+|   4 | Peaking   |   3713.37 | 2.7967 |        6.93 |
+|   5 | Peaking   |   7070.95 | 1.1396 |       -6.61 |
+|   6 | Peaking   |    542.6  | 4.3433 |        2.59 |
+|   7 | Peaking   |   1996.83 | 3.6607 |       -2.07 |
+|   8 | Peaking   |   6592.08 | 6      |       -1.6  |
+|   9 | Peaking   |   7667.92 | 4.1667 |        2.02 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.62 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-3.3 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-4.36 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         2.3 |
-|   2 | Peaking |        62 | 1.41 |        -1.9 |
-|   3 | Peaking |       125 | 1.41 |         3.2 |
-|   4 | Peaking |       250 | 1.41 |        -1.7 |
-|   5 | Peaking |       500 | 1.41 |         1.6 |
-|   6 | Peaking |      1000 | 1.41 |         0.2 |
-|   7 | Peaking |      2000 | 1.41 |        -1.7 |
-|   8 | Peaking |      4000 | 1.41 |         4.7 |
-|   9 | Peaking |      8000 | 1.41 |        -7.5 |
-|  10 | Peaking |     16000 | 1.41 |        -4.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        4.2  |
+|   2 | Peaking |     62.5  | 1.4142 |       -0.28 |
+|   3 | Peaking |    125    | 1.4142 |        3.61 |
+|   4 | Peaking |    250    | 1.4142 |       -2.32 |
+|   5 | Peaking |    500    | 1.4142 |        1.88 |
+|   6 | Peaking |   1000    | 1.4142 |       -0.01 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.75 |
+|   8 | Peaking |   4000    | 1.4142 |        4.58 |
+|   9 | Peaking |   8000    | 1.4142 |       -8.01 |
+|  10 | Peaking |  16000    | 1.4142 |       -3.89 |
 
 ### Graphs
 ![](./Superlux%20HD%20660.png)

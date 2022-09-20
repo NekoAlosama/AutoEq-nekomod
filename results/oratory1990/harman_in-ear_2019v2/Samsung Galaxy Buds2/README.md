@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.9 dB or -5.9 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.82 dB or -5.86 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0   |
-|   2 | Peaking   |        72 | 0.51 |        -3   |
-|   3 | Peaking   |       348 | 0.99 |        -1.2 |
-|   4 | Peaking   |      4549 | 1.13 |         6   |
-|   5 | Peaking   |      6983 | 4.05 |        -3.8 |
-|   6 | Peaking   |       930 | 2.26 |         0.7 |
-|   7 | Peaking   |      1484 | 2.53 |        -1.3 |
-|   8 | Peaking   |      2324 | 3.63 |         0.6 |
-|   9 | Peaking   |      8025 | 5.7  |        -1.2 |
-|  10 | HighShelf |     10000 | 0.7  |         2.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.18 |
+|   2 | Peaking   |    117.43 | 0.2994 |       -2.35 |
+|   3 | Peaking   |   3312.71 | 1.9618 |        1.25 |
+|   4 | Peaking   |   4796.52 | 1.3305 |        5.64 |
+|   5 | Peaking   |   6949.16 | 3.9773 |       -3.87 |
+|   6 | Peaking   |     76.13 | 1.6441 |       -0.52 |
+|   7 | Peaking   |    160.37 | 1.6569 |        0.51 |
+|   8 | Peaking   |    938.34 | 2.2925 |        0.62 |
+|   9 | Peaking   |   1443.12 | 2.6983 |       -1.08 |
+|  10 | HighShelf |  10000    | 0.7071 |        2.28 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.87 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -1.1 |
-|   2 | Peaking |        62 | 1.41 |        -2.7 |
-|   3 | Peaking |       125 | 1.41 |        -1.9 |
-|   4 | Peaking |       250 | 1.41 |        -1.2 |
-|   5 | Peaking |       500 | 1.41 |        -0.9 |
-|   6 | Peaking |      1000 | 1.41 |         0.3 |
-|   7 | Peaking |      2000 | 1.41 |        -0.6 |
-|   8 | Peaking |      4000 | 1.41 |         6.1 |
-|   9 | Peaking |      8000 | 1.41 |        -0.8 |
-|  10 | Peaking |     16000 | 1.41 |         5.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        1.95 |
+|   2 | Peaking |     62.5  | 1.4142 |       -0.74 |
+|   3 | Peaking |    125    | 1.4142 |       -1.17 |
+|   4 | Peaking |    250    | 1.4142 |       -1.47 |
+|   5 | Peaking |    500    | 1.4142 |       -0.95 |
+|   6 | Peaking |   1000    | 1.4142 |        0.07 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.57 |
+|   8 | Peaking |   4000    | 1.4142 |        5.96 |
+|   9 | Peaking |   8000    | 1.4142 |       -0.91 |
+|  10 | Peaking |  16000    | 1.4142 |        5.12 |
 
 ### Graphs
 ![](./Samsung%20Galaxy%20Buds2.png)

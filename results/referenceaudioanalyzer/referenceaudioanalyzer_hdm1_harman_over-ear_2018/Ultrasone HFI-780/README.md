@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.2 dB or -5.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.16 dB or -6.11 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         4   |
-|   2 | Peaking   |       194 | 2.27 |         5.2 |
-|   3 | Peaking   |       372 | 1.58 |        -2.6 |
-|   4 | Peaking   |      1680 | 2.31 |        -4.1 |
-|   5 | Peaking   |      7959 | 3.68 |         2.3 |
-|   6 | Peaking   |        51 | 3    |        -1.6 |
-|   7 | Peaking   |      2460 | 6    |         3.1 |
-|   8 | Peaking   |      3347 | 3.37 |        -2.3 |
-|   9 | Peaking   |      5320 | 4.86 |        -3   |
-|  10 | HighShelf |     10000 | 0.7  |        -3.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        6.06 |
+|   2 | Peaking   |    194.45 | 2.2029 |        4.91 |
+|   3 | Peaking   |    377.95 | 1.4953 |       -2.6  |
+|   4 | Peaking   |   1677.15 | 2.4567 |       -4.18 |
+|   5 | Peaking   |   5201.64 | 4.2294 |       -3.43 |
+|   6 | Peaking   |     51.68 | 2.7428 |       -1.74 |
+|   7 | Peaking   |   3496.92 | 3.6616 |       -1.73 |
+|   8 | Peaking   |   7744.15 | 2.6634 |        3.17 |
+|   9 | Peaking   |   9581.75 | 2.7881 |        1.63 |
+|  10 | HighShelf |  10000    | 0.7071 |       -4.26 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-8.53 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         5.7 |
-|   2 | Peaking |        62 | 1.41 |         0.2 |
-|   3 | Peaking |       125 | 1.41 |         3.6 |
-|   4 | Peaking |       250 | 1.41 |         1.2 |
-|   5 | Peaking |       500 | 1.41 |        -2   |
-|   6 | Peaking |      1000 | 1.41 |        -0.4 |
-|   7 | Peaking |      2000 | 1.41 |        -1.6 |
-|   8 | Peaking |      4000 | 1.41 |        -2.1 |
-|   9 | Peaking |      8000 | 1.41 |         2.3 |
-|  10 | Peaking |     16000 | 1.41 |        -7.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        7.93 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.97 |
+|   3 | Peaking |    125    | 1.4142 |        3.78 |
+|   4 | Peaking |    250    | 1.4142 |        1.17 |
+|   5 | Peaking |    500    | 1.4142 |       -2.12 |
+|   6 | Peaking |   1000    | 1.4142 |       -0.36 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.77 |
+|   8 | Peaking |   4000    | 1.4142 |       -1.98 |
+|   9 | Peaking |   8000    | 1.4142 |        2.07 |
+|  10 | Peaking |  16000    | 1.4142 |       -7.57 |
 
 ### Graphs
 ![](./Ultrasone%20HFI-780.png)

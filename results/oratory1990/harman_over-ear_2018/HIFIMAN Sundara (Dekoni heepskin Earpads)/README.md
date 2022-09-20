@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -3.5 dB or -3.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.39 dB or -5.39 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3.4 |
-|   2 | Peaking   |       229 | 0.79 |        -1.3 |
-|   3 | Peaking   |      1200 | 1.59 |        -4.7 |
-|   4 | Peaking   |      2090 | 1.6  |         2.9 |
-|   5 | Peaking   |      8061 | 1.15 |         2.6 |
-|   6 | Peaking   |       553 | 4.23 |         0.9 |
-|   7 | Peaking   |      3051 | 3.68 |        -0.8 |
-|   8 | Peaking   |      4259 | 3.46 |         2.2 |
-|   9 | Peaking   |      5436 | 4.82 |        -1.1 |
-|  10 | HighShelf |     10000 | 0.7  |        -4.9 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.31 |
+|   2 | Peaking   |    227.32 | 0.7145 |       -1.38 |
+|   3 | Peaking   |   1195.2  | 1.5722 |       -4.71 |
+|   4 | Peaking   |   2106.43 | 1.6719 |        2.83 |
+|   5 | Peaking   |   7917.31 | 1.3392 |        2.62 |
+|   6 | Peaking   |    550.03 | 4.2703 |        0.91 |
+|   7 | Peaking   |   3057.22 | 3.6491 |       -0.88 |
+|   8 | Peaking   |   4253.34 | 3.425  |        2.22 |
+|   9 | Peaking   |   5453.12 | 4.7902 |       -1.15 |
+|  10 | HighShelf |  10000    | 0.7071 |       -4.79 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.92 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         4   |
-|   2 | Peaking |        62 | 1.41 |         1.8 |
-|   3 | Peaking |       125 | 1.41 |         0.7 |
-|   4 | Peaking |       250 | 1.41 |        -2.1 |
-|   5 | Peaking |       500 | 1.41 |         0.8 |
-|   6 | Peaking |      1000 | 1.41 |        -4.1 |
-|   7 | Peaking |      2000 | 1.41 |         1.3 |
-|   8 | Peaking |      4000 | 1.41 |         0.9 |
-|   9 | Peaking |      8000 | 1.41 |         3.2 |
-|  10 | Peaking |     16000 | 1.41 |       -10.3 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        6.18 |
+|   2 | Peaking |     62.5  | 1.4142 |        3.38 |
+|   3 | Peaking |    125    | 1.4142 |        0.88 |
+|   4 | Peaking |    250    | 1.4142 |       -2.25 |
+|   5 | Peaking |    500    | 1.4142 |        0.89 |
+|   6 | Peaking |   1000    | 1.4142 |       -4.59 |
+|   7 | Peaking |   2000    | 1.4142 |        1.71 |
+|   8 | Peaking |   4000    | 1.4142 |        0.69 |
+|   9 | Peaking |   8000    | 1.4142 |        3.15 |
+|  10 | Peaking |  16000    | 1.4142 |      -10.19 |
 
 ### Graphs
 ![](./HIFIMAN%20Sundara%20(Dekoni%20heepskin%20Earpads).png)

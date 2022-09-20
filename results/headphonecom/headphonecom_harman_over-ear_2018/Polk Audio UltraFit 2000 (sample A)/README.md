@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -7.0 dB or -7.0 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -16.32 dB or -16.29 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         7.5 |
-|   2 | Peaking   |       105 | 0.75 |        -8.3 |
-|   3 | Peaking   |      1532 | 1.71 |        -5.8 |
-|   4 | Peaking   |      5239 | 0.62 |         5.5 |
-|   5 | Peaking   |     10000 | 1.69 |         3.7 |
-|   6 | Peaking   |        44 | 3.73 |         1.3 |
-|   7 | Peaking   |       234 | 1.78 |        -1.2 |
-|   8 | Peaking   |       647 | 1.47 |         3.1 |
-|   9 | Peaking   |       993 | 2.88 |        -2.7 |
-|  10 | HighShelf |     10000 | 0.7  |        -1.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       20    |
+|   2 | Peaking   |     78.94 | 0.5325 |      -15.09 |
+|   3 | Peaking   |    589.24 | 1.093  |        3.76 |
+|   4 | Peaking   |   1382.05 | 1.1235 |       -5.79 |
+|   5 | Peaking   |   5986.55 | 0.7579 |        8.37 |
+|   6 | Peaking   |     45.72 | 2.6103 |       -0.59 |
+|   7 | Peaking   |   1817.41 | 4.021  |       -1.11 |
+|   8 | Peaking   |   2891.84 | 2.9948 |        2.15 |
+|   9 | Peaking   |   3753.8  | 5.8356 |       -2.89 |
+|  10 | HighShelf |  10000    | 0.7071 |       -0.92 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.3 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.13 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         8.3 |
-|   2 | Peaking |        62 | 1.41 |         0.7 |
-|   3 | Peaking |       125 | 1.41 |        -5   |
-|   4 | Peaking |       250 | 1.41 |        -3.6 |
-|   5 | Peaking |       500 | 1.41 |         3.1 |
-|   6 | Peaking |      1000 | 1.41 |        -2.8 |
-|   7 | Peaking |      2000 | 1.41 |        -3.3 |
-|   8 | Peaking |      4000 | 1.41 |         5.4 |
-|   9 | Peaking |      8000 | 1.41 |         5.7 |
-|  10 | Peaking |     16000 | 1.41 |         0.2 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       14.05 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.08 |
+|   3 | Peaking |    125    | 1.4142 |       -4.98 |
+|   4 | Peaking |    250    | 1.4142 |       -3.43 |
+|   5 | Peaking |    500    | 1.4142 |        2.59 |
+|   6 | Peaking |   1000    | 1.4142 |       -2.82 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.18 |
+|   8 | Peaking |   4000    | 1.4142 |        5.35 |
+|   9 | Peaking |   8000    | 1.4142 |        7.97 |
+|  10 | Peaking |  16000    | 1.4142 |       -3.03 |
 
 ### Graphs
 ![](./Polk%20Audio%20UltraFit%202000%20(sample%20A).png)

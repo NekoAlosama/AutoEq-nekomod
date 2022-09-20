@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.8 dB or -6.9 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -12.20 dB or -12.21 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         8.7 |
-|   2 | Peaking   |       102 | 0.34 |        -7   |
-|   3 | Peaking   |       962 | 1.86 |        -6.7 |
-|   4 | Peaking   |      1648 | 1.25 |         7.1 |
-|   5 | Peaking   |      6052 | 0.82 |         4.6 |
-|   6 | Peaking   |        37 | 2.52 |         1.6 |
-|   7 | Peaking   |        68 | 1.85 |        -1.9 |
-|   8 | Peaking   |       149 | 1.62 |         1.6 |
-|   9 | Peaking   |       350 | 2.45 |        -1.3 |
-|  10 | HighShelf |     10000 | 0.7  |        -3.2 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       20    |
+|   2 | Peaking   |     59.56 | 0.3395 |      -14.4  |
+|   3 | Peaking   |    979.32 | 1.493  |       -8.67 |
+|   4 | Peaking   |   1598.08 | 0.8936 |        8.58 |
+|   5 | Peaking   |   6341.8  | 2.2324 |        6.45 |
+|   6 | Peaking   |    157.88 | 2.2375 |        1.04 |
+|   7 | Peaking   |    355.38 | 2.9195 |       -1.47 |
+|   8 | Peaking   |   4074.72 | 5.3449 |        2.06 |
+|   9 | Peaking   |   9467.68 | 3.6526 |        2.81 |
+|  10 | HighShelf |  10000    | 0.7071 |       -3.34 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-11.52 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         7.9 |
-|   2 | Peaking |        62 | 1.41 |        -0.8 |
-|   3 | Peaking |       125 | 1.41 |        -2.3 |
-|   4 | Peaking |       250 | 1.41 |        -4.6 |
-|   5 | Peaking |       500 | 1.41 |        -1.5 |
-|   6 | Peaking |      1000 | 1.41 |        -3.9 |
-|   7 | Peaking |      2000 | 1.41 |         6.7 |
-|   8 | Peaking |      4000 | 1.41 |         2.7 |
-|   9 | Peaking |      8000 | 1.41 |         4.3 |
-|  10 | Peaking |     16000 | 1.41 |        -6   |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       11.57 |
+|   2 | Peaking |     62.5  | 1.4142 |       -0    |
+|   3 | Peaking |    125    | 1.4142 |       -2.62 |
+|   4 | Peaking |    250    | 1.4142 |       -4.27 |
+|   5 | Peaking |    500    | 1.4142 |       -1.56 |
+|   6 | Peaking |   1000    | 1.4142 |       -4.25 |
+|   7 | Peaking |   2000    | 1.4142 |        6.94 |
+|   8 | Peaking |   4000    | 1.4142 |        2.24 |
+|   9 | Peaking |   8000    | 1.4142 |        4.8  |
+|  10 | Peaking |  16000    | 1.4142 |       -8.2  |
 
 ### Graphs
 ![](./Kennerton%20Wodan%20(ecl-01).png)

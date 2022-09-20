@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -9.25 dB or -10.16 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         2.5 |
-|   2 | Peaking   |        87 | 0.33 |        -4.9 |
-|   3 | Peaking   |       987 | 0.85 |       -10.6 |
-|   4 | Peaking   |      2654 | 0.75 |         8.4 |
-|   5 | Peaking   |      8864 | 1.43 |         5.5 |
-|   6 | Peaking   |       130 | 2.34 |         1.1 |
-|   7 | Peaking   |       215 | 1.49 |        -1.2 |
-|   8 | Peaking   |       376 | 4    |         1.5 |
-|   9 | Peaking   |      9018 | 4    |        -2.8 |
-|  10 | HighShelf |     10000 | 0.7  |         5.2 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        4.2  |
+|   2 | Peaking   |    101.37 | 0.2934 |       -4.83 |
+|   3 | Peaking   |    929.77 | 1.0995 |       -9.79 |
+|   4 | Peaking   |   3071.83 | 1.8778 |        6.09 |
+|   5 | Peaking   |  10000    | 0.1878 |        5.9  |
+|   6 | Peaking   |    130.54 | 2.1696 |        1.1  |
+|   7 | Peaking   |    194.83 | 1.6996 |       -0.79 |
+|   8 | Peaking   |   2039.96 | 3.2432 |        1.08 |
+|   9 | Peaking   |   5139.74 | 5.9547 |       -4.57 |
+|  10 | HighShelf |  10000    | 0.7071 |        4.9  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-11.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.34 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.2 |
-|   2 | Peaking |        62 | 1.41 |        -2.7 |
-|   3 | Peaking |       125 | 1.41 |        -2.3 |
-|   4 | Peaking |       250 | 1.41 |        -3.7 |
-|   5 | Peaking |       500 | 1.41 |        -2.1 |
-|   6 | Peaking |      1000 | 1.41 |       -10.6 |
-|   7 | Peaking |      2000 | 1.41 |         4.8 |
-|   8 | Peaking |      4000 | 1.41 |         4.9 |
-|   9 | Peaking |      8000 | 1.41 |         4.7 |
-|  10 | Peaking |     16000 | 1.41 |        11.5 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.14 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.33 |
+|   3 | Peaking |    125    | 1.4142 |       -1.8  |
+|   4 | Peaking |    250    | 1.4142 |       -4.03 |
+|   5 | Peaking |    500    | 1.4142 |       -1.95 |
+|   6 | Peaking |   1000    | 1.4142 |      -10.82 |
+|   7 | Peaking |   2000    | 1.4142 |        4.38 |
+|   8 | Peaking |   4000    | 1.4142 |        6.97 |
+|   9 | Peaking |   8000    | 1.4142 |        5.49 |
+|  10 | Peaking |  16000    | 1.4142 |       14.02 |
 
 ### Graphs
 ![](./Urbanears%20Plattan.png)

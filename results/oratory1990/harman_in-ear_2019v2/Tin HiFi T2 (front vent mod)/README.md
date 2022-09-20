@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -4.8 dB or -5.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -4.66 dB or -5.12 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -7.1 |
-|   2 | Peaking   |       204 | 0.63 |        -4.5 |
-|   3 | Peaking   |       727 | 0.98 |         0.7 |
-|   4 | Peaking   |      1977 | 2.09 |         2.7 |
-|   5 | Peaking   |      4042 | 0.56 |         3.6 |
-|   6 | Peaking   |        52 | 1.82 |         0.4 |
-|   7 | Peaking   |      3939 | 3.95 |         1.1 |
-|   8 | Peaking   |      5137 | 5.92 |        -3   |
-|   9 | Peaking   |      6284 | 6    |         2.8 |
-|  10 | HighShelf |     10000 | 0.7  |        -1.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -4.22 |
+|   2 | Peaking   |    204.9  | 0.6255 |       -4.62 |
+|   3 | Peaking   |    722.8  | 0.9707 |        0.61 |
+|   4 | Peaking   |   1981.72 | 2.0989 |        2.66 |
+|   5 | Peaking   |   3995.84 | 0.5789 |        3.46 |
+|   6 | Peaking   |     51.41 | 1.8414 |        0.43 |
+|   7 | Peaking   |   3939.74 | 3.9332 |        1.03 |
+|   8 | Peaking   |   5137.29 | 5.9251 |       -2.98 |
+|   9 | Peaking   |   6284.38 | 6      |        2.88 |
+|  10 | HighShelf |  10000    | 0.7071 |       -1.46 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-4.36 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -7.9 |
-|   2 | Peaking |        62 | 1.41 |        -4.7 |
-|   3 | Peaking |       125 | 1.41 |        -4.7 |
-|   4 | Peaking |       250 | 1.41 |        -3.5 |
-|   5 | Peaking |       500 | 1.41 |        -0.5 |
-|   6 | Peaking |      1000 | 1.41 |         0.5 |
-|   7 | Peaking |      2000 | 1.41 |         3.6 |
-|   8 | Peaking |      4000 | 1.41 |         3.6 |
-|   9 | Peaking |      8000 | 1.41 |         1.7 |
-|  10 | Peaking |     16000 | 1.41 |        -1.8 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -4.66 |
+|   2 | Peaking |     62.5  | 1.4142 |       -3.09 |
+|   3 | Peaking |    125    | 1.4142 |       -3.98 |
+|   4 | Peaking |    250    | 1.4142 |       -3.89 |
+|   5 | Peaking |    500    | 1.4142 |       -0.46 |
+|   6 | Peaking |   1000    | 1.4142 |        0.33 |
+|   7 | Peaking |   2000    | 1.4142 |        3.46 |
+|   8 | Peaking |   4000    | 1.4142 |        3.48 |
+|   9 | Peaking |   8000    | 1.4142 |        1.3  |
+|  10 | Peaking |  16000    | 1.4142 |       -2.43 |
 
 ### Graphs
 ![](./Tin%20HiFi%20T2%20(front%20vent%20mod).png)

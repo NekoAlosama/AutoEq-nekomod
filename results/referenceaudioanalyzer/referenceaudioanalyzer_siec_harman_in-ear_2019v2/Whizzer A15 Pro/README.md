@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -8.18 dB or -7.60 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0.2 |
-|   2 | Peaking   |       157 | 0.48 |        -1.6 |
-|   3 | Peaking   |       713 | 1.22 |         1.1 |
-|   4 | Peaking   |      1823 | 1.24 |        -3.4 |
-|   5 | Peaking   |      8268 | 1.33 |         6.7 |
-|   6 | Peaking   |      3497 | 4.15 |         1.6 |
-|   7 | Peaking   |      4523 | 3.16 |        -0.6 |
-|   8 | Peaking   |      5067 | 4.86 |        -2   |
-|   9 | Peaking   |      6393 | 4.28 |         1.9 |
-|  10 | HighShelf |     10000 | 0.7  |        -1.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        3.12 |
+|   2 | Peaking   |    155.86 | 0.4368 |       -1.62 |
+|   3 | Peaking   |    726.56 | 1.2245 |        1.11 |
+|   4 | Peaking   |   1823.93 | 1.1735 |       -3.55 |
+|   5 | Peaking   |   8603.82 | 1.4408 |        8.18 |
+|   6 | Peaking   |   2470.9  | 4.1097 |       -0.72 |
+|   7 | Peaking   |   3395.65 | 3.9781 |        1.67 |
+|   8 | Peaking   |   4974.41 | 4.7322 |       -2.51 |
+|   9 | Peaking   |   6402.01 | 5.1822 |        1.91 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.19 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.78 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.2 |
-|   2 | Peaking |        62 | 1.41 |        -0.4 |
-|   3 | Peaking |       125 | 1.41 |        -1.3 |
-|   4 | Peaking |       250 | 1.41 |        -1.4 |
-|   5 | Peaking |       500 | 1.41 |         0.5 |
-|   6 | Peaking |      1000 | 1.41 |         0.1 |
-|   7 | Peaking |      2000 | 1.41 |        -3.4 |
-|   8 | Peaking |      4000 | 1.41 |        -0.1 |
-|   9 | Peaking |      8000 | 1.41 |         6.9 |
-|  10 | Peaking |     16000 | 1.41 |        -3.1 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.26 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.46 |
+|   3 | Peaking |    125    | 1.4142 |       -0.61 |
+|   4 | Peaking |    250    | 1.4142 |       -1.5  |
+|   5 | Peaking |    500    | 1.4142 |        0.38 |
+|   6 | Peaking |   1000    | 1.4142 |        0.13 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.7  |
+|   8 | Peaking |   4000    | 1.4142 |       -0.26 |
+|   9 | Peaking |   8000    | 1.4142 |        8    |
+|  10 | Peaking |  16000    | 1.4142 |       -3.44 |
 
 ### Graphs
 ![](./Whizzer%20A15%20Pro.png)

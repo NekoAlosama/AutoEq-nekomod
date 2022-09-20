@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.8 dB or -5.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -8.72 dB or -8.72 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         9.9 |
-|   2 | Peaking   |        44 | 1.33 |       -13.8 |
-|   3 | Peaking   |        68 | 0.86 |       -11   |
-|   4 | Peaking   |      1332 | 3.1  |        -4.8 |
-|   5 | Peaking   |      3804 | 2.52 |         4.6 |
-|   6 | Peaking   |       486 | 1.84 |         2.9 |
-|   7 | Peaking   |      4669 | 4.81 |         2.3 |
-|   8 | Peaking   |      5902 | 4.73 |        -6.1 |
-|   9 | Peaking   |      8865 | 2.01 |         6.4 |
-|  10 | HighShelf |     10000 | 0.7  |       -10.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       13.91 |
+|   2 | Peaking   |     43.42 | 1.2322 |      -14.59 |
+|   3 | Peaking   |     66.28 | 0.8339 |      -12.24 |
+|   4 | Peaking   |   1331.08 | 3.0823 |       -4.87 |
+|   5 | Peaking   |   3819.66 | 2.647  |        4.55 |
+|   6 | Peaking   |    481.87 | 1.803  |        2.92 |
+|   7 | Peaking   |   4667.8  | 4.7825 |        2.31 |
+|   8 | Peaking   |   5903.52 | 4.6958 |       -6.11 |
+|   9 | Peaking   |   8880.29 | 2.0135 |        6.28 |
+|  10 | HighShelf |  10000    | 0.7071 |      -10.75 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-3.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-2.98 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         1.4 |
-|   2 | Peaking |        62 | 1.41 |       -11.8 |
-|   3 | Peaking |       125 | 1.41 |        -1.2 |
-|   4 | Peaking |       250 | 1.41 |        -0.5 |
-|   5 | Peaking |       500 | 1.41 |         3   |
-|   6 | Peaking |      1000 | 1.41 |        -3.1 |
-|   7 | Peaking |      2000 | 1.41 |        -0.7 |
-|   8 | Peaking |      4000 | 1.41 |         3.8 |
-|   9 | Peaking |      8000 | 1.41 |         0.4 |
-|  10 | Peaking |     16000 | 1.41 |       -17.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.54 |
+|   2 | Peaking |     62.5  | 1.4142 |      -10.56 |
+|   3 | Peaking |    125    | 1.4142 |       -0.51 |
+|   4 | Peaking |    250    | 1.4142 |       -0.9  |
+|   5 | Peaking |    500    | 1.4142 |        3.06 |
+|   6 | Peaking |   1000    | 1.4142 |       -3.35 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.42 |
+|   8 | Peaking |   4000    | 1.4142 |        3.22 |
+|   9 | Peaking |   8000    | 1.4142 |        0.99 |
+|  10 | Peaking |  16000    | 1.4142 |      -18.31 |
 
 ### Graphs
 ![](./SMS%20Audio%20Street%20by%2050%20Cent.png)

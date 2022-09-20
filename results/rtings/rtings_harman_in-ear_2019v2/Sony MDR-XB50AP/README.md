@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.2 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -8.83 dB or -11.50 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -0.9 |
-|   2 | Peaking   |       214 | 0.26 |        -9.1 |
-|   3 | Peaking   |       538 | 1    |         9   |
-|   4 | Peaking   |      1322 | 1.06 |        -7.3 |
-|   5 | Peaking   |      2400 | 0.45 |         8.4 |
-|   6 | Peaking   |       224 | 3.46 |        -0.3 |
-|   7 | Peaking   |      4492 | 5.99 |         1.4 |
-|   8 | Peaking   |      5257 | 5.93 |        -3.3 |
-|   9 | Peaking   |      7003 | 5.94 |        -1.3 |
-|  10 | HighShelf |     10000 | 0.7  |         6.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.03 |
+|   2 | Peaking   |    177.99 | 0.3013 |       -8.73 |
+|   3 | Peaking   |    545.31 | 1.0373 |        7.92 |
+|   4 | Peaking   |   1265    | 1.2385 |       -4.46 |
+|   5 | Peaking   |   3161.75 | 0.907  |        9.38 |
+|   6 | Peaking   |     34.08 | 1.5452 |       -0.05 |
+|   7 | Peaking   |   4269.76 | 4.72   |        1.63 |
+|   8 | Peaking   |   5207.21 | 5.7832 |       -3.69 |
+|   9 | Peaking   |   8636.28 | 1.5313 |       -1.92 |
+|  10 | HighShelf |  10000    | 0.7071 |       11.4  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-13.7 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.16 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -2.5 |
-|   2 | Peaking |        62 | 1.41 |        -4.9 |
-|   3 | Peaking |       125 | 1.41 |        -6.4 |
-|   4 | Peaking |       250 | 1.41 |        -7   |
-|   5 | Peaking |       500 | 1.41 |         4.5 |
-|   6 | Peaking |      1000 | 1.41 |        -3.1 |
-|   7 | Peaking |      2000 | 1.41 |         2.7 |
-|   8 | Peaking |      4000 | 1.41 |         6.1 |
-|   9 | Peaking |      8000 | 1.41 |         1.1 |
-|  10 | Peaking |     16000 | 1.41 |        13.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        0.37 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.56 |
+|   3 | Peaking |    125    | 1.4142 |       -5.89 |
+|   4 | Peaking |    250    | 1.4142 |       -7.34 |
+|   5 | Peaking |    500    | 1.4142 |        4.48 |
+|   6 | Peaking |   1000    | 1.4142 |       -3.22 |
+|   7 | Peaking |   2000    | 1.4142 |        2.59 |
+|   8 | Peaking |   4000    | 1.4142 |        8.28 |
+|   9 | Peaking |   8000    | 1.4142 |        0.68 |
+|  10 | Peaking |  16000    | 1.4142 |       14.05 |
 
 ### Graphs
 ![](./Sony%20MDR-XB50AP.png)

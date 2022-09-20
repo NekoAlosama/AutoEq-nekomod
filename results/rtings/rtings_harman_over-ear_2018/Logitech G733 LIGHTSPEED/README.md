@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -3.1 dB or -3.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -3.51 dB or -3.51 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         2   |
-|   2 | Peaking   |       144 | 0.33 |        -3.4 |
-|   3 | Peaking   |      1052 | 0.6  |         2.9 |
-|   4 | Peaking   |      2262 | 1.61 |        -3.8 |
-|   5 | Peaking   |      9776 | 0.46 |         3   |
-|   6 | Peaking   |      1037 | 4.73 |        -1.4 |
-|   7 | Peaking   |      1340 | 4.37 |         1.3 |
-|   8 | Peaking   |      4135 | 4.28 |         2.3 |
-|   9 | Peaking   |      5188 | 4.33 |        -2.3 |
-|  10 | HighShelf |     10000 | 0.7  |         0.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        3.97 |
+|   2 | Peaking   |    146.52 | 0.3224 |       -3.51 |
+|   3 | Peaking   |   1063.48 | 0.5532 |        2.94 |
+|   4 | Peaking   |   2248.98 | 1.6106 |       -3.92 |
+|   5 | Peaking   |   9737.5  | 0.498  |        2.91 |
+|   6 | Peaking   |   1037.9  | 4.745  |       -1.36 |
+|   7 | Peaking   |   1335.6  | 4.4351 |        1.22 |
+|   8 | Peaking   |   4142.77 | 4.3436 |        2.36 |
+|   9 | Peaking   |   5188.35 | 4.374  |       -2.33 |
+|  10 | HighShelf |  10000    | 0.7071 |        0.32 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-3.7 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-3.45 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         1.3 |
-|   2 | Peaking |        62 | 1.41 |        -0.1 |
-|   3 | Peaking |       125 | 1.41 |        -3   |
-|   4 | Peaking |       250 | 1.41 |        -1.9 |
-|   5 | Peaking |       500 | 1.41 |        -0.5 |
-|   6 | Peaking |      1000 | 1.41 |         3.4 |
-|   7 | Peaking |      2000 | 1.41 |        -2.3 |
-|   8 | Peaking |      4000 | 1.41 |         1.2 |
-|   9 | Peaking |      8000 | 1.41 |         3.2 |
-|  10 | Peaking |     16000 | 1.41 |         3.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.22 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.28 |
+|   3 | Peaking |    125    | 1.4142 |       -2.62 |
+|   4 | Peaking |    250    | 1.4142 |       -2.11 |
+|   5 | Peaking |    500    | 1.4142 |       -0.68 |
+|   6 | Peaking |   1000    | 1.4142 |        3.34 |
+|   7 | Peaking |   2000    | 1.4142 |       -2.28 |
+|   8 | Peaking |   4000    | 1.4142 |        1.15 |
+|   9 | Peaking |   8000    | 1.4142 |        3.04 |
+|  10 | Peaking |  16000    | 1.4142 |        3.02 |
 
 ### Graphs
 ![](./Logitech%20G733%20LIGHTSPEED.png)

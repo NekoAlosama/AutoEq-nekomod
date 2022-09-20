@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -8.50 dB or -8.50 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        14.6 |
-|   2 | Peaking   |        50 | 0.36 |       -13.2 |
-|   3 | Peaking   |       616 | 0.93 |         3.7 |
-|   4 | Peaking   |      1179 | 3.2  |        -2.3 |
-|   5 | Peaking   |      4753 | 3.37 |         5.7 |
-|   6 | Peaking   |      2136 | 3    |         1.2 |
-|   7 | Peaking   |      3168 | 4.09 |        -3.1 |
-|   8 | Peaking   |      4199 | 4.08 |         1.2 |
-|   9 | Peaking   |      7077 | 6    |        -2   |
-|  10 | HighShelf |     10000 | 0.7  |         1.9 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       17.89 |
+|   2 | Peaking   |     48.4  | 0.3335 |      -14.31 |
+|   3 | Peaking   |    613.79 | 0.866  |        3.89 |
+|   4 | Peaking   |   1178.09 | 2.722  |       -2.46 |
+|   5 | Peaking   |   4753.81 | 3.3132 |        5.35 |
+|   6 | Peaking   |   2137.12 | 3.0554 |        1.22 |
+|   7 | Peaking   |   3166.84 | 3.9652 |       -3.23 |
+|   8 | Peaking   |   4442.83 | 2.8133 |        1.42 |
+|   9 | Peaking   |   7048.35 | 6      |       -2.23 |
+|  10 | HighShelf |  10000    | 0.7071 |        1.76 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.00 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         4.8 |
-|   2 | Peaking |        62 | 1.41 |        -0.9 |
-|   3 | Peaking |       125 | 1.41 |        -2.8 |
-|   4 | Peaking |       250 | 1.41 |        -2.9 |
-|   5 | Peaking |       500 | 1.41 |         3.2 |
-|   6 | Peaking |      1000 | 1.41 |        -0   |
-|   7 | Peaking |      2000 | 1.41 |        -0.7 |
-|   8 | Peaking |      4000 | 1.41 |         3.1 |
-|   9 | Peaking |      8000 | 1.41 |        -0.1 |
-|  10 | Peaking |     16000 | 1.41 |         3.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        6.94 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.39 |
+|   3 | Peaking |    125    | 1.4142 |       -2.43 |
+|   4 | Peaking |    250    | 1.4142 |       -3.1  |
+|   5 | Peaking |    500    | 1.4142 |        3.2  |
+|   6 | Peaking |   1000    | 1.4142 |       -0.11 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.7  |
+|   8 | Peaking |   4000    | 1.4142 |        3.04 |
+|   9 | Peaking |   8000    | 1.4142 |       -0.17 |
+|  10 | Peaking |  16000    | 1.4142 |        3.24 |
 
 ### Graphs
 ![](./JBL%20JR300BT.png)

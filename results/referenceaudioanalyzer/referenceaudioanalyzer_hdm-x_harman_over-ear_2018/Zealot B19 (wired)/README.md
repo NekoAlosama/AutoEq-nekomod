@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.3 dB or -6.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -17.70 dB or -17.67 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         6   |
-|   2 | Peaking   |        48 | 0.84 |         8.8 |
-|   3 | Peaking   |        75 | 0.74 |       -15.1 |
-|   4 | Peaking   |      1100 | 0.57 |        -8.2 |
-|   5 | Peaking   |      2507 | 0.36 |         8.7 |
-|   6 | Peaking   |       538 | 3.59 |        -1.6 |
-|   7 | Peaking   |       732 | 4.01 |         2   |
-|   8 | Peaking   |      1135 | 3.21 |        -0.8 |
-|   9 | Peaking   |      7055 | 5.85 |        -2.8 |
-|  10 | HighShelf |     10000 | 0.7  |         2.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       20    |
+|   2 | Peaking   |     76.1  | 0.9627 |      -17.61 |
+|   3 | Peaking   |    363.65 | 0.1825 |       -2.53 |
+|   4 | Peaking   |   2281.42 | 2.0752 |        4.12 |
+|   5 | Peaking   |   4570.12 | 1.342  |        8.77 |
+|   6 | Peaking   |     48.77 | 4.6378 |       -2.01 |
+|   7 | Peaking   |    115.39 | 3.353  |       -1.25 |
+|   8 | Peaking   |    309.53 | 2.7475 |        2.03 |
+|   9 | Peaking   |   1084.29 | 4.022  |       -2.07 |
+|  10 | HighShelf |  10000    | 0.7071 |        3.37 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.5 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-13.97 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         9   |
-|   2 | Peaking |        62 | 1.41 |        -2.1 |
-|   3 | Peaking |       125 | 1.41 |        -5.9 |
-|   4 | Peaking |       250 | 1.41 |        -1   |
-|   5 | Peaking |       500 | 1.41 |        -2.5 |
-|   6 | Peaking |      1000 | 1.41 |        -3.6 |
-|   7 | Peaking |      2000 | 1.41 |         3.5 |
-|   8 | Peaking |      4000 | 1.41 |         5.7 |
-|   9 | Peaking |      8000 | 1.41 |         2.5 |
-|  10 | Peaking |     16000 | 1.41 |         5.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       14.1  |
+|   2 | Peaking |     62.5  | 1.4142 |        0.22 |
+|   3 | Peaking |    125    | 1.4142 |       -6.34 |
+|   4 | Peaking |    250    | 1.4142 |       -1.4  |
+|   5 | Peaking |    500    | 1.4142 |       -2.31 |
+|   6 | Peaking |   1000    | 1.4142 |       -3.64 |
+|   7 | Peaking |   2000    | 1.4142 |        2.56 |
+|   8 | Peaking |   4000    | 1.4142 |        7.6  |
+|   9 | Peaking |   8000    | 1.4142 |        2.18 |
+|  10 | Peaking |  16000    | 1.4142 |        4.18 |
 
 ### Graphs
 ![](./Zealot%20B19%20(wired).png)

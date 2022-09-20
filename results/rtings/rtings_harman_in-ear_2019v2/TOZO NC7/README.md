@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -4.8 dB or -4.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -4.71 dB or -4.74 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |       -10.3 |
-|   2 | Peaking   |       313 | 0.44 |       -11.9 |
-|   3 | Peaking   |       352 | 0.18 |        10.1 |
-|   4 | Peaking   |      4580 | 1.16 |        11.9 |
-|   5 | Peaking   |      6823 | 0.61 |       -12.2 |
-|   6 | Peaking   |        34 | 1.99 |        -1.1 |
-|   7 | Peaking   |        73 | 1.53 |         1.4 |
-|   8 | Peaking   |       143 | 2.04 |        -1.1 |
-|   9 | Peaking   |      2005 | 3.54 |         1.1 |
-|  10 | HighShelf |     10000 | 0.7  |         0.1 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -7.29 |
+|   2 | Peaking   |    312.08 | 0.4429 |      -11.75 |
+|   3 | Peaking   |    351.89 | 0.1825 |        9.76 |
+|   4 | Peaking   |   4567.99 | 1.1877 |       11.68 |
+|   5 | Peaking   |   6864.37 | 0.6073 |      -12.03 |
+|   6 | Peaking   |     33.34 | 1.9583 |       -1.18 |
+|   7 | Peaking   |     72.95 | 1.5286 |        1.45 |
+|   8 | Peaking   |    142.2  | 2.0595 |       -1.17 |
+|   9 | Peaking   |   2007.31 | 3.5523 |        1.08 |
+|  10 | HighShelf |  10000    | 0.7071 |       -0    |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-4.32 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |       -11.1 |
-|   2 | Peaking |        62 | 1.41 |        -3.4 |
-|   3 | Peaking |       125 | 1.41 |        -1.1 |
-|   4 | Peaking |       250 | 1.41 |        -1.4 |
-|   5 | Peaking |       500 | 1.41 |        -0.8 |
-|   6 | Peaking |      1000 | 1.41 |         3.5 |
-|   7 | Peaking |      2000 | 1.41 |         2.5 |
-|   8 | Peaking |      4000 | 1.41 |         5.2 |
-|   9 | Peaking |      8000 | 1.41 |        -8.7 |
-|  10 | Peaking |     16000 | 1.41 |        -3.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -7.91 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.39 |
+|   3 | Peaking |    125    | 1.4142 |       -0.29 |
+|   4 | Peaking |    250    | 1.4142 |       -1.79 |
+|   5 | Peaking |    500    | 1.4142 |       -1.04 |
+|   6 | Peaking |   1000    | 1.4142 |        3.43 |
+|   7 | Peaking |   2000    | 1.4142 |        2.07 |
+|   8 | Peaking |   4000    | 1.4142 |        5.02 |
+|   9 | Peaking |   8000    | 1.4142 |       -8.48 |
+|  10 | Peaking |  16000    | 1.4142 |       -5.2  |
 
 ### Graphs
 ![](./TOZO%20NC7.png)

@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.9 dB or -6.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.79 dB or -5.98 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3.7 |
-|   2 | Peaking   |        90 | 0.31 |        -8   |
-|   3 | Peaking   |       820 | 1.63 |         2   |
-|   4 | Peaking   |      2453 | 1.82 |        -0.8 |
-|   5 | Peaking   |      6192 | 0.42 |         5.9 |
-|   6 | Peaking   |       139 | 2.01 |         0.3 |
-|   7 | Peaking   |      1489 | 3.16 |        -0.5 |
-|   8 | Peaking   |      4627 | 3.05 |         0.8 |
-|   9 | Peaking   |      6659 | 5.06 |        -1.3 |
-|  10 | HighShelf |     10000 | 0.7  |        -0   |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        6.73 |
+|   2 | Peaking   |     88.72 | 0.3031 |       -8.24 |
+|   3 | Peaking   |    823.51 | 1.7369 |        1.91 |
+|   4 | Peaking   |   2452.9  | 1.8004 |       -0.93 |
+|   5 | Peaking   |   6143.94 | 0.4321 |        5.75 |
+|   6 | Peaking   |     71.37 | 1.9349 |       -0.41 |
+|   7 | Peaking   |    129.09 | 1.9443 |        0.46 |
+|   8 | Peaking   |   4658.81 | 2.8693 |        0.68 |
+|   9 | Peaking   |   6659.09 | 5.3572 |       -1.3  |
+|  10 | HighShelf |  10000    | 0.7071 |       -0.06 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.17 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -0.1 |
-|   2 | Peaking |        62 | 1.41 |        -3.9 |
-|   3 | Peaking |       125 | 1.41 |        -5.3 |
-|   4 | Peaking |       250 | 1.41 |        -4.4 |
-|   5 | Peaking |       500 | 1.41 |        -0.8 |
-|   6 | Peaking |      1000 | 1.41 |         1.9 |
-|   7 | Peaking |      2000 | 1.41 |        -0   |
-|   8 | Peaking |      4000 | 1.41 |         4.8 |
-|   9 | Peaking |      8000 | 1.41 |         5.4 |
-|  10 | Peaking |     16000 | 1.41 |         2.5 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.88 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.8  |
+|   3 | Peaking |    125    | 1.4142 |       -4.76 |
+|   4 | Peaking |    250    | 1.4142 |       -4.77 |
+|   5 | Peaking |    500    | 1.4142 |       -0.89 |
+|   6 | Peaking |   1000    | 1.4142 |        1.7  |
+|   7 | Peaking |   2000    | 1.4142 |        0.1  |
+|   8 | Peaking |   4000    | 1.4142 |        4.66 |
+|   9 | Peaking |   8000    | 1.4142 |        5.22 |
+|  10 | Peaking |  16000    | 1.4142 |        2.7  |
 
 ### Graphs
 ![](./Final%20Audio%20E4000.png)

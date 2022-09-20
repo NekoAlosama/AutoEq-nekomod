@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.9 dB or -7.0 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.20 dB or -10.37 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0   |
-|   2 | Peaking   |       168 | 0.53 |        -4.5 |
-|   3 | Peaking   |      2883 | 3.49 |         5.4 |
-|   4 | Peaking   |      5475 | 1.32 |         6.8 |
-|   5 | Peaking   |     10000 | 2.22 |        -2.8 |
-|   6 | Peaking   |       868 | 1.73 |         1.9 |
-|   7 | Peaking   |      1386 | 1.94 |        -1   |
-|   8 | Peaking   |      1610 | 2.59 |        -4.2 |
-|   9 | Peaking   |      2291 | 3.84 |         2.3 |
-|  10 | HighShelf |     10000 | 0.7  |         3.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.83 |
+|   2 | Peaking   |    166.5  | 0.5443 |       -4.56 |
+|   3 | Peaking   |   1602.36 | 3.0781 |       -5.18 |
+|   4 | Peaking   |   2821.83 | 2.2171 |        6.09 |
+|   5 | Peaking   |   5341.6  | 2.0098 |        9.6  |
+|   6 | Peaking   |    157.11 | 1.915  |        0.43 |
+|   7 | Peaking   |    297.23 | 1.5388 |       -0.74 |
+|   8 | Peaking   |    849.8  | 1.8521 |        1.64 |
+|   9 | Peaking   |   1300.04 | 3.846  |       -1.13 |
+|  10 | HighShelf |  10000    | 0.7071 |        3.56 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.2 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.34 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.1 |
-|   2 | Peaking |        62 | 1.41 |        -1.5 |
-|   3 | Peaking |       125 | 1.41 |        -3.2 |
-|   4 | Peaking |       250 | 1.41 |        -4   |
-|   5 | Peaking |       500 | 1.41 |        -0   |
-|   6 | Peaking |      1000 | 1.41 |        -0.4 |
-|   7 | Peaking |      2000 | 1.41 |        -1.5 |
-|   8 | Peaking |      4000 | 1.41 |         8.2 |
-|   9 | Peaking |      8000 | 1.41 |         0.5 |
-|  10 | Peaking |     16000 | 1.41 |         6.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.03 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.44 |
+|   3 | Peaking |    125    | 1.4142 |       -2.45 |
+|   4 | Peaking |    250    | 1.4142 |       -4.6  |
+|   5 | Peaking |    500    | 1.4142 |       -0.02 |
+|   6 | Peaking |   1000    | 1.4142 |       -0.11 |
+|   7 | Peaking |   2000    | 1.4142 |       -2.28 |
+|   8 | Peaking |   4000    | 1.4142 |        9.44 |
+|   9 | Peaking |   8000    | 1.4142 |        0.85 |
+|  10 | Peaking |  16000    | 1.4142 |        8.1  |
 
 ### Graphs
 ![](./Magaosi%20DT6%20(on-off).png)

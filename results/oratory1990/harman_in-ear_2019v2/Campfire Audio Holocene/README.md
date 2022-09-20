@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.8 dB or -6.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.50 dB or -10.67 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         2   |
-|   2 | Peaking   |       247 | 0.31 |        -5.2 |
-|   3 | Peaking   |      1431 | 1.61 |        -3.3 |
-|   4 | Peaking   |      2561 | 0.78 |         7.3 |
-|   5 | Peaking   |      5692 | 2.22 |         4.5 |
-|   6 | Peaking   |       150 | 2.54 |         0.3 |
-|   7 | Peaking   |      6695 | 6    |         1.7 |
-|   8 | Peaking   |      6942 | 3.76 |         0.1 |
-|   9 | Peaking   |      9559 | 5.43 |        -1.5 |
-|  10 | HighShelf |     10000 | 0.7  |        -4   |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        7.05 |
+|   2 | Peaking   |    164.45 | 0.1825 |       -5.32 |
+|   3 | Peaking   |   1395.87 | 2.2386 |       -1.5  |
+|   4 | Peaking   |   2754.22 | 1.2033 |        7.97 |
+|   5 | Peaking   |   5475.6  | 2.2366 |        8.71 |
+|   6 | Peaking   |    146.96 | 1.8424 |        0.56 |
+|   7 | Peaking   |    273.9  | 1.3355 |       -0.49 |
+|   8 | Peaking   |    759.95 | 2.3343 |        0.36 |
+|   9 | Peaking   |   6282.98 | 5.3786 |        1.6  |
+|  10 | HighShelf |  10000    | 0.7071 |       -4.52 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-10.43 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         2.1 |
-|   2 | Peaking |        62 | 1.41 |        -0.6 |
-|   3 | Peaking |       125 | 1.41 |        -2.6 |
-|   4 | Peaking |       250 | 1.41 |        -4.8 |
-|   5 | Peaking |       500 | 1.41 |        -2.9 |
-|   6 | Peaking |      1000 | 1.41 |        -2.6 |
-|   7 | Peaking |      2000 | 1.41 |         3.4 |
-|   8 | Peaking |      4000 | 1.41 |         7.1 |
-|   9 | Peaking |      8000 | 1.41 |         1.4 |
-|  10 | Peaking |     16000 | 1.41 |        -8.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        5.54 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.3  |
+|   3 | Peaking |    125    | 1.4142 |       -1.79 |
+|   4 | Peaking |    250    | 1.4142 |       -5.22 |
+|   5 | Peaking |    500    | 1.4142 |       -3.08 |
+|   6 | Peaking |   1000    | 1.4142 |       -2.41 |
+|   7 | Peaking |   2000    | 1.4142 |        2.55 |
+|   8 | Peaking |   4000    | 1.4142 |        9.93 |
+|   9 | Peaking |   8000    | 1.4142 |        1.21 |
+|  10 | Peaking |  16000    | 1.4142 |       -8.66 |
 
 ### Graphs
 ![](./Campfire%20Audio%20Holocene.png)

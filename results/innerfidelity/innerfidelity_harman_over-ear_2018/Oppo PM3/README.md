@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -8.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.07 dB or -7.95 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0.6 |
-|   2 | Peaking   |       136 | 1.83 |        -1.7 |
-|   3 | Peaking   |      2458 | 0.75 |        -4.2 |
-|   4 | Peaking   |      5962 | 0.67 |         4.5 |
-|   5 | Peaking   |      9241 | 4.28 |         4.1 |
-|   6 | Peaking   |       214 | 3.04 |        -1.5 |
-|   7 | Peaking   |       359 | 1.74 |         3.1 |
-|   8 | Peaking   |       868 | 0.81 |        -1   |
-|   9 | Peaking   |      1635 | 2.76 |         0.7 |
-|  10 | HighShelf |     10000 | 0.7  |         5.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.76 |
+|   2 | Peaking   |    216.51 | 0.5319 |       -2.2  |
+|   3 | Peaking   |    350.08 | 1.6232 |        4.26 |
+|   4 | Peaking   |   2547.29 | 0.5623 |       -6.56 |
+|   5 | Peaking   |   9675.29 | 0.1825 |        6.62 |
+|   6 | Peaking   |   1633.89 | 5.0867 |        0.73 |
+|   7 | Peaking   |   2564.58 | 4.0543 |       -0.57 |
+|   8 | Peaking   |   5448.45 | 3.3914 |        1.09 |
+|   9 | Peaking   |   6881.57 | 5.9295 |       -2.71 |
+|  10 | HighShelf |  10000    | 0.7071 |        2.15 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-12.5 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.10 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.7 |
-|   2 | Peaking |        62 | 1.41 |         0.7 |
-|   3 | Peaking |       125 | 1.41 |        -2   |
-|   4 | Peaking |       250 | 1.41 |         0.5 |
-|   5 | Peaking |       500 | 1.41 |         1.4 |
-|   6 | Peaking |      1000 | 1.41 |        -1.8 |
-|   7 | Peaking |      2000 | 1.41 |        -2.8 |
-|   8 | Peaking |      4000 | 1.41 |         0.2 |
-|   9 | Peaking |      8000 | 1.41 |         4.9 |
-|  10 | Peaking |     16000 | 1.41 |        12.3 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.71 |
+|   2 | Peaking |     62.5  | 1.4142 |        2.07 |
+|   3 | Peaking |    125    | 1.4142 |       -1.49 |
+|   4 | Peaking |    250    | 1.4142 |        0.31 |
+|   5 | Peaking |    500    | 1.4142 |        1.39 |
+|   6 | Peaking |   1000    | 1.4142 |       -1.81 |
+|   7 | Peaking |   2000    | 1.4142 |       -2.98 |
+|   8 | Peaking |   4000    | 1.4142 |        0.17 |
+|   9 | Peaking |   8000    | 1.4142 |        4.75 |
+|  10 | Peaking |  16000    | 1.4142 |       13.89 |
 
 ### Graphs
 ![](./Oppo%20PM3.png)

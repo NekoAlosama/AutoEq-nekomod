@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -2.4 dB or -2.4 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -2.10 dB or -2.11 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         5.2 |
-|   2 | Peaking   |        43 | 0.38 |        -8.6 |
-|   3 | Peaking   |      2442 | 0.22 |         5.7 |
-|   4 | Peaking   |      3283 | 0.5  |        -7.9 |
-|   5 | Peaking   |      5342 | 4.93 |        -3.7 |
-|   6 | Peaking   |        96 | 2.59 |         0.5 |
-|   7 | Peaking   |       136 | 1.66 |        -0.4 |
-|   8 | Peaking   |      6421 | 6    |        -2.1 |
-|   9 | Peaking   |      8179 | 1.87 |         4   |
-|  10 | HighShelf |     10000 | 0.7  |        -9.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        1.19 |
+|   2 | Peaking   |     83.77 | 0.3037 |       -2.87 |
+|   3 | Peaking   |    858.52 | 0.3371 |        2.66 |
+|   4 | Peaking   |   3001.44 | 0.8848 |       -3.57 |
+|   5 | Peaking   |   5295.74 | 4.3151 |       -3.46 |
+|   6 | Peaking   |     44.15 | 3.0563 |       -0.66 |
+|   7 | Peaking   |   6383.21 | 5.9941 |       -1.86 |
+|   8 | Peaking   |   7699.57 | 3.8797 |        1.87 |
+|   9 | Peaking   |   8832.21 | 1.7642 |        3.36 |
+|  10 | HighShelf |  10000    | 0.7071 |       -9    |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-2.9 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-2.54 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -2.5 |
-|   2 | Peaking |        62 | 1.41 |        -2.7 |
-|   3 | Peaking |       125 | 1.41 |        -2.1 |
-|   4 | Peaking |       250 | 1.41 |        -0.6 |
-|   5 | Peaking |       500 | 1.41 |         1.5 |
-|   6 | Peaking |      1000 | 1.41 |         2.8 |
-|   7 | Peaking |      2000 | 1.41 |        -0.5 |
-|   8 | Peaking |      4000 | 1.41 |        -3.8 |
-|   9 | Peaking |      8000 | 1.41 |         1.9 |
-|  10 | Peaking |     16000 | 1.41 |       -16.3 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -0.44 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.43 |
+|   3 | Peaking |    125    | 1.4142 |       -1.74 |
+|   4 | Peaking |    250    | 1.4142 |       -0.71 |
+|   5 | Peaking |    500    | 1.4142 |        1.56 |
+|   6 | Peaking |   1000    | 1.4142 |        2.39 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.45 |
+|   8 | Peaking |   4000    | 1.4142 |       -3.93 |
+|   9 | Peaking |   8000    | 1.4142 |        1.98 |
+|  10 | Peaking |  16000    | 1.4142 |      -16.56 |
 
 ### Graphs
 ![](./Bose%20QuietComfort%2045.png)

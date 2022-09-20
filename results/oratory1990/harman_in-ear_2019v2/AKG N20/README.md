@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.3 dB or -5.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.10 dB or -5.19 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         1.2 |
-|   2 | Peaking   |        86 | 0.45 |        -4.7 |
-|   3 | Peaking   |       230 | 0.77 |        -1.9 |
-|   4 | Peaking   |       920 | 0.68 |         3.8 |
-|   5 | Peaking   |      4006 | 3.95 |         4.9 |
-|   6 | Peaking   |      1991 | 2.75 |         1.2 |
-|   7 | Peaking   |      2644 | 5.52 |        -2.3 |
-|   8 | Peaking   |      4755 | 5.12 |         2.5 |
-|   9 | Peaking   |      5962 | 5.88 |        -5.7 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.02 |
+|   2 | Peaking   |     97.84 | 0.312  |       -5.82 |
+|   3 | Peaking   |    877.15 | 0.6358 |        3.9  |
+|   4 | Peaking   |   4197.57 | 2.784  |        4.96 |
+|   5 | Peaking   |   5997.66 | 5.5215 |       -6.31 |
+|   6 | Peaking   |   1971.53 | 2.7317 |        1.08 |
+|   7 | Peaking   |   2575.1  | 3.8483 |       -0.6  |
+|   8 | Peaking   |   2727.73 | 5.0137 |       -2.21 |
+|   9 | Peaking   |   3454    | 5.9611 |        1.47 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.91 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-3.64 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -0.3 |
-|   2 | Peaking |        62 | 1.41 |        -3.1 |
-|   3 | Peaking |       125 | 1.41 |        -3.9 |
-|   4 | Peaking |       250 | 1.41 |        -3.2 |
-|   5 | Peaking |       500 | 1.41 |         1.2 |
-|   6 | Peaking |      1000 | 1.41 |         3.6 |
-|   7 | Peaking |      2000 | 1.41 |         0.8 |
-|   8 | Peaking |      4000 | 1.41 |         3.2 |
-|   9 | Peaking |      8000 | 1.41 |        -2.1 |
-|  10 | Peaking |     16000 | 1.41 |        -5   |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.89 |
+|   2 | Peaking |     62.5  | 1.4142 |       -0.77 |
+|   3 | Peaking |    125    | 1.4142 |       -3.65 |
+|   4 | Peaking |    250    | 1.4142 |       -3.23 |
+|   5 | Peaking |    500    | 1.4142 |        0.92 |
+|   6 | Peaking |   1000    | 1.4142 |        3.29 |
+|   7 | Peaking |   2000    | 1.4142 |        0.75 |
+|   8 | Peaking |   4000    | 1.4142 |        3.09 |
+|   9 | Peaking |   8000    | 1.4142 |       -2.04 |
+|  10 | Peaking |  16000    | 1.4142 |       -5.64 |
 
 ### Graphs
 ![](./AKG%20N20.png)

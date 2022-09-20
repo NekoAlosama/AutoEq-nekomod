@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.7 dB or -5.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.61 dB or -5.61 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -2.2 |
-|   2 | Peaking   |       169 | 0.49 |        -5.8 |
-|   3 | Peaking   |       477 | 1.04 |         8   |
-|   4 | Peaking   |      1910 | 2.51 |        -3   |
-|   5 | Peaking   |      8742 | 2.77 |        -3.3 |
-|   6 | Peaking   |        40 | 2.16 |        -0.4 |
-|   7 | Peaking   |      1138 | 3.62 |        -0.6 |
-|   8 | Peaking   |      3917 | 3.8  |         5.1 |
-|   9 | Peaking   |      9983 | 5.98 |        -1.5 |
-|  10 | HighShelf |     10000 | 0.7  |         0.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -0.25 |
+|   2 | Peaking   |    170.71 | 0.4946 |       -5.92 |
+|   3 | Peaking   |    475.07 | 1.028  |        7.92 |
+|   4 | Peaking   |   1907.53 | 2.4352 |       -3.12 |
+|   5 | Peaking   |   8734.35 | 2.7115 |       -3.4  |
+|   6 | Peaking   |     40.22 | 1.997  |       -0.39 |
+|   7 | Peaking   |   2665.63 | 3.5982 |       -2.29 |
+|   8 | Peaking   |   3908.17 | 2.9787 |        5.96 |
+|   9 | Peaking   |   5384.24 | 5.8828 |       -2.79 |
+|  10 | HighShelf |  10000    | 0.7071 |        0.18 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.22 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -2.7 |
-|   2 | Peaking |        62 | 1.41 |        -3.2 |
-|   3 | Peaking |       125 | 1.41 |        -4.9 |
-|   4 | Peaking |       250 | 1.41 |        -3.2 |
-|   5 | Peaking |       500 | 1.41 |         7.1 |
-|   6 | Peaking |      1000 | 1.41 |         0.5 |
-|   7 | Peaking |      2000 | 1.41 |        -3.5 |
-|   8 | Peaking |      4000 | 1.41 |         4.2 |
-|   9 | Peaking |      8000 | 1.41 |        -3.5 |
-|  10 | Peaking |     16000 | 1.41 |         0.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -0.73 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.84 |
+|   3 | Peaking |    125    | 1.4142 |       -4.78 |
+|   4 | Peaking |    250    | 1.4142 |       -3.11 |
+|   5 | Peaking |    500    | 1.4142 |        6.86 |
+|   6 | Peaking |   1000    | 1.4142 |        0.57 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.85 |
+|   8 | Peaking |   4000    | 1.4142 |        4.4  |
+|   9 | Peaking |   8000    | 1.4142 |       -3.71 |
+|  10 | Peaking |  16000    | 1.4142 |        0.95 |
 
 ### Graphs
 ![](./Sennheiser%20Momentum%202.0%20On-Ear.png)

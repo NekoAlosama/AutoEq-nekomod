@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -6.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -7.22 dB or -7.41 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -3.9 |
-|   2 | Peaking   |       143 | 1.17 |        -7.6 |
-|   3 | Peaking   |       467 | 1.09 |         5.6 |
-|   4 | Peaking   |      1797 | 1.15 |         8.2 |
-|   5 | Peaking   |      6314 | 0.35 |        -4.7 |
-|   6 | Peaking   |        62 | 1.6  |         1.1 |
-|   7 | Peaking   |       103 | 3.22 |        -1   |
-|   8 | Peaking   |      3157 | 4.86 |        -1.7 |
-|   9 | Peaking   |      4257 | 4.29 |         1.7 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -2.97 |
+|   2 | Peaking   |     58.93 | 1.1479 |        2.71 |
+|   3 | Peaking   |    141.66 | 0.8982 |       -7.97 |
+|   4 | Peaking   |    466.33 | 0.8638 |        5.86 |
+|   5 | Peaking   |   1692.38 | 2.1791 |        6.54 |
+|   6 | Peaking   |   2243.57 | 3.9195 |        2.56 |
+|   7 | Peaking   |   3181.31 | 4.1214 |       -3.25 |
+|   8 | Peaking   |   5914.8  | 1.943  |       -4.72 |
+|   9 | Peaking   |   8676.94 | 2.2333 |       -1.73 |
+|  10 | HighShelf |  10000    | 0.7071 |       -4.66 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.2 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.46 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -5.3 |
-|   2 | Peaking |        62 | 1.41 |        -0.9 |
-|   3 | Peaking |       125 | 1.41 |        -8.9 |
-|   4 | Peaking |       250 | 1.41 |        -0.7 |
-|   5 | Peaking |       500 | 1.41 |         5.7 |
-|   6 | Peaking |      1000 | 1.41 |         1.4 |
-|   7 | Peaking |      2000 | 1.41 |         6.4 |
-|   8 | Peaking |      4000 | 1.41 |        -3.5 |
-|   9 | Peaking |      8000 | 1.41 |        -4.2 |
-|  10 | Peaking |     16000 | 1.41 |        -8.1 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -2.98 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.13 |
+|   3 | Peaking |    125    | 1.4142 |       -8.31 |
+|   4 | Peaking |    250    | 1.4142 |       -1.03 |
+|   5 | Peaking |    500    | 1.4142 |        5.66 |
+|   6 | Peaking |   1000    | 1.4142 |        1.43 |
+|   7 | Peaking |   2000    | 1.4142 |        6.72 |
+|   8 | Peaking |   4000    | 1.4142 |       -3.93 |
+|   9 | Peaking |   8000    | 1.4142 |       -4.42 |
+|  10 | Peaking |  16000    | 1.4142 |       -7.98 |
 
 ### Graphs
 ![](./Skullcandy%20Hesh%20Evo.png)

@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -6.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -19.44 dB or -19.56 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -1.5 |
-|   2 | Peaking   |       286 | 0.26 |        -7.1 |
-|   3 | Peaking   |       632 | 0.98 |       -17.1 |
-|   4 | Peaking   |      1440 | 0.6  |        12.7 |
-|   5 | Peaking   |      3968 | 2.2  |         3.4 |
-|   6 | Peaking   |      3965 | 6    |        -0.7 |
-|   7 | Peaking   |      4672 | 5.99 |         1.6 |
-|   8 | Peaking   |      6574 | 3.93 |        -6.1 |
-|   9 | Peaking   |      8898 | 2.89 |         3.6 |
-|  10 | HighShelf |     10000 | 0.7  |         6.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        1.04 |
+|   2 | Peaking   |    260.1  | 0.3715 |       -8.32 |
+|   3 | Peaking   |    614.25 | 1.348  |      -14.18 |
+|   4 | Peaking   |   2015.68 | 1.0742 |       13.22 |
+|   5 | Peaking   |   2829.25 | 1.5462 |       11.95 |
+|   6 | Peaking   |   1046.82 | 4.3118 |        0.58 |
+|   7 | Peaking   |   3917.13 | 3.549  |        1.48 |
+|   8 | Peaking   |   5668.51 | 4.6573 |       -2.41 |
+|   9 | Peaking   |   6620.39 | 5.538  |       -6.73 |
+|  10 | HighShelf |  10000    | 0.7071 |       10.21 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-10.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.56 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -1.8 |
-|   2 | Peaking |        62 | 1.41 |        -3.1 |
-|   3 | Peaking |       125 | 1.41 |        -5.4 |
-|   4 | Peaking |       250 | 1.41 |        -5.3 |
-|   5 | Peaking |       500 | 1.41 |       -17.6 |
-|   6 | Peaking |      1000 | 1.41 |        -0.9 |
-|   7 | Peaking |      2000 | 1.41 |         8.3 |
-|   8 | Peaking |      4000 | 1.41 |         3.5 |
-|   9 | Peaking |      8000 | 1.41 |         1.5 |
-|  10 | Peaking |     16000 | 1.41 |        10.2 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        0.63 |
+|   2 | Peaking |     62.5  | 1.4142 |       -0.77 |
+|   3 | Peaking |    125    | 1.4142 |       -4.71 |
+|   4 | Peaking |    250    | 1.4142 |       -5.07 |
+|   5 | Peaking |    500    | 1.4142 |      -18.18 |
+|   6 | Peaking |   1000    | 1.4142 |       -2.59 |
+|   7 | Peaking |   2000    | 1.4142 |       14.01 |
+|   8 | Peaking |   4000    | 1.4142 |       10    |
+|   9 | Peaking |   8000    | 1.4142 |       -0.97 |
+|  10 | Peaking |  16000    | 1.4142 |       14.04 |
 
 ### Graphs
 ![](./LongLife%20E-107.png)

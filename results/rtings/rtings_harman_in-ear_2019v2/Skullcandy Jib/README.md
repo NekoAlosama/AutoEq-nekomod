@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -7.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.87 dB or -7.84 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -5.9 |
-|   2 | Peaking   |       195 | 0.41 |        -6.8 |
-|   3 | Peaking   |       897 | 0.42 |         3.7 |
-|   4 | Peaking   |      4375 | 1.97 |         5.6 |
-|   5 | Peaking   |      9271 | 2.38 |         5.8 |
-|   6 | Peaking   |       866 | 3.29 |         0.8 |
-|   7 | Peaking   |      1286 | 2.72 |        -1.1 |
-|   8 | Peaking   |      2155 | 3.24 |         1.2 |
-|   9 | Peaking   |      2890 | 5.26 |        -1.1 |
-|  10 | HighShelf |     10000 | 0.7  |         3.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -3.06 |
+|   2 | Peaking   |    195.3  | 0.4092 |       -6.87 |
+|   3 | Peaking   |    900.85 | 0.4116 |        3.57 |
+|   4 | Peaking   |   4377.08 | 2.1777 |        5.86 |
+|   5 | Peaking   |   9338.52 | 2.3928 |        5.97 |
+|   6 | Peaking   |    865.79 | 3.247  |        0.85 |
+|   7 | Peaking   |   1290.04 | 2.7071 |       -1.08 |
+|   8 | Peaking   |   2158.08 | 3.2644 |        1.13 |
+|   9 | Peaking   |   2883.68 | 5.3367 |       -1.03 |
+|  10 | HighShelf |  10000    | 0.7071 |        3.31 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-9.7 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.49 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -6.9 |
-|   2 | Peaking |        62 | 1.41 |        -5.9 |
-|   3 | Peaking |       125 | 1.41 |        -6.2 |
-|   4 | Peaking |       250 | 1.41 |        -4.5 |
-|   5 | Peaking |       500 | 1.41 |        -0.5 |
-|   6 | Peaking |      1000 | 1.41 |         2.5 |
-|   7 | Peaking |      2000 | 1.41 |         1.5 |
-|   8 | Peaking |      4000 | 1.41 |         4.6 |
-|   9 | Peaking |      8000 | 1.41 |         2.9 |
-|  10 | Peaking |     16000 | 1.41 |         9.5 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -3.81 |
+|   2 | Peaking |     62.5  | 1.4142 |       -4    |
+|   3 | Peaking |    125    | 1.4142 |       -5.64 |
+|   4 | Peaking |    250    | 1.4142 |       -4.81 |
+|   5 | Peaking |    500    | 1.4142 |       -0.59 |
+|   6 | Peaking |   1000    | 1.4142 |        2.43 |
+|   7 | Peaking |   2000    | 1.4142 |        1.26 |
+|   8 | Peaking |   4000    | 1.4142 |        4.66 |
+|   9 | Peaking |   8000    | 1.4142 |        2.9  |
+|  10 | Peaking |  16000    | 1.4142 |        9.26 |
 
 ### Graphs
 ![](./Skullcandy%20Jib.png)

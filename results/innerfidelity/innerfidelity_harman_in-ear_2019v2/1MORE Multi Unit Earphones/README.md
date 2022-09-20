@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.8 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.09 dB or -10.37 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         2.9 |
-|   2 | Peaking   |       102 | 0.31 |        -6.5 |
-|   3 | Peaking   |       794 | 1.21 |         2.2 |
-|   4 | Peaking   |      1813 | 1.93 |        -2.3 |
-|   5 | Peaking   |      6958 | 1.2  |         6.8 |
-|   6 | Peaking   |      3098 | 4.26 |         2.1 |
-|   7 | Peaking   |      4099 | 5.74 |        -3.1 |
-|   8 | Peaking   |      5386 | 5.89 |         2   |
-|   9 | Peaking   |      9022 | 2.81 |         4.3 |
-|  10 | HighShelf |     10000 | 0.7  |        -9.6 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.86 |
+|   2 | Peaking   |    102.27 | 0.3039 |       -6.62 |
+|   3 | Peaking   |    794    | 1.3155 |        2.11 |
+|   4 | Peaking   |   1829.14 | 1.9612 |       -2.37 |
+|   5 | Peaking   |   6763.26 | 1.7069 |       10.04 |
+|   6 | Peaking   |   3095.87 | 4.1536 |        1.99 |
+|   7 | Peaking   |   4116.75 | 5.4345 |       -3.52 |
+|   8 | Peaking   |   5994.72 | 3.9704 |        1.42 |
+|   9 | Peaking   |   9123.21 | 2.4474 |        4.17 |
+|  10 | HighShelf |  10000    | 0.7071 |       -9.65 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.2 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.07 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.4 |
-|   2 | Peaking |        62 | 1.41 |        -3.1 |
-|   3 | Peaking |       125 | 1.41 |        -4.2 |
-|   4 | Peaking |       250 | 1.41 |        -4.5 |
-|   5 | Peaking |       500 | 1.41 |        -0.1 |
-|   6 | Peaking |      1000 | 1.41 |         1.5 |
-|   7 | Peaking |      2000 | 1.41 |        -2.3 |
-|   8 | Peaking |      4000 | 1.41 |         1.6 |
-|   9 | Peaking |      8000 | 1.41 |         8.4 |
-|  10 | Peaking |     16000 | 1.41 |       -18.2 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.56 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.13 |
+|   3 | Peaking |    125    | 1.4142 |       -3.56 |
+|   4 | Peaking |    250    | 1.4142 |       -4.92 |
+|   5 | Peaking |    500    | 1.4142 |       -0.13 |
+|   6 | Peaking |   1000    | 1.4142 |        1.34 |
+|   7 | Peaking |   2000    | 1.4142 |       -2.38 |
+|   8 | Peaking |   4000    | 1.4142 |        1.2  |
+|   9 | Peaking |   8000    | 1.4142 |       10.52 |
+|  10 | Peaking |  16000    | 1.4142 |      -19.38 |
 
 ### Graphs
 ![](./1MORE%20Multi%20Unit%20Earphones.png)

@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -6.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -19.92 dB or -19.92 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         5.9 |
-|   2 | Peaking   |       131 | 1.09 |         2.3 |
-|   3 | Peaking   |       243 | 1.18 |         6.9 |
-|   4 | Peaking   |       444 | 1.58 |        -6.3 |
-|   5 | Peaking   |      1158 | 0.89 |        -8.2 |
-|   6 | Peaking   |      2401 | 6    |        -5.2 |
-|   7 | Peaking   |      3465 | 4.71 |         4   |
-|   8 | Peaking   |      4983 | 1.93 |        -7.8 |
-|   9 | Peaking   |      6646 | 1.02 |         7.7 |
-|  10 | HighShelf |     10000 | 0.7  |         5.9 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       20    |
+|   2 | Peaking   |     78.21 | 1.9643 |       -6.72 |
+|   3 | Peaking   |    240.9  | 1.6267 |        7.66 |
+|   4 | Peaking   |    447.5  | 1.6221 |       -5.27 |
+|   5 | Peaking   |   1156.51 | 0.861  |       -8.21 |
+|   6 | Peaking   |   2409.02 | 4.9575 |       -4.27 |
+|   7 | Peaking   |   3424.01 | 4.8096 |        3.96 |
+|   8 | Peaking   |   4882.75 | 2.9443 |       -3.92 |
+|   9 | Peaking   |   7283.44 | 1.852  |        5.92 |
+|  10 | HighShelf |  10000    | 0.7071 |        8.78 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-12.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-17.12 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         6.6 |
-|   2 | Peaking |        62 | 1.41 |         3.8 |
-|   3 | Peaking |       125 | 1.41 |         5   |
-|   4 | Peaking |       250 | 1.41 |         6   |
-|   5 | Peaking |       500 | 1.41 |        -6.2 |
-|   6 | Peaking |      1000 | 1.41 |        -6.6 |
-|   7 | Peaking |      2000 | 1.41 |        -4.5 |
-|   8 | Peaking |      4000 | 1.41 |        -0.7 |
-|   9 | Peaking |      8000 | 1.41 |         5.7 |
-|  10 | Peaking |     16000 | 1.41 |        11.8 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       14.11 |
+|   2 | Peaking |     62.5  | 1.4142 |       12.75 |
+|   3 | Peaking |    125    | 1.4142 |        2.58 |
+|   4 | Peaking |    250    | 1.4142 |        6    |
+|   5 | Peaking |    500    | 1.4142 |       -4.17 |
+|   6 | Peaking |   1000    | 1.4142 |       -9.15 |
+|   7 | Peaking |   2000    | 1.4142 |       -2.52 |
+|   8 | Peaking |   4000    | 1.4142 |       -2.38 |
+|   9 | Peaking |   8000    | 1.4142 |        6.71 |
+|  10 | Peaking |  16000    | 1.4142 |       13.42 |
 
 ### Graphs
 ![](./Sansui%20SS35.png)

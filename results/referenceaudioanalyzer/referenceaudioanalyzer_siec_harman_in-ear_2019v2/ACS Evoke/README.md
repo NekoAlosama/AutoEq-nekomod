@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -6.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.08 dB or -10.06 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0.2 |
-|   2 | Peaking   |       203 | 0.44 |        -5.6 |
-|   3 | Peaking   |      2083 | 1    |         5.3 |
-|   4 | Peaking   |      5181 | 1.59 |         6   |
-|   5 | Peaking   |      7432 | 4.09 |        -3.8 |
-|   6 | Peaking   |       150 | 3.29 |         0.5 |
-|   7 | Peaking   |       943 | 2.32 |         1   |
-|   8 | Peaking   |      1402 | 2.34 |        -0.7 |
-|   9 | Peaking   |      8991 | 4.59 |        -2.6 |
-|  10 | HighShelf |     10000 | 0.7  |         4.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        3.06 |
+|   2 | Peaking   |    201.46 | 0.4435 |       -5.66 |
+|   3 | Peaking   |   2034.91 | 1.1989 |        5.2  |
+|   4 | Peaking   |   4846.92 | 2.0512 |        9.5  |
+|   5 | Peaking   |   7475.38 | 3.4485 |       -3.23 |
+|   6 | Peaking   |    146.2  | 3.2044 |        0.64 |
+|   7 | Peaking   |    907.68 | 2.4799 |        0.87 |
+|   8 | Peaking   |   3273.92 | 5.1148 |       -1.37 |
+|   9 | Peaking   |   9111.17 | 2.7447 |       -2.32 |
+|  10 | HighShelf |  10000    | 0.7071 |        4.93 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-8.37 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.3 |
-|   2 | Peaking |        62 | 1.41 |        -1.7 |
-|   3 | Peaking |       125 | 1.41 |        -3.2 |
-|   4 | Peaking |       250 | 1.41 |        -5.3 |
-|   5 | Peaking |       500 | 1.41 |        -2.3 |
-|   6 | Peaking |      1000 | 1.41 |         0.8 |
-|   7 | Peaking |      2000 | 1.41 |         4.4 |
-|   8 | Peaking |      4000 | 1.41 |         5.8 |
-|   9 | Peaking |      8000 | 1.41 |        -0.9 |
-|  10 | Peaking |     16000 | 1.41 |         8.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.07 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.44 |
+|   3 | Peaking |    125    | 1.4142 |       -2.39 |
+|   4 | Peaking |    250    | 1.4142 |       -5.95 |
+|   5 | Peaking |    500    | 1.4142 |       -2.1  |
+|   6 | Peaking |   1000    | 1.4142 |        0.51 |
+|   7 | Peaking |   2000    | 1.4142 |        3.55 |
+|   8 | Peaking |   4000    | 1.4142 |        7.5  |
+|   9 | Peaking |   8000    | 1.4142 |       -0.96 |
+|  10 | Peaking |  16000    | 1.4142 |        8.29 |
 
 ### Graphs
 ![](./ACS%20Evoke.png)

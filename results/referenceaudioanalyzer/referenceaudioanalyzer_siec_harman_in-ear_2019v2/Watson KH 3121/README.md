@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.9 dB or -6.4 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -15.12 dB or -15.10 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         2.7 |
-|   2 | Peaking   |       318 | 0.24 |       -13.6 |
-|   3 | Peaking   |       817 | 1.43 |        11.1 |
-|   4 | Peaking   |      1659 | 2.5  |        -9.1 |
-|   5 | Peaking   |      3010 | 0.24 |         8.6 |
-|   6 | Peaking   |        68 | 1.54 |        -1   |
-|   7 | Peaking   |       162 | 1.39 |         1.2 |
-|   8 | Peaking   |       342 | 1.97 |        -0.9 |
-|   9 | Peaking   |      5758 | 1.52 |        -1.1 |
-|  10 | HighShelf |     10000 | 0.7  |         4   |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.61 |
+|   2 | Peaking   |    366.38 | 0.2135 |      -14.33 |
+|   3 | Peaking   |    832.06 | 1.1912 |       13.95 |
+|   4 | Peaking   |   1769.51 | 1.4913 |      -12.92 |
+|   5 | Peaking   |   3346.7  | 0.5031 |       20    |
+|   6 | Peaking   |     68.24 | 1.6522 |       -1.06 |
+|   7 | Peaking   |    159.32 | 1.4915 |        1.28 |
+|   8 | Peaking   |    343.61 | 2.0842 |       -0.96 |
+|   9 | Peaking   |   7035.26 | 4.5024 |       -3.96 |
+|  10 | HighShelf |  10000    | 0.7071 |        5.91 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-9.5 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.96 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         1.8 |
-|   2 | Peaking |        62 | 1.41 |        -3.5 |
-|   3 | Peaking |       125 | 1.41 |        -5.8 |
-|   4 | Peaking |       250 | 1.41 |       -11.8 |
-|   5 | Peaking |       500 | 1.41 |        -4.8 |
-|   6 | Peaking |      1000 | 1.41 |         5.9 |
-|   7 | Peaking |      2000 | 1.41 |        -2.8 |
-|   8 | Peaking |      4000 | 1.41 |         7.1 |
-|   9 | Peaking |      8000 | 1.41 |         5.3 |
-|  10 | Peaking |     16000 | 1.41 |         9.1 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        5.05 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.76 |
+|   3 | Peaking |    125    | 1.4142 |       -4.66 |
+|   4 | Peaking |    250    | 1.4142 |      -12.03 |
+|   5 | Peaking |    500    | 1.4142 |       -5.07 |
+|   6 | Peaking |   1000    | 1.4142 |        5.69 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.87 |
+|   8 | Peaking |   4000    | 1.4142 |       14.02 |
+|   9 | Peaking |   8000    | 1.4142 |        7.73 |
+|  10 | Peaking |  16000    | 1.4142 |       12.94 |
 
 ### Graphs
 ![](./Watson%20KH%203121.png)

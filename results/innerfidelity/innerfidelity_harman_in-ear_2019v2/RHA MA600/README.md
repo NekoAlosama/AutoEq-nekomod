@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.4 dB or -6.4 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -7.59 dB or -8.45 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -4.3 |
-|   2 | Peaking   |       205 | 0.42 |        -8   |
-|   3 | Peaking   |      1949 | 0.35 |         8.2 |
-|   4 | Peaking   |      4963 | 1.13 |       -18.4 |
-|   5 | Peaking   |      6579 | 0.73 |        11.8 |
-|   6 | Peaking   |      2646 | 5.11 |         1.1 |
-|   7 | Peaking   |      3441 | 5.95 |        -1.4 |
-|   8 | Peaking   |      6214 | 5.99 |         1   |
-|   9 | Peaking   |      9496 | 2.5  |         3.6 |
-|  10 | HighShelf |     10000 | 0.7  |        -7.8 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -1.51 |
+|   2 | Peaking   |    192.18 | 0.4611 |       -7.88 |
+|   3 | Peaking   |   1872.87 | 0.5332 |        9.02 |
+|   4 | Peaking   |   4956.3  | 1.0797 |      -17.86 |
+|   5 | Peaking   |   6574.6  | 0.7177 |       12.94 |
+|   6 | Peaking   |   1353.88 | 5.1063 |       -1.38 |
+|   7 | Peaking   |   1684.69 | 3.8269 |        1.09 |
+|   8 | Peaking   |   3410.11 | 5.8297 |       -1.06 |
+|   9 | Peaking   |  10000    | 1.5742 |        4.32 |
+|  10 | HighShelf |  10000    | 0.7071 |       -8.9  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-8.93 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -5.1 |
-|   2 | Peaking |        62 | 1.41 |        -4.7 |
-|   3 | Peaking |       125 | 1.41 |        -6.7 |
-|   4 | Peaking |       250 | 1.41 |        -6   |
-|   5 | Peaking |       500 | 1.41 |        -1.6 |
-|   6 | Peaking |      1000 | 1.41 |         4.1 |
-|   7 | Peaking |      2000 | 1.41 |         7.6 |
-|   8 | Peaking |      4000 | 1.41 |        -3.7 |
-|   9 | Peaking |      8000 | 1.41 |         6.6 |
-|  10 | Peaking |     16000 | 1.41 |       -11.5 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -2.06 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.99 |
+|   3 | Peaking |    125    | 1.4142 |       -5.98 |
+|   4 | Peaking |    250    | 1.4142 |       -6.19 |
+|   5 | Peaking |    500    | 1.4142 |       -1.76 |
+|   6 | Peaking |   1000    | 1.4142 |        3.93 |
+|   7 | Peaking |   2000    | 1.4142 |        8.82 |
+|   8 | Peaking |   4000    | 1.4142 |       -4.35 |
+|   9 | Peaking |   8000    | 1.4142 |        6.58 |
+|  10 | Peaking |  16000    | 1.4142 |      -12.48 |
 
 ### Graphs
 ![](./RHA%20MA600.png)

@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.4 dB or -6.0 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -7.42 dB or -8.20 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3.9 |
-|   2 | Peaking   |       124 | 0.27 |        -4.2 |
-|   3 | Peaking   |       709 | 0.96 |         2.5 |
-|   4 | Peaking   |      1628 | 2.03 |        -5.5 |
-|   5 | Peaking   |      5267 | 0.69 |         5.4 |
-|   6 | Peaking   |        74 | 1.89 |        -0.5 |
-|   7 | Peaking   |       125 | 4.91 |         0.9 |
-|   8 | Peaking   |      5537 | 4.3  |         0.8 |
-|   9 | Peaking   |      6853 | 5.59 |        -3.3 |
-|  10 | HighShelf |     10000 | 0.7  |         5.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        7.1  |
+|   2 | Peaking   |    124.35 | 0.2583 |       -4.66 |
+|   3 | Peaking   |   1643    | 1.4538 |       -8.07 |
+|   4 | Peaking   |   2685.34 | 0.1825 |        4.34 |
+|   5 | Peaking   |   5320.72 | 4.3138 |        3.79 |
+|   6 | Peaking   |    813.02 | 1.4452 |        0.35 |
+|   7 | Peaking   |   1164.34 | 2.344  |       -0.3  |
+|   8 | Peaking   |   6786.31 | 5.9693 |       -2.16 |
+|   9 | Peaking   |   9228.3  | 2.5665 |       -2.3  |
+|  10 | HighShelf |  10000    | 0.7071 |        7.47 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-11.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.14 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         2.8 |
-|   2 | Peaking |        62 | 1.41 |        -0.7 |
-|   3 | Peaking |       125 | 1.41 |        -1.8 |
-|   4 | Peaking |       250 | 1.41 |        -3.8 |
-|   5 | Peaking |       500 | 1.41 |         0.8 |
-|   6 | Peaking |      1000 | 1.41 |         0.4 |
-|   7 | Peaking |      2000 | 1.41 |        -3.7 |
-|   8 | Peaking |      4000 | 1.41 |         5.4 |
-|   9 | Peaking |      8000 | 1.41 |         2.9 |
-|  10 | Peaking |     16000 | 1.41 |        11.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        5.87 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.27 |
+|   3 | Peaking |    125    | 1.4142 |       -1.37 |
+|   4 | Peaking |    250    | 1.4142 |       -3.98 |
+|   5 | Peaking |    500    | 1.4142 |        0.72 |
+|   6 | Peaking |   1000    | 1.4142 |        0.18 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.7  |
+|   8 | Peaking |   4000    | 1.4142 |        5.58 |
+|   9 | Peaking |   8000    | 1.4142 |        2.62 |
+|  10 | Peaking |  16000    | 1.4142 |       13.98 |
 
 ### Graphs
 ![](./Meze%20Rai%20Penta.png)

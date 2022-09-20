@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.2 dB or -6.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.83 dB or -10.79 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         8.8 |
-|   2 | Peaking   |       131 | 0.23 |        -8.7 |
-|   3 | Peaking   |      2536 | 1.14 |         4.4 |
-|   4 | Peaking   |      7189 | 0.52 |         5.5 |
-|   5 | Peaking   |      9852 | 1.84 |         0.9 |
-|   6 | Peaking   |       157 | 2    |         0.8 |
-|   7 | Peaking   |       358 | 1.62 |        -0.9 |
-|   8 | Peaking   |       814 | 2.32 |         0.9 |
-|   9 | Peaking   |      9253 | 2.13 |        -1.9 |
-|  10 | HighShelf |     10000 | 0.7  |         4.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       11.18 |
+|   2 | Peaking   |     52.83 | 0.89   |       -2.02 |
+|   3 | Peaking   |    165.36 | 0.2796 |       -8.21 |
+|   4 | Peaking   |   2467.31 | 1.2947 |        4.41 |
+|   5 | Peaking   |   8071.77 | 0.7454 |       10.54 |
+|   6 | Peaking   |    157.26 | 2.0805 |        0.65 |
+|   7 | Peaking   |    354.18 | 1.6387 |       -0.87 |
+|   8 | Peaking   |    832.03 | 2.3073 |        1.01 |
+|   9 | Peaking   |   9213.28 | 2.2065 |       -2.59 |
+|  10 | HighShelf |  10000    | 0.7071 |        6.16 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-12.3 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.63 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         6.3 |
-|   2 | Peaking |        62 | 1.41 |        -0.9 |
-|   3 | Peaking |       125 | 1.41 |        -4   |
-|   4 | Peaking |       250 | 1.41 |        -7.5 |
-|   5 | Peaking |       500 | 1.41 |        -3.9 |
-|   6 | Peaking |      1000 | 1.41 |        -0.9 |
-|   7 | Peaking |      2000 | 1.41 |         3.6 |
-|   8 | Peaking |      4000 | 1.41 |         4.8 |
-|   9 | Peaking |      8000 | 1.41 |         5.2 |
-|  10 | Peaking |     16000 | 1.41 |        11.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        9.34 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.17 |
+|   3 | Peaking |    125    | 1.4142 |       -3.54 |
+|   4 | Peaking |    250    | 1.4142 |       -7.59 |
+|   5 | Peaking |    500    | 1.4142 |       -4.1  |
+|   6 | Peaking |   1000    | 1.4142 |       -0.83 |
+|   7 | Peaking |   2000    | 1.4142 |        3.39 |
+|   8 | Peaking |   4000    | 1.4142 |        3.3  |
+|   9 | Peaking |   8000    | 1.4142 |       11.38 |
+|  10 | Peaking |  16000    | 1.4142 |       13.91 |
 
 ### Graphs
 ![](./Monster%20Jamz.png)

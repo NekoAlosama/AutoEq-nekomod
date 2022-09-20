@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.5 dB or -5.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.44 dB or -5.41 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         7.2 |
-|   2 | Peaking   |        62 | 0.23 |        -6.6 |
-|   3 | Peaking   |       963 | 0.94 |         6.2 |
-|   4 | Peaking   |      4931 | 0.91 |        -9.9 |
-|   5 | Peaking   |      7096 | 0.82 |         9.2 |
-|   6 | Peaking   |       133 | 2.14 |         0.6 |
-|   7 | Peaking   |       231 | 2.48 |        -0.9 |
-|   8 | Peaking   |       473 | 2.24 |         0.6 |
-|   9 | Peaking   |      1736 | 3.51 |        -0.8 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.8 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       15.81 |
+|   2 | Peaking   |     39.98 | 0.2416 |      -12.88 |
+|   3 | Peaking   |    988.94 | 0.8873 |        6.67 |
+|   4 | Peaking   |   5189.54 | 0.6352 |      -20    |
+|   5 | Peaking   |   6544.11 | 0.5697 |       18.68 |
+|   6 | Peaking   |     77.35 | 3.151  |       -0.84 |
+|   7 | Peaking   |    106.6  | 2.0359 |        0.62 |
+|   8 | Peaking   |   1784    | 3.4792 |       -0.98 |
+|   9 | Peaking   |   2433.45 | 3.3224 |        0.93 |
+|  10 | HighShelf |  10000    | 0.7071 |       -3.51 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.93 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         2   |
-|   2 | Peaking |        62 | 1.41 |        -0.6 |
-|   3 | Peaking |       125 | 1.41 |        -2.3 |
-|   4 | Peaking |       250 | 1.41 |        -4.1 |
-|   5 | Peaking |       500 | 1.41 |         1   |
-|   6 | Peaking |      1000 | 1.41 |         6   |
-|   7 | Peaking |      2000 | 1.41 |         0.2 |
-|   8 | Peaking |      4000 | 1.41 |        -5.3 |
-|   9 | Peaking |      8000 | 1.41 |         4.9 |
-|  10 | Peaking |     16000 | 1.41 |        -4.5 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        4.14 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.86 |
+|   3 | Peaking |    125    | 1.4142 |       -2.05 |
+|   4 | Peaking |    250    | 1.4142 |       -3.98 |
+|   5 | Peaking |    500    | 1.4142 |        0.84 |
+|   6 | Peaking |   1000    | 1.4142 |        5.95 |
+|   7 | Peaking |   2000    | 1.4142 |        0.1  |
+|   8 | Peaking |   4000    | 1.4142 |       -5.01 |
+|   9 | Peaking |   8000    | 1.4142 |        4.55 |
+|  10 | Peaking |  16000    | 1.4142 |       -4.29 |
 
 ### Graphs
 ![](./Fostex%20TR-70.png)

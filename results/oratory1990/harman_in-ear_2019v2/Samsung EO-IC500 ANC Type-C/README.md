@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -7.2 dB or -7.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -15.39 dB or -15.39 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         9.1 |
-|   2 | Peaking   |        68 | 0.68 |        -9.5 |
-|   3 | Peaking   |      1504 | 1.55 |        -5.7 |
-|   4 | Peaking   |      2940 | 1.8  |         6.6 |
-|   5 | Peaking   |      6901 | 1.65 |         3.8 |
-|   6 | Peaking   |        32 | 5.25 |         1.2 |
-|   7 | Peaking   |       730 | 3.75 |         2.2 |
-|   8 | Peaking   |      1044 | 3.56 |        -1.2 |
-|   9 | Peaking   |      9250 | 2.4  |         2.1 |
-|  10 | HighShelf |     10000 | 0.7  |        -4.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       19.07 |
+|   2 | Peaking   |     24.59 | 5.6425 |        3.42 |
+|   3 | Peaking   |     58.73 | 0.5682 |      -15.65 |
+|   4 | Peaking   |   1468.13 | 1.1523 |      -11.05 |
+|   5 | Peaking   |   2324.48 | 0.3894 |        6.91 |
+|   6 | Peaking   |   1903.14 | 3.9574 |       -1.58 |
+|   7 | Peaking   |   2883.64 | 2.7541 |        1.65 |
+|   8 | Peaking   |   4705.17 | 4.0208 |       -4.59 |
+|   9 | Peaking   |   8855.78 | 0.6674 |        2.55 |
+|  10 | HighShelf |  10000    | 0.7071 |       -5.77 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-13.41 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         7.1 |
-|   2 | Peaking |        62 | 1.41 |        -3   |
-|   3 | Peaking |       125 | 1.41 |        -2   |
-|   4 | Peaking |       250 | 1.41 |        -1.7 |
-|   5 | Peaking |       500 | 1.41 |         1.4 |
-|   6 | Peaking |      1000 | 1.41 |        -3.5 |
-|   7 | Peaking |      2000 | 1.41 |        -0.6 |
-|   8 | Peaking |      4000 | 1.41 |         4.5 |
-|   9 | Peaking |      8000 | 1.41 |         3   |
-|  10 | Peaking |     16000 | 1.41 |        -7.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       13.83 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.54 |
+|   3 | Peaking |    125    | 1.4142 |       -1.14 |
+|   4 | Peaking |    250    | 1.4142 |       -1.92 |
+|   5 | Peaking |    500    | 1.4142 |        1.1  |
+|   6 | Peaking |   1000    | 1.4142 |       -3.55 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.78 |
+|   8 | Peaking |   4000    | 1.4142 |        4.16 |
+|   9 | Peaking |   8000    | 1.4142 |        3.09 |
+|  10 | Peaking |  16000    | 1.4142 |       -8.4  |
 
 ### Graphs
 ![](./Samsung%20EO-IC500%20ANC%20Type-C.png)

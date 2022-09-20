@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -7.3 dB or -7.4 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -13.04 dB or -13.04 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         9   |
-|   2 | Peaking   |        86 | 0.55 |        -9.4 |
-|   3 | Peaking   |       632 | 1.24 |         1.9 |
-|   4 | Peaking   |      2150 | 2.64 |        -4.9 |
-|   5 | Peaking   |      7224 | 0.53 |         4.9 |
-|   6 | Peaking   |        35 | 4.37 |         1   |
-|   7 | Peaking   |      3393 | 6    |         2.8 |
-|   8 | Peaking   |      5104 | 3.79 |        -3.3 |
-|   9 | Peaking   |      7013 | 1.83 |         2.4 |
-|  10 | HighShelf |     10000 | 0.7  |        -4.4 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       19.99 |
+|   2 | Peaking   |     67.34 | 0.3842 |      -16.11 |
+|   3 | Peaking   |    440.88 | 0.538  |        2.93 |
+|   4 | Peaking   |   2109.33 | 3.1232 |       -4.69 |
+|   5 | Peaking   |   7085.74 | 1.0721 |        6.13 |
+|   6 | Peaking   |   2558.86 | 5.8123 |       -1.55 |
+|   7 | Peaking   |   3372.06 | 4.2422 |        3.66 |
+|   8 | Peaking   |   5200.77 | 4.6728 |       -2.47 |
+|   9 | Peaking   |   6820.12 | 5.9586 |        2.25 |
+|  10 | HighShelf |  10000    | 0.7071 |       -3.18 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-11.98 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         8   |
-|   2 | Peaking |        62 | 1.41 |        -1.6 |
-|   3 | Peaking |       125 | 1.41 |        -4.8 |
-|   4 | Peaking |       250 | 1.41 |        -2.5 |
-|   5 | Peaking |       500 | 1.41 |         1   |
-|   6 | Peaking |      1000 | 1.41 |         1.5 |
-|   7 | Peaking |      2000 | 1.41 |        -3.5 |
-|   8 | Peaking |      4000 | 1.41 |         3.1 |
-|   9 | Peaking |      8000 | 1.41 |         5.8 |
-|  10 | Peaking |     16000 | 1.41 |        -7.3 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       12.33 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.52 |
+|   3 | Peaking |    125    | 1.4142 |       -3.94 |
+|   4 | Peaking |    250    | 1.4142 |       -3.24 |
+|   5 | Peaking |    500    | 1.4142 |        1.39 |
+|   6 | Peaking |   1000    | 1.4142 |        1.36 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.85 |
+|   8 | Peaking |   4000    | 1.4142 |        3.66 |
+|   9 | Peaking |   8000    | 1.4142 |        5.55 |
+|  10 | Peaking |  16000    | 1.4142 |       -5.83 |
 
 ### Graphs
 ![](./Koss%20Porta%20Pro%20(sample%201).png)

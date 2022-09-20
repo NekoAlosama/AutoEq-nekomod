@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.4 dB or -5.4 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.58 dB or -5.59 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -6.8 |
-|   2 | Peaking   |       134 | 2.84 |        -6.3 |
-|   3 | Peaking   |       225 | 2.78 |         6.2 |
-|   4 | Peaking   |      1511 | 0.94 |         6.8 |
-|   5 | Peaking   |      5302 | 0.18 |        -3.2 |
-|   6 | Peaking   |        34 | 1.64 |        -1.4 |
-|   7 | Peaking   |        60 | 3.87 |         3.1 |
-|   8 | Peaking   |      2884 | 3.74 |        -1.6 |
-|   9 | Peaking   |      4769 | 4.26 |         3.6 |
-|  10 | HighShelf |     10000 | 0.7  |        -4.6 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -4.85 |
+|   2 | Peaking   |    134.84 | 2.7807 |       -6.53 |
+|   3 | Peaking   |    223.63 | 2.8488 |        6.39 |
+|   4 | Peaking   |   1425.5  | 1.4793 |        4.74 |
+|   5 | Peaking   |  10000    | 0.6701 |       -4.59 |
+|   6 | Peaking   |     34.35 | 1.6424 |       -1.53 |
+|   7 | Peaking   |     60.25 | 3.7954 |        3.29 |
+|   8 | Peaking   |   2042.13 | 3.1658 |        1.68 |
+|   9 | Peaking   |   2830.03 | 3.1133 |       -2.69 |
+|  10 | HighShelf |  10000    | 0.7071 |       -3.6  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-4.33 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -9.2 |
-|   2 | Peaking |        62 | 1.41 |        -1.6 |
-|   3 | Peaking |       125 | 1.41 |        -7.6 |
-|   4 | Peaking |       250 | 1.41 |         6.4 |
-|   5 | Peaking |       500 | 1.41 |        -2.5 |
-|   6 | Peaking |      1000 | 1.41 |         3.8 |
-|   7 | Peaking |      2000 | 1.41 |         2.2 |
-|   8 | Peaking |      4000 | 1.41 |        -1   |
-|   9 | Peaking |      8000 | 1.41 |        -3.3 |
-|  10 | Peaking |     16000 | 1.41 |       -11.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -7.06 |
+|   2 | Peaking |     62.5  | 1.4142 |       -0.23 |
+|   3 | Peaking |    125    | 1.4142 |       -7.2  |
+|   4 | Peaking |    250    | 1.4142 |        5.97 |
+|   5 | Peaking |    500    | 1.4142 |       -2.5  |
+|   6 | Peaking |   1000    | 1.4142 |        3.68 |
+|   7 | Peaking |   2000    | 1.4142 |        2.24 |
+|   8 | Peaking |   4000    | 1.4142 |       -1.35 |
+|   9 | Peaking |   8000    | 1.4142 |       -3.33 |
+|  10 | Peaking |  16000    | 1.4142 |      -11.8  |
 
 ### Graphs
 ![](./SoundMAGIC%20HP151.png)

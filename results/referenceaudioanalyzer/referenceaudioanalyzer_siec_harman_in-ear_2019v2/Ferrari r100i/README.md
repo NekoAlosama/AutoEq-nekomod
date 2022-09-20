@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -6.9 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -11.41 dB or -11.37 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -7.5 |
-|   2 | Peaking   |       173 | 0.46 |        -6.8 |
-|   3 | Peaking   |       285 | 0.9  |        -1.7 |
-|   4 | Peaking   |      1209 | 0.78 |         7   |
-|   5 | Peaking   |      2755 | 2.31 |         4.4 |
-|   6 | Peaking   |      1998 | 3.43 |         0.8 |
-|   7 | Peaking   |      3327 | 6    |         2   |
-|   8 | Peaking   |      6632 | 1.52 |        -4.6 |
-|   9 | Peaking   |      9630 | 3.54 |         4.1 |
-|  10 | HighShelf |     10000 | 0.7  |         6.8 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -4.69 |
+|   2 | Peaking   |    200.63 | 0.4439 |       -8.12 |
+|   3 | Peaking   |   1079.33 | 0.8117 |        6.34 |
+|   4 | Peaking   |   2410.59 | 1.6261 |        9.68 |
+|   5 | Peaking   |   5846.83 | 2.5409 |       -4.3  |
+|   6 | Peaking   |    270.71 | 3.9552 |       -0.51 |
+|   7 | Peaking   |    404.98 | 4.4774 |        0.37 |
+|   8 | Peaking   |   4015.31 | 5.2174 |       -1.16 |
+|   9 | Peaking   |   7392.33 | 3.7533 |       -3.5  |
+|  10 | HighShelf |  10000    | 0.7071 |       11.06 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-13.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.09 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -8.2 |
-|   2 | Peaking |        62 | 1.41 |        -7.5 |
-|   3 | Peaking |       125 | 1.41 |        -7.5 |
-|   4 | Peaking |       250 | 1.41 |        -6   |
-|   5 | Peaking |       500 | 1.41 |        -1.8 |
-|   6 | Peaking |      1000 | 1.41 |         5.9 |
-|   7 | Peaking |      2000 | 1.41 |         6.6 |
-|   8 | Peaking |      4000 | 1.41 |         0.2 |
-|   9 | Peaking |      8000 | 1.41 |        -1.4 |
-|  10 | Peaking |     16000 | 1.41 |        13.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -5.36 |
+|   2 | Peaking |     62.5  | 1.4142 |       -5.72 |
+|   3 | Peaking |    125    | 1.4142 |       -5.95 |
+|   4 | Peaking |    250    | 1.4142 |       -6.98 |
+|   5 | Peaking |    500    | 1.4142 |       -1.79 |
+|   6 | Peaking |   1000    | 1.4142 |        4.16 |
+|   7 | Peaking |   2000    | 1.4142 |       10.46 |
+|   8 | Peaking |   4000    | 1.4142 |       -0.34 |
+|   9 | Peaking |   8000    | 1.4142 |       -0.68 |
+|  10 | Peaking |  16000    | 1.4142 |       14.11 |
 
 ### Graphs
 ![](./Ferrari%20r100i.png)

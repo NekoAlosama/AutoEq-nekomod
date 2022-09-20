@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.8 dB or -6.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.90 dB or -10.24 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0.6 |
-|   2 | Peaking   |       163 | 0.37 |        -4.8 |
-|   3 | Peaking   |       924 | 1.04 |         3.9 |
-|   4 | Peaking   |      3230 | 3.23 |         3.1 |
-|   5 | Peaking   |      6400 | 2.66 |         5.5 |
-|   6 | Peaking   |      1480 | 2.3  |         0.4 |
-|   7 | Peaking   |      2030 | 3.88 |        -1   |
-|   8 | Peaking   |      5027 | 5.2  |        -0.8 |
-|   9 | Peaking   |      7482 | 4.78 |        -2.3 |
-|  10 | HighShelf |     10000 | 0.7  |         6.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        3.61 |
+|   2 | Peaking   |    160.12 | 0.349  |       -4.89 |
+|   3 | Peaking   |    918.68 | 1.0653 |        3.82 |
+|   4 | Peaking   |   3241.92 | 3.2198 |        3.01 |
+|   5 | Peaking   |   6379.54 | 3.0432 |        5.65 |
+|   6 | Peaking   |    255.9  | 2.5594 |       -0.31 |
+|   7 | Peaking   |    541.51 | 2.1238 |        0.42 |
+|   8 | Peaking   |    731    | 3.7812 |       -0.42 |
+|   9 | Peaking   |   7863.55 | 1.6976 |       -2.5  |
+|  10 | HighShelf |  10000    | 0.7071 |       10.15 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-12.3 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.14 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0   |
-|   2 | Peaking |        62 | 1.41 |        -2   |
-|   3 | Peaking |       125 | 1.41 |        -3.3 |
-|   4 | Peaking |       250 | 1.41 |        -4.3 |
-|   5 | Peaking |       500 | 1.41 |        -0.6 |
-|   6 | Peaking |      1000 | 1.41 |         3.4 |
-|   7 | Peaking |      2000 | 1.41 |         0   |
-|   8 | Peaking |      4000 | 1.41 |         2.2 |
-|   9 | Peaking |      8000 | 1.41 |         2.4 |
-|  10 | Peaking |     16000 | 1.41 |        12.1 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.19 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.33 |
+|   3 | Peaking |    125    | 1.4142 |       -3.1  |
+|   4 | Peaking |    250    | 1.4142 |       -4.21 |
+|   5 | Peaking |    500    | 1.4142 |       -0.86 |
+|   6 | Peaking |   1000    | 1.4142 |        3.53 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.24 |
+|   8 | Peaking |   4000    | 1.4142 |        1.94 |
+|   9 | Peaking |   8000    | 1.4142 |        2.66 |
+|  10 | Peaking |  16000    | 1.4142 |       14.01 |
 
 ### Graphs
 ![](./Tansio%20Mirai%20TSMR-4%20Pro%20(on-off-off).png)

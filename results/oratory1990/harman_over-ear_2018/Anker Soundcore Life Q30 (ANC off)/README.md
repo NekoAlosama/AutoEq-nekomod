@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.4 dB or -6.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.67 dB or -6.48 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |       -12.7 |
-|   2 | Peaking   |        95 | 2.87 |        -3.7 |
-|   3 | Peaking   |       154 | 1.26 |        -7.9 |
-|   4 | Peaking   |       598 | 1.04 |         6.3 |
-|   5 | Peaking   |      3631 | 2.43 |         6.1 |
-|   6 | Peaking   |        60 | 3.71 |         1.9 |
-|   7 | Peaking   |        72 | 2.29 |        -1   |
-|   8 | Peaking   |      2139 | 2.26 |        -1.2 |
-|   9 | Peaking   |      6327 | 1.63 |         2.7 |
-|  10 | HighShelf |     10000 | 0.7  |       -11.8 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |      -10.45 |
+|   2 | Peaking   |    138.31 | 0.9447 |       -8.72 |
+|   3 | Peaking   |    589.65 | 1.0244 |        6.47 |
+|   4 | Peaking   |   3507.89 | 3.0921 |        6.17 |
+|   5 | Peaking   |   5297.85 | 3.1659 |        2.13 |
+|   6 | Peaking   |     35.74 | 2.255  |       -1.32 |
+|   7 | Peaking   |     57.88 | 3.0013 |        2.46 |
+|   8 | Peaking   |     87.47 | 3.2258 |       -1.45 |
+|   9 | Peaking   |   2014.86 | 2.5668 |       -0.86 |
+|  10 | HighShelf |  10000    | 0.7071 |      -11.28 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-5.9 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.55 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |       -14.3 |
-|   2 | Peaking |        62 | 1.41 |        -7.7 |
-|   3 | Peaking |       125 | 1.41 |       -12.1 |
-|   4 | Peaking |       250 | 1.41 |        -1.2 |
-|   5 | Peaking |       500 | 1.41 |         6   |
-|   6 | Peaking |      1000 | 1.41 |         3.2 |
-|   7 | Peaking |      2000 | 1.41 |        -2   |
-|   8 | Peaking |      4000 | 1.41 |         6   |
-|   9 | Peaking |      8000 | 1.41 |        -0.4 |
-|  10 | Peaking |     16000 | 1.41 |       -20   |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |      -12.23 |
+|   2 | Peaking |     62.5  | 1.4142 |       -6.49 |
+|   3 | Peaking |    125    | 1.4142 |      -11.7  |
+|   4 | Peaking |    250    | 1.4142 |       -1.33 |
+|   5 | Peaking |    500    | 1.4142 |        5.68 |
+|   6 | Peaking |   1000    | 1.4142 |        3.12 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.74 |
+|   8 | Peaking |   4000    | 1.4142 |        6.09 |
+|   9 | Peaking |   8000    | 1.4142 |       -0.72 |
+|  10 | Peaking |  16000    | 1.4142 |      -20    |
 
 ### Graphs
 ![](./Anker%20Soundcore%20Life%20Q30%20(ANC%20off).png)

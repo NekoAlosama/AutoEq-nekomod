@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -7.3 dB or -6.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -8.59 dB or -8.16 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        19.4 |
-|   2 | Peaking   |        42 | 0.25 |       -20   |
-|   3 | Peaking   |      1454 | 0.64 |         9   |
-|   4 | Peaking   |      5179 | 0.8  |       -20   |
-|   5 | Peaking   |      7218 | 0.9  |        19.1 |
-|   6 | Peaking   |      2051 | 5.23 |         2.6 |
-|   7 | Peaking   |      2594 | 3.97 |        -2.3 |
-|   8 | Peaking   |      5568 | 6    |        -1.1 |
-|   9 | Peaking   |      7962 | 5.68 |        -1.9 |
-|  10 | HighShelf |     10000 | 0.7  |         3.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       18.11 |
+|   2 | Peaking   |     45.41 | 0.2437 |      -16.74 |
+|   3 | Peaking   |   1513.06 | 0.7709 |       10.15 |
+|   4 | Peaking   |   5092.19 | 0.7519 |      -20    |
+|   5 | Peaking   |   7521.41 | 0.8035 |       19.88 |
+|   6 | Peaking   |    238.21 | 2.5117 |       -0.8  |
+|   7 | Peaking   |   1997.95 | 4.4592 |        2.22 |
+|   8 | Peaking   |   2586.22 | 3.874  |       -2.22 |
+|   9 | Peaking   |   8028.68 | 6      |       -2.39 |
+|  10 | HighShelf |  10000    | 0.7071 |        3.7  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-10.67 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         1.1 |
-|   2 | Peaking |        62 | 1.41 |        -2.4 |
-|   3 | Peaking |       125 | 1.41 |        -4   |
-|   4 | Peaking |       250 | 1.41 |        -6.4 |
-|   5 | Peaking |       500 | 1.41 |         0.1 |
-|   6 | Peaking |      1000 | 1.41 |         4.6 |
-|   7 | Peaking |      2000 | 1.41 |         6.8 |
-|   8 | Peaking |      4000 | 1.41 |        -9.4 |
-|   9 | Peaking |      8000 | 1.41 |         7.2 |
-|  10 | Peaking |     16000 | 1.41 |         8   |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        3.72 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.17 |
+|   3 | Peaking |    125    | 1.4142 |       -3.58 |
+|   4 | Peaking |    250    | 1.4142 |       -6.78 |
+|   5 | Peaking |    500    | 1.4142 |       -0.31 |
+|   6 | Peaking |   1000    | 1.4142 |        4.93 |
+|   7 | Peaking |   2000    | 1.4142 |        6.66 |
+|   8 | Peaking |   4000    | 1.4142 |       -9.72 |
+|   9 | Peaking |   8000    | 1.4142 |        8.54 |
+|  10 | Peaking |  16000    | 1.4142 |       10.25 |
 
 ### Graphs
 ![](./HIFIMAN%20HE35X.png)

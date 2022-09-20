@@ -258,7 +258,7 @@ class FrequencyResponse:
             if fr.raw[0] > 0.0:
                 # Prevent bass boost below lowest frequency
                 fr.raw[0] = 0.0
-        s = '; '.join(['{f} {a:.1f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
+        s = '; '.join(['{f} {a:.4f}'.format(f=f, a=a) for f, a in zip(fr.frequency, fr.raw)])
         s = 'GraphicEQ: ' + s
         return s
 
@@ -318,9 +318,9 @@ class FrequencyResponse:
         types = {'Peaking': 'PK', 'LowShelf': 'LS', 'HighShelf': 'HS'}
 
         with open(file_path, 'w', encoding='utf-8') as f:
-            s = f'Preamp: {-compound.max_gain:.1f} dB\n'
+            s = f'Preamp: {-compound.max_gain:.2f} dB\n'
             for i, filt in enumerate(compound.filters):
-                s += f'Filter {i + 1}: ON {types[filt.__class__.__name__]} Fc {filt.fc:.0f} Hz Gain {filt.gain:.1f} dB Q {filt.q:.2f}\n'
+                s += f'Filter {i + 1}: ON {types[filt.__class__.__name__]} Fc {filt.fc:.2f} Hz Gain {filt.gain:.2f} dB Q {filt.q:.4f}\n'
             f.write(s)
 
     def write_rockbox_10_band_fixed_eq(self, file_path, peqs):
@@ -456,7 +456,7 @@ class FrequencyResponse:
                     for filt in peq.filters:
                         compound.add_filter(filt)
                     filter_ranges += f'1-{len(peq.filters) + n}'
-                    preamps += f'{-compound.max_gain - 0.1:.1f} dB'
+                    preamps += f'{-compound.max_gain - 0.1:.2f} dB'
                     if i < len(parametric_eq_peqs) - 2:
                         filter_ranges += ', '
                         preamps += ', '
@@ -472,13 +472,13 @@ class FrequencyResponse:
                     peq.sort_filters()
                     for filt in peq.filters:
                         compound.add_filter(filt)
-                s += f'Apply preamp of -{compound.max_gain + 0.1:.1f} dB when using parametric equalizer.\n\n'
+                s += f'Apply preamp of -{compound.max_gain + 0.1:.2f} dB when using parametric equalizer.\n\n'
             s += compound.markdown_table() + '\n\n'
 
         # Add fixed band eq
         if fixed_band_eq_peq is not None:
             s += f'### Fixed Band EQs\nWhen using fixed band (also called graphic) equalizer, apply preamp of ' \
-                 f'**-{fixed_band_eq_peq.max_gain + 0.1:.1f} dB** (if available) and set gains manually with these ' \
+                 f'**-{fixed_band_eq_peq.max_gain + 0.1:.2f} dB** (if available) and set gains manually with these ' \
                  f'parameters.\n\n{fixed_band_eq_peq.markdown_table()}\n\n'
 
         # Write image link

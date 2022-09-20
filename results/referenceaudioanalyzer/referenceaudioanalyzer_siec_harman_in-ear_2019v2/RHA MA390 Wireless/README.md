@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.9 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -13.00 dB or -13.56 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3.2 |
-|   2 | Peaking   |        95 | 0.27 |        -8   |
-|   3 | Peaking   |      1425 | 1.77 |        -3.8 |
-|   4 | Peaking   |      2448 | 1.03 |         6.9 |
-|   5 | Peaking   |      4487 | 2.78 |         4.5 |
-|   6 | Peaking   |      3600 | 4.32 |         0.7 |
-|   7 | Peaking   |      4426 | 6    |        -1.1 |
-|   8 | Peaking   |      5106 | 6    |         1.6 |
-|   9 | Peaking   |      6432 | 5.51 |        -2.4 |
-|  10 | HighShelf |     10000 | 0.7  |        -1.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        5.17 |
+|   2 | Peaking   |    110.76 | 0.2656 |       -7.69 |
+|   3 | Peaking   |   1624.16 | 0.7645 |      -12.32 |
+|   4 | Peaking   |   2799.01 | 0.5773 |       20    |
+|   5 | Peaking   |   6527    | 2.081  |       -8.46 |
+|   6 | Peaking   |   2960.57 | 5.1843 |        0.72 |
+|   7 | Peaking   |   3740.28 | 5.6705 |       -1.45 |
+|   8 | Peaking   |   4556.71 | 6      |        1.34 |
+|   9 | Peaking   |   9686.76 | 5.5923 |        3.05 |
+|  10 | HighShelf |  10000    | 0.7071 |       -3.67 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.3 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-12.78 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -1.3 |
-|   2 | Peaking |        62 | 1.41 |        -3.8 |
-|   3 | Peaking |       125 | 1.41 |        -5.6 |
-|   4 | Peaking |       250 | 1.41 |        -5.2 |
-|   5 | Peaking |       500 | 1.41 |        -1.2 |
-|   6 | Peaking |      1000 | 1.41 |        -2.2 |
-|   7 | Peaking |      2000 | 1.41 |         3.3 |
-|   8 | Peaking |      4000 | 1.41 |         6.7 |
-|   9 | Peaking |      8000 | 1.41 |        -0.1 |
-|  10 | Peaking |     16000 | 1.41 |        -2.8 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        1.85 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.67 |
+|   3 | Peaking |    125    | 1.4142 |       -4.87 |
+|   4 | Peaking |    250    | 1.4142 |       -5.96 |
+|   5 | Peaking |    500    | 1.4142 |       -0.93 |
+|   6 | Peaking |   1000    | 1.4142 |       -2.95 |
+|   7 | Peaking |   2000    | 1.4142 |        3.5  |
+|   8 | Peaking |   4000    | 1.4142 |       12.49 |
+|   9 | Peaking |   8000    | 1.4142 |       -1.88 |
+|  10 | Peaking |  16000    | 1.4142 |       -4.5  |
 
 ### Graphs
 ![](./RHA%20MA390%20Wireless.png)

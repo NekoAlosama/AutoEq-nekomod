@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -3.3 dB or -3.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -3.32 dB or -3.33 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -3.6 |
-|   2 | Peaking   |        94 | 0.88 |        -2.4 |
-|   3 | Peaking   |       349 | 1.53 |         3.5 |
-|   4 | Peaking   |      4057 | 4.64 |         4.2 |
-|   5 | Peaking   |      5862 | 2.42 |        -6.2 |
-|   6 | Peaking   |      1183 | 3.54 |        -0.6 |
-|   7 | Peaking   |      1830 | 2.85 |         2.6 |
-|   8 | Peaking   |      2826 | 3.69 |        -3.1 |
-|   9 | Peaking   |      3656 | 6    |         1.3 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.1 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -1.65 |
+|   2 | Peaking   |     93.92 | 0.8827 |       -2.42 |
+|   3 | Peaking   |    347.8  | 1.6321 |        3.48 |
+|   4 | Peaking   |   4064.97 | 4.6495 |        4.07 |
+|   5 | Peaking   |   5863.85 | 2.3351 |       -6.19 |
+|   6 | Peaking   |   1179.13 | 3.4695 |       -0.64 |
+|   7 | Peaking   |   1829.6  | 2.9263 |        2.57 |
+|   8 | Peaking   |   2824.64 | 3.6908 |       -3.17 |
+|   9 | Peaking   |   3671.46 | 5.9998 |        1.42 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.23 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-2.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-2.00 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -3.8 |
-|   2 | Peaking |        62 | 1.41 |        -3.7 |
-|   3 | Peaking |       125 | 1.41 |        -3.3 |
-|   4 | Peaking |       250 | 1.41 |         2.2 |
-|   5 | Peaking |       500 | 1.41 |         1.7 |
-|   6 | Peaking |      1000 | 1.41 |        -0.3 |
-|   7 | Peaking |      2000 | 1.41 |         0.8 |
-|   8 | Peaking |      4000 | 1.41 |        -0.4 |
-|   9 | Peaking |      8000 | 1.41 |        -2.4 |
-|  10 | Peaking |     16000 | 1.41 |        -4.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -1.79 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.35 |
+|   3 | Peaking |    125    | 1.4142 |       -2.92 |
+|   4 | Peaking |    250    | 1.4142 |        2.02 |
+|   5 | Peaking |    500    | 1.4142 |        1.69 |
+|   6 | Peaking |   1000    | 1.4142 |       -0.37 |
+|   7 | Peaking |   2000    | 1.4142 |        0.67 |
+|   8 | Peaking |   4000    | 1.4142 |       -0.48 |
+|   9 | Peaking |   8000    | 1.4142 |       -2.52 |
+|  10 | Peaking |  16000    | 1.4142 |       -4.78 |
 
 ### Graphs
 ![](./JBL%20CLUB%20ONE.png)

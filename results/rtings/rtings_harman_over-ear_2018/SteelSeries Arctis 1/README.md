@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.5 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.62 dB or -6.98 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0.9 |
-|   2 | Peaking   |       157 | 0.51 |        -5.6 |
-|   3 | Peaking   |      1587 | 0.94 |         5   |
-|   4 | Peaking   |      2943 | 2.02 |         3.6 |
-|   5 | Peaking   |      5636 | 3.95 |        -5.5 |
-|   6 | Peaking   |       950 | 3.23 |        -1.1 |
-|   7 | Peaking   |      1289 | 5.33 |         2.6 |
-|   8 | Peaking   |      1584 | 6    |        -1.8 |
-|   9 | Peaking   |      7457 | 5.35 |         1.4 |
-|  10 | HighShelf |     10000 | 0.7  |        -1.2 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.83 |
+|   2 | Peaking   |    157.58 | 0.4967 |       -5.63 |
+|   3 | Peaking   |   1573.44 | 0.9673 |        5.19 |
+|   4 | Peaking   |   2958.31 | 2.3639 |        3.79 |
+|   5 | Peaking   |   5646.99 | 4.0491 |       -5.48 |
+|   6 | Peaking   |    954.06 | 3.235  |       -1.16 |
+|   7 | Peaking   |   1308.85 | 5.9331 |        3.07 |
+|   8 | Peaking   |   1587.1  | 5.8686 |       -2.62 |
+|   9 | Peaking   |   2010.12 | 4.7373 |        1.08 |
+|  10 | HighShelf |  10000    | 0.7071 |       -1.17 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.9 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.81 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         0.8 |
-|   2 | Peaking |        62 | 1.41 |        -1.2 |
-|   3 | Peaking |       125 | 1.41 |        -4.4 |
-|   4 | Peaking |       250 | 1.41 |        -3.8 |
-|   5 | Peaking |       500 | 1.41 |        -1   |
-|   6 | Peaking |      1000 | 1.41 |         1.4 |
-|   7 | Peaking |      2000 | 1.41 |         6.7 |
-|   8 | Peaking |      4000 | 1.41 |         0   |
-|   9 | Peaking |      8000 | 1.41 |        -0.8 |
-|  10 | Peaking |     16000 | 1.41 |        -2.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.95 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.04 |
+|   3 | Peaking |    125    | 1.4142 |       -4.1  |
+|   4 | Peaking |    250    | 1.4142 |       -3.95 |
+|   5 | Peaking |    500    | 1.4142 |       -1.1  |
+|   6 | Peaking |   1000    | 1.4142 |        1.66 |
+|   7 | Peaking |   2000    | 1.4142 |        6.52 |
+|   8 | Peaking |   4000    | 1.4142 |        0.01 |
+|   9 | Peaking |   8000    | 1.4142 |       -1.06 |
+|  10 | Peaking |  16000    | 1.4142 |       -2.31 |
 
 ### Graphs
 ![](./SteelSeries%20Arctis%201.png)

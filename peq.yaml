@@ -21,11 +21,11 @@ filters:
   - type: PEAKING
   - type: PEAKING
   - type: LOW_SHELF
-    fc: 105  # Fixed center frequency at 105 Hz
-    q: 0.7  # Fixed quality of 0.7
+    fc: 105.3333333  # 10 significant digits of DEFAULT_BASS_BOOST_FC
+    q: 0.7071067812  # 10 significant digits of math.sqrt(1/2)
   - type: HIGH_SHELF
     fc: 10000
     min_fc: 5000  # Letting the optimizer adjust high shelf between 5 kHz and...
     max_fc: 12000  # ...12 kHz
     min_q: 0.4  # Shelf filters start to overshoot below 0.4
-    max_q: 0.7  # Shelf filters start to overshoot after 0.7
+    max_q: 0.7071067812  # Shelf filters start to overshoot after math.sqrt(1/2)

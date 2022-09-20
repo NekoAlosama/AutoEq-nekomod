@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -7.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.55 dB or -12.15 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -0.1 |
-|   2 | Peaking   |       165 | 0.48 |        -3.8 |
-|   3 | Peaking   |       786 | 1.13 |         3.3 |
-|   4 | Peaking   |      3565 | 1.92 |         6.8 |
-|   5 | Peaking   |      5200 | 4.99 |        -5.8 |
-|   6 | Peaking   |        39 | 2.69 |         0.2 |
-|   7 | Peaking   |       449 | 4.2  |         0.2 |
-|   8 | Peaking   |      1997 | 3.23 |        -0.6 |
-|   9 | Peaking   |      7555 | 5.8  |        -3.8 |
-|  10 | HighShelf |     10000 | 0.7  |         7.2 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.82 |
+|   2 | Peaking   |    163.3  | 0.4577 |       -3.92 |
+|   3 | Peaking   |    784.24 | 1.1533 |        3.19 |
+|   4 | Peaking   |   3555.33 | 2.0195 |        6.71 |
+|   5 | Peaking   |   5209.19 | 4.936  |       -5.74 |
+|   6 | Peaking   |   1003.17 | 3.3255 |        0.25 |
+|   7 | Peaking   |   2107.3  | 5.8598 |       -0.99 |
+|   8 | Peaking   |   2876.61 | 4.2758 |        0.51 |
+|   9 | Peaking   |   7736.4  | 3.2828 |       -4.79 |
+|  10 | HighShelf |  10000    | 0.7071 |       12.06 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-13.9 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.05 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -0.2 |
-|   2 | Peaking |        62 | 1.41 |        -1.4 |
-|   3 | Peaking |       125 | 1.41 |        -3   |
-|   4 | Peaking |       250 | 1.41 |        -3.4 |
-|   5 | Peaking |       500 | 1.41 |         0.9 |
-|   6 | Peaking |      1000 | 1.41 |         2.4 |
-|   7 | Peaking |      2000 | 1.41 |         0.3 |
-|   8 | Peaking |      4000 | 1.41 |         4   |
-|   9 | Peaking |      8000 | 1.41 |        -2   |
-|  10 | Peaking |     16000 | 1.41 |        13.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.94 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.47 |
+|   3 | Peaking |    125    | 1.4142 |       -2.34 |
+|   4 | Peaking |    250    | 1.4142 |       -3.59 |
+|   5 | Peaking |    500    | 1.4142 |        0.79 |
+|   6 | Peaking |   1000    | 1.4142 |        1.86 |
+|   7 | Peaking |   2000    | 1.4142 |        0.31 |
+|   8 | Peaking |   4000    | 1.4142 |        3.88 |
+|   9 | Peaking |   8000    | 1.4142 |       -1.22 |
+|  10 | Peaking |  16000    | 1.4142 |       14.08 |
 
 ### Graphs
 ![](./T-Peos%20Rich%20200.png)

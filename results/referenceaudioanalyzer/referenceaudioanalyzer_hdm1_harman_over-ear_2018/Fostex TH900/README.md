@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -6.9 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -12.21 dB or -12.21 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         7.3 |
-|   2 | Peaking   |        70 | 0.76 |        -4.9 |
-|   3 | Peaking   |       520 | 2.58 |         4.5 |
-|   4 | Peaking   |      5456 | 2.96 |        -9.3 |
-|   5 | Peaking   |      9263 | 1.64 |         6.8 |
-|   6 | Peaking   |       748 | 3.14 |         2.5 |
-|   7 | Peaking   |      1082 | 1.9  |        -3.7 |
-|   8 | Peaking   |      1897 | 1.76 |        -1.1 |
-|   9 | Peaking   |      2655 | 3.46 |         3.2 |
-|  10 | HighShelf |     10000 | 0.7  |         1.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       16.74 |
+|   2 | Peaking   |     54.93 | 0.5162 |      -11.23 |
+|   3 | Peaking   |    550.62 | 1.0938 |        4.55 |
+|   4 | Peaking   |   1114.58 | 1.8416 |       -4.42 |
+|   5 | Peaking   |   5363.08 | 4.8458 |       -8.97 |
+|   6 | Peaking   |   1914.76 | 3.1831 |       -1.07 |
+|   7 | Peaking   |   2748.18 | 2.5295 |        3.98 |
+|   8 | Peaking   |   3852.92 | 0.9906 |       -2.05 |
+|   9 | Peaking   |   9420.69 | 2.6767 |        6.95 |
+|  10 | HighShelf |  10000    | 0.7071 |        3.45 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.5 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-11.42 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         7   |
-|   2 | Peaking |        62 | 1.41 |         0.3 |
-|   3 | Peaking |       125 | 1.41 |        -0.2 |
-|   4 | Peaking |       250 | 1.41 |        -1.6 |
-|   5 | Peaking |       500 | 1.41 |         5.1 |
-|   6 | Peaking |      1000 | 1.41 |        -3.5 |
-|   7 | Peaking |      2000 | 1.41 |         1.3 |
-|   8 | Peaking |      4000 | 1.41 |        -3.7 |
-|   9 | Peaking |      8000 | 1.41 |         2   |
-|  10 | Peaking |     16000 | 1.41 |         7.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       11.27 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.3  |
+|   3 | Peaking |    125    | 1.4142 |        0.24 |
+|   4 | Peaking |    250    | 1.4142 |       -1.39 |
+|   5 | Peaking |    500    | 1.4142 |        4.74 |
+|   6 | Peaking |   1000    | 1.4142 |       -3.6  |
+|   7 | Peaking |   2000    | 1.4142 |        1.86 |
+|   8 | Peaking |   4000    | 1.4142 |       -4.26 |
+|   9 | Peaking |   8000    | 1.4142 |        3.03 |
+|  10 | Peaking |  16000    | 1.4142 |        7.99 |
 
 ### Graphs
 ![](./Fostex%20TH900.png)

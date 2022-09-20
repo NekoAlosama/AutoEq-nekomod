@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -4.3 dB or -4.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -4.17 dB or -4.18 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -6.3 |
-|   2 | Peaking   |       199 | 0.66 |        -3.9 |
-|   3 | Peaking   |       831 | 1.15 |         0.5 |
-|   4 | Peaking   |       994 | 0.34 |         4.9 |
-|   5 | Peaking   |      1892 | 1.59 |        -6.2 |
-|   6 | Peaking   |        53 | 2    |         0.4 |
-|   7 | Peaking   |      5679 | 4.24 |         1.9 |
-|   8 | Peaking   |      7192 | 2.95 |        -1.7 |
-|   9 | Peaking   |      8788 | 4.69 |        -0.6 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.1 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -3.5  |
+|   2 | Peaking   |    185.61 | 0.7129 |       -3.21 |
+|   3 | Peaking   |    439.92 | 1.31   |        0.91 |
+|   4 | Peaking   |    850.41 | 0.7631 |        4.33 |
+|   5 | Peaking   |   1900.16 | 2.8133 |       -4.12 |
+|   6 | Peaking   |     50.51 | 1.8688 |        0.38 |
+|   7 | Peaking   |   3110.01 | 4.3788 |        1.07 |
+|   8 | Peaking   |   5489.45 | 2.2151 |        1.99 |
+|   9 | Peaking   |   7420.89 | 2.8482 |       -1.95 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.23 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-4.5 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-4.33 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -7.1 |
-|   2 | Peaking |        62 | 1.41 |        -4.2 |
-|   3 | Peaking |       125 | 1.41 |        -3.8 |
-|   4 | Peaking |       250 | 1.41 |        -1.8 |
-|   5 | Peaking |       500 | 1.41 |         2.8 |
-|   6 | Peaking |      1000 | 1.41 |         4.5 |
-|   7 | Peaking |      2000 | 1.41 |        -3.4 |
-|   8 | Peaking |      4000 | 1.41 |         2.7 |
-|   9 | Peaking |      8000 | 1.41 |        -1.4 |
-|  10 | Peaking |     16000 | 1.41 |        -3.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -3.84 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.34 |
+|   3 | Peaking |    125    | 1.4142 |       -3.22 |
+|   4 | Peaking |    250    | 1.4142 |       -2.03 |
+|   5 | Peaking |    500    | 1.4142 |        2.56 |
+|   6 | Peaking |   1000    | 1.4142 |        4.33 |
+|   7 | Peaking |   2000    | 1.4142 |       -3.18 |
+|   8 | Peaking |   4000    | 1.4142 |        2.33 |
+|   9 | Peaking |   8000    | 1.4142 |       -1.34 |
+|  10 | Peaking |  16000    | 1.4142 |       -4.37 |
 
 ### Graphs
 ![](./Anew%20X-One%20(black).png)

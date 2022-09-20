@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -7.50 dB or -7.96 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         2.1 |
-|   2 | Peaking   |        75 | 0.33 |        -5.9 |
-|   3 | Peaking   |       297 | 1.18 |         5.2 |
-|   4 | Peaking   |      1035 | 1.16 |        -4.8 |
-|   5 | Peaking   |      6971 | 1.17 |         6.5 |
-|   6 | Peaking   |      2587 | 3.7  |         2.7 |
-|   7 | Peaking   |      3818 | 3.8  |        -3.5 |
-|   8 | Peaking   |      5353 | 4.34 |         1.8 |
-|   9 | Peaking   |      7359 | 3.96 |        -1.2 |
-|  10 | HighShelf |     10000 | 0.7  |         1.9 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        4.12 |
+|   2 | Peaking   |     71.3  | 0.3491 |       -5.92 |
+|   3 | Peaking   |    298.91 | 1.2616 |        4.84 |
+|   4 | Peaking   |   1037.57 | 1.1474 |       -4.88 |
+|   5 | Peaking   |   6644.84 | 1.4571 |        7.49 |
+|   6 | Peaking   |   2589.06 | 3.7267 |        2.77 |
+|   7 | Peaking   |   3820.68 | 3.7853 |       -3.55 |
+|   8 | Peaking   |   5788.68 | 3.7338 |        1.7  |
+|   9 | Peaking   |   7158.33 | 6      |       -1.95 |
+|  10 | HighShelf |  10000    | 0.7071 |        2.11 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-7.46 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -1.5 |
-|   2 | Peaking |        62 | 1.41 |        -2.9 |
-|   3 | Peaking |       125 | 1.41 |        -4.2 |
-|   4 | Peaking |       250 | 1.41 |         2.7 |
-|   5 | Peaking |       500 | 1.41 |         0.4 |
-|   6 | Peaking |      1000 | 1.41 |        -5.3 |
-|   7 | Peaking |      2000 | 1.41 |         0.2 |
-|   8 | Peaking |      4000 | 1.41 |         0.5 |
-|   9 | Peaking |      8000 | 1.41 |         6.9 |
-|  10 | Peaking |     16000 | 1.41 |         2.3 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        0.44 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.66 |
+|   3 | Peaking |    125    | 1.4142 |       -3.65 |
+|   4 | Peaking |    250    | 1.4142 |        2.51 |
+|   5 | Peaking |    500    | 1.4142 |        0.43 |
+|   6 | Peaking |   1000    | 1.4142 |       -5.27 |
+|   7 | Peaking |   2000    | 1.4142 |        0.15 |
+|   8 | Peaking |   4000    | 1.4142 |        0.38 |
+|   9 | Peaking |   8000    | 1.4142 |        7.24 |
+|  10 | Peaking |  16000    | 1.4142 |        1.94 |
 
 ### Graphs
 ![](./Phiaton%20Bridge%20MS%20500.png)

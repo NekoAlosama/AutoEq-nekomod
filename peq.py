@@ -515,7 +515,7 @@ class PEQ:
     def markdown_table(self):
         """Formats filters as a Markdown table string"""
         table_data = [
-            [i + 1, filt.__class__.__name__, f'{filt.fc:.0f}', f'{filt.q:.2f}', f'{filt.gain:.1f}']
+            [i + 1, filt.__class__.__name__, f'{filt.fc:.2f}', f'{filt.q:.4f}', f'{filt.gain:.2f}']
             for i, filt in enumerate(self.filters)
         ]
         return tabulate(

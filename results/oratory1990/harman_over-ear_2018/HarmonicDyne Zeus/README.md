@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -7.3 dB or -7.3 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -10.36 dB or -10.33 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        14.8 |
-|   2 | Peaking   |        59 | 0.31 |       -13   |
-|   3 | Peaking   |      1424 | 1.31 |         4.2 |
-|   4 | Peaking   |      4128 | 1.58 |         3.1 |
-|   5 | Peaking   |      9162 | 2.42 |         3.9 |
-|   6 | Peaking   |        29 | 4.75 |         1   |
-|   7 | Peaking   |        42 | 2.88 |        -0.5 |
-|   8 | Peaking   |       264 | 2.26 |        -0.6 |
-|   9 | Peaking   |       509 | 3.28 |         0.9 |
-|  10 | HighShelf |     10000 | 0.7  |        -0.3 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       19.4  |
+|   2 | Peaking   |     56.33 | 0.318  |      -15.21 |
+|   3 | Peaking   |   1424.16 | 1.2299 |        4.09 |
+|   4 | Peaking   |   4140.83 | 1.7908 |        3.12 |
+|   5 | Peaking   |   9209.46 | 2.2918 |        3.9  |
+|   6 | Peaking   |     43.55 | 2.3809 |       -0.72 |
+|   7 | Peaking   |     61.9  | 4.3005 |        1.15 |
+|   8 | Peaking   |    240.12 | 2.0248 |       -0.53 |
+|   9 | Peaking   |    496.53 | 2.8518 |        0.97 |
+|  10 | HighShelf |  10000    | 0.7071 |       -0.46 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.06 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         6.3 |
-|   2 | Peaking |        62 | 1.41 |        -1.1 |
-|   3 | Peaking |       125 | 1.41 |        -3.7 |
-|   4 | Peaking |       250 | 1.41 |        -5.3 |
-|   5 | Peaking |       500 | 1.41 |        -0.5 |
-|   6 | Peaking |      1000 | 1.41 |         1.8 |
-|   7 | Peaking |      2000 | 1.41 |         2.5 |
-|   8 | Peaking |      4000 | 1.41 |         2.2 |
-|   9 | Peaking |      8000 | 1.41 |         2.5 |
-|  10 | Peaking |     16000 | 1.41 |         0.3 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        9.14 |
+|   2 | Peaking |     62.5  | 1.4142 |       -0.03 |
+|   3 | Peaking |    125    | 1.4142 |       -3.47 |
+|   4 | Peaking |    250    | 1.4142 |       -5.13 |
+|   5 | Peaking |    500    | 1.4142 |       -0.75 |
+|   6 | Peaking |   1000    | 1.4142 |        1.6  |
+|   7 | Peaking |   2000    | 1.4142 |        2.39 |
+|   8 | Peaking |   4000    | 1.4142 |        1.95 |
+|   9 | Peaking |   8000    | 1.4142 |        2.95 |
+|  10 | Peaking |  16000    | 1.4142 |       -1.67 |
 
 ### Graphs
 ![](./HarmonicDyne%20Zeus.png)

@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.3 dB or -5.8 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.57 dB or -6.19 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -5.7 |
-|   2 | Peaking   |        25 | 0.87 |         4.8 |
-|   3 | Peaking   |       175 | 1.07 |        -4   |
-|   4 | Peaking   |      5780 | 2.23 |         1.5 |
-|   5 | Peaking   |      7802 | 1.33 |         5.7 |
-|   6 | Peaking   |      1213 | 3.88 |         1.7 |
-|   7 | Peaking   |      1749 | 3.48 |        -1.6 |
-|   8 | Peaking   |      2950 | 2.58 |         1.2 |
-|   9 | Peaking   |      4254 | 5.35 |        -1.3 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -3.23 |
+|   2 | Peaking   |     25.38 | 0.9869 |        4.32 |
+|   3 | Peaking   |    173.44 | 1.0028 |       -4.01 |
+|   4 | Peaking   |   7082.92 | 1.4795 |        6.09 |
+|   5 | Peaking   |   9197.32 | 2.6165 |        1.49 |
+|   6 | Peaking   |   1214.64 | 4.0136 |        1.65 |
+|   7 | Peaking   |   1755.79 | 3.397  |       -1.62 |
+|   8 | Peaking   |   2971.86 | 2.7023 |        1.09 |
+|   9 | Peaking   |   4220.51 | 5.2977 |       -1.19 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.49 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-7.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.71 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -1.1 |
-|   2 | Peaking |        62 | 1.41 |        -3.8 |
-|   3 | Peaking |       125 | 1.41 |        -3.8 |
-|   4 | Peaking |       250 | 1.41 |        -2.4 |
-|   5 | Peaking |       500 | 1.41 |         0.2 |
-|   6 | Peaking |      1000 | 1.41 |         0.6 |
-|   7 | Peaking |      2000 | 1.41 |        -0.6 |
-|   8 | Peaking |      4000 | 1.41 |         0.8 |
-|   9 | Peaking |      8000 | 1.41 |         7.2 |
-|  10 | Peaking |     16000 | 1.41 |        -6.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        0.88 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.19 |
+|   3 | Peaking |    125    | 1.4142 |       -3.7  |
+|   4 | Peaking |    250    | 1.4142 |       -2.23 |
+|   5 | Peaking |    500    | 1.4142 |       -0.1  |
+|   6 | Peaking |   1000    | 1.4142 |        0.62 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.73 |
+|   8 | Peaking |   4000    | 1.4142 |        0.76 |
+|   9 | Peaking |   8000    | 1.4142 |        6.82 |
+|  10 | Peaking |  16000    | 1.4142 |       -5.72 |
 
 ### Graphs
 ![](./Bose%20Noise%20Cancelling%20Headphones%20700.png)

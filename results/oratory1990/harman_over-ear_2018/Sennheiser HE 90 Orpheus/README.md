@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.5 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -8.49 dB or -8.49 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         7.2 |
-|   2 | Peaking   |        58 | 0.71 |        -3.4 |
-|   3 | Peaking   |      1858 | 2.86 |         2   |
-|   4 | Peaking   |      2960 | 2.31 |        -3.3 |
-|   5 | Peaking   |      5029 | 4.29 |         2.6 |
-|   6 | Peaking   |       204 | 2.45 |        -0.5 |
-|   7 | Peaking   |       402 | 4.92 |         0.6 |
-|   8 | Peaking   |       690 | 2.11 |         1.1 |
-|   9 | Peaking   |      1059 | 2.17 |        -0.8 |
-|  10 | HighShelf |     10000 | 0.7  |        -1.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        9.41 |
+|   2 | Peaking   |     57.36 | 0.6533 |       -3.69 |
+|   3 | Peaking   |   1867.37 | 2.8401 |        1.94 |
+|   4 | Peaking   |   2955.42 | 2.3522 |       -3.49 |
+|   5 | Peaking   |   5028.24 | 4.3998 |        2.51 |
+|   6 | Peaking   |    203.26 | 2.4455 |       -0.4  |
+|   7 | Peaking   |    663.64 | 2.0264 |        1.07 |
+|   8 | Peaking   |   1131.52 | 2.1418 |       -1.05 |
+|   9 | Peaking   |   1524.52 | 5.3847 |        0.7  |
+|  10 | HighShelf |  10000    | 0.7071 |       -1.6  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.10 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         6.4 |
-|   2 | Peaking |        62 | 1.41 |         1.6 |
-|   3 | Peaking |       125 | 1.41 |         1.1 |
-|   4 | Peaking |       250 | 1.41 |        -1   |
-|   5 | Peaking |       500 | 1.41 |         0.9 |
-|   6 | Peaking |      1000 | 1.41 |        -0.2 |
-|   7 | Peaking |      2000 | 1.41 |         0.1 |
-|   8 | Peaking |      4000 | 1.41 |        -0.8 |
-|   9 | Peaking |      8000 | 1.41 |         0.9 |
-|  10 | Peaking |     16000 | 1.41 |        -3.7 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        8.47 |
+|   2 | Peaking |     62.5  | 1.4142 |        2.65 |
+|   3 | Peaking |    125    | 1.4142 |        1.55 |
+|   4 | Peaking |    250    | 1.4142 |       -1.31 |
+|   5 | Peaking |    500    | 1.4142 |        0.7  |
+|   6 | Peaking |   1000    | 1.4142 |       -0.36 |
+|   7 | Peaking |   2000    | 1.4142 |        0.16 |
+|   8 | Peaking |   4000    | 1.4142 |       -0.87 |
+|   9 | Peaking |   8000    | 1.4142 |        0.96 |
+|  10 | Peaking |  16000    | 1.4142 |       -3.5  |
 
 ### Graphs
 ![](./Sennheiser%20HE%2090%20Orpheus.png)

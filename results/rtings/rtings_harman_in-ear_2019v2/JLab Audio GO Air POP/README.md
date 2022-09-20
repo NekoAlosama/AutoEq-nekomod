@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.7 dB or -5.6 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.61 dB or -5.51 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -3.1 |
-|   2 | Peaking   |        96 | 0.76 |        -6.2 |
-|   3 | Peaking   |      4860 | 0.84 |         5   |
-|   4 | Peaking   |      5473 | 2.62 |         3.3 |
-|   5 | Peaking   |      7890 | 1.08 |        -5.1 |
-|   6 | Peaking   |       185 | 1.91 |        -1.2 |
-|   7 | Peaking   |       364 | 1.05 |         0.8 |
-|   8 | Peaking   |       782 | 1.62 |         3.4 |
-|   9 | Peaking   |      1145 | 1.86 |        -1   |
-|  10 | HighShelf |     10000 | 0.7  |        -2.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -0.17 |
+|   2 | Peaking   |     95.26 | 0.7402 |       -6.26 |
+|   3 | Peaking   |   4848.82 | 0.9672 |        4.91 |
+|   4 | Peaking   |   5524.84 | 2.5942 |        3.39 |
+|   5 | Peaking   |   7871.82 | 1.0933 |       -5.06 |
+|   6 | Peaking   |    186    | 1.8569 |       -1.17 |
+|   7 | Peaking   |    362.13 | 1.0391 |        0.74 |
+|   8 | Peaking   |    783.04 | 1.6429 |        3.28 |
+|   9 | Peaking   |   1129.77 | 1.9339 |       -0.97 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.76 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-5.3 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.25 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -3.8 |
-|   2 | Peaking |        62 | 1.41 |        -6   |
-|   3 | Peaking |       125 | 1.41 |        -6.1 |
-|   4 | Peaking |       250 | 1.41 |        -0.9 |
-|   5 | Peaking |       500 | 1.41 |         2.1 |
-|   6 | Peaking |      1000 | 1.41 |         1.5 |
-|   7 | Peaking |      2000 | 1.41 |        -0.6 |
-|   8 | Peaking |      4000 | 1.41 |         5.6 |
-|   9 | Peaking |      8000 | 1.41 |        -1.8 |
-|  10 | Peaking |     16000 | 1.41 |        -6.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -0.64 |
+|   2 | Peaking |     62.5  | 1.4142 |       -3.96 |
+|   3 | Peaking |    125    | 1.4142 |       -5.59 |
+|   4 | Peaking |    250    | 1.4142 |       -1.15 |
+|   5 | Peaking |    500    | 1.4142 |        1.9  |
+|   6 | Peaking |   1000    | 1.4142 |        1.42 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.76 |
+|   8 | Peaking |   4000    | 1.4142 |        5.57 |
+|   9 | Peaking |   8000    | 1.4142 |       -1.96 |
+|  10 | Peaking |  16000    | 1.4142 |       -6.64 |
 
 ### Graphs
 ![](./JLab%20Audio%20GO%20Air%20POP.png)

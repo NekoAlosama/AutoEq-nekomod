@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -7.0 dB or -7.0 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -12.02 dB or -12.02 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         8.8 |
-|   2 | Peaking   |        67 | 0.66 |        -8.9 |
-|   3 | Peaking   |       585 | 0.72 |         4.1 |
-|   4 | Peaking   |      5751 | 6    |        -8.8 |
-|   5 | Peaking   |      8486 | 1.82 |        -5.7 |
-|   6 | Peaking   |      1598 | 3.95 |         1.8 |
-|   7 | Peaking   |      2913 | 2.32 |        -2.5 |
-|   8 | Peaking   |      4276 | 4.92 |         3.8 |
-|   9 | Peaking   |      9030 | 2.86 |         3.9 |
-|  10 | HighShelf |     10000 | 0.7  |        -8.6 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       18.78 |
+|   2 | Peaking   |     56.85 | 0.473  |      -15.72 |
+|   3 | Peaking   |    478.04 | 0.5432 |        4.66 |
+|   4 | Peaking   |   5745.41 | 6      |       -8.58 |
+|   5 | Peaking   |   8466.76 | 1.7253 |       -5.89 |
+|   6 | Peaking   |   1605.04 | 4.0781 |        1.67 |
+|   7 | Peaking   |   2903.59 | 2.2038 |       -2.62 |
+|   8 | Peaking   |   4264.87 | 4.9307 |        3.77 |
+|   9 | Peaking   |   9045.93 | 2.6431 |        3.9  |
+|  10 | HighShelf |  10000    | 0.7071 |       -8.63 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-10.34 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         7.2 |
-|   2 | Peaking |        62 | 1.41 |        -2.5 |
-|   3 | Peaking |       125 | 1.41 |        -1.9 |
-|   4 | Peaking |       250 | 1.41 |        -0.4 |
-|   5 | Peaking |       500 | 1.41 |         3.7 |
-|   6 | Peaking |      1000 | 1.41 |         2.3 |
-|   7 | Peaking |      2000 | 1.41 |        -0.2 |
-|   8 | Peaking |      4000 | 1.41 |        -0.1 |
-|   9 | Peaking |      8000 | 1.41 |        -5.9 |
-|  10 | Peaking |     16000 | 1.41 |       -14.7 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       10.65 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.03 |
+|   3 | Peaking |    125    | 1.4142 |       -1.4  |
+|   4 | Peaking |    250    | 1.4142 |       -0.59 |
+|   5 | Peaking |    500    | 1.4142 |        3.74 |
+|   6 | Peaking |   1000    | 1.4142 |        2.35 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.36 |
+|   8 | Peaking |   4000    | 1.4142 |        0.03 |
+|   9 | Peaking |   8000    | 1.4142 |       -5.96 |
+|  10 | Peaking |  16000    | 1.4142 |      -14.86 |
 
 ### Graphs
 ![](./Samson%20SR850.png)

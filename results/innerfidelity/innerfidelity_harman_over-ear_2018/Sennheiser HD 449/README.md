@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.0 dB or -6.1 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -7.22 dB or -7.26 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -2.5 |
-|   2 | Peaking   |       183 | 1.08 |        -4.1 |
-|   3 | Peaking   |      1222 | 1.14 |        -3   |
-|   4 | Peaking   |      4361 | 1.83 |         5.8 |
-|   5 | Peaking   |      6865 | 3.19 |         3.4 |
-|   6 | Peaking   |        78 | 1.42 |        -1.5 |
-|   7 | Peaking   |       108 | 4.94 |         2.5 |
-|   8 | Peaking   |       385 | 3.38 |         1.2 |
-|   9 | Peaking   |       698 | 3.05 |        -0.8 |
-|  10 | HighShelf |     10000 | 0.7  |         3.6 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -0.6  |
+|   2 | Peaking   |    183.32 | 1.1226 |       -4.35 |
+|   3 | Peaking   |   1299.86 | 0.9071 |       -3.33 |
+|   4 | Peaking   |   4393.31 | 5.4926 |        3.36 |
+|   5 | Peaking   |   4964.23 | 0.7522 |        4.33 |
+|   6 | Peaking   |     77.52 | 1.4561 |       -1.47 |
+|   7 | Peaking   |    107.91 | 4.9736 |        2.45 |
+|   8 | Peaking   |    375.72 | 3.3414 |        1.02 |
+|   9 | Peaking   |   8690.21 | 4.835  |       -1.71 |
+|  10 | HighShelf |  10000    | 0.7071 |        3.28 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-6.6 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-6.37 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -1.6 |
-|   2 | Peaking |        62 | 1.41 |        -3.1 |
-|   3 | Peaking |       125 | 1.41 |        -2.4 |
-|   4 | Peaking |       250 | 1.41 |        -3.2 |
-|   5 | Peaking |       500 | 1.41 |         0.9 |
-|   6 | Peaking |      1000 | 1.41 |        -2.9 |
-|   7 | Peaking |      2000 | 1.41 |        -1.6 |
-|   8 | Peaking |      4000 | 1.41 |         5.3 |
-|   9 | Peaking |      8000 | 1.41 |         2   |
-|  10 | Peaking |     16000 | 1.41 |         6.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        0.38 |
+|   2 | Peaking |     62.5  | 1.4142 |       -1.74 |
+|   3 | Peaking |    125    | 1.4142 |       -2    |
+|   4 | Peaking |    250    | 1.4142 |       -3.22 |
+|   5 | Peaking |    500    | 1.4142 |        0.72 |
+|   6 | Peaking |   1000    | 1.4142 |       -3.08 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.85 |
+|   8 | Peaking |   4000    | 1.4142 |        5.51 |
+|   9 | Peaking |   8000    | 1.4142 |        1.9  |
+|  10 | Peaking |  16000    | 1.4142 |        6.17 |
 
 ### Graphs
 ![](./Sennheiser%20HD%20449.png)

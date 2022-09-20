@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.1 dB or -6.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.54 dB or -6.99 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -3.6 |
-|   2 | Peaking   |       158 | 0.63 |        -7   |
-|   3 | Peaking   |      1340 | 0.49 |         5.1 |
-|   4 | Peaking   |      2783 | 1.81 |       -10.1 |
-|   5 | Peaking   |      4200 | 1.09 |         7.1 |
-|   6 | Peaking   |       344 | 3.56 |         0.7 |
-|   7 | Peaking   |       515 | 2.82 |        -0.5 |
-|   8 | Peaking   |      5495 | 6    |         1.2 |
-|   9 | Peaking   |      6528 | 5.8  |        -1.3 |
-|  10 | HighShelf |     10000 | 0.7  |        -0.2 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -1.71 |
+|   2 | Peaking   |    158.3  | 0.6284 |       -7.02 |
+|   3 | Peaking   |   1313.94 | 0.4994 |        4.88 |
+|   4 | Peaking   |   2728.26 | 2.1213 |       -8.33 |
+|   5 | Peaking   |   4577.49 | 1.3543 |        6.45 |
+|   6 | Peaking   |    344.43 | 3.5347 |        0.75 |
+|   7 | Peaking   |    516.31 | 2.8099 |       -0.53 |
+|   8 | Peaking   |   5316.59 | 6      |        1.37 |
+|   9 | Peaking   |   6450.21 | 5.7554 |       -1.31 |
+|  10 | HighShelf |  10000    | 0.7071 |       -0.16 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-5.2 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.11 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -4.4 |
-|   2 | Peaking |        62 | 1.41 |        -3.6 |
-|   3 | Peaking |       125 | 1.41 |        -7   |
-|   4 | Peaking |       250 | 1.41 |        -3.6 |
-|   5 | Peaking |       500 | 1.41 |         0.3 |
-|   6 | Peaking |      1000 | 1.41 |         5.4 |
-|   7 | Peaking |      2000 | 1.41 |        -1.6 |
-|   8 | Peaking |      4000 | 1.41 |         4.2 |
-|   9 | Peaking |      8000 | 1.41 |         1.9 |
-|  10 | Peaking |     16000 | 1.41 |         0.1 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -2.27 |
+|   2 | Peaking |     62.5  | 1.4142 |       -2.46 |
+|   3 | Peaking |    125    | 1.4142 |       -6.2  |
+|   4 | Peaking |    250    | 1.4142 |       -4.64 |
+|   5 | Peaking |    500    | 1.4142 |        0.61 |
+|   6 | Peaking |   1000    | 1.4142 |        5.19 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.17 |
+|   8 | Peaking |   4000    | 1.4142 |        4.31 |
+|   9 | Peaking |   8000    | 1.4142 |        1.96 |
+|  10 | Peaking |  16000    | 1.4142 |       -0.41 |
 
 ### Graphs
 ![](./Philips%20O'Neil%20Crash.png)

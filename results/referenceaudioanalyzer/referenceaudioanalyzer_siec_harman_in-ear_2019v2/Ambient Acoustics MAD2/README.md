@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.7 dB or -6.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -12.44 dB or -12.82 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         0.6 |
-|   2 | Peaking   |       201 | 0.32 |        -5.5 |
-|   3 | Peaking   |       899 | 0.71 |         4.2 |
-|   4 | Peaking   |      1841 | 0.76 |        -8.3 |
-|   5 | Peaking   |      5533 | 0.41 |         7.8 |
-|   6 | Peaking   |      2544 | 5.88 |         1.1 |
-|   7 | Peaking   |      3213 | 5.2  |        -2.8 |
-|   8 | Peaking   |      3880 | 5.21 |         2.9 |
-|   9 | Peaking   |      8101 | 1.18 |        -1.4 |
-|  10 | HighShelf |     10000 | 0.7  |         4.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        2.91 |
+|   2 | Peaking   |    171.09 | 0.4942 |       -5.48 |
+|   3 | Peaking   |   2268.37 | 0.9327 |       -6.77 |
+|   4 | Peaking   |   5749.03 | 0.7394 |       13.32 |
+|   5 | Peaking   |   9879.71 | 2.8372 |        4.29 |
+|   6 | Peaking   |    910.53 | 2.0404 |        1.51 |
+|   7 | Peaking   |   1487.68 | 2.8861 |       -1.26 |
+|   8 | Peaking   |   3244.98 | 5.9933 |       -1.73 |
+|   9 | Peaking   |   9418.37 | 5.0377 |       -3.81 |
+|  10 | HighShelf |  10000    | 0.7071 |        6.59 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-11.8 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-14.73 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -0.2 |
-|   2 | Peaking |        62 | 1.41 |        -1.6 |
-|   3 | Peaking |       125 | 1.41 |        -4   |
-|   4 | Peaking |       250 | 1.41 |        -4.6 |
-|   5 | Peaking |       500 | 1.41 |        -1.3 |
-|   6 | Peaking |      1000 | 1.41 |         0.7 |
-|   7 | Peaking |      2000 | 1.41 |        -5.3 |
-|   8 | Peaking |      4000 | 1.41 |         5.6 |
-|   9 | Peaking |      8000 | 1.41 |         5.5 |
-|  10 | Peaking |     16000 | 1.41 |        11.4 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        2.58 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.74 |
+|   3 | Peaking |    125    | 1.4142 |       -3.62 |
+|   4 | Peaking |    250    | 1.4142 |       -4.53 |
+|   5 | Peaking |    500    | 1.4142 |       -1.51 |
+|   6 | Peaking |   1000    | 1.4142 |        0.89 |
+|   7 | Peaking |   2000    | 1.4142 |       -6.65 |
+|   8 | Peaking |   4000    | 1.4142 |        7.06 |
+|   9 | Peaking |   8000    | 1.4142 |       11.68 |
+|  10 | Peaking |  16000    | 1.4142 |       13.96 |
 
 ### Graphs
 ![](./Ambient%20Acoustics%20MAD2.png)

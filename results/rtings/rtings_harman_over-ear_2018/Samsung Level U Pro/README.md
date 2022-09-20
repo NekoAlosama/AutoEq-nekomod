@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.3 dB or -5.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -5.19 dB or -5.56 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -4.6 |
-|   2 | Peaking   |       179 | 0.51 |        -5.9 |
-|   3 | Peaking   |       679 | 1.08 |         3.8 |
-|   4 | Peaking   |      2311 | 1.81 |         5   |
-|   5 | Peaking   |      8501 | 2.43 |         4.8 |
-|   6 | Peaking   |      2371 | 4.16 |        -0.9 |
-|   7 | Peaking   |      2958 | 4.17 |         0.8 |
-|   8 | Peaking   |      5264 | 2.65 |        -4.9 |
-|   9 | Peaking   |      9053 | 0.63 |         3.7 |
-|  10 | HighShelf |     10000 | 0.7  |        -8.5 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -2.68 |
+|   2 | Peaking   |    178.67 | 0.5196 |       -6.05 |
+|   3 | Peaking   |    679.74 | 1.0921 |        3.76 |
+|   4 | Peaking   |   2309.9  | 1.8389 |        4.88 |
+|   5 | Peaking   |   8507.69 | 2.4532 |        4.69 |
+|   6 | Peaking   |   3098.91 | 4.4755 |        0.71 |
+|   7 | Peaking   |   4515.34 | 3.1744 |       -1.48 |
+|   8 | Peaking   |   5434.57 | 4.4044 |       -3.94 |
+|   9 | Peaking   |  10000    | 0.7595 |        4.02 |
+|  10 | HighShelf |  10000    | 0.7071 |       -8.9  |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-5.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.00 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -5.2 |
-|   2 | Peaking |        62 | 1.41 |        -4.7 |
-|   3 | Peaking |       125 | 1.41 |        -5.7 |
-|   4 | Peaking |       250 | 1.41 |        -4.7 |
-|   5 | Peaking |       500 | 1.41 |         1.7 |
-|   6 | Peaking |      1000 | 1.41 |         0.9 |
-|   7 | Peaking |      2000 | 1.41 |         4.9 |
-|   8 | Peaking |      4000 | 1.41 |        -1.2 |
-|   9 | Peaking |      8000 | 1.41 |         4.6 |
-|  10 | Peaking |     16000 | 1.41 |       -13   |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -3.28 |
+|   2 | Peaking |     62.5  | 1.4142 |       -3.19 |
+|   3 | Peaking |    125    | 1.4142 |       -5.1  |
+|   4 | Peaking |    250    | 1.4142 |       -5.07 |
+|   5 | Peaking |    500    | 1.4142 |        1.69 |
+|   6 | Peaking |   1000    | 1.4142 |        0.84 |
+|   7 | Peaking |   2000    | 1.4142 |        4.87 |
+|   8 | Peaking |   4000    | 1.4142 |       -1.24 |
+|   9 | Peaking |   8000    | 1.4142 |        4.59 |
+|  10 | Peaking |  16000    | 1.4142 |      -12.79 |
 
 ### Graphs
 ![](./Samsung%20Level%20U%20Pro.png)

@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.3 dB or -6.5 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -11.53 dB or -11.52 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        -7.6 |
-|   2 | Peaking   |       188 | 0.57 |        -8.9 |
-|   3 | Peaking   |       357 | 1.1  |        -1.4 |
-|   4 | Peaking   |      1256 | 0.6  |         6.8 |
-|   5 | Peaking   |      2666 | 2.82 |         2.9 |
-|   6 | Peaking   |      3064 | 6    |         1.6 |
-|   7 | Peaking   |      3685 | 4.06 |        -0.9 |
-|   8 | Peaking   |      6063 | 2.2  |        -3.5 |
-|   9 | Peaking   |      9321 | 2.05 |         4.9 |
-|  10 | HighShelf |     10000 | 0.7  |         3.7 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       -4.53 |
+|   2 | Peaking   |    200.23 | 0.5059 |       -9.2  |
+|   3 | Peaking   |    828.46 | 1.2216 |        3.74 |
+|   4 | Peaking   |   2364.21 | 0.9319 |       13.14 |
+|   5 | Peaking   |   3907.92 | 1.3564 |       -5.86 |
+|   6 | Peaking   |     47.55 | 2.2757 |        0.21 |
+|   7 | Peaking   |   4429.14 | 5.1375 |        1.09 |
+|   8 | Peaking   |   5444.53 | 5.562  |       -0.75 |
+|   9 | Peaking   |   6060.53 | 3.7359 |       -2.45 |
+|  10 | HighShelf |  10000    | 0.7071 |        6.41 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-9.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-12.34 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |        -8.4 |
-|   2 | Peaking |        62 | 1.41 |        -6.8 |
-|   3 | Peaking |       125 | 1.41 |        -7.8 |
-|   4 | Peaking |       250 | 1.41 |        -7.5 |
-|   5 | Peaking |       500 | 1.41 |        -1.3 |
-|   6 | Peaking |      1000 | 1.41 |         5.1 |
-|   7 | Peaking |      2000 | 1.41 |         6.6 |
-|   8 | Peaking |      4000 | 1.41 |        -0.7 |
-|   9 | Peaking |      8000 | 1.41 |         1.8 |
-|  10 | Peaking |     16000 | 1.41 |         9   |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |       -5.59 |
+|   2 | Peaking |     62.5  | 1.4142 |       -4.4  |
+|   3 | Peaking |    125    | 1.4142 |       -7.57 |
+|   4 | Peaking |    250    | 1.4142 |       -7.68 |
+|   5 | Peaking |    500    | 1.4142 |       -1.1  |
+|   6 | Peaking |   1000    | 1.4142 |        3.16 |
+|   7 | Peaking |   2000    | 1.4142 |       12.05 |
+|   8 | Peaking |   4000    | 1.4142 |       -1.97 |
+|   9 | Peaking |   8000    | 1.4142 |        1.82 |
+|  10 | Peaking |  16000    | 1.4142 |       10.94 |
 
 ### Graphs
 ![](./DUNU%20DN16%20Hephaes.png)

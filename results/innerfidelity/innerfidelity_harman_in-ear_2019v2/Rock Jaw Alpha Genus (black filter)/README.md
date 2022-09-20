@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -5.1 dB or -5.1 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -7.95 dB or -7.94 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        13   |
-|   2 | Peaking   |        52 | 0.31 |       -12   |
-|   3 | Peaking   |       918 | 1.43 |         3.8 |
-|   4 | Peaking   |      5002 | 1.26 |         7.8 |
-|   5 | Peaking   |      5500 | 3.95 |       -13.2 |
-|   6 | Peaking   |       149 | 2.09 |         0.3 |
-|   7 | Peaking   |      2704 | 4.22 |        -1.8 |
-|   8 | Peaking   |      3620 | 4.9  |         1.4 |
-|   9 | Peaking   |      5961 | 3.77 |        -0.8 |
-|  10 | HighShelf |     10000 | 0.7  |         4.1 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       16.78 |
+|   2 | Peaking   |     49.97 | 0.2921 |      -12.73 |
+|   3 | Peaking   |    911.92 | 1.4739 |        3.87 |
+|   4 | Peaking   |   4952.06 | 1.272  |        7.09 |
+|   5 | Peaking   |   5502.19 | 4.0531 |      -12.48 |
+|   6 | Peaking   |     75.27 | 2.1001 |       -0.22 |
+|   7 | Peaking   |   2712.48 | 4.1876 |       -1.89 |
+|   8 | Peaking   |   3614.45 | 4.9054 |        1.43 |
+|   9 | Peaking   |   8464.28 | 3.7423 |       -1.46 |
+|  10 | HighShelf |  10000    | 0.7071 |        4.16 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.2 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.23 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         3.7 |
-|   2 | Peaking |        62 | 1.41 |        -0.9 |
-|   3 | Peaking |       125 | 1.41 |        -3.3 |
-|   4 | Peaking |       250 | 1.41 |        -3.3 |
-|   5 | Peaking |       500 | 1.41 |        -0.5 |
-|   6 | Peaking |      1000 | 1.41 |         3.6 |
-|   7 | Peaking |      2000 | 1.41 |        -0.2 |
-|   8 | Peaking |      4000 | 1.41 |         2.8 |
-|   9 | Peaking |      8000 | 1.41 |        -0.3 |
-|  10 | Peaking |     16000 | 1.41 |         8.1 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        6.66 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.74 |
+|   3 | Peaking |    125    | 1.4142 |       -2.25 |
+|   4 | Peaking |    250    | 1.4142 |       -4.11 |
+|   5 | Peaking |    500    | 1.4142 |       -0.4  |
+|   6 | Peaking |   1000    | 1.4142 |        3.81 |
+|   7 | Peaking |   2000    | 1.4142 |       -0.41 |
+|   8 | Peaking |   4000    | 1.4142 |        2.43 |
+|   9 | Peaking |   8000    | 1.4142 |       -0.99 |
+|  10 | Peaking |  16000    | 1.4142 |        9.22 |
 
 ### Graphs
 ![](./Rock%20Jaw%20Alpha%20Genus%20(black%20filter).png)

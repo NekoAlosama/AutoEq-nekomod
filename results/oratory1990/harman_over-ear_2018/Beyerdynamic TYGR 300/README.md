@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -4.2 dB or -4.2 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.12 dB or -6.12 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |        12.2 |
-|   2 | Peaking   |        47 | 0.33 |       -11.7 |
-|   3 | Peaking   |       686 | 0.89 |         2.5 |
-|   4 | Peaking   |      3093 | 0.63 |         1.4 |
-|   5 | Peaking   |      5608 | 5.71 |        -5.5 |
-|   6 | Peaking   |      1509 | 2.95 |        -0.5 |
-|   7 | Peaking   |      2210 | 3.36 |         1   |
-|   8 | Peaking   |      3092 | 3.39 |        -1   |
-|   9 | Peaking   |      4458 | 6    |         1.6 |
-|  10 | HighShelf |     10000 | 0.7  |        -4.9 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |       14.52 |
+|   2 | Peaking   |     46.35 | 0.3209 |      -12.01 |
+|   3 | Peaking   |    678.08 | 0.875  |        2.47 |
+|   4 | Peaking   |   3090.22 | 0.6449 |        1.32 |
+|   5 | Peaking   |   5611.76 | 5.7299 |       -5.56 |
+|   6 | Peaking   |   1506.87 | 2.9334 |       -0.52 |
+|   7 | Peaking   |   2207.33 | 3.3602 |        1.03 |
+|   8 | Peaking   |   3100.06 | 3.4128 |       -0.96 |
+|   9 | Peaking   |   4453.79 | 5.9987 |        1.55 |
+|  10 | HighShelf |  10000    | 0.7071 |       -4.96 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-2.4 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-4.68 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         2.5 |
-|   2 | Peaking |        62 | 1.41 |        -0.8 |
-|   3 | Peaking |       125 | 1.41 |        -2.2 |
-|   4 | Peaking |       250 | 1.41 |        -3   |
-|   5 | Peaking |       500 | 1.41 |         1.7 |
-|   6 | Peaking |      1000 | 1.41 |         1.4 |
-|   7 | Peaking |      2000 | 1.41 |         1.3 |
-|   8 | Peaking |      4000 | 1.41 |         0.7 |
-|   9 | Peaking |      8000 | 1.41 |        -0.8 |
-|  10 | Peaking |     16000 | 1.41 |        -9.2 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        4.56 |
+|   2 | Peaking |     62.5  | 1.4142 |        0.55 |
+|   3 | Peaking |    125    | 1.4142 |       -1.77 |
+|   4 | Peaking |    250    | 1.4142 |       -3.1  |
+|   5 | Peaking |    500    | 1.4142 |        1.6  |
+|   6 | Peaking |   1000    | 1.4142 |        1.35 |
+|   7 | Peaking |   2000    | 1.4142 |        1.25 |
+|   8 | Peaking |   4000    | 1.4142 |        0.6  |
+|   9 | Peaking |   8000    | 1.4142 |       -0.91 |
+|  10 | Peaking |  16000    | 1.4142 |       -9.35 |
 
 ### Graphs
 ![](./Beyerdynamic%20TYGR%20300.png)

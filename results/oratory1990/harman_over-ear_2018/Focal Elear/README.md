@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.8 dB or -6.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -6.98 dB or -6.84 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         4.8 |
-|   2 | Peaking   |        89 | 0.3  |        -4   |
-|   3 | Peaking   |      1228 | 1.86 |        -2.3 |
-|   4 | Peaking   |      4454 | 2.96 |         6.2 |
-|   5 | Peaking   |      8589 | 1.6  |         4.7 |
-|   6 | Peaking   |      2147 | 4.15 |         1.5 |
-|   7 | Peaking   |      2861 | 3.83 |        -1   |
-|   8 | Peaking   |      6113 | 6    |        -1.8 |
-|   9 | Peaking   |      7162 | 5.9  |         2.2 |
-|  10 | HighShelf |     10000 | 0.7  |        -2.1 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        6.36 |
+|   2 | Peaking   |     97.92 | 0.3063 |       -3.79 |
+|   3 | Peaking   |   1228.86 | 1.7335 |       -2.31 |
+|   4 | Peaking   |   4454.19 | 3.0228 |        6.37 |
+|   5 | Peaking   |   8609.3  | 1.6136 |        4.69 |
+|   6 | Peaking   |   2156.29 | 4.2045 |        1.45 |
+|   7 | Peaking   |   2871.41 | 3.7323 |       -1.01 |
+|   8 | Peaking   |   6117.94 | 6      |       -1.88 |
+|   9 | Peaking   |   7145.03 | 5.9338 |        2.09 |
+|  10 | HighShelf |  10000    | 0.7071 |       -2.18 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-5.1 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-5.28 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         3   |
-|   2 | Peaking |        62 | 1.41 |         0   |
-|   3 | Peaking |       125 | 1.41 |        -1.8 |
-|   4 | Peaking |       250 | 1.41 |        -2.6 |
-|   5 | Peaking |       500 | 1.41 |        -0.2 |
-|   6 | Peaking |      1000 | 1.41 |        -2   |
-|   7 | Peaking |      2000 | 1.41 |        -1.1 |
-|   8 | Peaking |      4000 | 1.41 |         3.8 |
-|   9 | Peaking |      8000 | 1.41 |         4.7 |
-|  10 | Peaking |     16000 | 1.41 |        -4.6 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        4.98 |
+|   2 | Peaking |     62.5  | 1.4142 |        1.53 |
+|   3 | Peaking |    125    | 1.4142 |       -1.47 |
+|   4 | Peaking |    250    | 1.4142 |       -2.68 |
+|   5 | Peaking |    500    | 1.4142 |       -0.28 |
+|   6 | Peaking |   1000    | 1.4142 |       -2.08 |
+|   7 | Peaking |   2000    | 1.4142 |       -1.28 |
+|   8 | Peaking |   4000    | 1.4142 |        3.91 |
+|   9 | Peaking |   8000    | 1.4142 |        4.8  |
+|  10 | Peaking |  16000    | 1.4142 |       -4.8  |
 
 ### Graphs
 ![](./Focal%20Elear.png)

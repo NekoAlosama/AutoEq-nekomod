@@ -2,36 +2,36 @@
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
-You can use filters 1-5 or 1-10. Apply preamp of -6.6 dB or -6.7 dB, respectively.
+You can use filters 1-5 or 1-10. Apply preamp of -9.69 dB or -9.68 dB, respectively.
 
-|   # | Type      |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|-----------|-----------|------|-------------|
-|   1 | LowShelf  |       105 | 0.7  |         3.2 |
-|   2 | Peaking   |       223 | 0.35 |        -3.9 |
-|   3 | Peaking   |      1422 | 1.98 |        -1.2 |
-|   4 | Peaking   |      3154 | 1.25 |         6.3 |
-|   5 | Peaking   |      5154 | 3.2  |         4.3 |
-|   6 | Peaking   |       159 | 1.68 |         0.4 |
-|   7 | Peaking   |       274 | 1.14 |        -0.3 |
-|   8 | Peaking   |      5971 | 5.11 |         1.3 |
-|   9 | Peaking   |      7406 | 4.82 |        -1.5 |
-|  10 | HighShelf |     10000 | 0.7  |        -3.1 |
+|   # | Type      |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|-----------|-----------|--------|-------------|
+|   1 | LowShelf  |    105.33 | 0.7071 |        6.12 |
+|   2 | Peaking   |    225.32 | 0.3258 |       -4.03 |
+|   3 | Peaking   |   1494.94 | 1.9647 |       -2.03 |
+|   4 | Peaking   |   3891.13 | 0.9805 |       10.02 |
+|   5 | Peaking   |   7645.61 | 2.6259 |       -4.14 |
+|   6 | Peaking   |    156.96 | 1.9628 |        0.62 |
+|   7 | Peaking   |    274.79 | 0.8891 |       -0.39 |
+|   8 | Peaking   |    819.23 | 2.3234 |        0.36 |
+|   9 | Peaking   |   9620.64 | 2.9185 |        2.01 |
+|  10 | HighShelf |  10000    | 0.7071 |       -3.97 |
 
 ### Fixed Band EQs
-When using fixed band (also called graphic) equalizer, apply preamp of **-8.0 dB** (if available) and set gains manually with these parameters.
+When using fixed band (also called graphic) equalizer, apply preamp of **-10.74 dB** (if available) and set gains manually with these parameters.
 
-|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
-|-----|---------|-----------|------|-------------|
-|   1 | Peaking |        31 | 1.41 |         3.4 |
-|   2 | Peaking |        62 | 1.41 |         0.7 |
-|   3 | Peaking |       125 | 1.41 |        -1.4 |
-|   4 | Peaking |       250 | 1.41 |        -4   |
-|   5 | Peaking |       500 | 1.41 |        -2   |
-|   6 | Peaking |      1000 | 1.41 |        -1.1 |
-|   7 | Peaking |      2000 | 1.41 |         0.9 |
-|   8 | Peaking |      4000 | 1.41 |         8   |
-|   9 | Peaking |      8000 | 1.41 |        -1   |
-|  10 | Peaking |     16000 | 1.41 |        -5.9 |
+|   # | Type    |   Fc (Hz) |      Q |   Gain (dB) |
+|-----|---------|-----------|--------|-------------|
+|   1 | Peaking |     31.25 | 1.4142 |        6.17 |
+|   2 | Peaking |     62.5  | 1.4142 |        2.91 |
+|   3 | Peaking |    125    | 1.4142 |       -1.09 |
+|   4 | Peaking |    250    | 1.4142 |       -4.26 |
+|   5 | Peaking |    500    | 1.4142 |       -2.21 |
+|   6 | Peaking |   1000    | 1.4142 |       -1.2  |
+|   7 | Peaking |   2000    | 1.4142 |        0.06 |
+|   8 | Peaking |   4000    | 1.4142 |       11.02 |
+|   9 | Peaking |   8000    | 1.4142 |       -1.83 |
+|  10 | Peaking |  16000    | 1.4142 |       -6.19 |
 
 ### Graphs
 ![](./Ultimate%20Ears%20UE700.png)

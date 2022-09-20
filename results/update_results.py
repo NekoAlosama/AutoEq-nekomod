@@ -4,9 +4,9 @@ import os
 import sys
 import argparse
 
+sys.path.insert(1, os.path.realpath(os.path.join(sys.path[0], os.pardir)))
 from constants import PEQ_CONFIGS
 
-sys.path.insert(1, os.path.realpath(os.path.join(sys.path[0], os.pardir)))
 from autoeq import batch_processing
 
 ROOT_DIR = os.path.abspath(os.path.join(__file__, os.pardir, os.pardir))
@@ -73,7 +73,7 @@ def main():
         'ten_band_eq': True,
         'convolution_eq': True,
         'fs': [44100, 48000],
-        'thread_count': 0,
+        'thread_count': 4,
     }
     onear_kwargs = eq_kwargs.copy()
     inear_kwargs = eq_kwargs.copy()
