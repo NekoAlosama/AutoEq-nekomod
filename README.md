@@ -2,6 +2,7 @@
 First name was "AutoEq-optimized".
 
 Changed results are found [here.](./results)
+
 If the upstream repo updates, I will commit the results of that repo into this one before generating and commiting my version.
 
 Differences from source\*:
@@ -11,6 +12,7 @@ Differences from source\*:
 - Increased decimal precision of generated results.
 
 \*Crinacle results are the same as jaakkopasanen's because the source measurements are paywalled behind [Crinacle's Patreon.](https://www.patreon.com/crinacle)
+
 \*\*Use an amplifier or adjust output values when neccessary because of `--max_gain`/`DEFAULT_MAX_GAIN` and bass changes.
 
 
