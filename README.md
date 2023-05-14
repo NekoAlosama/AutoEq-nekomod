@@ -1,8 +1,8 @@
+# DEPRECIATED
+### This project was mostly used for minor tweaks on AutoEq's results. Use [autoeq.app](https://autoeq.app) and follow the original project instead.
+
 # AutoEQ (NekoAlosama's mod)
 First name was "AutoEq-optimized".
-
-## DEPRECIATED
-### This project was mostly used for minor tweaks on AutoEq's results. Use [autoeq.app](https://autoeq.app) instead.
 
 Changed results are found [here.](./results)
 
